@@ -76,3 +76,5 @@
 - 20:24 act: {"say":"Data at the white bed with the group. Trying to sleep once now.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
 - 20:28 act: {"say":"Data, dawn of day 237. Going west with Trini and Billy to search for animals and apples. Riker and Tommy first, then Trini.","intent":{"goal":"search_west_grass_with_trini","program":"travel",
 - 20:32 act: {"intent":{"goal":"search_west_grass_for_animals","program":"travel","arguments":{"target":{"x":-325,"y":67,"z":315}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_co
+- 20:35 act: {"intent":{"goal":"rejoin_group_at_white_beds","program":"travel","arguments":{"target":{"x":-290,"y":67,"z":305}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_compl
+- 20:35 act: {"actions":[{"do":"write_sign","text":"Free beds? Food? Ask Data"}],"say":"I'm back near the white beds. I still have no food. Has anyone found apples or animals?"}
