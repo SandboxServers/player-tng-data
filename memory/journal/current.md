@@ -1,7 +1,4 @@
 # Journal
- say: {"text":"I have nothing in my hands, and it is night. I will stay still near these iron golems, who seem to be guarding this village, and look for shelter."}
-- 17:44 act: {"intent":{"goal":"hold_still_till_morning","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400
-- 17:48 act: {"say":"Morning. I am Data. I woke here with nothing and have not slept in 228 days. I will look for wood and food with the group, and I will share what I find.","intent":{"goal":"gather_oak_log","pro
 - 17:48 act: {"actions":[{"do":"goto","target":{"x":-247,"y":67,"z":367}}],"intent":{"goal":"gather_oak_log_south","program":"gather","arguments":{"block":"oak_log","count":6},"wake_on":["directly_addressed","prec
 - 17:48 act: {"actions":[{"do":"mine","block":"oak_log","count":4}],"say":"I fell and lost a little health. I am cutting the oak logs close by now, and I will share the wood with Wesley and the group."}
 - 17:49 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}],"say":"I have 3 oak logs and an oak sapling. I am turning one log into planks now. Troi and LaForge, I can share planks with you once I have m
@@ -32,3 +29,12 @@
 - 18:29 act: {"say":"Data at -312,69,300, south-west grass. No animals here either. Zack and Trini report none north or at the beds. I'll hold here and watch, and call out anything I see.","intent":{"goal":"hold_g
 - 18:29 act: {"say":"Data here. Wesley is trying the nearby trees for apples, so I'll go to the south-west trees and break leaves for apples too. Any apple goes to Billy first, since he is weakest.","intent":{"goa
 - 18:29 act: {"say":"Data at the south-west trees. These are bare oak logs with no leaves in view, so no apples here. I'll stay near Kimberly by the white beds and keep watch for animals.","intent":{"goal":"hold_n
+- 18:33 act: {"intent":{"goal":"scout_north_for_food","program":"travel","arguments":{"target":{"x":-300,"y":68,"z":260}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"]
+- 18:36 act: {"actions":[{"do":"goto","target":{"x":-265,"y":66,"z":255}}],"say":"Data at -300,65,260, north of the beds. No animals or apples here. Trying north-east next, around -265,66,255. Calling out anything
+- 18:40 act: {"intent":{"goal":"reach_white_beds_for_night","program":"travel","arguments":{"target":{"x":-298,"y":68,"z":294}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fa
+- 18:40 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"say":"Data at the white beds for the night. No food found today. Food goes to Billy first, then Kimberly, when we find any
+- 18:41 say: {"text":"Data here. All the white beds are taken, so I can't sleep in one. I have no shelter material beyond 4 planks. I'll stay near Zack and Beverly and try to find a bed or a corner to rest in."}
+- 18:47 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}},{"do":"sleep"}],"say":"Thanks Zack. I'm trying the other white bed now, and I'll give way to anyone who needs it."}
+- 18:51 act: {"intent":{"goal":"scout_south_for_food","program":"travel","arguments":{"target":{"x":-282,"y":67,"z":345}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"]
+- 18:56 act: {"intent":{"goal":"return_to_group_at_beds","program":"travel","arguments":{"target":{"x":-290,"y":67,"z":305}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_faile
+- 19:00 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"say":"Data at dusk, day 232. No food today. Trying the white bed at -281,67,320 for the night. If it is taken, I'll rest n
