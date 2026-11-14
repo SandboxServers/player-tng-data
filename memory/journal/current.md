@@ -21,3 +21,6 @@
 - 18:21 act: {"say":"Night is here. I am going to the white bed at -282,67,320 to sleep with the group. Still no food; apples go to Kimberly first.","actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}}]}
 - 18:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"say":"Going to the white bed to sleep. Any apple goes to Kimberly first."}
 - 18:23 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"say":"Night is here. I am going to the yellow bed by the crafting table to rest."}
+- 18:24 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Waking. It is night and I have no food yet, but hunger is full. I am going to the yellow bed to sleep."}
+- 18:25 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"intent":{"goal":"reach_yellow_bed","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["directly_addressed","u
+- 18:25 act: {"actions":[{"do":"sleep"}]}
