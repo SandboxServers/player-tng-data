@@ -86,3 +86,7 @@
 - 20:42 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}},{"do":"sleep"}],"say":"Data here, no food, hunger 20. Going to the white bed to sleep the night. Food first in the morning for Billy and Ki
 - 20:44 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}},{"do":"sleep"}],"reasoning":"Retry sleep in the bed. Previous attempt ended without sleeping."}
 - 20:45 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}},{"do":"sleep"}],"say":"Data at the white bed for the night. No food yet; food goes to Billy first, then Kimberly, at dawn."}
+- 20:49 act: {"actions":[{"do":"goto","target":{"x":-290,"y":68,"z":300}}],"say":"A drowned is hitting me from the west. I have no weapon, so I'm moving away south-east toward the group.","reasoning":"Drowned adja
+- 20:49 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"The drowned is still following me. I'm heading on to the group at the white beds.","reasoning":"Keep distance from drowned; no weap
+- 20:49 act: {"say":"Data at the white beds with Jason, Troi, Picard and Wesley. Health 20, hunger 19, still no food. Troi, Riker and Trini first for any food found. Has anyone seen a fish or a cow near here?","in
+- 20:53 act: {"say":"Data here at the beds, health 20, hunger 19, no food. Trini first, then Riker, for any wheat or seeds. I'll try the sheep field to the north at -283,64,219 with anyone who has a weapon. Who wi
