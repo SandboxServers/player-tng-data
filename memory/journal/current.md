@@ -38,3 +38,4 @@
 - 18:51 act: {"intent":{"goal":"scout_south_for_food","program":"travel","arguments":{"target":{"x":-282,"y":67,"z":345}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"]
 - 18:56 act: {"intent":{"goal":"return_to_group_at_beds","program":"travel","arguments":{"target":{"x":-290,"y":67,"z":305}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_faile
 - 19:00 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"say":"Data at dusk, day 232. No food today. Trying the white bed at -281,67,320 for the night. If it is taken, I'll rest n
+- 19:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Data going to bed at the white beds for the night. No food found today.","reasoning":"Night, bed adjacent, two days since sleep. Sl
