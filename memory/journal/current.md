@@ -90,3 +90,15 @@
 - 20:49 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"The drowned is still following me. I'm heading on to the group at the white beds.","reasoning":"Keep distance from drowned; no weap
 - 20:49 act: {"say":"Data at the white beds with Jason, Troi, Picard and Wesley. Health 20, hunger 19, still no food. Troi, Riker and Trini first for any food found. Has anyone seen a fish or a cow near here?","in
 - 20:53 act: {"say":"Data here at the beds, health 20, hunger 19, no food. Trini first, then Riker, for any wheat or seeds. I'll try the sheep field to the north at -283,64,219 with anyone who has a weapon. Who wi
+- 20:56 act: {"say":"Data here, at the white beds. Health 20, hunger 19, no food, no weapon. I will not go north alone. Billy, if you go west for pig or cow, I will come with you. Anyone with a weapon going north,
+- 21:00 act: {"say":"Wesley, thank you. Dusk is here, so we go north to the sheep field at first light, together and in sight of each other. I will try the bed here for the night.","actions":[{"do":"sleep"}]}
+- 21:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Monsters nearby, so my sleep failed. I am going to the white bed at -270,67,318 once more."}
+- 21:05 act: {"say":"Wesley, I'm here at the beds with Tommy and Troi. Let's go north to the sheep field together now, staying in sight of each other. Anything edible goes to Trini first.","intent":{"goal":"north_
+- 21:08 act: {"actions":[{"do":"goto","target":{"x":-284,"y":64,"z":232}}],"say":"A zombie is attacking me from the north-east. I have no weapon, so I am walking south toward Wesley."}
+- 21:08 act: {"actions":[{"do":"goto","target":{"x":-278,"y":66,"z":262}}],"say":"Zombie closing from the north-west. I am moving south, away from the water."}
+- 21:08 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"The zombie is on me and I cannot outrun it. I am fighting it with my hands."}
+- 21:08 act: {"actions":[{"do":"goto","target":{"x":-287,"y":65,"z":241}},{"do":"attack","target":"zombie"}],"say":"Zombie is two blocks east. Closing in to punch it."}
+- 21:08 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"Health 9. A zombie keeps hitting me and I have no weapon. Wesley, Troi, if you are near, I need help at -299,63,245."}
+- 21:09 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}}],"say":"I'm back at the white beds with health 3 and no food. Anyone with bread or apples, please tell me."}
+- 21:09 act: {"actions":[],"say":"Riker, Jason, I'm at health 3 with no food. Does anyone have bread, meat or fish to spare? I got chased by a zombie at the lake."}
+- 21:11 act: {"actions":[],"say":"Data, health 3, hunger 17, no weapon. Chicken to Riker first, then Trini. I'll follow the group north to the sheep field and take whatever is left."}
