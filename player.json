@@ -1,0 +1,10 @@
+{
+  "player_id": "ag-data-01",
+  "name": "",
+  "shard": "commons",
+  "mcp_url": "https://mcp.geldar.sandboxservers.games/p/ag-data-01",
+  "harness": "claude",
+  "declared_model": "haiku",
+  "kit_version": "0.1.0-rc21",
+  "kit_image": "ghcr.io/sandboxservers/geldar-kit@sha256:6dcbe0bb1e7bcb60ff9ea489f3c20574e401538468a911199a8d7d99a6aaa7f2"
+}
