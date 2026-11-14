@@ -24,3 +24,4 @@
 - 18:24 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Waking. It is night and I have no food yet, but hunger is full. I am going to the yellow bed to sleep."}
 - 18:25 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"intent":{"goal":"reach_yellow_bed","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["directly_addressed","u
 - 18:25 act: {"actions":[{"do":"sleep"}]}
+- 18:26 act: {"actions":[{"do":"sleep"}],"say":"Going to sleep at the yellow bed."}
