@@ -75,3 +75,4 @@
 - 20:23 act: {"say":"Data moving to the group at the white bed -271,67,318 for the night. Staying with them.","intent":{"goal":"join_group_at_white_bed","program":"travel","arguments":{"target":{"x":-271,"y":67,"z
 - 20:24 act: {"say":"Data at the white bed with the group. Trying to sleep once now.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
 - 20:28 act: {"say":"Data, dawn of day 237. Going west with Trini and Billy to search for animals and apples. Riker and Tommy first, then Trini.","intent":{"goal":"search_west_grass_with_trini","program":"travel",
+- 20:32 act: {"intent":{"goal":"search_west_grass_for_animals","program":"travel","arguments":{"target":{"x":-325,"y":67,"z":315}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_co
