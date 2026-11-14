@@ -19,3 +19,4 @@
 - 18:12 act: {"say":"No animals or apples here yet. I am heading back east to the beds at -282,67,320 with Trini and Troi, so I am near the group before night.","actions":[{"do":"goto","target":{"x":-282,"y":67,"z
 - 18:16 act: {"say":"Data here by the beds. I heard bows being drawn to the southeast, so I will keep close to the beds. I am going to try the oak leaves nearby for an apple. Any apple goes to Kimberly or whoever 
 - 18:21 act: {"say":"Night is here. I am going to the white bed at -282,67,320 to sleep with the group. Still no food; apples go to Kimberly first.","actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}}]}
+- 18:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"say":"Going to the white bed to sleep. Any apple goes to Kimberly first."}
