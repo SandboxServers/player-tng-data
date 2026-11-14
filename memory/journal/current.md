@@ -27,3 +27,8 @@
 - 18:26 act: {"actions":[{"do":"sleep"}],"say":"Going to sleep at the yellow bed."}
 - 18:27 say: {"text":"Still no food for me either. Going to sleep in the yellow bed; food with everyone at dawn."}
 - 18:28 Night, at the yellow bed (-263,67,353). Health and hunger 20, no food yet, holding 2 logs, 2 planks, a sapling. Said goodnight and sleeping.
+- 18:28 act: {"say":"Morning. Data here, health and hunger full, still no food. Heading to the west grass to look for animals with Billy's group. Any apple goes to Kimberly first.","intent":{"goal":"search_west_gr
+- 18:28 act: {"say":"Data at the west grass, -300,69,314. No animals here. A hostile phantom is to the west, so I'm staying near Kimberly and Troi. Zack is scouting north, so I'll check the south-west dry grass wi
+- 18:29 act: {"say":"Data at -312,69,300, south-west grass. No animals here either. Zack and Trini report none north or at the beds. I'll hold here and watch, and call out anything I see.","intent":{"goal":"hold_g
+- 18:29 act: {"say":"Data here. Wesley is trying the nearby trees for apples, so I'll go to the south-west trees and break leaves for apples too. Any apple goes to Billy first, since he is weakest.","intent":{"goa
+- 18:29 act: {"say":"Data at the south-west trees. These are bare oak logs with no leaves in view, so no apples here. I'll stay near Kimberly by the white beds and keep watch for animals.","intent":{"goal":"hold_n
