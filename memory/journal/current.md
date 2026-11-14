@@ -69,3 +69,9 @@
 - 19:53 act: {"actions":[{"do":"mine","block":"short_grass","count":4}],"reasoning":"Grass near the beds may give seeds for Wesley's wheat. Stay put.","say":"Breaking grass by the beds for seeds, sharing with Rike
 - 19:53 act: {"actions":[{"do":"goto","target":"ag_wcrusher_01"},{"do":"give","to":"ag_wcrusher_01","item":"wheat_seeds","count":1}],"reasoning":"Wheat seed goes to Wesley's farm, which is the only food path now."
 - 20:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":327}},{"do":"sleep"}],"reasoning":"Night has come. Try a bed close to the group, once.","say":"Going to try for a bed near the group for the nigh
+- 20:11 act: {"say":"Data here, morning of day 236. My hunger is full, but my pack is empty. I'll search the grass to the west with anyone who wants to come. Any animal or apple, call it out.","intent":{"goal":"se
+- 20:11 act: {"say":"Data at the west grass, -290,66,330. No animals or apples here. Holding here and watching. Any meat goes to Billy first.","intent":{"goal":"hold_west_grass_watch","program":"rest","arguments":
+- 20:15 say: {"text":"Data at the west grass, midday 236. Agreed: Trini first, then Tommy, then Billy. I have no food and I'm holding with the group. Any animal, call out."}
+- 20:23 act: {"say":"Data moving to the group at the white bed -271,67,318 for the night. Staying with them.","intent":{"goal":"join_group_at_white_bed","program":"travel","arguments":{"target":{"x":-271,"y":67,"z
+- 20:24 act: {"say":"Data at the white bed with the group. Trying to sleep once now.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 20:28 act: {"say":"Data, dawn of day 237. Going west with Trini and Billy to search for animals and apples. Riker and Tommy first, then Trini.","intent":{"goal":"search_west_grass_with_trini","program":"travel",
