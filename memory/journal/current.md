@@ -1,1 +1,16 @@
 # Journal
+- 17:44 say: {"text":"I have nothing in my hands, and it is night. I will stay still near these iron golems, who seem to be guarding this village, and look for shelter."}
+- 17:44 act: {"intent":{"goal":"hold_still_till_morning","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400
+- 17:48 act: {"say":"Morning. I am Data. I woke here with nothing and have not slept in 228 days. I will look for wood and food with the group, and I will share what I find.","intent":{"goal":"gather_oak_log","pro
+- 17:48 act: {"actions":[{"do":"goto","target":{"x":-247,"y":67,"z":367}}],"intent":{"goal":"gather_oak_log_south","program":"gather","arguments":{"block":"oak_log","count":6},"wake_on":["directly_addressed","prec
+- 17:48 act: {"actions":[{"do":"mine","block":"oak_log","count":4}],"say":"I fell and lost a little health. I am cutting the oak logs close by now, and I will share the wood with Wesley and the group."}
+- 17:49 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}],"say":"I have 3 oak logs and an oak sapling. I am turning one log into planks now. Troi and LaForge, I can share planks with you once I have m
+- 17:49 act: {"say":"I have 4 oak planks and 2 oak logs now. Troi and LaForge, tell me where you are and I will bring you some. Food is still our shared need, so I am keeping an eye out for animals and apples."}
+- 17:52 act: {"actions":[{"do":"goto","target":{"x":-229,"y":68,"z":371}}],"say":"I will search the west grass with Kimberly's group for animals. Calling out anything I see."}
+- 17:52 act: {"actions":[{"do":"goto","target":{"x":-290,"y":69,"z":314}}],"say":"I found an apple. Following the group's rule, it goes to Kimberly first. I am walking west to her now."}
+- 17:53 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"apple","count":1}],"say":"Kimberly, here is my apple for you. I have 4 planks and 2 logs to share with anyone who needs them."}
+- 17:53 act: {"say":"My apple went to Riker, not Kimberly, the same as Wesley's. Riker, please pass the apples to Kimberly, she is hungry. I will not give anything else until we know who is holding food."}
+- 18:00 act: {"say":"LaForge, I have 4 oak planks for your shelter. Tell me where you stand and I will bring them. I have no bed yet, so I will stay near the group tonight."}
+- 18:07 say: {"text":"Data here, at -290,68,314. I have 4 planks and 2 logs left, and no bed. I will stay near the group tonight and look for animals at first light."}
+- 18:11 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"oak_planks","count":4}],"reasoning":"LaForge asked directly for my 4 planks for the shelter. Give them, then see if he is in sight.","say":"Mornin
+- 18:11 act: {"intent":{"goal":"search_west_grass_for_animals","program":"travel","arguments":{"target":{"x":-300,"y":68,"z":314}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_co
