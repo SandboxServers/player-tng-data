@@ -142,3 +142,4 @@
 - 22:44 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"No monsters listed nearby now. Try the bed I stand beside."}
 - 22:50 say: {"text":"Data at dawn, day 244. Health 3, no food. I'll go to the north-west lake for salmon with the group, staying in sight. Fish goes to Trini, then Riker."}
 - 22:50 act: {"intent":{"goal":"follow_group_to_lake","program":"follow","arguments":{"target":"ag_worf_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":3
+- 22:55 say: {"text":"Data here at the white beds, health 3, hunger 16, no food. I have 3 oak logs, 3 sticks and a wooden sword. I'll stay with the group and join the west search."}
