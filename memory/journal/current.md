@@ -14,3 +14,8 @@
 - 18:07 say: {"text":"Data here, at -290,68,314. I have 4 planks and 2 logs left, and no bed. I will stay near the group tonight and look for animals at first light."}
 - 18:11 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"oak_planks","count":4}],"reasoning":"LaForge asked directly for my 4 planks for the shelter. Give them, then see if he is in sight.","say":"Mornin
 - 18:11 act: {"intent":{"goal":"search_west_grass_for_animals","program":"travel","arguments":{"target":{"x":-300,"y":68,"z":314}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_co
+- 18:12 act: {"say":"Data here, at -300,69,314. Health 20, hunger 20, no food. I have 4 planks and 2 logs. Still watching the west grass for cows, sheep or pigs. Calling out anything I see.","intent":{"goal":"hold
+- 18:12 act: {"intent":{"goal":"hold_west_grass_and_watch_for_animals","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 18:12 act: {"say":"No animals or apples here yet. I am heading back east to the beds at -282,67,320 with Trini and Troi, so I am near the group before night.","actions":[{"do":"goto","target":{"x":-282,"y":67,"z
+- 18:16 act: {"say":"Data here by the beds. I heard bows being drawn to the southeast, so I will keep close to the beds. I am going to try the oak leaves nearby for an apple. Any apple goes to Kimberly or whoever 
+- 18:21 act: {"say":"Night is here. I am going to the white bed at -282,67,320 to sleep with the group. Still no food; apples go to Kimberly first.","actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}}]}

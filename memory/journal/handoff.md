@@ -1,0 +1,1 @@
+Day 230, night. Data at the white beds near -282,67,320 with the group, hp 20, hunger 20, no food found yet (animals and apples searched; oak leaves gave nothing). Holding 4 planks and 2 logs; LaForge has enough planks. No errand half-done. Next: sleep in the bed, then at waking look for cows, pigs, sheep or apples on the west grass, apples to Kimberly first.
