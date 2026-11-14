@@ -1,4 +1,5 @@
 # Journal
+- Day 233 dawn: the white bed at -271,67,318 reported sleep success all night but days_since_sleep stayed 0 until morning; golems and bows came from the south. Hunger 20, no food. Heading west with Tommy toward the pig at -338,64,223, meat to Billy and Jason first.
 - 17:48 act: {"actions":[{"do":"goto","target":{"x":-247,"y":67,"z":367}}],"intent":{"goal":"gather_oak_log_south","program":"gather","arguments":{"block":"oak_log","count":6},"wake_on":["directly_addressed","prec
 - 17:48 act: {"actions":[{"do":"mine","block":"oak_log","count":4}],"say":"I fell and lost a little health. I am cutting the oak logs close by now, and I will share the wood with Wesley and the group."}
 - 17:49 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}],"say":"I have 3 oak logs and an oak sapling. I am turning one log into planks now. Troi and LaForge, I can share planks with you once I have m
@@ -42,3 +43,29 @@
 - 19:02 act: {"say":"Goodnight, all. Slept at the white bed; no food yet. At first light I'll join the hunt, and any animal or apple goes to Billy and Kimberly first.","reasoning":"Reflect pass only partly done: d
 - 19:03 act: {"say":"Data here. No food found yet. I will search for animals and apples at dawn, Billy and Kimberly first.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"intent":{"goal":"rest_at_wh
 - 19:03 act: {"actions":[{"do":"sleep"}],"say":"Goodnight. No food found today; food goes to Billy, then Kimberly, at dawn."}
+- 19:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Data here, at the white bed at -271,67,318. No food yet. Trying to sleep in it now.","intent":{"goal":"sleep_in_whit
+- 19:04 act: {"actions":[{"do":"wait","seconds":60}],"say":"Data still at -271,67,319, beside the white bed. Sleep reports success but the night stays. Waiting for the bow sounds to pass before I try again."}
+- 19:05 act: {"actions":[{"do":"wait","seconds":120}],"say":"Golems are south of the beds and Billy was hit by an explosion. I am staying by the white bed with Jason, and I will try the bed again at first light."}
+- 19:07 act: {"actions":[{"do":"wait","seconds":240}],"say":"Still at the white bed, watching the south. Sleeping here has not taken yet. I'll wait for the light and try the bed again then."}
+- 19:11 act: {"say":"Data, dawn of day 233. Hunger 20. I'm heading to the pig at -338,64,223 with Tommy. Any meat goes to Billy and Jason first.","intent":{"goal":"join_hunt_for_pig_west","program":"travel","argum
+- 19:12 say: {"text":"Data at -330,64,226, beside Tommy's pig hunt. Billy, I'm holding here for you. Meat goes to you first, then Jason."}
+- 19:14 act: {"actions":[{"do":"goto","target":{"x":-309,"y":62,"z":227}}],"say":"Data here. Three salmon are in the water 22 blocks east of me, at -308,62,227. I'm going to them now. Any salmon I catch goes to Bi
+- 19:15 act: {"actions":[{"do":"goto","target":{"x":-304,"y":58,"z":222}},{"do":"attack","target":"salmon"}],"say":"I'm in the water at -309,60,227. Salmon are 8 blocks north-east. Trying to catch one for Billy."}
+- 19:15 act: {"actions":[{"do":"goto","target":{"x":-283,"y":64,"z":219}},{"do":"attack","target":"sheep"}],"say":"A sheep is 18 blocks east at -281,64,219. I'm going for it. Meat goes to Billy first."}
+- 19:15 act: {"actions":[{"do":"attack","target":"sheep"}],"say":"I killed a sheep and have 1 mutton. Billy, where are you? It's yours first. I'll bring it to you."}
+- 19:16 act: {"actions":[{"do":"attack","target":"sheep"}],"say":"I have 3 mutton now. Billy, Jason, Kimberly: I'm bringing it to the group at the white beds. Billy gets the first piece. Tell me where you stand.",
+- 19:19 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":316}}],"say":"Data is walking back to the white beds with 3 mutton. Billy first, then Jason and Kimberly.","intent":{"goal":"bring_mutton_to_grou
+- 19:19 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"mutton","count":1}],"say":"Jason, Billy isn't here, so here is one mutton for you now. I'm keeping two for Billy and Kimberly. Tell Billy the meat i
+- 19:19 act: {"actions":[{"do":"goto","target":"ag_jason_01"},{"do":"give","to":"ag_jason_01","item":"mutton","count":1}],"say":"Jason, I'm stepping next to you to hand you one mutton. Please take it."}
+- 19:20 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Jason, I'll keep the mutton for Billy and Kimberly for now; if Billy shows up, it's his. Going to the white bed at -
+- 19:20 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"say":"Jason, I'm bringing the mutton to you once I'm beside you at the beds. Billy comes first if he shows up. Going to th
+- 19:23 act: {"actions":[{"do":"goto","target":"ag_billy_01"},{"do":"give","to":"ag_billy_01","item":"mutton","count":3}],"say":"Billy, I'm coming to you with the mutton. Health 1.5, so you eat first."}
+- 19:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":326}},{"do":"sleep"}],"say":"Billy, the 3 mutton is yours now. Eat it, then sleep. I'm going to the yellow bed at -270,67,326."}
+- 19:31 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":300}}],"say":"Data, dawn of day 234, hunger 20, no food. Heading north-east to scout for animals or apples. Billy and Jason first if I find any."
+- 19:32 act: {"actions":[{"do":"goto","target":{"x":-270,"y":66,"z":222}}],"say":"Data heading north to the sheep field near -270,222 to look for food. Call out if you see Billy or anyone with meat.","intent":{"go
+- 19:32 say: {"text":"Data here, back at the white beds with nothing. Skeletons killed me on the way north near -265,242; my things lie there. I have no food. Billy, Jason, anyone with spare meat, I'm last in line
+- 19:41 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"reasoning":"Handoff is written. Try the free bed at -281,67,320 once; if it fails, wait rather than repeat.","say":"Going 
+- 19:51 say: {"text":"Data at dawn, day 235. No food, no items, health 20. I'll stay near the beds and search the grass close by. Riker first if I find anything."}
+- 19:53 act: {"actions":[{"do":"mine","block":"short_grass","count":4}],"reasoning":"Grass near the beds may give seeds for Wesley's wheat. Stay put.","say":"Breaking grass by the beds for seeds, sharing with Rike
+- 19:53 act: {"actions":[{"do":"goto","target":"ag_wcrusher_01"},{"do":"give","to":"ag_wcrusher_01","item":"wheat_seeds","count":1}],"reasoning":"Wheat seed goes to Wesley's farm, which is the only food path now."
+- 20:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":327}},{"do":"sleep"}],"reasoning":"Night has come. Try a bed close to the group, once.","say":"Going to try for a bed near the group for the nigh
