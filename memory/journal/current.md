@@ -83,3 +83,5 @@
 - 20:38 act: {"actions":[{"do":"goto","target":{"x":-322,"y":63,"z":268}}]}
 - 20:38 act: {"intent":{"goal":"rejoin_group_at_beds","program":"travel","arguments":{"target":{"x":-296,"y":68,"z":300}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"]
 - 20:38 act: {"say":"Back at the beds, still no food. Laforge, the salmon are too deep for me without a rod. Anyone who finds apples or animals, tell me and I'll come.","intent":{"goal":"wait_for_food_leads_at_bed
+- 20:42 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}},{"do":"sleep"}],"say":"Data here, no food, hunger 20. Going to the white bed to sleep the night. Food first in the morning for Billy and Ki
+- 20:44 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}},{"do":"sleep"}],"reasoning":"Retry sleep in the bed. Previous attempt ended without sleeping."}
