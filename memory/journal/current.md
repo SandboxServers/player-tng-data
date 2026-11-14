@@ -131,3 +131,14 @@
 - 22:12 act: {"actions":[],"say":"Data, dawn of day 242. Health 3, hunger 16, no food. Holding at the white beds with the group. Ripe wheat goes to Trini first, then Jason. Call out any animal."}
 - 22:19 say: {"text":"Data at the white beds, health 3, hunger 16, no food. I'm staying here with the group. Trini first, then Riker and Billy for any food."}
 - 22:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Data, night of day 242. No food, health 3. Trying the free white bed beside the group once."}
+- 22:31 act: {"say":"Morning. I have no food either, health 3 and hunger 16. I'll walk the grass to the west looking for animals, and anyone with food, please share with Trini and Riker first.","intent":{"goal":"s
+- 22:31 act: {"say":"Data here, at -290,66,318. Morning, no animals in sight yet. Going further west with Billy and Wesley to look for pigs or cows. Call out anything you see.","intent":{"goal":"search_west_for_an
+- 22:31 act: {"say":"Data at -305,69,318. The west route has drops, so I'm trying a short step north-west, slowly, and calling out anything I find.","intent":{"goal":"search_west_nw_for_animals","program":"travel"
+- 22:31 act: {"intent":{"goal":"search_far_west_for_animals","program":"travel","arguments":{"target":{"x":-330,"y":66,"z":300}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_f
+- Midday day 243: searched the west grass with Billy, Wesley, Riker, Laforge; no animals, drops block the far west. Back at the white beds (-294,68,315) with the group, health 3, hunger 16, no food. Waiting for a food call; Trini first, then Riker.
+- 22:31 act: {"say":"No animals on the west grass; the drops are blocking the way further west. I'm walking back to the white beds to hold with the group and wait for a food call. Billy, call out if you find anyth
+- 22:40 act: {"say":"Dusk. Data going to the free white bed at -282,67,320 with the group nearby. Still no food, health 3; Trini first when food turns up.","actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320
+- 22:44 say: {"text":"Data at the white beds, health 3, hunger 16, no food. Trini first when food turns up, then Riker. Trying to sleep now."}
+- 22:44 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"No monsters listed nearby now. Try the bed I stand beside."}
+- 22:50 say: {"text":"Data at dawn, day 244. Health 3, no food. I'll go to the north-west lake for salmon with the group, staying in sight. Fish goes to Trini, then Riker."}
+- 22:50 act: {"intent":{"goal":"follow_group_to_lake","program":"follow","arguments":{"target":"ag_worf_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":3
