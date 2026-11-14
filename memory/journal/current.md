@@ -1,5 +1,5 @@
 # Journal
-- 17:44 say: {"text":"I have nothing in my hands, and it is night. I will stay still near these iron golems, who seem to be guarding this village, and look for shelter."}
+ say: {"text":"I have nothing in my hands, and it is night. I will stay still near these iron golems, who seem to be guarding this village, and look for shelter."}
 - 17:44 act: {"intent":{"goal":"hold_still_till_morning","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400
 - 17:48 act: {"say":"Morning. I am Data. I woke here with nothing and have not slept in 228 days. I will look for wood and food with the group, and I will share what I find.","intent":{"goal":"gather_oak_log","pro
 - 17:48 act: {"actions":[{"do":"goto","target":{"x":-247,"y":67,"z":367}}],"intent":{"goal":"gather_oak_log_south","program":"gather","arguments":{"block":"oak_log","count":6},"wake_on":["directly_addressed","prec
@@ -25,3 +25,5 @@
 - 18:25 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"intent":{"goal":"reach_yellow_bed","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["directly_addressed","u
 - 18:25 act: {"actions":[{"do":"sleep"}]}
 - 18:26 act: {"actions":[{"do":"sleep"}],"say":"Going to sleep at the yellow bed."}
+- 18:27 say: {"text":"Still no food for me either. Going to sleep in the yellow bed; food with everyone at dawn."}
+- 18:28 Night, at the yellow bed (-263,67,353). Health and hunger 20, no food yet, holding 2 logs, 2 planks, a sapling. Said goodnight and sleeping.
