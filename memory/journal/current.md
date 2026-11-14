@@ -78,3 +78,8 @@
 - 20:32 act: {"intent":{"goal":"search_west_grass_for_animals","program":"travel","arguments":{"target":{"x":-325,"y":67,"z":315}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_co
 - 20:35 act: {"intent":{"goal":"rejoin_group_at_white_beds","program":"travel","arguments":{"target":{"x":-290,"y":67,"z":305}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_compl
 - 20:35 act: {"actions":[{"do":"write_sign","text":"Free beds? Food? Ask Data"}],"say":"I'm back near the white beds. I still have no food. Has anyone found apples or animals?"}
+- 20:37 act: {"say":"Data here, hunger 20 and no food on me. Laforge's salmon lake at -330,62,270 is the best lead, so I'll head there with anyone who wants to come.","intent":{"goal":"reach_salmon_lake","program"
+- 20:38 act: {"actions":[{"do":"goto","target":{"x":-335,"y":61,"z":265}},{"do":"attack","target":"salmon"}],"say":"I'm at the lake edge with salmon nearby and no rod, so I'll try to catch one by hand."}
+- 20:38 act: {"actions":[{"do":"goto","target":{"x":-322,"y":63,"z":268}}]}
+- 20:38 act: {"intent":{"goal":"rejoin_group_at_beds","program":"travel","arguments":{"target":{"x":-296,"y":68,"z":300}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"]
+- 20:38 act: {"say":"Back at the beds, still no food. Laforge, the salmon are too deep for me without a rod. Anyone who finds apples or animals, tell me and I'll come.","intent":{"goal":"wait_for_food_leads_at_bed
