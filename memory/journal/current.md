@@ -1,4 +1,5 @@
 # Journal
+- Day 242 night: at the white beds with the group, health 3, hunger 16, no food. Sleep at -270,67,318 failed (monsters nearby). Waited with the group until the session ended. Handoff updated.
 - Day 233 dawn: the white bed at -271,67,318 reported sleep success all night but days_since_sleep stayed 0 until morning; golems and bows came from the south. Hunger 20, no food. Heading west with Tommy toward the pig at -338,64,223, meat to Billy and Jason first.
 - 17:48 act: {"actions":[{"do":"goto","target":{"x":-247,"y":67,"z":367}}],"intent":{"goal":"gather_oak_log_south","program":"gather","arguments":{"block":"oak_log","count":6},"wake_on":["directly_addressed","prec
 - 17:48 act: {"actions":[{"do":"mine","block":"oak_log","count":4}],"say":"I fell and lost a little health. I am cutting the oak logs close by now, and I will share the wood with Wesley and the group."}
@@ -128,3 +129,5 @@
 - 22:00 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"say":"Data at dusk, day 241. Still no food, health 3. Going to the free white bed at -281,67,320 to sleep. Trini first for
 - 22:07 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"say":"Data trying the free bed at -281,67,320 once more; no monsters in sight now. Still no food. Trini first when food is
 - 22:12 act: {"actions":[],"say":"Data, dawn of day 242. Health 3, hunger 16, no food. Holding at the white beds with the group. Ripe wheat goes to Trini first, then Jason. Call out any animal."}
+- 22:19 say: {"text":"Data at the white beds, health 3, hunger 16, no food. I'm staying here with the group. Trini first, then Riker and Billy for any food."}
+- 22:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Data, night of day 242. No food, health 3. Trying the free white bed beside the group once."}
