@@ -40,3 +40,5 @@
 - 19:00 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"say":"Data at dusk, day 232. No food today. Trying the white bed at -281,67,320 for the night. If it is taken, I'll rest n
 - 19:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Data going to bed at the white beds for the night. No food found today.","reasoning":"Night, bed adjacent, two days since sleep. Sl
 - 19:02 act: {"say":"Goodnight, all. Slept at the white bed; no food yet. At first light I'll join the hunt, and any animal or apple goes to Billy and Kimberly first.","reasoning":"Reflect pass only partly done: d
+- 19:03 act: {"say":"Data here. No food found yet. I will search for animals and apples at dawn, Billy and Kimberly first.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"intent":{"goal":"rest_at_wh
+- 19:03 act: {"actions":[{"do":"sleep"}],"say":"Goodnight. No food found today; food goes to Billy, then Kimberly, at dawn."}
