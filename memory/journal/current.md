@@ -102,3 +102,29 @@
 - 21:09 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}}],"say":"I'm back at the white beds with health 3 and no food. Anyone with bread or apples, please tell me."}
 - 21:09 act: {"actions":[],"say":"Riker, Jason, I'm at health 3 with no food. Does anyone have bread, meat or fish to spare? I got chased by a zombie at the lake."}
 - 21:11 act: {"actions":[],"say":"Data, health 3, hunger 17, no weapon. Chicken to Riker first, then Trini. I'll follow the group north to the sheep field and take whatever is left."}
+- 21:19 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Riker, I'm heading into the white bed for the night. I have no food; I'll keep to the group's order."}
+- 21:19 act: {"actions":[{"do":"sleep"}]}
+- 21:21 act: {"actions":[{"do":"sleep"}],"say":"Night now. Data sleeping at the white bed. No food on me; Trini and Billy first when we find any."}
+- 21:22 act: {"actions":[{"do":"goto","target":{"x":-274,"y":69,"z":291}},{"do":"sleep"}],"say":"Data moving north to the group's yellow bed at -274,69,291. Golems are south of the beds."}
+- 21:23 act: {"actions":[{"do":"sleep"}],"say":"Data at the yellow bed with the group. No food, health 3. Food goes to Trini first."}
+- Dawn, day 240: no food came to me. Group at the white beds; Riker holds raw chicken for Trini. Gathering 4 oak logs nearby for a sword.
+- Morning day 240: crafted planks, sticks and a wooden sword at the crafting table near -268,67,327. Still no food; health 3. Joining the group at the beds; Trini first for food.
+- Midday day 240: with the group at the white beds. Chicken and wheat went to Trini, not me. Still no food, health 3. Waiting in sight of the group.
+- Dusk day 240: the chicken never reached me; Jason ate it. Trini got rotten flesh and went to bed. I wrote handoff.md. Waiting for night to try a free bed.
+- Night day 240: sleep refused, monsters nearby (bows to the south). Staying with the group at -271,67,319, no food, health 3. Will not retry sleep until the monsters are gone.
+- Dawn day 241: still with the group at the white beds. No food came to me; chicken still with Jason, for Trini. Health 3, hunger 16. Waiting for food calls.
+- Night, day 239: sleep refused at the white bed (monsters nearby, golems south). Moved north to the yellow bed -274,69,291; beds all occupied. Health 3, hunger 17, no food, no weapon. Staying with the group until light; food goes to Trini first, then Riker.
+- 21:31 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":4},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"
+- 21:31 act: {"actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"craft","item":"stick","count":2}],"intent":{"goal":"craft_wooden_sword","program":"craft","arguments":{"item":"wooden_sword","count":1},
+- 21:31 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Data: I have a wooden sword now. Health 3, no food. Trini first for any food; I'll stay with the group and scout in sight of them."}
+- 21:35 act: {"say":"Data here, health 3, no food, sword in hand. I did not get the chicken; it went to Trini. Trini first for anything found, then Riker."}
+- 21:39 act: {"say":"Data at dusk, health 3, no food, wooden sword. I did not get the chicken. Trini first for any food; I'll try a bed once it is night."}
+- 21:44 act: {"actions":[{"do":"sleep"}]}
+- 21:52 act: {"say":"Data at the beds, dawn day 241, health 3, no food. Staying in sight of the group; I'll come to any animal or fish called out."}
+- Morning day 241: wait timed out with no food call. Only bow sounds to the south. Riker, Worf, Zack and Jason are beside me; I am holding at the white beds, health 3, hunger 16, wooden sword in hand. Trini still first for food.
+- Dusk day 241: tried the free bed at -281,67,320; sleep refused, monsters nearby. Night now with thunder; iron golem 19 blocks south-west. Staying with the group at -271,67,319, health 3, hunger 16, no food. Handoff updated.
+- Night day 241: second try at the bed at -281,67,320 failed again, monsters nearby, and my goto did not move me. I will not retry that bed tonight. Staying with the group at -271,67,319 until light; no food yet.
+- Dawn day 242: still at the white beds, health 3, hunger 16, no food. Kimberly's wheat at -263,66,321 is not ripe; ripe wheat goes to Trini first, then Jason, then me. I'll hold here and watch for the call.
+- 22:00 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"say":"Data at dusk, day 241. Still no food, health 3. Going to the free white bed at -281,67,320 to sleep. Trini first for
+- 22:07 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"say":"Data trying the free bed at -281,67,320 once more; no monsters in sight now. Still no food. Trini first when food is
+- 22:12 act: {"actions":[],"say":"Data, dawn of day 242. Health 3, hunger 16, no food. Holding at the white beds with the group. Ripe wheat goes to Trini first, then Jason. Call out any animal."}
