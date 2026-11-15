@@ -245,3 +245,11 @@
 - 03:50 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Data at dawn, day 259. Health 3, hunger 17, no food. A golem is close to the north-west, so I'm moving to Zack. Meat goes to Trini and Jason fir
 - 03:59 act: {"actions":[{"do":"goto","target":{"x":-262,"y":66,"z":322}}],"say":"Data moving north-east away from the golem to -262,322. Still no food; meat goes to Trini first.","reasoning":"Golem 3 blocks away;
 - 04:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Data going to the south white bed at -271,67,336 for the night. Health 3, no food. Meat goes to Trini first.","reaso
+- 04:05 act: {"actions":[{"do":"sleep"}],"say":"Data here at the white bed, night of day 259. No food, health 3. Trying to sleep."}
+- 04:06 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}}]}
+- 04:10 act: {"actions":[{"do":"goto","target":{"x":-264,"y":66,"z":322}},{"do":"mine","block":"wheat","count":1}],"say":"Data at dawn, day 260. Health 3, no food. Clark, Trini has first claim on meat; I'll take t
+- 04:10 say: {"text":"Data: I have 1 wheat from the ripe patch. Bread needs 3, so I'll keep it for whoever finds more. Clark, I'm at the wheat field near -265,323; can you bring the porkchop to Trini first, then m
+- 04:14 act: {"actions":[{"do":"goto","target":{"x":-266,"y":66,"z":325}},{"do":"mine","block":"wheat","count":1},{"do":"goto","target":{"x":-268,"y":66,"z":326}},{"do":"craft","item":"bread","count":1}]}
+- 04:14 act: {"actions":[{"do":"goto","target":{"x":-265,"y":66,"z":324}},{"do":"mine","block":"wheat","count":1},{"do":"goto","target":{"x":-268,"y":66,"z":326}},{"do":"craft","item":"bread","count":1}]}
+- 04:14 act: {"actions":[{"do":"eat"}],"say":"Bread made from the ripe wheat. I'm eating it now, health 3. Riker, I have 7 seeds; I'll plant on tilled ground next."}
+- 04:14 act: {"actions":[{"do":"goto","target":{"x":-265,"y":66,"z":324}},{"do":"mine","block":"wheat","count":1}]}
