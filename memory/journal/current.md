@@ -386,3 +386,10 @@
 - 09:52 act: {"actions":[{"do":"goto","target":{"x":-264,"y":67,"z":350}}],"reasoning":"Back to the camp near the yellow beds and the group, away from the enderman."}
 - 09:53 act: {"actions":[{"do":"note","text":"At the yellow-bed camp, -264,67,350. Health 20, hunger 20, no food. Riker and Troi are going to the cow near -228,68,209; I will not follow, since endermen killed me t
 - 10:01 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}}],"say":"Bcrusher, I have seen no cow or sheep since morning. I have no food either. Worf says beef goes to Trini first."}
+- 10:13 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":4},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"
+- 10:13 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}],"reasoning":"Gather failed, but I hold 2 oak logs. Planks first; they make sticks and a sword."}
+- 10:13 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}],"reasoning":"Four planks are in hand. A wooden sword lets me join the hunt and defend myself."}
+- 10:13 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}],"reasoning":"Sticks were missing for the sword. Make sticks first, then the sword."}
+- 10:13 act: {"intent":{"goal":"join_wheat_group","program":"travel","arguments":{"target":{"x":-270,"y":66,"z":332}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tick
+- 10:14 act: {"say":"Data, at the wheat with a wooden sword and no food. I'm full at 20, so I'll give any food I find to the hungriest. Chapman, Worf, tell me where the hunters are.","reasoning":"I'm at the wheat 
+- 10:18 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"wooden_sword","count":1}],"say":"Leonardo, I'm Data. You're among the hungriest and have no weapon, so I'm giving you my wooden sword. I have no 
