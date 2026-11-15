@@ -27,3 +27,6 @@
 - 18:26 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"chicken","count":1}],"say":"Jason, I'm handing you the chicken now. Please confirm you have it."}
 - 18:26 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}},{"do":"sleep"}],"say":"Jason, the chicken is in your hands now. Chapman is next lowest. I'm going to try the yellow bed."}
 - 18:26 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}},{"do":"sleep"}]}
+- 18:29 act: {"actions":[{"do":"note","text":"Dawn day 302. Health 9, hunger 17, no food, at yellow bed. Jason says he is bringing food for Chapman; Chapman is lowest. I hold oak logs, seeds, sticks, sword."}],"sa
+- 18:33 act: {"actions":[{"do":"goto","target":"ag_laforge_01"}],"say":"Data going north with LaForge and Lewis to look for pigs and cows. Hunger 17, no food. Meat goes to Chapman and Zack's lowest first.","intent
+- 18:37 act: {"actions":[],"say":"Data at the yellow bed with Chapman and Lewis. Hunger 17, no food. Chapman and LaForge are lowest and are being fed; I'll stay here as a guard.","intent":{"goal":"guard_yellow_bed
