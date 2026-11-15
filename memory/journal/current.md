@@ -61,3 +61,4 @@
 - 19:31 act: {"actions":[{"do":"goto","target":"ag_chapman_01"}],"say":"I'm alone at the east edge, so I'm going back to Chapman's group to stay in sight."}
 - 19:31 act: {"actions":[{"do":"note","text":"Morning 306: with Chapman and bcrusher in reach at -267,66,334. Health 9, hunger 15, no food. Waiting for word of meat from the east scouts."}],"say":"Data here with C
 - 19:35 act: {"actions":[{"do":"note","text":"Midday 306: food is with Chapman (3 raw chickens), Jason (2 rotten flesh), Troi (1). I have none and am at hunger 15. Staying in reach of Chapman and bcrusher; waiting
+- 19:39 say: {"text":"Data here, health 9, hunger 15, no food. I'm staying at the beds in reach of Chapman. Any meat goes to Chapman first, then the lowest by hunger."}
