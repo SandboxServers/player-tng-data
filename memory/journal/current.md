@@ -317,3 +317,5 @@
 - 05:57 act: {"actions":[{"do":"note","text":"Woke day 265 at the yellow beds, health 8.8, hunger 12, no food. Golems are west, closing. Holding here with the group."}],"say":"Data at the yellow beds, hunger 12, n
 - 06:01 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Night is here. Data is going to the yellow bed to sleep. Any meat or bread goes to Jason first."}
 - 06:02 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"say":"Data is walking back to the yellow beds to sleep in the second bed. Trini, I see you are here."}
+- 06:09 act: {"intent":{"goal":"reach_yellow_bed","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"li
+- 06:09 act: {"actions":[{"do":"sleep"}],"say":"I'm at the yellow bed at -263,67,353 and trying to sleep. No food yet."}
