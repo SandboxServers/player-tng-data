@@ -303,3 +303,14 @@
 - 05:41 act: {"reasoning":"Sleep failed because the way was blocked at my spot. A white bed is one block east at -271,67,336. Step onto it and try to sleep again, since the nearby golems are far.","actions":[{"do"
 - 05:42 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Data here, night of day 264. No food on me. Resting in the yellow bed; first meat goes to Jason at dawn.","reasoning
 - 05:45 act: {"actions":[{"do":"sleep"}],"reasoning":"Previous rest intent timed out at night. Try the bed again; if it refuses, wait until dawn."}
+- 05:49 act: {"say":"Data, dawn day 265 at the yellow bed. Health 8.8, hunger 13, no food on me. Jason first for any meat, then Worf and Trini. I'll watch for the group's scouting news.","intent":{"goal":"wait_for
+- 05:50 act: {"say":"A wandering trader is 19 blocks west. If it sells food I'll tell the group; I have no goods of my own.","intent":{"goal":"check_trader_for_food","program":"travel","arguments":{"target":{"x":-
+- 05:50 act: {"say":"The trader walk stopped short; golems are around me. I'm holding here with Trini, no food yet.","intent":{"goal":"hold_near_beds_for_news","program":"rest","arguments":{},"wake_on":["directly_
+- 05:51 act: {"say":"Data joining the group at the west edge for the trader. I have no goods, only sticks and 2 dirt. I'll ask what food it has.","intent":{"goal":"join_group_at_west_trader","program":"travel","ar
+- 05:51 act: {"say":"I'm at the west edge with Clark and Chapman. The trader is 17 blocks north-east. I'll let the ones holding goods trade, and I'll wait here.","intent":{"goal":"wait_at_west_edge_for_trade","pro
+- 05:52 act: {"say":"Billy spotted sheep to the north-west at -276,66,300. I'll go there and hunt, and any mutton goes to Jason first.","intent":{"goal":"hunt_sheep_northwest","program":"travel","arguments":{"targ
+- 05:52 act: {"actions":[{"do":"unstick"}]}
+- 05:53 act: {"say":"I'm free, out of the pit at the sheep spot. No sheep in sight yet. Billy, I'll follow you north-west; mutton goes to Jason.","intent":{"goal":"search_sheep_with_billy","program":"follow","argu
+- 05:53 act: {"actions":[{"do":"unstick"}]}
+- 05:54 act: {"say":"No sheep here now. I'm heading back to the yellow beds with the group. Mutton from anyone's hunt goes to Jason first.","intent":{"goal":"return_to_yellow_beds","program":"travel","arguments":{
+- 05:54 act: {"say":"Back at the yellow beds. Health 8.8, hunger 12. I'll hold here and watch for animals the group finds.","intent":{"goal":"hold_at_yellow_beds","program":"rest","arguments":{},"wake_on":["direct
