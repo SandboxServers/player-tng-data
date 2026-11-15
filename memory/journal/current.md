@@ -445,3 +445,14 @@
 - 12:25 act: {"actions":[{"do":"sleep"}],"reasoning":"No mobs in view now; retry sleep at the white bed beside me."}
 - 12:30 act: {"say":"Dawn of day 285. I'm full (hunger 20) and have no food to share. I'll scout north for animals with Wcrusher and bring anything I find to Picard and Trini first.","intent":{"goal":"scout_animal
 - 12:34 act: {"say":"Data here, full with no food. The spider is near me, so I'm going back to the white beds to stay with the group and help with bread and wheat.","intent":{"goal":"return_to_white_beds","program
+- 12:51 act: {"actions":[{"do":"goto","target":{"x":-273,"y":66,"z":332}}],"say":"Data here at dawn, hunger 20, no food. I'm checking the wheat at -273,66,332 for ripeness. Any food goes to LaForge, then Trini, th
+- 12:52 act: {"actions":[],"say":"I'm at the wheat spot, -274,66,332. Macdonald has porkchops; I'll hold my place and not take any. LaForge first."}
+- 12:56 act: {"actions":[{"do":"goto","target":"ag_laforge_01"},{"do":"give","to":"ag_laforge_01","item":"porkchop","count":1}],"say":"Data here, I'm full at 20, so I'm not eating the porkchop. Taking it to LaForg
+- 12:56 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":322}}],"say":"LaForge, I'm coming to the white bed at -272,67,322 with a porkchop for you."}
+- 12:56 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"porkchop","count":1}],"say":"LaForge, here is a porkchop from Macdonald's pig. Eat it when you need it. Lewis is next for food."}
+- 12:56 act: {"actions":[],"say":"Correction: my porkchop went to Wcrusher by mistake, not LaForge. Wcrusher, please pass it to LaForge, or to Lewis if LaForge has eaten. I have no food now."}
+- 13:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Data going to the bed at -270,67,318 to sleep. Food for Lewis first at dawn."}
+- 13:02 act: {"actions":[{"do":"sleep"}]}
+- 13:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Sleep was blocked at -270,67,318. I'm trying the bed next to it at -271,67,318."}
+- 13:03 act: {"actions":[{"do":"sleep"}]}
+- 13:04 act: {"actions":[{"do":"wait","seconds":120}],"say":"Sleep was blocked again. I'm holding here by the white beds with Chapman. I'll try a free bed later.","reasoning":"Sleep blocked; no threat in view. Hol
