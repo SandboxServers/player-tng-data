@@ -322,3 +322,6 @@
 - 06:12 act: {"say":"I'm hungry too and have no food. I'll search for animals to the west. Anyone who finds meat or bread, tell me.","intent":{"goal":"search_west_for_animals","program":"travel","arguments":{"targ
 - 06:13 act: {"intent":{"goal":"search_far_west_for_animals","program":"travel","arguments":{"target":{"x":-330,"y":66,"z":350}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max
 - 06:14 act: {"intent":{"goal":"return_to_yellow_bed","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"]
+- 06:17 act: {"intent":{"goal":"return_to_yellow_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["goal_completed","directly_addressed","precondition_failed","unexpected_damage"
+- 06:18 act: {"actions":[{"do":"note","text":"Day 266 afternoon: walked back toward yellow beds, now at -256,67,351 by water. Iron golem 3 blocks south-west, closing. No food, hunger 11, health 6.8. Holding still,
+- 06:18 act: {"say":"Data at the yellow beds, no food, hunger 11. Picard, I have not seen sheep, cows or pigs near here today; the west grass was empty. Any meat, Trini first, then Jason.","actions":[{"do":"note",
