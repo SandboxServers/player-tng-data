@@ -283,3 +283,16 @@
 - 04:49 act: {"intent":{"goal":"return_to_camp_with_group","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":327}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_w
 - 04:53 say: {"text":"Data joining the west search with Riker and Trini, in sight of the group. Any meat goes to Worf, then Trini."}
 - 04:53 act: {"intent":{"goal":"west_search_with_group","program":"travel","arguments":{"target":{"x":-300,"y":66,"z":319}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_worl
+- 04:55 act: {"say":"Data here at -299,66,319, midday day 262. No food on me. I'll stay in sight of Chapman and the group, search west for animals, and any meat goes to Worf, then Trini.","intent":{"goal":"hold_wi
+- 04:55 act: {"say":"Data still here at -299,66,319 with Chapman, Beverly and Wesley. No food yet. I'll keep watch here and call out any animal.","intent":{"goal":"wait_with_group_for_animals","program":"trade_wai
+- 04:59 act: {"say":"Data going to the white bed at -271,67,318 with Clark and Riker for the night. Still no food. Meat goes to Worf, then Trini.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":
+- 05:03 act: {"say":"Data at the north white bed at night, no food. Trying to sleep now.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 05:03 act: {"say":"Data: sleep was blocked at the north bed. Trying the other white bed beside Kimberly at -270,67,336.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 05:04 act: {"say":"Data: the beds say the way is blocked again. I'm staying with the group by the north beds and will try again at first light. Meat still goes to Worf, then Trini.","intent":{"goal":"hold_with_g
+- 05:10 act: {"say":"Data, dawn of day 263. Still no food, hunger 14. Scouting the west grass with Zack, Billy and Riker, in sight. Any animal, call out. Meat goes to Worf, then Trini.","intent":{"goal":"scout_wes
+- 05:10 act: {"say":"Data at the west grass, -300,69,314. No animals in sight. I'll try the grass further south-west, -315,68,335, in sight of Billy. Calling out anything I see.","intent":{"goal":"scout_south_west
+- 05:12 act: {"intent":{"goal":"hold_with_group_west_grass","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":1200,"max_block_op
+- 05:12 act: {"intent":{"goal":"return_to_group_hold","program":"travel","arguments":{"target":{"x":-299,"y":67,"z":319}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"]
+- 05:12 act: {"intent":{"goal":"hold_with_group_for_food","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":16}},"say":"Da
+- 05:16 act: {"intent":{"goal":"move_to_north_beds_with_group","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":319}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition
+- 05:24 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"sleep"}],"say":"Data, night of day 263, trying the north white bed at -271,67,318. No food, hunger 13. Meat goes to Worf, then Trini
