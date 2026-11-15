@@ -1,0 +1,2 @@
+# Wesley
+Impression: a farmer; wants wheat for his plots and searches the trees for apples. I gave him a wheat seed on day 240. My chicken was meant for him on day 292, but it went to LaForge, and he was at health 2. Trust: 45. Why: he stayed with me on the walks and shared the search, but the chicken did not reach him through me.

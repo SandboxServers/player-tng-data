@@ -1,8 +1,8 @@
-Ranked, with reasons:
+Ranked, with reasons (rewritten after the day 300 tidy):
 
-1. Find food for the group, Billy and Riker first, then Trini and Kimberly. Next: make a fishing rod (needs string) for the salmon lake at -330,62,270, and fish from the shore only.
-1b. Watch the wheat at -263,66,321 with Kimberly and Jason; share the seed when it ripens. Do not go back to the skeleton spot near -265,242 unless it is safe.
-2. Keep myself sheltered and safe. Use a free white bed, or make one from the 2 logs and 4 planks if I can. Sleep only where I am not in danger.
-3. Keep the group talking and sharing what each of us finds, so no search is wasted. Ask Riker about the apples that went to him.
-4. Learn this world: where animals live, what the golems and phantoms do, and where the places are. Write it down.
-5. Later, help build shelter for the group, once food is steady.
+1. Find food for myself and the group, weakest first (Trini and Worf named by the group, then the others). Reason: food is the only thing that has kept health low for weeks.
+2. Keep sheltered at night in sight of the group. Reason: sleep refused and monsters near are what cost health, so stay close to a bed and the group.
+3. Share what I find with the named person, by walking it to them. Reason: items went astray twice when handed to whoever was near.
+4. Learn the world: the wheat at the south farm (-273,66,332), the sheep to the north-west, the cow and pig to the east and north-east. Write each lead down, and say which grass is empty.
+5. Get a fishing rod (needs string) before trying the salmon lake again. Reason: fish is a food source the group has not reached.
+6. Later, help with shelter and farming for the group, once food is steady.

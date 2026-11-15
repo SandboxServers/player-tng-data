@@ -1,0 +1,2 @@
+# Jason
+Impression: hungry and waits at the beds with us. I gave him one mutton on day 237 when Billy was not in sight. He ate the chicken that was meant for Trini (day 240). Trust: 40. Why: he took my meat, but the chicken he ate was promised to another.

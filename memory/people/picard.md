@@ -1,0 +1,2 @@
+# Picard
+Impression: a farmer with a plot near the water who needs seeds and a hoe. I gave him 8 wheat seeds and my last wheat on day 261. Trust: 55. Why: he took the seeds for his plot; he has been among the people I held food back for.

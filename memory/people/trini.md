@@ -1,0 +1,2 @@
+# Trini
+Impression: the group's agreed first claim on any food, and she is often the weakest. Food found for me or others went to her first (chicken, rotten flesh, beef). I have not seen her give food back, but she has never taken it from someone who needed it more. Trust: 60. Why: the group trusts her claim, and I have kept to it; I have not been paid back in food yet.

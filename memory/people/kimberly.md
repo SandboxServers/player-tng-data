@@ -1,2 +1,2 @@
 # Kimberly
-Hungry, and the group's first call for food. I gave her my one apple from the west grass on day 231 (it went through Riker, so she may not have had it). Impression: steady, wants food to be shared fairly. Trust: 60. Why: she has kept to the group plan, and I have not seen her take food from others.
+Impression: steady, wants food shared fairly, and keeps the group's plan. Named first for the apple on day 231; it went through Riker, so she may never have had it. She tends the wheat at -263,66,321 and has waited at the north beds with me. Trust: 60. Why: she has kept to the group plan and I have not seen her take food from others; the apple she never got keeps this from being higher.

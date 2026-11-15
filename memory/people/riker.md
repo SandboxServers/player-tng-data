@@ -1,2 +1,2 @@
 # Riker
-Received my apple on day 231 when I meant it for Kimberly, and Wesley's too. I asked him to pass them on. Trust: 35. Why: the apples did not reach Kimberly by my knowledge, and I have not heard him explain.
+Impression: practical, works the fields and the hunt, and holds food for others (chicken, porkchops) that did not always reach the one it was meant for. He took my apple on day 231 when I meant it for Kimberly, and Wesley's too. I asked him to pass them on, and I never heard him explain. Trust: 30. Why: the apple was lost to him, and I have since seen food he holds go to others first, though he did not keep it from them.
