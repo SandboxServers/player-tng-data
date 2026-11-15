@@ -301,3 +301,5 @@
 - 05:36 act: {"reasoning":"No animals found here. Jason is being fed by Tommy and Lewis. I have no food to give, so I return to the group near the white beds to hold until dusk and try the bed.","say":"Data here. 
 - 05:41 act: {"reasoning":"Night has come. Food is out of reach for me and hunger is 13. Go to the north white bed at -271,67,318 and try to sleep with the group, since no creeper is in sight.","say":"Data going t
 - 05:41 act: {"reasoning":"Sleep failed because the way was blocked at my spot. A white bed is one block east at -271,67,336. Step onto it and try to sleep again, since the nearby golems are far.","actions":[{"do"
+- 05:42 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Data here, night of day 264. No food on me. Resting in the yellow bed; first meat goes to Jason at dawn.","reasoning
+- 05:45 act: {"actions":[{"do":"sleep"}],"reasoning":"Previous rest intent timed out at night. Try the bed again; if it refuses, wait until dawn."}
