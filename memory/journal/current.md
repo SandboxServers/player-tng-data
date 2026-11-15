@@ -259,3 +259,10 @@
 - 04:22 act: {"actions":[{"do":"sleep"}]}
 - 04:25 act: {"actions":[{"do":"sleep"}],"say":"Data at the yellow bed with Trini, Billy and Riker. Trying to sleep now that the creeper is gone."}
 - 04:25 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}}],"say":"Data heading back to the yellow bed with Trini and Riker. I'll wait for dawn and try again."}
+- 04:25 act: {"actions":[{"do":"sleep"}]}
+- 04:27 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}},{"do":"sleep"}],"say":"Data here, night of day 260. No food yet. Going to the yellow bed at -263,67,353 to sleep. Trini and anyone with mea
+- 04:29 act: {"actions":[{"do":"goto","target":{"x":-266,"y":67,"z":325}}],"say":"Data, dawn of day 261. Health 9, hunger 16, no food. Going to the wheat field and crafting table to make bread for whoever is weake
+- 04:29 act: {"actions":[{"do":"goto","target":"ag_picard_01"},{"do":"give","to":"ag_picard_01","item":"wheat_seeds","count":8}],"say":"Picard, I have no hoe, so here are my 8 wheat seeds for your plot. Plant them
+- 04:30 act: {"actions":[],"say":"Picard is out of sight, so I'm keeping my 8 seeds for now. Holding here by the crafting table. Trini first for any wheat or meat."}
+- 04:33 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"wheat_seeds","count":8}],"say":"Picard, here are my 8 wheat seeds for your plot near the water. My one wheat goes to Worf, since he is weakest."}
+- 04:33 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"wheat","count":1}],"say":"Picard, my last wheat goes to the bread pool. Trini and Worf first when there is bread."}
