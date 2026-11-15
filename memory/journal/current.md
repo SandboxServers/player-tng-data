@@ -327,3 +327,6 @@
 - 06:18 act: {"say":"Data at the yellow beds, no food, hunger 11. Picard, I have not seen sheep, cows or pigs near here today; the west grass was empty. Any meat, Trini first, then Jason.","actions":[{"do":"note",
 - 06:20 act: {"actions":[{"do":"sleep"}],"say":"Data at the yellow bed, dusk. No food yet; any meat goes to Trini, then Jason, then Billy. Trying the bed now.","reasoning":"Dusk, safe enough with Zack and Picard i
 - 06:27 act: {"reasoning":"Night, hunger 11, no food. Stay by the yellow beds with Zack and Picard, then try the bed again.","say":"Data here, at the yellow bed. No food on me. If anyone finds meat, Trini first, t
+- 06:27 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Heading to the yellow bed to sleep. Hunger 11, health 6.8, no food on me.","reasoning":"Night, no food, sleep failed
+- 06:28 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}}],"say":"Trying to reach the yellow beds again. Hunger 11, no food yet; it is dawn.","reasoning":"Sleep failed as way blocked and my positio
+- 06:28 act: {"actions":[],"say":"I'm at the yellow beds with Trini and Zack. It's dawn, no food on me. I'll go scouting for animals with the group; meat goes to Jason, then Trini, then Worf.","reasoning":"Dawn, h
