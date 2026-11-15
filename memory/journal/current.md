@@ -14,3 +14,11 @@
 - 17:58 act: {"actions":[],"say":"Data here, hunger 17, no food. If anyone is lower than me, feed them first. Otherwise I'll take the beef, Worf."}
 - 18:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
 - 18:07 act: {"actions":[{"do":"eat"}],"say":"Thank you Worf. Holding here with the group until morning."}
+- 18:10 act: {"say":"Data, dawn 302, hunger 17, health 13, no food. Not the lowest, so I'll hold for the next call. Sheep were last seen north-west; I'll look there with anyone who goes.","intent":{"goal":"hold_ne
+- 18:10 act: {"say":"Chapman, yes, come north-west for the sheep. I'm at -270,67,336 with a sword and hunger 17. I'll follow you.","intent":{"goal":"follow_chapman_for_sheep","program":"follow","arguments":{"targe
+- 18:14 act: {"say":"Data going north-west for the sheep with Riker, Clark, Worf, Billy and Troi. Call out if you find meat.","actions":[{"do":"goto","target":{"x":-282,"y":67,"z":322}}],"intent":{"goal":"scout_no
+- 18:14 act: {"say":"Data at -290,68,312. No sheep in sight here. Hunger 17. Calling out to the group: if you see sheep or cattle, say where."}
+- 18:15 act: {"say":"Phantoms are hitting me. Retreating to the white beds.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}]}
+- 18:23 act: {"say":"Jason, I'm holding LaForge's chicken for you. I'm coming to you now.","actions":[{"do":"goto","target":"ag_jason_01"}]}
+- 18:23 act: {"say":"Jason, I can't see you. I hold LaForge's chicken for you. Step into my sight at the north white bed, -270,67,336, and say so."}
+- 18:25 act: {"say":"Data at the north white bed, holding LaForge's chicken for Jason. Jason, Zack or anyone at 6 or below who is in my sight: say so and it's yours."}
