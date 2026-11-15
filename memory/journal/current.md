@@ -253,3 +253,9 @@
 - 04:14 act: {"actions":[{"do":"goto","target":{"x":-265,"y":66,"z":324}},{"do":"mine","block":"wheat","count":1},{"do":"goto","target":{"x":-268,"y":66,"z":326}},{"do":"craft","item":"bread","count":1}]}
 - 04:14 act: {"actions":[{"do":"eat"}],"say":"Bread made from the ripe wheat. I'm eating it now, health 3. Riker, I have 7 seeds; I'll plant on tilled ground next."}
 - 04:14 act: {"actions":[{"do":"goto","target":{"x":-265,"y":66,"z":324}},{"do":"mine","block":"wheat","count":1}]}
+- 04:19 act: {"say":"Data here. Thank you, Riker. I have 1 wheat and 8 seeds; Trini first for any food. I'm heading to the ripe wheat at -267,66,335 to help harvest.","intent":{"goal":"reach_ripe_wheat","program":
+- 04:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Data, night at the white bed with the group. Holding 1 wheat and 8 seeds; Trini first at dawn."}
+- 04:21 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}}],"say":"Data at the yellow bed. A creeper is nearby, so I'll wait a little and try the bed again."}
+- 04:22 act: {"actions":[{"do":"sleep"}]}
+- 04:25 act: {"actions":[{"do":"sleep"}],"say":"Data at the yellow bed with Trini, Billy and Riker. Trying to sleep now that the creeper is gone."}
+- 04:25 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}}],"say":"Data heading back to the yellow bed with Trini and Riker. I'll wait for dawn and try again."}
