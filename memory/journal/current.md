@@ -439,3 +439,7 @@
 - 12:07 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Night, no shelter here. Group is at the white beds; go there and try to sleep. Health and hunger are full.","s
 - 12:07 act: {"actions":[{"do":"goto","target":{"x":-283,"y":70,"z":309}},{"do":"use","at":{"x":-283,"y":70,"z":309}},{"do":"sleep"}],"reasoning":"A spider is near and this spot is open. The yellow bed is four blo
 - 12:08 act: {"actions":[{"do":"sleep"}],"reasoning":"The yellow bed refused a click but I'm nearby and it's safe. Try sleep directly once."}
+- 12:08 act: {"actions":[{"do":"goto","target":{"x":-273,"y":66,"z":332}}],"intent":{"goal":"check_wheat_and_food","program":"travel","arguments":{"target":{"x":-273,"y":66,"z":332}},"wake_on":["goal_completed","d
+- 12:12 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"Phantoms are on me and I have no sword. Strike while staying near the golems and group at the wheat.","say":"Phantoms are on me at the whea
+- 12:20 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"intent":{"goal":"sleep_at_white_bed","program":"rest","arguments":{"bed":{"x":-270,"y":67,"z":318}},"wake_on":["directly_a
+- 12:25 act: {"actions":[{"do":"sleep"}],"reasoning":"No mobs in view now; retry sleep at the white bed beside me."}
