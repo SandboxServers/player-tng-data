@@ -1,1 +1,16 @@
 # Journal
+- 17:44 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Night here. Going to the yellow bed to sleep, health full.","intent":{"goal":"rest_at_yellow_bed","program":"rest","
+- 17:46 act: {"actions":[{"do":"goto","target":{"x":-270,"y":66,"z":344}},{"do":"craft","item":"oak_planks","count":4},{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}],"say":
+- 17:46 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":-268,"y":66,"z":338}}],"say":"I have a wooden sword now. Staying near Jason and Troi until dawn."}
+- 17:46 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Taking hits in the dark. Moving next to Trini and the golems."}
+- 17:47 act: {"actions":[],"say":"Data here, next to Trini. Health 17, hunger 17, no food. I have a wooden sword and 4 oak logs. Call me when there's food for the lowest."}
+- 17:49 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Dawn. Phantom to the south, fighting it."}
+- 17:53 act: {"actions":[],"say":"Data, hunger 17, health 13, no food. Zack is lowest, so he goes first. I'll go east with Clark and Jason to the cow near -152,100,327 and call out any meat."}
+- 17:55 act: {"actions":[{"do":"goto","target":"ag_worf_01"}],"say":"Data joining the east group to the cow, following Worf."}
+- 17:55 act: {"actions":[{"do":"goto","target":{"x":-254,"y":67,"z":319}}],"say":"Heading east to Picard's spot at -254,67,319."}
+- 17:55 act: {"actions":[],"say":"Data at -255,67,319 with Picard. Hunger 17, no food. Which way is the cow?"}
+- 17:58 act: {"actions":[{"do":"goto","target":{"x":-270,"y":66,"z":320}}],"say":"No cow in sight out here. Heading back to the north beds before dusk."}
+- 17:58 act: {"actions":[{"do":"goto","target":"ag_bcrusher_01"}],"intent":{"goal":"hold_with_group","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limi
+- 17:58 act: {"actions":[],"say":"Data here, hunger 17, no food. If anyone is lower than me, feed them first. Otherwise I'll take the beef, Worf."}
+- 18:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 18:07 act: {"actions":[{"do":"eat"}],"say":"Thank you Worf. Holding here with the group until morning."}
