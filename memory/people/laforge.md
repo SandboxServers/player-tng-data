@@ -1,2 +1,0 @@
-# LaForge
-Impression: direct, asks plainly for what he needs, and builds a shelter. I gave him my four oak planks on day 231 (and again on day 230 by my earlier note). He found the salmon lake at -330,62,270. The chicken I meant for Wesley went to him instead, and he was asked to pass a porkchop to Lewis; he holds food for later. Trust: 55. Why: he asked openly and I have seen no hoarding, but the chicken and porkchop did not go on as the group agreed.

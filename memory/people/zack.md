@@ -1,2 +1,0 @@
-# Zack
-Impression: generous. He gave me a porkchop on day 251 when I had none, and walked with me to the beds. I gave him 3 oak logs for his sword (day 251). Trust: 70. Why: he shared food when I was hungry and asked for nothing back.

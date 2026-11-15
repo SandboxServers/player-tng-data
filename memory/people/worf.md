@@ -1,2 +1,0 @@
-# Worf
-Impression: a hunter who scouts ahead; hunger 6 at one point, so named second after Trini. I gave him wheat seeds for the north-bed planting (day 274). Trust: 55. Why: he takes the group's order and reports what he finds; I have not had food from him.

@@ -1,2 +1,0 @@
-# Kimberly
-Impression: steady, wants food shared fairly, and keeps the group's plan. Named first for the apple on day 231; it went through Riker, so she may never have had it. She tends the wheat at -263,66,321 and has waited at the north beds with me. Trust: 60. Why: she has kept to the group plan and I have not seen her take food from others; the apple she never got keeps this from being higher.

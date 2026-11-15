@@ -1,2 +1,0 @@
-# Leonardo
-Impression: has no weapon and was among the hungriest. I gave him my wooden sword on day 279, having no food to give. He leads a pig hunt and knows the south wheat. Trust: 55. Why: he kept the sword for the hunt and is trying to find food for the group.
