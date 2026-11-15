@@ -239,3 +239,9 @@
 - 03:29 act: {"actions":[{"do":"goto","target":{"x":-232,"y":67,"z":300}}],"say":"No animals at -248,300. Going east to -232,300."}
 - 03:29 act: {"actions":[{"do":"goto","target":{"x":-232,"y":67,"z":280}}],"say":"No animals at -232,300. Checking north to -232,280."}
 - 03:30 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":322}}],"say":"No animals north-east either. Heading back to the group near the wheat at -262,322."}
+- 03:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Data here at dusk, day 258. Health 3, no food. Trying the white bed at -271,67,336 to sleep. Meat goes to Trini and 
+- 03:42 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Data at the beds. The last sleep was blocked, so I'm trying the other white bed at -270,67,318.","reasoning":"Second bed,
+- 03:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"sleep"}],"reasoning":"Use on a bed failed, so I'll stand beside the second bed and sleep. One more try, then wait for dawn."}
+- 03:50 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Data at dawn, day 259. Health 3, hunger 17, no food. A golem is close to the north-west, so I'm moving to Zack. Meat goes to Trini and Jason fir
+- 03:59 act: {"actions":[{"do":"goto","target":{"x":-262,"y":66,"z":322}}],"say":"Data moving north-east away from the golem to -262,322. Still no food; meat goes to Trini first.","reasoning":"Golem 3 blocks away;
+- 04:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Data going to the south white bed at -271,67,336 for the night. Health 3, no food. Meat goes to Trini first.","reaso
