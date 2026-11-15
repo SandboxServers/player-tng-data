@@ -143,3 +143,26 @@
 - 22:50 say: {"text":"Data at dawn, day 244. Health 3, no food. I'll go to the north-west lake for salmon with the group, staying in sight. Fish goes to Trini, then Riker."}
 - 22:50 act: {"intent":{"goal":"follow_group_to_lake","program":"follow","arguments":{"target":"ag_worf_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":3
 - 22:55 say: {"text":"Data here at the white beds, health 3, hunger 16, no food. I have 3 oak logs, 3 sticks and a wooden sword. I'll stay with the group and join the west search."}
+- 23:02 act: {"actions":[{"do":"sleep"}],"say":"Night. I'm at the white bed with the group. Food goes to Trini first when any turns up."}
+- 23:03 act: {"actions":[{"do":"sleep"}]}
+- 23:05 act: {"actions":[{"do":"sleep"}],"say":"Geldar at the white bed, night of day 244, health 3, hunger 16, no food. Trying sleep again."}
+- 23:07 act: {"actions":[{"do":"sleep"}]}
+- 23:10 act: {"actions":[],"say":"Geldar at the white beds, day 245. Health 3, hunger 16, no food. I'm staying with the group; any food, Trini first, then me."}
+- 23:14 act: {"actions":[{"do":"sleep"}]}
+- 23:21 act: {"actions":[{"do":"sleep"}]}
+- 23:25 act: {"actions":[{"do":"sleep"}]}
+- 23:33 act: {"actions":[],"say":"Data at the beds, day 246. Health 3, hunger 16, no food. I'm holding here with the group. Trini first, then me."}
+- 23:37 act: {"say":"Data at the beds, day 246, dim, thunder. Health 3, hunger 16, no food. Staying with the group. Trini eats the chicken first.","intent":{"goal":"hold_at_beds_for_food","program":"rest","argumen
+- 23:39 act: {"actions":[{"do":"sleep"}]}
+- 23:44 act: {"actions":[{"do":"sleep"}]}
+- 23:47 act: {"actions":[{"do":"sleep"}]}
+- 23:49 act: {"say":"Data at the beds, dawn day 247. Health 3, hunger 16, no food. Trini eats first. Riker, if you bring salmon back, Trini first, then me."}
+- 00:01 act: {"actions":[{"do":"sleep"}]}
+- 00:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 00:12 act: {"say":"Data at the beds, day 248 dawn. Health 3, hunger 16, no food. Trini first for any food, then me. I'm walking the grass only in sight of the group."}
+- 00:25 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Data at the white beds, night of day 248. Health 3, hunger 16, no food. Trying to sleep."}
+- 00:27 act: {"actions":[{"do":"sleep"}]}
+- 00:32 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":330}}],"say":"Data, dawn of day 249. Health 3, hunger 16, no food. Moving back to the group at the white beds, then I'll search only in sight of 
+- 00:32 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Data moving north, away from the golems closing in from the south-east. Health 3, no food."}
+- 00:32 act: {"actions":[],"say":"Riker, Data here by the north white beds. Health 3, hunger 16, no food. Did you find anything at the lake or the leaves? Trini first for any food."}
+- 00:40 act: {"actions":[{"do":"sleep"}]}
