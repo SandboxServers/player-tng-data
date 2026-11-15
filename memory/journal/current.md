@@ -382,3 +382,7 @@
 - 09:50 act: {"actions":[{"do":"goto","target":{"x":-240,"y":68,"z":250}}],"intent":{"goal":"join_cow_hunt","program":"travel","arguments":{"target":{"x":-240,"y":68,"z":250}},"wake_on":["directly_addressed","prec
 - 09:50 act: {"actions":[{"do":"goto","target":{"x":-228,"y":68,"z":215}}],"intent":{"goal":"reach_cow_area","program":"travel","arguments":{"target":{"x":-228,"y":68,"z":215}},"wake_on":["directly_addressed","pre
 - 09:50 act: {"actions":[{"do":"goto","target":{"x":-240,"y":68,"z":252}}],"intent":{"goal":"flee_enderman_spider","program":"flee","arguments":{"from":{"x":-229,"y":68,"z":215}},"wake_on":["goal_completed"],"limi
+- 09:52 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":300}}],"intent":{"goal":"flee_enderman_to_camp","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":300}},"wake_on":["goal_completed"],
+- 09:52 act: {"actions":[{"do":"goto","target":{"x":-264,"y":67,"z":350}}],"reasoning":"Back to the camp near the yellow beds and the group, away from the enderman."}
+- 09:53 act: {"actions":[{"do":"note","text":"At the yellow-bed camp, -264,67,350. Health 20, hunger 20, no food. Riker and Troi are going to the cow near -228,68,209; I will not follow, since endermen killed me t
+- 10:01 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}}],"say":"Bcrusher, I have seen no cow or sheep since morning. I have no food either. Worf says beef goes to Trini first."}
