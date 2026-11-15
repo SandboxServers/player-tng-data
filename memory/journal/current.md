@@ -425,3 +425,14 @@
 - 11:40 act: {"intent":{"goal":"reach_white_bed","program":"travel","arguments":{"target":{"x":-298,"y":68,"z":295}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"lim
 - 11:41 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}}],"say":"Data, dusk day 282. Going to the white bed to sleep with the group. No food on me.","reasoning":"Dusk, no food, bed nearby. Get in 
 - 11:41 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"use","at":{"x":-281,"y":67,"z":320}}],"reasoning":"Earlier sleep failed as the way was blocked. Try getting onto the bed and using i
+- 11:46 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Going to the north white bed to sleep. Food first thing at dawn."}
+- 11:48 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 11:48 act: {"actions":[{"do":"sleep"}]}
+- 11:48 act: {"actions":[{"do":"goto","target":{"x":-273,"y":66,"z":330}}],"say":"Data awake at dawn, day 283. No food. Checking the wheat at -273,66,332 now; anything ripe goes to Trini first, then Picard.","inte
+- 11:48 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":316}}],"say":"Data: the wheat at -273,332 is still unripe. Leonardo, where is the pig lead? I'll go with you; meat goes to LaForge, Trini, then P
+- 11:52 act: {"actions":[],"say":"Data, day 283, no food and nothing to hand out. I'll join the pig hunt. Meat goes to LaForge, Trini, then Picard. I'll call out any animal I see."}
+- 11:56 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":325}}],"say":"Data heading to the crafting tables to watch with the group. No food on me."}
+- 12:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"sleep"}],"say":"Data going to the north white bed for the night. No food on me; LaForge, Trini, Picard first at dawn."}
+- 12:02 act: {"actions":[{"do":"sleep"}],"say":"Data: no food on me. Trying the bed beside me to sleep."}
+- 12:02 act: {"actions":[{"do":"sleep"}]}
+- 12:04 act: {"actions":[{"do":"sleep"}]}
