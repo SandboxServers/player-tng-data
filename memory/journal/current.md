@@ -314,3 +314,6 @@
 - 05:53 act: {"actions":[{"do":"unstick"}]}
 - 05:54 act: {"say":"No sheep here now. I'm heading back to the yellow beds with the group. Mutton from anyone's hunt goes to Jason first.","intent":{"goal":"return_to_yellow_beds","program":"travel","arguments":{
 - 05:54 act: {"say":"Back at the yellow beds. Health 8.8, hunger 12. I'll hold here and watch for animals the group finds.","intent":{"goal":"hold_at_yellow_beds","program":"rest","arguments":{},"wake_on":["direct
+- 05:57 act: {"actions":[{"do":"note","text":"Woke day 265 at the yellow beds, health 8.8, hunger 12, no food. Golems are west, closing. Holding here with the group."}],"say":"Data at the yellow beds, hunger 12, n
+- 06:01 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Night is here. Data is going to the yellow bed to sleep. Any meat or bread goes to Jason first."}
+- 06:02 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"say":"Data is walking back to the yellow beds to sleep in the second bed. Trini, I see you are here."}
