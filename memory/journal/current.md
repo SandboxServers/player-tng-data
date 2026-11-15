@@ -361,3 +361,24 @@
 - 08:15 act: {"say":"Data here, hunger 8, no food. I'll try the white bed beside me for the night.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"use","at":{"x":-271,"y":67,"z":336}}]}
 - 08:23 act: {"say":"Data at dusk, day 272. No food, hunger 8. Trying the bed beside me once.","actions":[{"do":"sleep"}]}
 - 08:28 act: {"say":"Data going to the bed at -271,67,318, the one Trini says worked at full night.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 08:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Data, night of day 273. Trying the white bed at -271,67,336 once. No food yet; any meat or wheat goes to Trini first
+- 08:53 act: {"actions":[{"do":"goto","target":"ag_worf_01"},{"do":"give","to":"ag_worf_01","item":"wheat_seeds","count":1}],"say":"Data here. I have no food, but I have one wheat seed. Worf, planting by the north
+- 09:01 act: {"actions":[{"do":"goto","target":"ag_worf_01"},{"do":"give","to":"ag_worf_01","item":"wheat_seeds","count":1}],"say":"Worf, here is my wheat seed for your planting by the north beds. Dusk on day 274;
+- 09:05 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"wheat_seeds","count":10}],"say":"Worf, here are the wheat seeds from Chapman and Bcrusher for the north-bed planting. Trini first when there is wheat
+- 09:06 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":326}}]}
+- 09:07 act: {"actions":[{"do":"goto","target":{"x":-276,"y":67,"z":316}}]}
+- 09:11 act: {"actions":[{"do":"goto","target":{"x":-286,"y":67,"z":312}}],"say":"Data, dawn day 275. No food, hunger 8. Golems were on top of me so I'm moving north-west to search the grass for animals with Bcrus
+- 09:11 act: {"actions":[{"do":"goto","target":{"x":-300,"y":67,"z":306}}]}
+- 09:16 act: {"actions":[{"do":"goto","target":{"x":-288,"y":68,"z":310}}],"say":"Data, midday day 275. Heading to Riker at the north-west to search for the sheep. Any food goes to Trini first."}
+- 09:16 act: {"actions":[],"say":"Riker, I'm with you at the north-west grass. I have nothing to eat either; I'll look with you for the sheep."}
+- 09:21 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"A phantom is on me. Fighting it now.","reasoning":"Phantom at 4.9 blocks, flying; running is worse. Attack with the sword, then look."}
+- 09:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"reasoning":"Health 2.8, phantoms 9 to 17 away. Move toward Riker and the bed group."}
+- 09:30 act: {"actions":[{"do":"goto","target":{"x":-283,"y":72,"z":317}}],"say":"Data, back from the dead at dawn. Going to my dropped things at -283,72,317. No food on me yet.","reasoning":"Daylight, no hostiles
+- 09:30 act: {"actions":[{"do":"goto","target":{"x":-266,"y":66,"z":320}}],"say":"Data here. My drops at -283,72,317 are gone. I have nothing now. Going to the wheat by the beds to help Worf; any food goes to Trin
+- 09:34 act: {"actions":[],"say":"I have one mutton, given to me by LaForge. Trini is not here, so I hold it for her. Chapman, Clark, if Trini is not found by afternoon it goes to whoever is hungriest in sight."}
+- 09:38 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"mutton","count":1}],"say":"Clark, here is my mutton. Trini was not found, and you are the hungriest in reach.","reasoning":"Trini absent all day; Cl
+- 09:39 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":325}}],"intent":{"goal":"reach_bed_before_dusk","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":325}},"wake_on":["directly_addresse
+- 09:42 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"reasoning":"Night, near a yellow bed with the group. Handoff is written. Try the bed once."}
+- 09:50 act: {"actions":[{"do":"goto","target":{"x":-240,"y":68,"z":250}}],"intent":{"goal":"join_cow_hunt","program":"travel","arguments":{"target":{"x":-240,"y":68,"z":250}},"wake_on":["directly_addressed","prec
+- 09:50 act: {"actions":[{"do":"goto","target":{"x":-228,"y":68,"z":215}}],"intent":{"goal":"reach_cow_area","program":"travel","arguments":{"target":{"x":-228,"y":68,"z":215}},"wake_on":["directly_addressed","pre
+- 09:50 act: {"actions":[{"do":"goto","target":{"x":-240,"y":68,"z":252}}],"intent":{"goal":"flee_enderman_spider","program":"flee","arguments":{"from":{"x":-229,"y":68,"z":215}},"wake_on":["goal_completed"],"limi
