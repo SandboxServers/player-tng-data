@@ -166,3 +166,5 @@
 - 00:32 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Data moving north, away from the golems closing in from the south-east. Health 3, no food."}
 - 00:32 act: {"actions":[],"say":"Riker, Data here by the north white beds. Health 3, hunger 16, no food. Did you find anything at the lake or the leaves? Trini first for any food."}
 - 00:40 act: {"actions":[{"do":"sleep"}]}
+- 00:50 act: {"say":"Data here at the north beds, day 250. No food on me. Any food found goes to Trini first, then hungry members.","intent":{"goal":"hold_with_group_for_food","program":"rest","arguments":{},"wake
+- 01:00 act: {"actions":[{"do":"sleep"}],"say":"Data, dusk of day 250. No food on me. Trying the north white bed now with Jason and Billy."}
