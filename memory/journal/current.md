@@ -408,3 +408,14 @@
 - 11:01 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}}],"reasoning":"Dusk, at the beds with the group. Try the bed under me for the night."}
 - 11:09 act: {"say":"Data, dawn day 281. No food on me. Scouting the grass just east of the beds for animals, staying in sight. Meat goes to LaForge, Picard, then Trini.","actions":[{"do":"goto","target":{"x":-262
 - 11:10 act: {"say":"Data: no animals in sight east of the beds. Going back to the north white beds with the group. No food on me.","actions":[{"do":"goto","target":{"x":-268,"y":67,"z":332}}]}
+- 11:15 act: {"actions":[{"do":"goto","target":{"x":-268,"y":66,"z":330}}],"say":"Data here, day 281. Health and hunger 20, no food. Trini, you are low; I have only two oak logs and three sticks, but I will help l
+- 11:15 act: {"intent":{"goal":"search_for_food","program":"travel","arguments":{"x":-330,"y":62,"z":270},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_
+- 11:15 act: {"intent":{"goal":"search_salmon_lake_for_food","program":"travel","arguments":{"target":{"x":-330,"y":62,"z":270}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_comp
+- 11:15 act: {"intent":{"goal":"search_salmon_lake_for_food","program":"travel","arguments":{"target":{"x":-330,"y":62,"z":270}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_comp
+- 11:15 act: {"actions":[{"do":"wait","seconds":30}],"say":"Data: the walk to the salmon lake failed, so I am staying near the beds at -284,67,314. No food. Anyone with fish or meat, Trini first."}
+- 11:15 act: {"say":"Data: Worf, I'll walk to the salmon lake with you. A bow was drawn to the west, so we go carefully, together.","intent":{"goal":"walk_with_worf_to_lake","program":"follow","arguments":{"target
+- 11:20 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"say":"Data: dusk, no food. Going to the white bed at -281,67,320 to sleep near the group. Picard, Trini: none on me, sorry
+- 11:24 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"say":"Data: night of day 281, no food, health and hunger 20. Sleeping in the white bed at -281,67,320. Food goes to Trini,
+- 11:27 act: {"actions":[{"do":"sleep"}],"say":"Data here at the north beds, night of day 281. No food, health and hunger 20. Trying to sleep with the group. Any food goes to Trini first."}
+- 11:28 act: {"actions":[],"say":"Data: I have 2 rotten flesh now. Trini, at hunger 6 you come first. Say when you are in reach and I will hand it over."}
+- 11:29 act: {"actions":[{"do":"goto","target":{"x":-270,"y":66,"z":329}},{"do":"give","to":"ag_trini_01","item":"rotten_flesh","count":2}],"say":"Trini, I'm bringing you the 2 rotten flesh now, at hunger 6. Eat o

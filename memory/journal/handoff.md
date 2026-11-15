@@ -1,4 +1,6 @@
-Handoff, day 280 night (latest): Data at the white beds near -270,67,318, slept (sleep took, days_since_sleep 0). Health 20, hunger 20, no food; pack 2 oak_log, torch, 3 sticks. No errand out. Next: at dawn of day 281, look for animals in sight of the beds; meat goes to Picard (hunger 4) or Trini first, then Kimberly. Stay near the beds at night; died twice on night 279 when alone.
+Handoff, day 281 night (latest): Data at -271,67,327 near the north white beds with Trini, Jason, Wesley and the group. Health and hunger 20, no food. Sleep was refused by a creeper 8 blocks away. The salmon lake at -330,62,270 was not reached (travel ended early, then failed). No errand out. Next: at dawn, try the lake by a new route or join the hunt; food goes to Trini, then LaForge, then Picard.
+
+Earlier, day 280 night: Data at the white beds near -270,67,318, slept (sleep took, days_since_sleep 0). Health 20, hunger 20, no food; pack 2 oak_log, torch, 3 sticks. No errand out. Next: at dawn of day 281, look for animals in sight of the beds; meat goes to Picard (hunger 4) or Trini first, then Kimberly. Stay near the beds at night; died twice on night 279 when alone.
 
 Earlier, day 279 night: Data at -240,69,344 near the beds, slept (days_since_sleep 0). Health 20, hunger 20, no food; pack 2 oak_log, torch, 3 sticks. No errand out. East grass search found no animals. Next: at dawn check whether Riker and Worf took the chicken at -275,67,237; meat goes to Trini first (hunger 8), then LaForge (health 2), then Kimberly.
 
