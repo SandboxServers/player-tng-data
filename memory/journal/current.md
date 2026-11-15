@@ -393,3 +393,11 @@
 - 10:13 act: {"intent":{"goal":"join_wheat_group","program":"travel","arguments":{"target":{"x":-270,"y":66,"z":332}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tick
 - 10:14 act: {"say":"Data, at the wheat with a wooden sword and no food. I'm full at 20, so I'll give any food I find to the hungriest. Chapman, Worf, tell me where the hunters are.","reasoning":"I'm at the wheat 
 - 10:18 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"wooden_sword","count":1}],"say":"Leonardo, I'm Data. You're among the hungriest and have no weapon, so I'm giving you my wooden sword. I have no 
+- 10:22 act: {"actions":[{"do":"goto","target":{"x":-266,"y":67,"z":323}}],"say":"Leonardo, I'm coming to the north beds with your wooden sword.","intent":{"goal":"reach_leonardo_beds","program":"travel","argument
+- 10:22 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"wooden_sword","count":1}],"say":"Leonardo, here is the wooden sword. Keep it for the hunt. I'm sorry I have no food."}
+- 10:22 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}},{"do":"sleep"}],"say":"Gave my wooden sword to Leonardo. I have no food, so I'm going to the yellow bed to sleep."}
+- 10:22 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}},{"do":"use","at":{"x":-241,"y":69,"z":344}}]}
+- 10:22 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}},{"do":"sleep"}]}
+- 10:31 act: {"actions":[{"do":"goto","target":{"x":-225,"y":67,"z":345}}],"say":"Data, dawn of day 279. No food. Riker and Worf have the chicken to the north, so I'll search the east grass for animals and call ou
+- 10:39 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"say":"Dusk is coming. I'm heading back to the beds at -240,69,344 to sleep. No food found on the east grass.","intent":{"goal":"return_to
+- 10:43 say: {"text":"Data here at -240,69,344, no food, health 20. Trini and LaForge first with any meat. I'm sleeping now."}
