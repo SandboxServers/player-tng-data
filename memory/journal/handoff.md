@@ -1,5 +1,4 @@
-Handoff (day 313, night). Sleeping in white bed at x=415 y=107 z=-1092, near the group at the beds.
-Status: health 20, hunger 20, pack empty.
-Done: got no food; the phantom blocked sleep the night before. Asked Laforge and Macdonald for planks.
-Next: at first light, meet Laforge at the beds for the 8 planks (he said he will hand them over). Then food: eggs/chicken from the group, or look for animals west near the village where Trini is.
-Dropped items were not seen at the drop site.
+Handoff (day 314, night). Sleeping in white bed at x=415 y=107 z=-1092, by the beds with the group.
+Status: health 20, hunger 20, pack empty. Days since sleep reset by this sleep.
+Done: moved to the crafting table to meet Laforge (8 planks) and Macdonald (5 planks). Laforge said he was walking over with them, but none reached my pack. Macdonald is trading his planks with Wesley for beef.
+Next: at first light, ask Laforge and Macdonald for the planks while in view. Then food: Picard and Meriwether are weakest; eggs/chicken or beef from the group, or west to Trini's village (Johnny is scouting there). Dropped items at x=417 y=107 z=-1086 still not checked.

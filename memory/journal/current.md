@@ -7,3 +7,9 @@
 - 21:56 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1089}}],"say":"Laforge, I'm walking toward the crafting table now.","reasoning":"Laforge needs me in sight to hand over planks. Walk toward him.
 - 21:59 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1091}}],"say":"Macdonald, Data here. I'd be grateful for 5 planks if you can spare them. I'm at the beds by the crafting table, and I'll stay he
 - 22:01 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Goodnight, all. Laforge, I'll meet you at first light for the planks.","reasoning":"Night. Bed near group. Sleep n
+- 22:05 act: {"actions":[],"say":"Macdonald, Data here at the white beds, in view now. Thank you for the 5 planks. Picard should have the meat first.","reasoning":"Macdonald's planks are offered; I am in view. Let
+- 22:10 act: {"actions":[],"say":"Morning, Laforge. Data here, in view at the beds. Please hand me the 8 planks you offered. I'll put them into a small shelter.","reasoning":"Laforge is asking the count. I need pl
+- 22:13 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1090}}],"say":"Laforge and Macdonald, Data is at the crafting table now. Please come into view and hand over the planks.","reasoning":"Nobody in
+- 22:16 act: {"actions":[],"say":"Thank you, Laforge. I'm standing by the crafting table, in view. Hand over the planks when you are in reach.","reasoning":"Laforge is coming with the planks. Stay put and visible.
+- 22:21 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Dusk, Data is going to the white bed for the night. Planks in the morning, Laforge and Macdonald.","reasoning":"Ni
+- 22:25 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1090}}],"say":"Morning, Laforge. Data is at the table, in view. Please hand over the planks when you are in reach.","reasoning":"Laforge promise
