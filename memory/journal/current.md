@@ -319,3 +319,6 @@
 - 06:02 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"say":"Data is walking back to the yellow beds to sleep in the second bed. Trini, I see you are here."}
 - 06:09 act: {"intent":{"goal":"reach_yellow_bed","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"li
 - 06:09 act: {"actions":[{"do":"sleep"}],"say":"I'm at the yellow bed at -263,67,353 and trying to sleep. No food yet."}
+- 06:12 act: {"say":"I'm hungry too and have no food. I'll search for animals to the west. Anyone who finds meat or bread, tell me.","intent":{"goal":"search_west_for_animals","program":"travel","arguments":{"targ
+- 06:13 act: {"intent":{"goal":"search_far_west_for_animals","program":"travel","arguments":{"target":{"x":-330,"y":66,"z":350}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max
+- 06:14 act: {"intent":{"goal":"return_to_yellow_bed","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"]
