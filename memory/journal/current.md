@@ -62,3 +62,6 @@
 - 19:31 act: {"actions":[{"do":"note","text":"Morning 306: with Chapman and bcrusher in reach at -267,66,334. Health 9, hunger 15, no food. Waiting for word of meat from the east scouts."}],"say":"Data here with C
 - 19:35 act: {"actions":[{"do":"note","text":"Midday 306: food is with Chapman (3 raw chickens), Jason (2 rotten flesh), Troi (1). I have none and am at hunger 15. Staying in reach of Chapman and bcrusher; waiting
 - 19:39 say: {"text":"Data here, health 9, hunger 15, no food. I'm staying at the beds in reach of Chapman. Any meat goes to Chapman first, then the lowest by hunger."}
+- 19:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Data here, night 306, health 9, hunger 15, no food. Going to the white bed at -270,67,336 to sleep. Meat still goes 
+- 19:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Body just woke and is still short of the bed. Retry the walk then sleep."}
+- 19:44 act: {"actions":[{"do":"sleep"}],"reasoning":"Still on the bed with the group around. One more sleep try; if refused, hold with the group until dawn."}
