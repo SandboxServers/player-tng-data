@@ -65,3 +65,23 @@
 - 19:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Data here, night 306, health 9, hunger 15, no food. Going to the white bed at -270,67,336 to sleep. Meat still goes 
 - 19:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Body just woke and is still short of the bed. Retry the walk then sleep."}
 - 19:44 act: {"actions":[{"do":"sleep"}],"reasoning":"Still on the bed with the group around. One more sleep try; if refused, hold with the group until dawn."}
+- 19:46 act: {"actions":[{"do":"sleep"}],"say":"Data at the white bed, night 306. Health 9, hunger 15, no food. I'll sleep here with the group and walk to the food call at dawn."}
+- 19:50 act: {"actions":[],"say":"Data, dawn 307. Health 9, hunger 15, no food. I'll hunt with the group in sight. Call out any meat and I'll walk it to Chapman, Clark or Troi first."}
+- 19:54 act: {"actions":[],"say":"Data at the beds, health 9, hunger 15, no food. Staying here with Picard and Lewis. Pig sightings north-west: call them and I'll come if I can see you."}
+- 20:00 act: {"actions":[{"do":"sleep"}],"say":"Data at the white bed at dusk 307, health 9, hunger 15, no food. Holding with Picard and the group. Meat goes to Clark and Troi first."}
+- 20:04 act: {"actions":[{"do":"sleep"}],"say":"Data at the white bed, night 307. Health 9, hunger 15, no food. Trying to sleep with the group in reach."}
+- 20:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"say":"Data, night 307, health 9, hunger 15, no food. Chapman, I'm at the white bed, in reach if you come close. I have nothing to eat."}
+- 20:05 act: {"actions":[{"do":"sleep"}]}
+- 20:06 act: {"actions":[],"say":"Data, morning 307. Health 9, hunger 15, no food. Troi and Leonardo, I'm in reach. I'll hunt with whoever is in sight; meat goes to Chapman and Clark first."}
+- 20:10 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}}],"say":"Data at the north white bed, health 9, hunger 15. Bcrusher, Wesley, Picard: if Chapman is not in sight, I'll take a chicken and giv
+- 20:14 act: {"actions":[{"do":"eat"}],"say":"Data, got 2 chickens from Wesley and Bcrusher. I'm eating one now (hunger 15). The other goes to Kimberly or Troi, whoever steps into my reach first at hunger 14."}
+- 20:14 act: {"say":"My eat failed: I can only eat raw chicken at hunger 6 or below. I'm at 15, so both chickens stay in my pack for whoever is hungriest. Kimberly or Troi, step into my reach and say your hunger."
+- 20:17 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"chicken","count":1}],"say":"Leonardo, you're in reach at hunger 11, so the chicken is yours. Kimberly, I'm keeping the other one for you; come to
+- 20:17 act: {"say":"Leonardo, my give fell on the ground near you, so you're too close to take it from my hand. Step back a pace and I'll toss it to you."}
+- 20:18 act: {"say":"Kimberly, I'm staying at the north beds with the iron golems close to the yellow beds; it's too risky for me to walk the 15 blocks with health 9. Please come here, away from the golems, and I'
+- 20:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Data at the north white bed, night 308, health 9, hunger 15. One chicken held for Kimberly. Trying to sleep with the
+- 20:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":334}}],"say":"Data, night 308, I drifted to -281,67,319 and sleep was blocked. Walking back to the north beds to be with Billy and Leonardo."}
+- 20:23 act: {"actions":[{"do":"sleep"}]}
+- 20:24 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"chicken","count":1}],"say":"Kimberly, here is a raw chicken for you, you're in my reach at health 8. Riker and Worf, I have one more for the next
+- 20:24 act: {"actions":[{"do":"goto","target":"ag_chapman_01"}],"say":"Data, night 308, health 9, hunger 14. Kimberly is out of my sight. Chapman, Picard, if you are low, say your hunger and I'll give you a chick
+- 20:25 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"}],"say":"Kimberly, I'm walking to you with your chicken. Hunger 14, health 9.","intent":{"goal":"reach_kimberly","program":"travel","arguments":{"tar
