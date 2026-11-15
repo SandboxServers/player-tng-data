@@ -423,3 +423,5 @@
 - 11:31 act: {"intent":{"goal":"scout_grass_east","program":"travel","arguments":{"target":{"x":-230,"y":66,"z":315}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"li
 - 11:31 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-266,"y":67,"z":329}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limi
 - 11:40 act: {"intent":{"goal":"reach_white_bed","program":"travel","arguments":{"target":{"x":-298,"y":68,"z":295}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"lim
+- 11:41 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}}],"say":"Data, dusk day 282. Going to the white bed to sleep with the group. No food on me.","reasoning":"Dusk, no food, bed nearby. Get in 
+- 11:41 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"use","at":{"x":-281,"y":67,"z":320}}],"reasoning":"Earlier sleep failed as the way was blocked. Try getting onto the bed and using i
