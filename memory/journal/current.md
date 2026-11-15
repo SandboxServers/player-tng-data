@@ -266,3 +266,20 @@
 - 04:30 act: {"actions":[],"say":"Picard is out of sight, so I'm keeping my 8 seeds for now. Holding here by the crafting table. Trini first for any wheat or meat."}
 - 04:33 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"wheat_seeds","count":8}],"say":"Picard, here are my 8 wheat seeds for your plot near the water. My one wheat goes to Worf, since he is weakest."}
 - 04:33 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"wheat","count":1}],"say":"Picard, my last wheat goes to the bread pool. Trini and Worf first when there is bread."}
+- 04:36 act: {"intent":{"goal":"travel_to_west_cow_spot","program":"travel","arguments":{"target":{"x":-288,"y":67,"z":257}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_faile
+- 04:37 say: {"text":"Data at the west spot -288,67,257. No cow here, only a horse, and horses give no meat. I'll search further west next."}
+- 04:37 act: {"intent":{"goal":"scout_west_for_cows","program":"travel","arguments":{"target":{"x":-320,"y":66,"z":262}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],
+- 04:37 act: {"intent":{"goal":"scout_north_west_for_cows","program":"travel","arguments":{"target":{"x":-305,"y":66,"z":235}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fai
+- 04:38 act: {"actions":[{"do":"goto","target":{"x":-300,"y":64,"z":213}}],"say":"I'm in deep water at -299,62,221 with salmon nearby. Getting out to the sand first; I won't swim after them."}
+- 04:39 act: {"intent":{"goal":"return_to_group_at_beds","program":"travel","arguments":{"target":{"x":-283,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_faile
+- 04:39 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Dusk, day 261. No food found today, hunger 16. Going to the yellow bed by the crafting table to sleep. Food with eve
+- 04:43 act: {"actions":[{"do":"sleep"}],"say":"Night, day 261. Trying the yellow bed now. No food on me; food goes to Worf and Trini at dawn."}
+- 04:44 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":354}},{"do":"sleep"}],"say":"Data going to the second yellow bed at -263,67,354 for the night. Food goes to Worf and Trini at dawn."}
+- 04:45 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}},{"do":"sleep"}],"say":"Trying the white bed at -271,67,336 instead. Worf and Trini first for any food."}
+- 04:47 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Going to the north white bed at -270,67,318 to sleep. Jason, Trini and Worf, the mutton from Bcrusher goes to whoeve
+- 04:48 say: {"text":"Data here at dawn, day 261. Sleep blocked at every bed tonight, no food yet. I will search the west grass for animals; Worf and Trini first for anything found."}
+- 04:48 act: {"intent":{"goal":"search_for_food_animals","program":"travel","arguments":{"target":{"x":-288,"y":67,"z":257}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_wor
+- 04:48 act: {"intent":{"goal":"search_for_food_animals","program":"travel","arguments":{"target":{"x":-292,"y":67,"z":275}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_wor
+- 04:49 act: {"intent":{"goal":"return_to_camp_with_group","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":327}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_w
+- 04:53 say: {"text":"Data joining the west search with Riker and Trini, in sight of the group. Any meat goes to Worf, then Trini."}
+- 04:53 act: {"intent":{"goal":"west_search_with_group","program":"travel","arguments":{"target":{"x":-300,"y":66,"z":319}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_worl
