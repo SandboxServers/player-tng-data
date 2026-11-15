@@ -401,3 +401,8 @@
 - 10:31 act: {"actions":[{"do":"goto","target":{"x":-225,"y":67,"z":345}}],"say":"Data, dawn of day 279. No food. Riker and Worf have the chicken to the north, so I'll search the east grass for animals and call ou
 - 10:39 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"say":"Dusk is coming. I'm heading back to the beds at -240,69,344 to sleep. No food found on the east grass.","intent":{"goal":"return_to
 - 10:43 say: {"text":"Data here at -240,69,344, no food, health 20. Trini and LaForge first with any meat. I'm sleeping now."}
+- 10:44 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}}],"say":"Data at the white beds, night of day 279. No food yet; I'm sleeping now and will check the chicken at dawn.","reasoning":"Night, shelter
+- 10:44 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"use","at":{"x":-263,"y":67,"z":353}}],"reasoning":"The white bed sleep was blocked, so I'll try the free-looking yellow bed for the 
+- 10:44 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}}],"reasoning":"My earlier goto was interrupted. Walk to the yellow bed area to sleep."}
+- 10:49 act: {"actions":[],"say":"Data, dawn of day 280. Full at 20, no food on me. Troi has the chicken for Trini; LaForge and Trini first for any wheat or meat. I'm staying at the beds and will search for animal
+- 11:01 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}}],"reasoning":"Dusk, at the beds with the group. Try the bed under me for the night."}
