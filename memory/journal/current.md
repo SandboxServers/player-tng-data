@@ -35,3 +35,16 @@
 - 18:44 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}}],"intent":{"goal":"hold_yellow_bed_until_morning","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal
 - 18:45 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}}],"intent":{"goal":"return_to_yellow_bed_and_hold","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":353}},"wake_on":["directly_
 - 18:45 act: {"actions":[{"do":"sleep"}],"say":"Data back at the yellow bed with Picard and Lewis in sight. No food here. Trying the bed once more."}
+- 18:52 act: {"actions":[{"do":"goto","target":"ag_laforge_01"}],"say":"Data, hunger 16, health 9, no food. Going east with LaForge for the cow near -152,327. Meat goes to the lowest first.","intent":{"goal":"foll
+- 18:54 act: {"actions":[{"do":"goto","target":"ag_chapman_01"}],"say":"Data going to Chapman at -243,67,330 to stay with him. No food in my hands. Chapman, call me if you need a guard."}
+- 18:54 act: {"actions":[],"say":"Data at the yellow bed with Trini and Riker, health 9, hunger 16, no food. Chapman is out of my sight. Call out if you see meat, and I'll carry it to the lowest.","intent":{"goal"
+- 18:59 act: {"actions":[{"do":"goto","target":{"x":-243,"y":67,"z":331}}],"say":"Data going to Chapman at -243,67,330 to guard him with Trini. No food in hand, but I'll stay in his sight."}
+- 19:03 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":345}}],"say":"Data going to the yellow bed with the group for the night. No food in hand; calling at dawn."}
+- 19:03 act: {"actions":[{"do":"goto","target":{"x":-242,"y":69,"z":341}}],"say":"Golem right behind me, so I'm moving north away from it, toward the crafting table."}
+- 19:03 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}},{"do":"sleep"}],"say":"No golem in sight now. Trying the yellow bed. Hunger 16, health 9, no food; calling at dawn."}
+- 19:04 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom attacking to the south, I'm with Chapman and Riker. Fighting it with my sword."}
+- 19:08 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Trying the white bed at -270,67,336 now that the sky is clear. Still no food; I'll call out at dawn."}
+- 19:12 act: {"actions":[{"do":"goto","target":"ag_troi_01"}],"say":"Data, dawn 305, health 9, hunger 16, no food. Joining Troi and Worf on the meat hunt east, staying in their sight. Meat goes to Clark and Chapma
+- 19:12 act: {"actions":[],"say":"Jason, you hold the chicken. Chapman is the lowest at health 3, so please hand it to him. I have no food myself.","intent":{"goal":"hold_near_group","program":"follow","arguments"
+- 19:13 act: {"actions":[{"do":"goto","target":{"x":-243,"y":67,"z":331}}],"say":"Data, health 9, no food, lost sight of Troi. Heading back west to Jason and Chapman, where the chicken is."}
+- 19:14 act: {"actions":[],"say":"Jason, I'm with you at -242,67,331. Chapman and Clark are the lowest, so please give the chicken to whichever of them is in your sight first."}
