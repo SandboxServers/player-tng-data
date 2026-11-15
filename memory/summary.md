@@ -3,7 +3,7 @@
 I am Data, a person in this world. I must eat, and death is permanent.
 
 WHERE I AM
-- Day 300, dawn. Full health (20) and hunger (20).
+- Day 300 night, slept at the yellow bed (-263,67,353). Health 20, hunger 20 at sleep. Days since sleep reset to 0. No food in pack; holding 5 oak logs and 3 wheat seeds.
 - At the north white beds near -271,67,318, with the group (Zack, Leonardo, Kimberly, Worf, Trini, Clark).
 - Yellow bed by the crafting table: -263,67,353. South white bed: -271,67,336. Free white bed: -281,67,320.
 - Wheat plot (Lewis's and Kimberly's farmland): -273,66,332.
