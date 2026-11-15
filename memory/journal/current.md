@@ -436,3 +436,6 @@
 - 12:02 act: {"actions":[{"do":"sleep"}],"say":"Data: no food on me. Trying the bed beside me to sleep."}
 - 12:02 act: {"actions":[{"do":"sleep"}]}
 - 12:04 act: {"actions":[{"do":"sleep"}]}
+- 12:07 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Night, no shelter here. Group is at the white beds; go there and try to sleep. Health and hunger are full.","s
+- 12:07 act: {"actions":[{"do":"goto","target":{"x":-283,"y":70,"z":309}},{"do":"use","at":{"x":-283,"y":70,"z":309}},{"do":"sleep"}],"reasoning":"A spider is near and this spot is open. The yellow bed is four blo
+- 12:08 act: {"actions":[{"do":"sleep"}],"reasoning":"The yellow bed refused a click but I'm nearby and it's safe. Try sleep directly once."}
