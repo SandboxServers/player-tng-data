@@ -30,3 +30,8 @@
 - 18:29 act: {"actions":[{"do":"note","text":"Dawn day 302. Health 9, hunger 17, no food, at yellow bed. Jason says he is bringing food for Chapman; Chapman is lowest. I hold oak logs, seeds, sticks, sword."}],"sa
 - 18:33 act: {"actions":[{"do":"goto","target":"ag_laforge_01"}],"say":"Data going north with LaForge and Lewis to look for pigs and cows. Hunger 17, no food. Meat goes to Chapman and Zack's lowest first.","intent
 - 18:37 act: {"actions":[],"say":"Data at the yellow bed with Chapman and Lewis. Hunger 17, no food. Chapman and LaForge are lowest and are being fed; I'll stay here as a guard.","intent":{"goal":"guard_yellow_bed
+- 18:39 act: {"say":"Data at the yellow bed, health 9, hunger 17, no food in hand. Chapman and LaForge, I'm in sight and will help with cow or pig leads. Call out your name if you drop lower.","intent":{"goal":"ho
+- 18:43 act: {"actions":[{"do":"sleep"}],"say":"Data at the yellow bed for the night. I have no food; Chapman and LaForge, call me if you need me."}
+- 18:44 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}}],"intent":{"goal":"hold_yellow_bed_until_morning","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal
+- 18:45 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}}],"intent":{"goal":"return_to_yellow_bed_and_hold","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":353}},"wake_on":["directly_
+- 18:45 act: {"actions":[{"do":"sleep"}],"say":"Data back at the yellow bed with Picard and Lewis in sight. No food here. Trying the bed once more."}
