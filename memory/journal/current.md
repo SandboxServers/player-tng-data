@@ -352,3 +352,9 @@
 - 07:08 act: {"actions":[{"do":"goto","target":{"x":-284,"y":66,"z":322}}],"reasoning":"Iron golems closing in from east and west. Move north away from them, toward the group at the north beds.","say":"Data moving
 - 07:08 act: {"actions":[],"say":"Data here, hunger 9, no food. I'll join Riker and Tommy's search for cows or pigs. Meat to Trini or Chapman first.","reasoning":"Golems are behind me to the south. Join the animal
 - 07:13 act: {"actions":[{"do":"goto","target":{"x":-296,"y":66,"z":316}}],"intent":{"goal":"scout_northwest_grass_for_animals","program":"travel","arguments":{"target":{"x":-296,"y":66,"z":316}},"wake_on":["direc
+- 07:20 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}}],"say":"Data here, dusk, hunger 9 with no food. Going to the old white bed at -298,68,295 to try sleeping.","intent":{"goal":"reach_old_bed
+- 07:20 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}},{"do":"sleep"}],"say":"Data at the white bed -298,68,295, trying to sleep. Hunger 9, no food."}
+- 07:29 act: {"actions":[{"do":"goto","target":{"x":-300,"y":68,"z":314}}],"say":"Data, dawn day 270, hunger 8, no food. Joining the west search for cows or pigs. Any meat goes to Chapman and Trini first.","intent
+- 07:33 act: {"actions":[{"do":"goto","target":{"x":-290,"y":67,"z":318}}],"say":"Data back toward the beds with the group. No animals west. Still hunger 8 with no food; any meat goes to Chapman and Trini first."}
+- 07:44 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"say":"Data at night, hunger 8, no food. Trying the free white bed at -282,67,320 once. Meat still goes to Chapman and Trin
+- 07:57 say: {"text":"Data, no food, hunger 8. I have one wheat seed for the replanting; I'll give it to whoever tills the field. Bread to Trini first."}
