@@ -330,3 +330,9 @@
 - 06:27 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Heading to the yellow bed to sleep. Hunger 11, health 6.8, no food on me.","reasoning":"Night, no food, sleep failed
 - 06:28 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}}],"say":"Trying to reach the yellow beds again. Hunger 11, no food yet; it is dawn.","reasoning":"Sleep failed as way blocked and my positio
 - 06:28 act: {"actions":[],"say":"I'm at the yellow beds with Trini and Zack. It's dawn, no food on me. I'll go scouting for animals with the group; meat goes to Jason, then Trini, then Worf.","reasoning":"Dawn, h
+- 06:29 act: {"say":"Data at the yellow beds, hunger 11, no food. I'm going out to scout for animals now. Any meat goes to Jason first, then Trini.","actions":[{"do":"note","text":"Dawn day 267: scouting west/sout
+- 06:30 act: {"say":"Data scouting east of the beds for animals. Calling out any sheep, cow or pig I find.","intent":{"goal":"scout_east_for_animals","program":"travel","arguments":{"target":{"x":-235,"y":67,"z":3
+- 06:30 act: {"say":"Data scouted east to -235,68,353. No animals here. Going further east to look.","intent":{"goal":"scout_far_east_for_animals","program":"travel","arguments":{"target":{"x":-210,"y":68,"z":353}
+- 06:31 act: {"say":"Data at -215,69,352, east of the beds in the oak and birch trees. No animals yet. Trying north-east next.","intent":{"goal":"scout_north_east_for_animals","program":"travel","arguments":{"targ
+- 06:32 act: {"say":"Data at -201,71,336 in the oak forest. No animals. I'm breaking oak leaves for apples; any apple goes to Billy or Kimberly first.","actions":[{"do":"mine","block":"oak_leaves","count":8}]}
+- 06:37 act: {"say":"Data: no animals east either; Worf and Wesley found only trees. It's getting dark, so I'm heading back to the yellow beds to sleep.","intent":{"goal":"return_to_yellow_bed_for_night","program"
