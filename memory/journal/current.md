@@ -199,3 +199,12 @@
 - 02:19 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
 - 02:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Data at dusk, day 254. Health 3, hunger 17, no food. Trying the white bed to sleep. Any meat goes to Worf first, the
 - 02:30 say: {"text":"Data at dawn, day 255. Health 3, hunger 17, no food on me. I'll stay by the white beds with the group and search the grass in sight. Any meat goes to Jason or Clark first, then me."}
+- 02:35 act: {"say":"Data here, health 3, hunger 17, no food. Thank you Riker. Any meat, please send it my way. I will stay by the white beds with LaForge.
+- Dusk day 255: waited at the white beds with Zack and LaForge. Health 3, hunger 17, no food; meat called for Trini, Data, Jason. Trying the white bed at -271,67,336 to sleep.
+- Dawn day 256: sleep refused three times ("not night"). Game link dropped during wait and status (session superseded, POST errors). Health 3, hunger 17, no food; holding at the white beds near -272,67,336. Will retry once the link is back.
+- Day 256 midday: link back. Rest intent failed again (as before), so I am using plain waits. Iron golems 8-14 blocks south. Health 3, hunger 17, no food. Trini first, then me.
+- Night day 255: sleep refused twice (skeleton, then creeper nearby). Health 3, hunger 17, no food. Staying in sight of Zack, Billy, Tommy, Worf at the white beds; meat goes to Trini, Data, Jason first. Will retry sleep at dawn.","intent":{"goal":"wait_for_food_near_camp","program":"re
+- 02:40 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Data at the white beds for the night, health 3, hunger 17, no food. Trini, Riker and Jason first for any meat when i
+- 02:44 act: {"actions":[{"do":"sleep"}],"say":"Data at the white bed at night, day 255. Health 3, no food. Trying to sleep with the group."}
+- 02:52 act: {"actions":[{"do":"sleep"}],"say":"Data, dawn of day 256. Health 3, hunger 17, no food. Trini gets any meat first, then me. Staying in sight of the group."}
+- 02:56 act: {"say":"Data, day 256. Health 3, hunger 17, no food. Trini first for any meat, then me. I'm holding at the white beds with the group and will try a bed at dusk.","intent":{"goal":"hold_at_beds_for_foo
