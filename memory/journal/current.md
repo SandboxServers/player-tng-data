@@ -336,3 +336,19 @@
 - 06:31 act: {"say":"Data at -215,69,352, east of the beds in the oak and birch trees. No animals yet. Trying north-east next.","intent":{"goal":"scout_north_east_for_animals","program":"travel","arguments":{"targ
 - 06:32 act: {"say":"Data at -201,71,336 in the oak forest. No animals. I'm breaking oak leaves for apples; any apple goes to Billy or Kimberly first.","actions":[{"do":"mine","block":"oak_leaves","count":8}]}
 - 06:37 act: {"say":"Data: no animals east either; Worf and Wesley found only trees. It's getting dark, so I'm heading back to the yellow beds to sleep.","intent":{"goal":"return_to_yellow_bed_for_night","program"
+- 06:43 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Data here at the yellow bed for the night. No food. Meat at dawn goes to Trini, then Jason."}
+- 06:44 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 06:45 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-262,"y":67,"z":351}}],"say":"Data stuck at -240,69,344 trying to reach the yellow bed. Trying a different route."}
+- 06:45 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 06:46 act: {"actions":[{"do":"note","text":"Yellow bed unreachable by goto from north-east side (route keeps returning me to -240,69,344). Holding here until dawn, then find a path from the bed's west/south side
+- 06:49 act: {"actions":[{"do":"goto","target":{"x":-300,"y":67,"z":325}}],"say":"Data, dawn day 268, hunger 9, health 6.8, no food. Going west with the group to look for animals. Any meat: Kimberly, then Worf, th
+- 06:49 act: {"actions":[{"do":"goto","target":{"x":-320,"y":66,"z":300}}],"say":"Data at the west grass, -300,66,325. No animals here. Scouting south-west to -320,300 and calling out anything I see.","intent":{"g
+- 06:49 act: {"actions":[{"do":"note","text":"Reached -320,65,300 south-west. No animals, no food. Phantom reported near -305,68,292 by Worf. Holding and listening for group."}]}
+- 06:49 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}},{"do":"sleep"}],"say":"Data going to the white bed at -271,67,336 to sleep. No food found in the south-west."}
+- 06:49 act: {"actions":[{"do":"note","text":"At white bed -271,67,337 in daytime; sleep needs night. Holding near the beds until dusk. Salmon in deep water to the north-west; no rod."}],"intent":{"goal":"hold_at_
+- 07:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Data here, night, no food, going to the white bed to sleep.","reasoning":"It is night. The white bed is two blocks a
+- 07:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"The south bed was blocked. Try the north white bed once, a different bed."}
+- 07:08 act: {"actions":[{"do":"goto","target":{"x":-285,"y":66,"z":337}}],"intent":{"goal":"scout_west_for_animals","program":"travel","arguments":{"target":{"x":-285,"y":66,"z":337}},"wake_on":["directly_address
+- 07:08 act: {"actions":[{"do":"goto","target":{"x":-284,"y":66,"z":322}}],"reasoning":"Iron golems closing in from east and west. Move north away from them, toward the group at the north beds.","say":"Data moving
+- 07:08 act: {"actions":[],"say":"Data here, hunger 9, no food. I'll join Riker and Tommy's search for cows or pigs. Meat to Trini or Chapman first.","reasoning":"Golems are behind me to the south. Join the animal
+- 07:13 act: {"actions":[{"do":"goto","target":{"x":-296,"y":66,"z":316}}],"intent":{"goal":"scout_northwest_grass_for_animals","program":"travel","arguments":{"target":{"x":-296,"y":66,"z":316}},"wake_on":["direc
