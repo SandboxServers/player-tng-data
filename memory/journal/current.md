@@ -419,3 +419,7 @@
 - 11:27 act: {"actions":[{"do":"sleep"}],"say":"Data here at the north beds, night of day 281. No food, health and hunger 20. Trying to sleep with the group. Any food goes to Trini first."}
 - 11:28 act: {"actions":[],"say":"Data: I have 2 rotten flesh now. Trini, at hunger 6 you come first. Say when you are in reach and I will hand it over."}
 - 11:29 act: {"actions":[{"do":"goto","target":{"x":-270,"y":66,"z":329}},{"do":"give","to":"ag_trini_01","item":"rotten_flesh","count":2}],"say":"Trini, I'm bringing you the 2 rotten flesh now, at hunger 6. Eat o
+- 11:31 act: {"intent":{"goal":"scout_grass_northeast","program":"travel","arguments":{"target":{"x":-255,"y":66,"z":315}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"
+- 11:31 act: {"intent":{"goal":"scout_grass_east","program":"travel","arguments":{"target":{"x":-230,"y":66,"z":315}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"li
+- 11:31 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-266,"y":67,"z":329}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limi
+- 11:40 act: {"intent":{"goal":"reach_white_bed","program":"travel","arguments":{"target":{"x":-298,"y":68,"z":295}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"lim
