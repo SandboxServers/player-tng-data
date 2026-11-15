@@ -358,3 +358,6 @@
 - 07:33 act: {"actions":[{"do":"goto","target":{"x":-290,"y":67,"z":318}}],"say":"Data back toward the beds with the group. No animals west. Still hunger 8 with no food; any meat goes to Chapman and Trini first."}
 - 07:44 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"say":"Data at night, hunger 8, no food. Trying the free white bed at -282,67,320 once. Meat still goes to Chapman and Trin
 - 07:57 say: {"text":"Data, no food, hunger 8. I have one wheat seed for the replanting; I'll give it to whoever tills the field. Bread to Trini first."}
+- 08:15 act: {"say":"Data here, hunger 8, no food. I'll try the white bed beside me for the night.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"use","at":{"x":-271,"y":67,"z":336}}]}
+- 08:23 act: {"say":"Data at dusk, day 272. No food, hunger 8. Trying the bed beside me once.","actions":[{"do":"sleep"}]}
+- 08:28 act: {"say":"Data going to the bed at -271,67,318, the one Trini says worked at full night.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
