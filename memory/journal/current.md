@@ -168,3 +168,32 @@
 - 00:40 act: {"actions":[{"do":"sleep"}]}
 - 00:50 act: {"say":"Data here at the north beds, day 250. No food on me. Any food found goes to Trini first, then hungry members.","intent":{"goal":"hold_with_group_for_food","program":"rest","arguments":{},"wake
 - 01:00 act: {"actions":[{"do":"sleep"}],"say":"Data, dusk of day 250. No food on me. Trying the north white bed now with Jason and Billy."}
+- 01:10 act: {"say":"Data at the white beds, dawn of day 251. Health 3, hunger 16, no food. I have 3 oak logs, 3 sticks and a wooden sword. Food goes to Worf and Trini first. I'm searching the north-west grass in 
+- 01:10 act: {"say":"Data at the north-west grass, -290,67,304. No animals or apples here. Holding with the group, and any food goes to Worf and Trini first.","intent":{"goal":"hold_grass_watch_for_animals","progr
+- 01:16 act: {"say":"Data is heading north to the cow near -286,66,245 that Laforge saw. Troi has a porkchop, and Worf is weakest at hunger 6, so Worf first, then Trini. I'll call out anything I find.","intent":{"
+- 01:16 act: {"say":"Data at -286,66,246. No cow or pig in sight here, so Laforge's lead may be old. I'm staying with Laforge and will search the grass around here. Call out if you find anything.","intent":{"goal"
+- 01:17 act: {"say":"Data here at -286,66,246 with Wesley and Laforge. Still no cow in sight. Afternoon is ending, so I'm heading back to the white beds for the night, and I'll keep hunting in sight of the group."
+- 01:17 act: {"say":"Troi, you have the porkchop and I'm right beside you. Worf is the weakest at hunger 6, and Trini is first on the list, so please give it to whichever of them is in sight. I have no food to add
+- 01:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Data going to the white bed at -270,67,318 for the night. I have no food. Porkchops are with Riker and Worf now; I'm
+- 01:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Data trying the white bed at -271,67,318 once more. Beds to the south were occupied, and the golems are close to the
+- 01:23 act: {"say":"Data at -272,67,336 with Zack. All the beds are taken, so I can't sleep yet. I'll stay put beside Zack, away from the golems to the south, and try a free bed when one opens.","intent":{"goal":
+- 01:23 act: {"intent":{"goal":"reach_free_bed","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpected_damage"],"limi
+- 01:23 act: {"actions":[{"do":"sleep"}]}
+- 01:27 act: {"actions":[{"do":"sleep"}]}
+- 01:34 act: {"intent":{"goal":"join_troi_for_pigs","program":"travel","arguments":{"target":{"x":-255,"y":67,"z":300}},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpected_damage"],"
+- 01:34 act: {"intent":{"goal":"return_to_beds_with_riker","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":327}},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpected_dam
+- 01:34 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":325}}],"say":"Data's route back to the beds stopped at a drop. Trying again toward -270,67,325."}
+- 01:42 act: {"intent":{"goal":"reach_bed_at_318","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpected_damage"],"li
+- 01:43 act: {"actions":[{"do":"sleep"}]}
+- 01:45 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"sleep"}],"say":"Going to the white bed to sleep. Thanks Zack, I will come to you for the porkchop."}
+- 01:46 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}}],"say":"Data here, at the white beds. Riker, I have health 3 and hunger 14. Please hand the porkchops to me when you reach me; Worf first i
+- 01:46 act: {"actions":[{"do":"eat"}],"say":"Thank you Zack. Eating the porkchop now."}
+- 01:46 act: {"actions":[],"say":"Zack, Riker: the porkchop did not reach me, my pack has no food. Please give it to me here at -272,67,337, I am at health 3."}
+- 01:48 act: {"actions":[],"say":"Thank you Zack, I ate the porkchop. It is dawn now. I will look for an animal with the group, and I will share anything I find with Worf and Kimberly first."}
+- 01:55 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"oak_log","count":3}],"say":"Zack, here are my 3 oak logs for your sword. Worf and Trini still come first for any meat."}
+- 02:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}},{"do":"sleep"}],"say":"Dusk. Trying the bed at -270,67,336 to sleep. I have no food, so I will wake and hunt at dawn."}
+- 02:00 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}},{"do":"sleep"}]}
+- 02:04 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Going to the bed at -270,67,336 to sleep. Food first at dawn: Trini, then Worf, then me."}
+- 02:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 02:13 act: {"actions":[],"say":"Data here at the north beds, health 3, no food. Trini, Worf and Clark eat first. Any spare meat after them, I'm in sight at -273,67,337."}
+- 02:19 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
