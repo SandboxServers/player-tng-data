@@ -325,3 +325,4 @@
 - 06:17 act: {"intent":{"goal":"return_to_yellow_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["goal_completed","directly_addressed","precondition_failed","unexpected_damage"
 - 06:18 act: {"actions":[{"do":"note","text":"Day 266 afternoon: walked back toward yellow beds, now at -256,67,351 by water. Iron golem 3 blocks south-west, closing. No food, hunger 11, health 6.8. Holding still,
 - 06:18 act: {"say":"Data at the yellow beds, no food, hunger 11. Picard, I have not seen sheep, cows or pigs near here today; the west grass was empty. Any meat, Trini first, then Jason.","actions":[{"do":"note",
+- 06:20 act: {"actions":[{"do":"sleep"}],"say":"Data at the yellow bed, dusk. No food yet; any meat goes to Trini, then Jason, then Billy. Trying the bed now.","reasoning":"Dusk, safe enough with Zack and Picard i
