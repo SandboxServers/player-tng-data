@@ -208,3 +208,4 @@
 - 02:44 act: {"actions":[{"do":"sleep"}],"say":"Data at the white bed at night, day 255. Health 3, no food. Trying to sleep with the group."}
 - 02:52 act: {"actions":[{"do":"sleep"}],"say":"Data, dawn of day 256. Health 3, hunger 17, no food. Trini gets any meat first, then me. Staying in sight of the group."}
 - 02:56 act: {"say":"Data, day 256. Health 3, hunger 17, no food. Trini first for any meat, then me. I'm holding at the white beds with the group and will try a bed at dusk.","intent":{"goal":"hold_at_beds_for_foo
+- 03:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"use","at":{"x":-271,"y":67,"z":336}}],"say":"Data here, at the white bed, night of day 256. Health 3, hunger 17, no food. Trini and 
