@@ -48,3 +48,16 @@
 - 19:12 act: {"actions":[],"say":"Jason, you hold the chicken. Chapman is the lowest at health 3, so please hand it to him. I have no food myself.","intent":{"goal":"hold_near_group","program":"follow","arguments"
 - 19:13 act: {"actions":[{"do":"goto","target":{"x":-243,"y":67,"z":331}}],"say":"Data, health 9, no food, lost sight of Troi. Heading back west to Jason and Chapman, where the chicken is."}
 - 19:14 act: {"actions":[],"say":"Jason, I'm with you at -242,67,331. Chapman and Clark are the lowest, so please give the chicken to whichever of them is in your sight first."}
+- 19:15 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Jason, Data here, in your sight. Chapman and Clark are the lowest. Please give the chicken to whichever of them you see first.","intent":{"goal
+- 19:16 act: {"actions":[],"say":"Jason, keep the chickens for Chapman and Clark. I'm next to you at health 9, hunger 16, and I'll wait here in your sight."}
+- 19:19 act: {"actions":[],"say":"Chapman is lowest at health 3, at the white beds. Jason, if you can reach him, give him the chicken now. Troi, I'm at 9 and not lowest, so the rotten flesh is yours to keep if you
+- 19:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"say":"Jason gave me 3 chickens. Data walking to the white beds with them now. Chapman and Clark, call your name when I'm in your sight an
+- 19:22 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"chicken","count":2}],"say":"Chapman, two raw chickens from Jason, for you. Eat one now. Clark, I have one more for you if you come into reach."}
+- 19:22 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"chicken","count":1}],"say":"Clark, I'm giving you the last chicken. Kimberly, the two chickens I meant for Chapman went to you by mistake. Please pa
+- 19:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Gave my last chicken to Clark. I'm out of food, so I'm going to the white bed with the group for the night."}
+- 19:30 act: {"actions":[],"say":"Morning 306. Data, health 9, hunger 15, no food. Worf, I'll scout east with you and stay in your sight. Any meat goes to Chapman first, then Kimberly.","intent":{"goal":"scout_eas
+- 19:30 act: {"actions":[{"do":"goto","target":"ag_worf_01"}],"say":"Worf, I'm next to you. Going east with you and Kimberly, staying in sight."}
+- 19:30 act: {"actions":[{"do":"goto","target":{"x":-254,"y":67,"z":330}}],"say":"Heading east toward -254,67,330 with Worf, Kimberly and Leonardo. Call out any meat."}
+- 19:31 act: {"actions":[{"do":"goto","target":"ag_chapman_01"}],"say":"I'm alone at the east edge, so I'm going back to Chapman's group to stay in sight."}
+- 19:31 act: {"actions":[{"do":"note","text":"Morning 306: with Chapman and bcrusher in reach at -267,66,334. Health 9, hunger 15, no food. Waiting for word of meat from the east scouts."}],"say":"Data here with C
+- 19:35 act: {"actions":[{"do":"note","text":"Midday 306: food is with Chapman (3 raw chickens), Jason (2 rotten flesh), Troi (1). I have none and am at hunger 15. Staying in reach of Chapman and bcrusher; waiting
