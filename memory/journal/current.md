@@ -1,4 +1,12 @@
 # Journal
+- Day 257 night, later: held with the group while golems moved off. Going to the north white bed (-271,67,319) to sleep. Still no food, hunger 17, health 3.
+- Day 258 dawn: sleep refused again (creeper 6 blocks away); golems south and south-west of the beds. Now scouting north-east for animals; meat to Trini, Ezra, then me.
+- Day 258 morning: north goto blocked near -262,305; no animals in sight there. Trying east toward -248,300.
+- Day 258: reached -248,300, no animals. Now going east to -232,300. Troi and Lewis are scouting north-east too.
+- Day 258 late morning: no animals at -232,300. Checking north to -232,280. Still no food, hunger 17, health 3.
+- Day 258 midday: no animals at -232,280 either. Heading back to the group at -262,322 to hold until food or dusk.
+- Day 257 night: searched grass north-east, no animals. Back at dusk to the white beds; sleep refused by a creeper and "the way was blocked" at the bed. Health 3, hunger 17, no food. Staying with the group near -271,67,327; golems to the south-west. Meat goes to Trini, then Ezra, then me.
+- Day 257 dawn: slept at the white bed -272,67,336 (sleep worked; it stayed night until dawn). Health 3, hunger 17, no food. Holding near the beds with Picard and searching nearby grass for animals. Meat goes to me, then Trini.
 - Day 242 night: at the white beds with the group, health 3, hunger 16, no food. Sleep at -270,67,318 failed (monsters nearby). Waited with the group until the session ended. Handoff updated.
 - Day 233 dawn: the white bed at -271,67,318 reported sleep success all night but days_since_sleep stayed 0 until morning; golems and bows came from the south. Hunger 20, no food. Heading west with Tommy toward the pig at -338,64,223, meat to Billy and Jason first.
 - 17:48 act: {"actions":[{"do":"goto","target":{"x":-247,"y":67,"z":367}}],"intent":{"goal":"gather_oak_log_south","program":"gather","arguments":{"block":"oak_log","count":6},"wake_on":["directly_addressed","prec
@@ -209,3 +217,25 @@
 - 02:52 act: {"actions":[{"do":"sleep"}],"say":"Data, dawn of day 256. Health 3, hunger 17, no food. Trini gets any meat first, then me. Staying in sight of the group."}
 - 02:56 act: {"say":"Data, day 256. Health 3, hunger 17, no food. Trini first for any meat, then me. I'm holding at the white beds with the group and will try a bed at dusk.","intent":{"goal":"hold_at_beds_for_foo
 - 03:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"use","at":{"x":-271,"y":67,"z":336}}],"say":"Data here, at the white bed, night of day 256. Health 3, hunger 17, no food. Trini and 
+- 03:11 act: {"say":"Data, day 257 dawn. Health 3, hunger 17, no food. Searching the short grass close to the beds with Picard in sight. Any meat goes to me and Trini as agreed.","intent":{"goal":"search_grass_by_
+- 03:12 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":324}}],"say":"Golems are 9 blocks south of me. Moving north, away from them, toward the crafting table. Still no food; meat goes to Ezra and Trin
+- 03:16 act: {"intent":{"goal":"hold_near_beds_and_watch_for_animals","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_blo
+- 03:16 act: {"actions":[{"do":"goto","target":{"x":-252,"y":67,"z":312}}],"say":"Data searching grass to the north-east, around -252,67,312, for animals. Calling out anything I see. Meat goes to Ezra and Trini fi
+- 03:18 act: {"say":"Data still searching the grass north-east near -252,67,312. No animals in sight yet. Meat goes to Ezra and Trini first, then me.","intent":{"goal":"search_grass_for_animals","program":"wait","
+- 03:18 act: {"actions":[{"do":"wait","seconds":120}]}
+- 03:19 act: {"say":"Data at dusk, day 257. No food yet. Heading to the white beds at -271,67,336 with the group to sleep. Meat goes to Ezra and Trini first, then me.","actions":[{"do":"goto","target":{"x":-271,"y
+- 03:19 act: {"actions":[{"do":"wait","seconds":60},{"do":"sleep"}]}
+- 03:20 act: {"actions":[{"do":"sleep"}]}
+- 03:21 act: {"actions":[{"do":"wait","seconds":45},{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 03:21 act: {"actions":[{"do":"wait","seconds":90},{"do":"sleep"}]}
+- 03:23 act: {"say":"Data trying the white bed now, night of day 257. No food, hunger 17. Meat goes to Trini first, then Ezra.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 03:24 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":327}}]}
+- 03:24 act: {"actions":[{"do":"wait","seconds":60}],"say":"Still here with the group, no food yet. Waiting for the golems to move off before I go back to the bed."}
+- 03:25 act: {"actions":[{"do":"wait","seconds":90}],"say":"Holding with the group. Golems are 11 blocks off now. I'll try the bed once the way clears."}
+- 03:27 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"sleep"}],"say":"Going to the north white bed to sleep. No food yet; meat goes to Trini, Ezra, then me."}
+- 03:27 act: {"actions":[{"do":"wait","seconds":120},{"do":"sleep"}]}
+- 03:29 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":305}}],"say":"Dawn of day 258, no food yet. Scouting north for animals. Meat goes to Trini first, then Ezra, then me.","intent":{"goal":"scout_no
+- 03:29 act: {"actions":[{"do":"goto","target":{"x":-248,"y":67,"z":300}}],"say":"Nothing in sight at -262,305. Trying east toward -248,300 for animals."}
+- 03:29 act: {"actions":[{"do":"goto","target":{"x":-232,"y":67,"z":300}}],"say":"No animals at -248,300. Going east to -232,300."}
+- 03:29 act: {"actions":[{"do":"goto","target":{"x":-232,"y":67,"z":280}}],"say":"No animals at -232,300. Checking north to -232,280."}
+- 03:30 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":322}}],"say":"No animals north-east either. Heading back to the group near the wheat at -262,322."}
