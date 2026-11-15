@@ -443,3 +443,5 @@
 - 12:12 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"Phantoms are on me and I have no sword. Strike while staying near the golems and group at the wheat.","say":"Phantoms are on me at the whea
 - 12:20 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"intent":{"goal":"sleep_at_white_bed","program":"rest","arguments":{"bed":{"x":-270,"y":67,"z":318}},"wake_on":["directly_a
 - 12:25 act: {"actions":[{"do":"sleep"}],"reasoning":"No mobs in view now; retry sleep at the white bed beside me."}
+- 12:30 act: {"say":"Dawn of day 285. I'm full (hunger 20) and have no food to share. I'll scout north for animals with Wcrusher and bring anything I find to Picard and Trini first.","intent":{"goal":"scout_animal
+- 12:34 act: {"say":"Data here, full with no food. The spider is near me, so I'm going back to the white beds to stay with the group and help with bread and wheat.","intent":{"goal":"return_to_white_beds","program
