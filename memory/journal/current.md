@@ -406,3 +406,5 @@
 - 10:44 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}}],"reasoning":"My earlier goto was interrupted. Walk to the yellow bed area to sleep."}
 - 10:49 act: {"actions":[],"say":"Data, dawn of day 280. Full at 20, no food on me. Troi has the chicken for Trini; LaForge and Trini first for any wheat or meat. I'm staying at the beds and will search for animal
 - 11:01 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}}],"reasoning":"Dusk, at the beds with the group. Try the bed under me for the night."}
+- 11:09 act: {"say":"Data, dawn day 281. No food on me. Scouting the grass just east of the beds for animals, staying in sight. Meat goes to LaForge, Picard, then Trini.","actions":[{"do":"goto","target":{"x":-262
+- 11:10 act: {"say":"Data: no animals in sight east of the beds. Going back to the north white beds with the group. No food on me.","actions":[{"do":"goto","target":{"x":-268,"y":67,"z":332}}]}
