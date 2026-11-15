@@ -22,3 +22,8 @@
 - 18:23 act: {"say":"Jason, I'm holding LaForge's chicken for you. I'm coming to you now.","actions":[{"do":"goto","target":"ag_jason_01"}]}
 - 18:23 act: {"say":"Jason, I can't see you. I hold LaForge's chicken for you. Step into my sight at the north white bed, -270,67,336, and say so."}
 - 18:25 act: {"say":"Data at the north white bed, holding LaForge's chicken for Jason. Jason, Zack or anyone at 6 or below who is in my sight: say so and it's yours."}
+- 18:26 act: {"actions":[{"do":"goto","target":{"x":-264,"y":66,"z":351}}],"say":"Data here. I hold LaForge's chicken for Jason, who was at health 2. Walking to the yellow bed to hand it over. Jason, call out if y
+- 18:26 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"chicken","count":1}],"say":"Jason, here is LaForge's chicken, sent to you. Chapman at health 5 is next lowest if you can share."}
+- 18:26 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"chicken","count":1}],"say":"Jason, I'm handing you the chicken now. Please confirm you have it."}
+- 18:26 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}},{"do":"sleep"}],"say":"Jason, the chicken is in your hands now. Chapman is next lowest. I'm going to try the yellow bed."}
+- 18:26 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}},{"do":"sleep"}]}
