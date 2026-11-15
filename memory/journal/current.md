@@ -198,3 +198,4 @@
 - 02:13 act: {"actions":[],"say":"Data here at the north beds, health 3, no food. Trini, Worf and Clark eat first. Any spare meat after them, I'm in sight at -273,67,337."}
 - 02:19 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
 - 02:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Data at dusk, day 254. Health 3, hunger 17, no food. Trying the white bed to sleep. Any meat goes to Worf first, the
+- 02:30 say: {"text":"Data at dawn, day 255. Health 3, hunger 17, no food on me. I'll stay by the white beds with the group and search the grass in sight. Any meat goes to Jason or Clark first, then me."}
