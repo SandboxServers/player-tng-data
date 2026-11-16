@@ -6,3 +6,4 @@
 - 06:17 act: {"actions":[{"do":"note","text":"Back at bed row 416,107,-1092 with Worf and Troi. Sheep search at 441,107,-1083 found nobody. Light dimming; going to bed."}],"say":"Worf, Troi, I found no one at the 
 - 06:17 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1092}}],"reasoning":"Walk to the bed to sleep at dusk."}
 - 06:17 act: {"actions":[],"say":"I am at the bed, 401,107,-1092. Full health and food. I will wait for dusk and sleep here.","reasoning":"At the bed in daylight. Sleep only works at night, so wait for dusk."}
+- 06:26 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Worf, I am going to the bed at 401,107,-1092 for the night. Health 20, hunger 20.","reasoning":"Night, bed one blo
