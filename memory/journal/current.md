@@ -7,3 +7,4 @@
 - 16:18 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1022}},{"do":"sleep"}],"reasoning":"At my bed at dusk, in the bed row, away from the enderman. Sleep now."}
 - 16:18 act: {"actions":[{"do":"sleep"}],"reasoning":"The use on the bed failed; try sleep from where I stand beside my bed."}
 - 16:21 act: {"say":"Good morning, Troi. Data here, at the bed 444,107,-1023. I have 3 chicken. Tell me your hunger and I will give one when you are in sight and at 6 or below, as I hold them for the lowest.","rea
+- 16:46 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}},{"do":"use","at":{"x":443,"y":107,"z":-1023}}],"say":"Data here, going to my bed at 443,107,-1023 for the night, in sight of the group. H
