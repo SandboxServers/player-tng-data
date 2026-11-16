@@ -1,8 +1,8 @@
-# Handoff (day 335, dusk, sleeping)
+# Handoff (day 345, dusk, by the bed row)
 
-In the bed at 401,107,-1092, sleep worked (1 of 10 asleep). Safe. Health 20, hunger 20.
-Pack: wooden sword, 3 oak planks, 1 white wool, 4 stripped oak logs, 3 leaf litter, 3 oak saplings, wooden pickaxe, 2 sticks.
+Standing at 416,107,-1092, next to the bed at 415,107,-1092. Health 20, hunger 20. Safe, Clark and Worf in sight. No errand running.
+Pack: 5 oak planks, 2 white wool, wooden sword, wooden pickaxe, 4 stripped oak log, 3 leaf litter, 3 oak sapling, 2 sticks. No food.
 
-Done today: follow by name and by id both failed at once. goto to Bcrusher's spot worked, but nobody was in sight there. Worf walked east alone toward 425,107,-1082 for sheep; I did not go, because dusk came. Bcrusher stays at the beds with melon.
-Next: at first light, get Worf or Bcrusher in sight by walking to them (goto works, follow does not), then search east for sheep together. Need 2 more white wool.
-Food: Bcrusher holds 17 melon; cow at 406,104,-1138; chicken at 344,93,-1111.
+Done: oak search at 466,112,-1108 found only birch and jungle. No oak there. Clark's old note was wrong.
+Next: find a third white wool, then craft a white bed with 3 oak planks. Eat when hunger drops. Food: Beverly holds melon; Lewis holds beef and chicken; cow at 406,104,-1138; chicken at 344,93,-1111.
+Plan: sleep at true night in the bed at 415,107,-1092, then reflect.

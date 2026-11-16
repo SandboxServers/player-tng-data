@@ -15,3 +15,48 @@
 - 06:33 act: {"say":"Worf, Data here at the bed row, health 20, hunger 20. Ready to search for sheep with you in sight. Picard, I hold no food, but I can walk with MacDonald."}
 - 06:37 act: {"say":"Laforge, Worf: Data at 416,107,-1092, by the beds. Nobody has found sheep east yet. Let's gather here, in sight, then search together."}
 - 06:41 act: {"actions":[{"do":"sleep"}],"say":"Night, all. Data is in the white bed here. Health 20, hunger 20. Goodnight."}
+- 06:43 act: {"say":"Good morning. Data here, at the beds with 20 health and 20 hunger. I am going east toward 425,107,-1082 to look for sheep for wool.","actions":[{"do":"goto","target":{"x":425,"y":107,"z":-1082
+- 06:43 act: {"say":"I am at 425,107,-1081, east of the beds. No sheep or people in sight. I will wait here a little for Worf or Bcrusher.","actions":[]}
+- 06:46 act: {"say":"Data at 425,107,-1081, east of the beds, in the open. Still no sheep in sight. Worf, I can walk back to the beds to search with you once you are free. Lewis, thank you; I have planks enough fo
+- 06:49 act: {"say":"Worf, I see you. Let's search east together, keeping each other in sight.","actions":[{"do":"goto","target":"ag_worf_01"}],"intent":{"goal":"search_east_sheep_with_worf","program":"follow","ar
+- 06:50 act: {"say":"Follow failed again, so I will walk to people by name instead. Clark is in sight; I am going to him, and then to Worf.","actions":[{"do":"goto","target":"ag_clark_01"}]}
+- 06:50 act: {"say":"Clark, Data here beside you at 442,107,-1088. I have no food to give, but I can walk back to the beds with you before dusk. How are you?","actions":[]}
+- 06:53 act: {"say":"Dusk is here, and Worf reported an enderman to the east. I am going to the bed at 415,107,-1092 now, Clark, come with me.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1092}}],"inten
+- 06:53 act: {"say":"I am at the bed at 415,107,-1092, Troi. Health 20, hunger 20. I will sleep here for the night.","actions":[{"do":"sleep"}]}
+- 06:57 act: {"say":"Good morning. Data at the bed row, health 20, hunger 20. Worf, I am sorry about your things. I will walk east with you again for sheep if you can be in sight. Laforge, I'll ask for your planks
+- 07:00 act: {"say":"Worf, I am at the bed row at 416,107,-1093, waiting. When you are in sight I will walk to you and we can search east together.","actions":[]}
+- 07:07 act: {"say":"Thank you, Worf, for the white wool. I now have 2. I need one more for a bed. Clark, I can ask for melon later if I get low; I am fine at 20.","actions":[{"do":"note","text":"Worf gave me whit
+- 07:07 act: {"say":"Worf, I am ready. Let's walk east for sheep together, staying in sight of each other.","actions":[{"do":"goto","target":"ag_worf_01"}]}
+- 07:07 act: {"intent":{"goal":"search_east_sheep_with_worf","program":"travel","arguments":{"target":{"x":425,"y":107,"z":-1082}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"m
+- 07:08 act: {"say":"I am at the sheep field, 425,107,-1083, and I see no one. I am going back to the bed row to find Worf before walking on.","actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1091}},{"do":"n
+- 07:08 act: {"say":"Worf, I am with you at the bed row. The sheep field was empty again. Dusk is coming, so I am going to the bed at 415,107,-1092 to wait for night. We can search again at first light.","actions"
+- 07:12 act: {"say":"Good morning, all. Data here with Worf at the bed row, health 20, hunger 20. Worf, let's walk east together for sheep again, in sight.","intent":{"goal":"search_sheep_east_with_worf","program"
+- 07:12 act: {"say":"No sheep here at 425,107,-1083, and Worf is not in sight. I am going back to the bed row to meet him.","actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1091}}]}
+- 07:12 act: {"say":"Worf and Clark, Data is back at the bed row, health 20, hunger 20. The sheep field east is empty again. Has anyone seen sheep elsewhere? I will wait here with you.","actions":[{"do":"note","te
+- 07:20 act: {"say":"Night is here. Data is going to the bed at 415,107,-1092 to sleep. Health 20, hunger 20. Good night.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1092}},{"do":"sleep"}]}
+- 07:24 act: {"say":"Morning, all. Data at the bed row, health 20, hunger 20. Still 2 white wool and no third. Worf, I will search south-east with you in sight once it is full daylight.","actions":[{"do":"note","t
+- 07:25 act: {"say":"Worf, Data is heading south-east to look for sheep with you in sight. I will stay near the bed row if the field is empty.","actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1080}}],"inten
+- 07:25 act: {"say":"I am at 430,107,-1081. No sheep and no one in sight here. Troi, I am glad to hear you are fed. I have no food, so I will go back to the bed row and help MacDonald's group however I can.","acti
+- 07:33 act: {"say":"Night, all. Data is going to the bed at 415,107,-1092 to sleep. Health 20, hunger 20. Thank you, Laforge, for the planks. Worf, see you at dawn for the sheep search.","actions":[{"do":"goto","
+- 07:35 act: {"say":"Morning, all. Data is up at the bed row, health 20, hunger 20. Worf, I will search north-east this time for sheep, and I will keep you in sight.","actions":[{"do":"goto","target":{"x":440,"y":
+- 07:35 act: {"say":"I am at 439,107,-1100, north-east of the beds. No sheep here and no one in sight. There are drops to the north-west, so I am careful. Going back to the bed row to meet Worf.","actions":[{"do":
+- 07:39 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"oak_planks","count":4}],"say":"Worf, Laforge's 4 oak planks landed with me by mistake. I am passing them to you now. Laforge, I hold 9 planks still; 
+- 07:40 act: {"say":"Laforge, the 4 planks went to you instead of Worf. Please hand the 4 to Worf, he is at 416,107,-1091. I am keeping 9 for the wall."}
+- 07:44 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"oak_planks","count":4}],"say":"Worf, here are 4 oak planks for you now."}
+- 07:44 act: {"say":"Worf, Laforge, my gives keep going to Laforge, not Worf. I have only 5 oak planks left now. Laforge, please pass 4 of the planks I gave you to Worf. I am going to the bed to sleep now.","actio
+- 07:48 act: {"say":"Laforge, I hold 9 oak planks now; your planks keep landing on me. I am stepping three blocks east so you can hand Worf his 4 directly. Clark, I have no food, but I can keep watch for you.","ac
+- 07:56 act: {"actions":[{"do":"note","text":"Planks are still moving between Laforge, Clark and Worf. I hold 9 oak planks and will not add to the mix unless Worf asks me directly."}],"say":"Worf, I hold 9 oak pla
+- 08:00 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"oak_planks","count":4}],"say":"Worf, I am giving you 4 oak planks now, from my own stock."}
+- 08:09 act: {"actions":[],"say":"Thanks, Clark, for the jungle log spots. I have 5 oak planks and 2 white wool if anyone needs them. Still no third wool for a bed."}
+- 08:13 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Night, all. Data is going to the bed at 415,107,-1092. Health 20, hunger 20. Goodnight."}
+- 08:17 act: {"actions":[],"say":"Laforge, I do not need oak logs for now; I hold 4 stripped oak logs and 5 planks. My real need is one more white wool. Johnny, Clark, I can walk with you to the oak near 466,112,-
+- 08:21 act: {"actions":[],"say":"Chapman, Clark, Data is ready. Chapman, lead us to the oak near 466,112,-1108 and I will stay in sight of you both."}
+- 08:23 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1092}}],"say":"Dusk is here. Data is going to the bed at 415,107,-1092 to wait for night and sleep."}
+- 08:27 act: {"actions":[{"do":"goto","target":{"x":462,"y":110,"z":-1108}}],"say":"Clark, Chapman, Data is coming with you to the oak near 466,112,-1108. Stay in sight, please."}
+- 08:31 act: {"actions":[{"do":"note","text":"Day 345 midday at 462,110,-1108. No oak logs here, only birch and jungle. Clark and Chapman are looking north-west; Worf stays here. I hold no food, health 20, hunger 
+- 08:31 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1091}}],"say":"Clark, Chapman: I will walk back to the bed row with you, and we can look for the third wool and food there."}
+- 08:32 act: {"actions":[{"do":"note","text":"Back at the bed row 416,107,-1092 with Clark and Chapman. Oak search at 466,112 found only birch and jungle. Health 20, hunger 20, no food in my pack."}],"say":"Clark,
+- 08:36 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1092}}],"say":"Dusk. Data is going to the bed at 415,107,-1092 and will sleep at true night. Clark, Worf, stay in sight."}
+- 08:40 act: {"actions":[{"do":"sleep"}],"say":"Data is at the bed row beside 415,107,-1092, health 20, hunger 20. Trying to sleep now. Goodnight, all."}
+- 08:44 act: {"actions":[{"do":"note","text":"Morning day 345 at the bed row. Clark health 11 hunger 16. Worf holds 3 mutton for whoever is weakest. Laforge has 25 oak planks. I hold no food and I am waiting by th
+- 08:56 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Got 2 oak logs from Clark, from the oak at 414,104,-1126. Trying to sleep at the bed 415,107,-1092."}],"say":"Clark, thank you for the two oak logs. Goo
