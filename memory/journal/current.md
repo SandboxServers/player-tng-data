@@ -1,1 +1,1 @@
-Day 362, daytime. Tools briefly failed (session superseded, POST errors), then recovered. At the bed row at 430,107,-1023, health 20, hunger 20, 3 chicken held. Worf holds 12 planks and will call when he starts the ring; Jason is waiting with him for the cow walk. Days since sleep: 5. I said I would hold here and wait for Worf's call, and I will sleep in my bed (429,107,-1022) at dusk.
+# Journal
