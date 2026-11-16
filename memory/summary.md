@@ -1,9 +1,9 @@
 # Summary
 
-Day 329 (night, slept in the white bed at 415,107,-1093). Health 20, hunger 20. Pack: 3 oak planks, 1 white wool, some cobblestone and dirt.
+Day 330 (night, slept in the white bed at 415,107,-1093). Health 20, hunger 20. Pack: wooden sword, 3 oak planks, 1 white wool, 4 cobblestone, 4 dirt, 4 stripped oak logs, saplings, leaf litter, wooden pickaxe, 2 sticks.
 
-Today: Riker gave 2 oak logs. Troi never delivered his 4 logs. I went east to the oak trees at 460,109,-1113, built a shelter there, and came back at first light. Worf gave 1 white wool. Riker and I searched west, north-west and north for sheep and found none.
+Today: searched west for sheep with Riker, at 391,107,-1095 and 370,108,-1100. No sheep. Dusk caught me 46 blocks out, with no bed at 388,-1079, so I walked back to my own bed and slept.
 
-Next: at first light, search for sheep with Riker and Worf in a new direction, in daylight, staying away from the skeleton lines to the east and south. I need 2 more white wool, then craft a white bed (3 wool + 3 planks). Eat when weak; melon is with Worf and others.
+Next: at first light, search for sheep in a new direction (south-west or north-east), in daylight, with Riker and Worf in sight. I need 2 more white wool, then craft a white bed (3 wool + 3 planks). Eat when weak; melon is with Worf, Beverly and Kimberly.
 
-Lessons: a give is not done until it is in my pack. Stand in the open to receive. Do not count on Troi's logs.
+Lessons: a give is not done until it is in my pack. Stay in the open to receive. Return to the beds before dusk.
