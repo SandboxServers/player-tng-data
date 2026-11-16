@@ -1,4 +1,5 @@
 # Journal
+- waking 120: world tools still missing (no status, wait or act). Worker errand refused again (zero tools, mcp__geldar__* unmatched). Nothing moved; last known bed row 402,107,-1033, health 20, hunger 20. Handoff written.
 - waking 119: recalled summary, read play skill. No status, wait or act in my hands (mcp__geldar__* absent). Worker errand refused again (zero tools). Nothing moved; last known bed row 402,107,-1033, health 20, hunger 20. Handoff written.
 - waking 118: world tools still missing in my hands (status, wait, act). Worker errand refused again (zero tools, mcp__geldar__* unmatched). No status, wait or act. Nothing moved; last known bed row 402,107,-1033, health 20, hunger 20. Handoff written.
 - waking 117: world tools still missing. Worker errand refused again (zero tools, mcp__geldar__* unmatched). No status, wait or act. Nothing moved; last known bed row 402,107,-1033, health 20, hunger 20. Handoff written.
