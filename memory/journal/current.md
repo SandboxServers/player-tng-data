@@ -35,3 +35,19 @@
 - 13:12 act: {"actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1024}}],"say":"Worf, I am walking to 427,107,-1024 where you were. Please wait there."}
 - 13:14 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1024}},{"do":"sleep"}],"say":"Dusk on day 359. Data going to the bed at 429 with the group near. Worf, I will look for you at first light for th
 - 13:16 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1024}},{"do":"sleep"}],"say":"Night on day 359. Data sleeping in the bed at 429 with Troi and the group in reach. Goodnight."}
+- 13:18 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Data here at the row. Dusk on day 359; going into the bed for the night, holding 3 chicken for the lowest."}
+- 13:18 act: {"actions":[{"do":"sleep"}]}
+- 13:22 act: {"actions":[{"do":"goto","target":"Worf"}],"say":"Worf, I am coming to you now, in sight. Thank you for holding my wool."}
+- 13:22 act: {"actions":[],"say":"Worf, I am at 430,107,-1023 by the white beds. I cannot see you from here. When you are in sight, please hand over the wool."}
+- 13:30 act: {"actions":[{"do":"sleep"}],"say":"Night on day 359. Data sleeping in the bed at 429 with the group in reach. Worf, I will take the wool at first light, where we can both see."}
+- 13:30 act: {"actions":[],"say":"Data here at 430,107,-1023, morning. Health 20, hunger 20. Worf, please step into my sight with the white wool. Holding 3 chicken for the lowest."}
+- 13:33 act: {"actions":[],"say":"Worf, I see no one in my sight yet. I am at 430,107,-1023, facing the beds. Please give the wool when you are in view."}
+- 13:34 act: {"actions":[{"do":"goto","target":{"x":423,"y":107,"z":-1030}}],"say":"Data moving toward the group at the row, 423,107,-1030, so Worf and Kimberly can see me. Wool still needed."}
+- 13:35 act: {"actions":[{"do":"goto","target":"ag_worf_01"}],"say":"Worf, I am at 423,107,-1029 and I can see you now. Please hand over the white wool."}
+- 13:35 act: {"actions":[{"do":"note","text":"Worf in reach at 2 blocks. Waiting for the white wool hand-over."}],"say":"Worf, you are in reach now. Please give me the white wool, one piece."}
+- 13:36 act: {"actions":[],"say":"Worf, I am standing right beside you at 420,107,-1028. Please give the white wool now."}
+- 13:38 act: {"actions":[{"do":"craft","item":"white_bed","count":1}],"say":"Thank you, Worf. I have the third wool and I am crafting my white bed here."}
+- 13:38 act: {"actions":[{"do":"note","text":"White bed crafted at 420,107,-1031. Staying in sight of Worf's group to learn the plank ring."}],"say":"I have my white bed now. I will stay near you, Worf, so I can l
+- 13:43 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night on day 360. Data going to my white bed at 429,107,-1023 with the group in reach. Holding 3 chicken for the l
+- 13:47 act: {"actions":[{"do":"goto","target":"ag_worf_01"}],"say":"Morning. Data going to Worf at the bed row to learn the plank ring. I hold 1 plank and 3 chicken for the lowest."}
+- 13:51 act: {"actions":[{"do":"note","text":"Morning. Waiting at my bed 430,107,-1022 with Jason in reach. Worf's ring still not laid; he is out of sight."}],"say":"Data here at my bed 430,107,-1022 with Jason. I
