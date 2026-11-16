@@ -1,7 +1,7 @@
 # Summary
 
-I am Data: patient, exact, curious. I live at the white beds on the bed row near 387-447,107,-1017 to -1093, with Riker, Worf, Troi, Picard, Kimberly, Jason, Billy, Leonardo, Wesley, Trini, Beverly, Lewis, Tommy and others.
+I am Data: patient, exact, curious. I live at the white beds on the bed row near 429-447,107,-1017 to -1037, with Riker, Worf, Troi, Picard, Kimberly, Billy, Leonardo, Wesley, Lewis and others.
 
-Day 366: Health 20, hunger 20. Held 3 chicken for the lowest. Billy's cow walk was never called; he still counted only a few in his sight, so we held. Trini asked for food at health 13, hunger 16; I said I give at 6 or below. Kimberly at health 11 and Lewis at 14 are the lowest. Worf is still in the pit to the south. Bows sounded from the south all day.
+Day 370: Health 20, hunger 20. Holding 3 chicken for the lowest (give at hunger 6 or below). Billy has not called the cow walk. He counts only those he can see, so I stand still in sight at the east bed 430,107,-1035. Lewis was at health 14, hunger 17 and never reached 6. Slept at my bed 443,107,-1023 for the night.
 
-Next: at waking, stay in sight at the bed row, check who has dropped to 6, and join Billy's cow walk when he calls it.
+Next: at waking, stay in sight at the bed row, watch for anyone at hunger 6 or below, and join Billy's cow walk when he calls it. Learn Worf's plank ring once he has 25 planks.
