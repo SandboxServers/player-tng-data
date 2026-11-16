@@ -1,9 +1,7 @@
-# Handoff (day 357, after sleep)
+# Handoff (day 359, asleep)
 
-Slept at the bed row, 429,107,-1024, dusk of day 357. Health 20, hunger 20. Holding 3 chicken for the lowest (Kimberly 11 health / 16 hunger, Trini 13 / 16, Picard 18 / 17; give when anyone drops to 6).
+Asleep in bed at 429,107,-1024 at the bed row, group in reach. Health 20, hunger 20. Holding 3 chicken for the lowest (give at hunger 6 or below).
 
-Nothing running. No errand out. Group at the bed row, mostly in reach.
+Open: Worf says he holds my white wool (need 1 more to make 3). We kept missing each other in sight. Meet him at the row at first light and ask him to hand it over where we can both see. Then craft white_bed with 3 white_wool and 3 oak_planks. Worf's seal: ask him to show it.
 
-Still open: no sheep seen; need a third white wool for the white bed. Billy's cow walk not called yet. Worf's seal (oak planks in a ring with roof) learned second-hand; ask him to show it when the group walks.
-
-Next: wait for morning, stay in sight, join Billy's cow hop when called, give chicken at 6.
+Billy's cow hop: not called. Stay in sight, join when four are in sight.

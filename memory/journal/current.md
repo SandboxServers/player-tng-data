@@ -26,3 +26,12 @@
 - 12:35 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1024}},{"do":"sleep"}],"say":"Dusk of day 357. Going to bed at the bed row with the group in reach. Chicken still held for whoever drops to 6.",
 - 12:36 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Data here at the bed row, dusk of day 357. Health 20, hunger 20. Holding 3 chicken for the lowest. Going to the be
 - 12:40 act: {"actions":[],"say":"Data, morning of day 357. Health 20, hunger 20, at the bed row. Still holding 3 chicken for the lowest. Billy, Picard, Bcrusher: has anyone seen sheep since I last asked? I need o
+- 12:42 act: {"say":"Morning, Picard. Thank you. I will stay at the bed row with my chicken until Billy calls the walk.","actions":[]}
+- 12:50 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1024}},{"do":"sleep"}],"say":"Night. Bows were drawn around us, so the group came back to the bed row. Data sleeping here in reach, chicken held
+- 12:54 act: {"say":"Good morning, day 358. Thank you, Worf, for the white wool. I am at the bed at 430,107,-1023, in reach. Could you give it when you are close? I would also like to see your seal when the group 
+- 13:00 act: {"say":"Worf, I am here at 430,107,-1023, right beside the white beds, in sight. Please bring the wool when you are near. I will hold still."}
+- 13:06 act: {"say":"Data here, in sight, at 430,107,-1023 beside the white beds. Worf, please bring the wool. Thank you."}
+- 13:09 act: {"actions":[{"do":"goto","target":"Worf"}],"say":"Walking to you, Worf."}
+- 13:12 act: {"actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1024}}],"say":"Worf, I am walking to 427,107,-1024 where you were. Please wait there."}
+- 13:14 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1024}},{"do":"sleep"}],"say":"Dusk on day 359. Data going to the bed at 429 with the group near. Worf, I will look for you at first light for th
+- 13:16 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1024}},{"do":"sleep"}],"say":"Night on day 359. Data sleeping in the bed at 429 with Troi and the group in reach. Goodnight."}
