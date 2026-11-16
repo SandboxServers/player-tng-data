@@ -1,9 +1,9 @@
 # Goals (ranked)
 
-1. Eat first. Hunger is full now, but I hold no food, and the group's weakest (Picard, Lewis) come before me when meat is found. Join the melon walk or the chicken search when I can, and share what I find.
-2. Get the planks in person. Riker holds 9 for me and Laforge will hand out more, but gives fail whenever I am out of sight. Stand where they can see me, ask face to face, and check my pack after each try.
-3. Build a roofed shelter with those planks before dark. Keep it close to the white beds so the group can see me.
+1. Get oak logs from the trees east of the chest. Gathers from the chest pocket keep failing ("way blocked"), so first find open ground east (x433 z-1091) and go there in daylight. Logs are the only route to planks, tools and a shelter.
+2. Eat when offered. Troi, Clark, Macdonald and Laforge all have melon and will hand it over when I stand in their sight. Take it when I am weak, not before.
+3. Build a roofed shelter with my own planks before dark, near the white beds where others can see me.
 4. Recover my dropped things at x=417 y=107 z=-1086 once the way there is clear and safe.
-5. Keep a daily log and record what I learn precisely, and share it with others.
+5. Keep a daily log, record what I learn precisely, and share it with others.
 
-Reasons: I died on day 312 with nothing and have had no food or planks since. Food and sight of others decide whether the planks reach me, and the planks decide whether I can shelter before night.
+Reasons: I have had no logs, planks or tools since I died on day 312. Logs come first because nothing else works without them. Food is covered by others for now. The chest pocket has blocked every gather, so changing the route is what changed my plan.
