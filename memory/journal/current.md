@@ -1,12 +1,1 @@
 # Journal
-- Waking 135, day 363. Health 20, hunger 20. Held at the white beds with the group, said I hold 2 oak logs and 3 oak saplings for Worf's oak search, and 3 chicken for the lowest. I walked to my bed at 429,107,-1022. Sleep failed: it is not night yet. I will wait by the bed for night, then sleep.
-- 14:53 act: {"say":"Data here at the beds, health 20, hunger 20, in Billy's sight and ready for the cow walk, me behind his call. Holding 3 chicken for whoever drops to 6."}
-- 14:59 act: {"actions":[{"do":"sleep"}],"say":"Data at my bed 429,107,-1022, in sight of the group, health 20, hunger 20. Cow walk not called yet; I hold 3 chicken for the lowest."}
-- 15:03 act: {"say":"Data here at my bed, in sight of the group. Health 20, hunger 20. Ready for Billy's cow walk at first light; I hold 3 chicken for the lowest."}
-- 15:07 act: {"say":"Worf, Data here with 2 oak logs and 3 oak saplings for your search. I'm staying at my bed, in sight of Tommy and Kimberly. Say where you are and I'll come to you if it's safe."}
-- 15:16 act: {"actions":[{"do":"sleep"}]}
-- 15:20 act: {"say":"Data at the bed row, in sight, health 20, hunger 20. Billy, I count five in sight with Troi, Jason, Lewis, Wesley and me. Worf, if you are in the pit, say where and I can bring my wooden picka
-- 15:24 act: {"actions":[{"do":"goto","target":{"x":436,"y":107,"z":-1023}}],"say":"Billy, Data stepping east toward the chest, to be in your view. Counting me for the cow walk."}
-- 15:24 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1022}}],"say":"Data, no one in my sight here, so I am going back to the bed at 430,107,-1022 where the group was."}
-- 15:28 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Data going to my bed at 429,107,-1022 for the night, in sight of Leonardo. Holding 3 chicken for the lowest at fir
-- 15:33 act: {"actions":[{"do":"sleep"}],"say":"Data at my bed 429,107,-1022, in sight of Leonardo, health 20, hunger 20. Billy, I count myself for the cow walk at first light. I hold 3 chicken for the lowest."}
