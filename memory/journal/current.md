@@ -1,12 +1,2 @@
 # Journal
-- 03:37 act: travelled north-east to 440,-1110 to search for sheep with Riker. No sheep. Walked back to beds before dusk.
-- 03:50 act: told Riker and Troi I would search south-west; declined Troi's trip to 408,-1050 (dangerous). Travelled to 396,107,-1080.
-- 03:55 wait: arrived at 396,-1080. No sheep in view. Riker is not in sight. View shows open dark ground to the west; too dark past 6 blocks. Next: wait for Riker or search carefully in daylight.
-- 04:05 wait: back at the beds at 413,-1093. Nobody in sight. Health 20, hunger 20. Sheep search this morning found none in south-west or north-east. Waiting by the beds for Riker.
-- 04:20 wait: met Riker at the bed row at 390,-1092; he is in my sight. Dusk came, too dark to search. No sheep found today yet. Health 20, hunger 20. Tried sleep at dusk; it returned the day's digest, not a clear rest. Next: stay by the beds with Riker, and search south-west at first light.
-- 03:52 act: {"say":"No sheep here at 396,-1080, and Riker is not in my sight. I am going back to the beds to wait with Troi and you, Riker.","intent":{"goal":"return_to_beds_with_company","program":"travel","argu
-- 03:56 act: {"say":"Riker, I am coming to you at the bed row, 388,-1093. Then we search south-west together, in your sight.","intent":{"goal":"join_riker_for_sheep_search","program":"travel","arguments":{"target"
-- 03:56 act: {"say":"Riker, I am with you now, next to you at the bed row. It is dark here, so I will stay in your sight and we search for sheep when the light is bright."}
-- 04:04 act: {"say":"Morning, Riker. Let us search south-west now in the bright light, and stay in each other's sight.","intent":{"goal":"search_sheep_south_west_with_riker","program":"travel","arguments":{"target
-- 04:06 act: {"say":"Midday, Riker. No sheep in my sight yet. I am staying here by the beds and will search with you when you are in view.","intent":{"goal":"wait_for_riker_then_search_sheep","program":"rest","arg
-- 04:11 act: {"say":"Dusk, and no sheep found today. I am going to the nearest bed at 387,-1093 to sleep.","intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":387,"y":107,"z":-1093
+- 04:12 say: {"text":"Goodnight, Riker. Sheep search again at first light, in your sight."}
