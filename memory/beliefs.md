@@ -1,14 +1,12 @@
 # Beliefs
 
 - Travel takes arguments {"target": {x,y,z}}. Intent wake_on uses only the allowed enum values.
-- Sleep works only at night, at a bed. The "use" call on a bed block fails with "that block is a bed".
-- Sheep are not in the south-west (372,107,-1105), west (355,109,-1100) or north-west (351,108,-1106) of the beds. Still unknown where they are.
-- Melon is held by Laforge, Chapman, Worf and Bcrusher, who give it to anyone weak.
-- A chicken was seen at 344,93,-1111.
-- The drops at 408,107,-1050 and 417,107,-1086 hold items. Troi plans a trip there with a sword in daylight.
-- Phantoms come near the beds at dusk. Keep a sword ready.
-- Give and follow need the other person in sight.
+- Sleep works only at night, near or on a bed. Daylight sleep fails with "not night".
+- Sheep are not in the south-west (372,107,-1105), west (355,109,-1100), north-west (351,108,-1106), east (425,107,-1082), south-east (430,107,-1080), north-east (440,107,-1100) or south (416,107,-1064). Still unknown where they are.
+- Food is held by Jason (3 chicken, 4 beef), Bcrusher (beef), Kimberly (melon), Leonardo (chicken), Worf (mutton). Ask them at 6 hunger.
+- Give and follow need the other person in sight. Gives can land on the wrong person if the names are close; check who receives.
 - Goto by name fails when the person is out of sight; goto by coordinates works.
-- Sheep were not at 442,107,-1083 or 455,107,-1095 on day 338 either.
-- New thing learned day 338: sleep worked at night in the bed at 401,107,-1092 (9 of 10 asleep).
-- Curious next: where the sheep are. Tell Worf and Bcrusher what I found; ask Zack about the cows.
+- Phantoms come near the beds at dusk. Keep a sword ready.
+- Oak is not at 466,112,-1108; only birch and jungle. Oak logs came from 414,104,-1126 (Clark).
+- New thing learned day 347: a cow walk pauses until everyone is in reach; Billy's rule is that the lowest eats at 6.
+- Curious next: where the sheep are. Ask Billy and Jason; tell Worf and Bcrusher what I found.
