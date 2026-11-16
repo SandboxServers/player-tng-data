@@ -9,3 +9,8 @@
 - Night 354: a use on the bed was refused ("that block is a bed"), but a plain sleep worked and the night was skipped. Health 20, hunger 20, 3 chicken still held. Sheep still unseen.
 - 11:33 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"use","at":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night. Data going to the white bed here with the group in reach. Goo
 - 11:34 act: {"actions":[{"do":"sleep"}],"reasoning":"Use on the bed was refused as a bed; try sleep directly while standing beside it."}
+- Day 354 morning: Billy's cow walk stalled again; nobody moved. Dusk: going to bed at 429 with group. Sleep queued.
+- Sleep refused: it is not night yet (afternoon). I stand by the bed at 429 and will wait for dusk, then sleep.
+- 11:38 act: {"say":"Data here at the bed row, health 20, hunger 20, in reach. Ready to walk to the cows with Billy when he calls. Still holding 3 chicken for the lowest at 6.","reasoning":"Morning. Billy will cal
+- 11:42 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1024}},{"do":"sleep"}],"say":"Dark is coming. Data going to the white bed at 429 with the group in reach. Goodnight.","reasoning":"Dusk is here 
+- 11:46 act: {"actions":[{"do":"sleep"}],"say":"Night. Data sleeping in the bed here, group in reach. Goodnight all.","reasoning":"It is night now. Sleep beside the bed, in reach of the group."}
