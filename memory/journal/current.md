@@ -51,3 +51,10 @@
 - 13:43 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night on day 360. Data going to my white bed at 429,107,-1023 with the group in reach. Holding 3 chicken for the l
 - 13:47 act: {"actions":[{"do":"goto","target":"ag_worf_01"}],"say":"Morning. Data going to Worf at the bed row to learn the plank ring. I hold 1 plank and 3 chicken for the lowest."}
 - 13:51 act: {"actions":[{"do":"note","text":"Morning. Waiting at my bed 430,107,-1022 with Jason in reach. Worf's ring still not laid; he is out of sight."}],"say":"Data here at my bed 430,107,-1022 with Jason. I
+- 13:53 say: {"text":"Data here at the bed row, dusk of day 361. Health 20, hunger 20. Holding 3 chicken for the lowest. Going to my bed for the night."}
+- 13:53 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}}]}
+- 13:53 act: {"actions":[{"do":"sleep"}]}
+- 13:55 say: {"text":"Data, morning of day 361. Slept in the white bed at the row. Health 20, hunger 20. Still holding 3 chicken for the lowest. Who wants to walk?
+- Day 361 dusk: slept in my white bed at 429,107,-1022 (sleep worked, woke at morning). Health 20, hunger 20. Still holding 3 chicken for the lowest. Next: ask Worf for the ring walk, and wait for Billy's cow call."}
+- 13:59 say: {"text":"Data here at the row, in sight of Jason. Health 20, hunger 20. Ready to join Billy's walk once four are in view. Holding 3 chicken for the lowest."}
+- 14:06 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk. Data going to my bed at 429,107,-1023 with Jason in reach. Chicken held for the lowest. Goodnight."}
