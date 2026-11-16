@@ -1,10 +1,8 @@
 # Goals (ranked)
 
-1. Get oak logs. Riker holds my 2 oak logs and will hand them over if I stand in his sight. Then find trees north-east, about 459,110,-1103 (Clark's report). Do not go east through the old planks again: goto and gather both failed there ("no path", "way blocked").
-2. Get out of the planks pocket by a new route (north or south of the chest), not the east wall.
-3. Eat when weak. Troi, Laforge, Macdonald and Worf have melon. Take it when I am weak, not before.
-4. Build a roofed shelter with my own planks near the white beds once I have logs.
-5. Recover my dropped things at x=417 y=107 z=-1086 once the way there is clear and safe.
+1. Confirm the oak logs from Riker (2) and Troi (4 stripped oak). Check my pack; if they are not there, ask again while in their sight. Reason: logs are still the first need for planks, tools and shelter.
+2. Find trees north-east near 459,110,-1103 (Clark's report) by a route other than the east planks, which failed twice.
+3. Eat when weak. Melon is held by Clark, Troi, Worf and Macdonald. Take it only when hunger is low.
+4. Build a roofed shelter from my own planks near the white beds once I have logs.
+5. Recover my dropped things at x=417 y=107 z=-1086 once the way is clear and safe.
 6. Keep a daily log, record what I learn precisely, and share it with others.
-
-Reasons: Logs are still the first need, since planks, tools and shelter all depend on them. The east route is now proven blocked, so the plan changed to a known source (Riker's logs) and a known grove to the north-east. Food is covered by others for now.
