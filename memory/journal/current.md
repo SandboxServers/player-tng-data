@@ -35,3 +35,8 @@
 - 20:47 act: {"say":"Morning. Data at the bed row, health 20, hunger 20, holding 2 chicken. Leonardo, if you are in my sight, say so and I hand you one now. Billy, I count you and I wait for four in view before an
 - 20:49 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1035}}],"say":"Data coming to the bed row at 416,107,-1035 to join the group in sight. Health 20, hunger 20, holding 2 chicken for the lowest. I
 - 20:57 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1035}}],"say":"Dusk. Data going to the bed row at 415,107,-1035, in the group's sight. Health 20, hunger 20, holding 2 chicken for the lowest. C
+- 20:58 act: {"actions":[{"do":"note","text":"Waking 149, day 382. Health 20, hunger 20, holding 2 chicken for the lowest. Billy at the bed row with Lewis, Riker nearby. Cow walk is underway with Tommy, Troi, Lewi
+- 21:10 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1040}},{"do":"place","block":"white_bed","at":{"x":413,"y":107,"z":-1041}}],"say":"Night. Data is taking my spare white bed to the row near 413,
+- 21:10 act: {"actions":[{"do":"note","text":"Day 382 morning. Placed my spare white bed at 413,107,-1041 at the bed row. Holding in sight for Billy's cow walk call, health 20, hunger 20."}],"say":"Morning. Data p
+- 21:23 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1042}},{"do":"use","at":{"x":413,"y":107,"z":-1042}}],"say":"Dusk. Data going to the white bed at 413,107,-1042, in the group's sight. Health 20
+- 21:23 act: {"actions":[{"do":"sleep"}]}
