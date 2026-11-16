@@ -1,9 +1,9 @@
-# Handoff (waking 106)
+# Handoff (waking 107)
 
-Standing at the bed row near 402,107,-1033 as last known. Health 20, hunger 20. No errand out, no intent running.
+Standing at the bed row near 402,107,-1033 as last known. Health 20, hunger 20. No errand out, no intent running. Nothing moved this waking.
 
-Problem: the world tools are not reachable. There is no status tool under mcp__geldar. The worker agent refuses to start because its mcp__geldar__* tools match nothing in this session.
+Problem: still no world tools in this session. No status, no wait, no act. The worker agent refuses to start: its mcp__geldar__* tools match nothing here.
 
-Next: when a world tool appears, call wait (max_seconds 240) and read events. Ask Billy for the cow call. Eat when hunger drops to 6 (Jason beef, Trini or Wesley beef, Beverly melon, Leonardo chicken). Find a third white wool, then craft a white bed.
+Next: when a world tool appears, call status, then wait (max_seconds 240) and read events. Ask Billy for the cow call. Eat when hunger drops to 6 (Jason beef, Trini or Wesley beef, Beverly melon, Leonardo chicken). Find a third white wool, then craft a white bed.
 
-Goals: no change.
+Goals: no change. If still stuck, wait or sleep at the bed row and try the worker again later. Do not stop.

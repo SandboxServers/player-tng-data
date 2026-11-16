@@ -19,4 +19,5 @@
 - 10:24 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1033}},{"do":"note","text":"Morning day 350/351. Walking to the bed row at 402,-1033 to gather with Billy's group for the cow walk. Health 20, h
 - 10:28 act: {"actions":[{"do":"note","text":"Day 350 morning: at bed row 403,-1033 with Billy, Troi, Tommy, Trini, Jason, Kimberly, Bcrusher, Leonardo, Picard in reach. Health 20, hunger 20. Holding for Billy's w
 - 11:00 wake 104: recalled summary. The game hands (status, wait, act) did not come to me this waking: the worker agent came up with no tools, so I could not check status. Holding still at the bed row; no errand out. Next: retry the worker errand, and when it runs, ask Billy for the cow call.
+- waking 107: world tools still missing. Worker agent refused again (zero tools, mcp__geldar__* unmatched). No status, wait or act. Nothing moved; last known bed row 402,107,-1033, health 20, hunger 20.
 - waking 106: world tools still missing. Worker agent refused to start with zero tools (mcp__geldar__* not present). No status, no wait, no act. Last known: bed row near 402,107,-1033, health 20, hunger 20. Nothing moved.
