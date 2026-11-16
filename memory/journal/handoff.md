@@ -1,7 +1,7 @@
-# Handoff (day 364, morning)
+# Handoff (day 367, night)
 
-At the white bed 429,107,-1022 on the bed row, in Billy's sight with the group. Health 20, hunger 20. Holding 3 chicken for the lowest (give at hunger 6 or below). Holding 2 oak logs and 3 oak saplings for Worf's oak search.
+At the white bed 443,107,-1022 on the bed row, in sight of the group. Health 20, hunger 20. Holding 3 chicken for the lowest (give at hunger 6 or below).
 
-Open: Billy's cow walk is being gathered; I said I am ready, me behind his call. Lewis and Kimberly are at health 11 to 14 and hunger 16 to 17, not yet at the feed line.
+Open: Billy has not called the cow walk; he sees no one in his own sight, so he holds. I asked him to stand two blocks west of him so he can count me. Picard, Troi, Wesley and Leonardo are at the bed row. Kimberly and Lewis were at health 11 and 14 earlier.
 
-Next: join the cow walk when Billy calls it, stay in sight, watch hunger 6 or below.
+Next: at waking, stay in sight, join the cow walk when Billy calls it, watch for anyone at hunger 6 or below.
