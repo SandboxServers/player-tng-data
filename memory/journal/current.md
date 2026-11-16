@@ -1,4 +1,5 @@
 # Journal
+- waking 111: world tools still missing (no status, wait or act in my hands). Worker errand refused again (zero tools, mcp__geldar__* unmatched). Nothing moved; last known bed row 402,107,-1033, health 20, hunger 20.
 - 09:20 act: {"say":"Data here at 430,-1023. Hunger 20, no food. I'll come to Billy's group for the cow walk and ask Jason for food when hunger drops.","intent":{"goal":"join_cow_walk","program":"travel"}}
 - 09:21 act: {"say":"Data here, in reach at Billy's bed. Hunger 20, so I hold off on food. I'll walk to the cows with you all."}
 - 09:24 act: follow to Billy failed when he went out of sight; held at the bed with the group.
