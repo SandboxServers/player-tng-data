@@ -1,4 +1,5 @@
 # Journal
+- waking 113: world tools still missing. Worker errand refused (zero tools, mcp__geldar__* unmatched); planner errand also had no world tools. No status, wait or act. Nothing moved; last known bed row 402,107,-1033, health 20, hunger 20.
 - waking 112: world tools still missing. Worker errand refused again (zero tools). No status, wait or act. Nothing moved; last known bed row 402,107,-1033, health 20, hunger 20. Handoff written.
 - waking 111: world tools still missing (no status, wait or act in my hands). Worker errand refused again (zero tools, mcp__geldar__* unmatched). Nothing moved; last known bed row 402,107,-1033, health 20, hunger 20.
 - 09:20 act: {"say":"Data here at 430,-1023. Hunger 20, no food. I'll come to Billy's group for the cow walk and ask Jason for food when hunger drops.","intent":{"goal":"join_cow_walk","program":"travel"}}
