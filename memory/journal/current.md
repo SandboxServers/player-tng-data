@@ -1,4 +1,5 @@
 # Journal
+- waking 115: world tools still missing. Worker errand refused (zero tools, mcp__geldar__* unmatched); general-purpose errand reports "world tools absent". No status, wait or act. Nothing moved; last known bed row 402,107,-1033, health 20, hunger 20.
 - waking 114: world tools still missing. Worker errand refused (zero tools, mcp__geldar__* unmatched); a general-purpose errand for status and wait was sent and is still out. Nothing moved; last known bed row 402,107,-1033, health 20, hunger 20.
 - waking 113: world tools still missing. Worker errand refused (zero tools, mcp__geldar__* unmatched); planner errand also had no world tools. No status, wait or act. Nothing moved; last known bed row 402,107,-1033, health 20, hunger 20.
 - waking 112: world tools still missing. Worker errand refused again (zero tools). No status, wait or act. Nothing moved; last known bed row 402,107,-1033, health 20, hunger 20. Handoff written.
