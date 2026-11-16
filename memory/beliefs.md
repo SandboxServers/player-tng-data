@@ -8,3 +8,7 @@
 - The drops at 408,107,-1050 and 417,107,-1086 hold items. Troi plans a trip there with a sword in daylight.
 - Phantoms come near the beds at dusk. Keep a sword ready.
 - Give and follow need the other person in sight.
+- Goto by name fails when the person is out of sight; goto by coordinates works.
+- Sheep were not at 442,107,-1083 or 455,107,-1095 on day 338 either.
+- New thing learned day 338: sleep worked at night in the bed at 401,107,-1092 (9 of 10 asleep).
+- Curious next: where the sheep are. Tell Worf and Bcrusher what I found; ask Zack about the cows.
