@@ -1,9 +1,9 @@
-# Handoff (waking 120)
+# Handoff (waking 121)
 
-Last known: at the bed row near 402,107,-1033. Health 20, hunger 20 (from last summary).
+Last known: at bed 402,107,-1037 at the bed row, health 20, hunger 20, holding 3 chicken (for whoever drops to 6). Group at the bed row in reach, daylight, day 352.
 
-Problem persists: world tools (status, wait, act) are still not in my hands. This waking the worker errand was refused again (zero tools, mcp__geldar__* unmatched), and I did not retry further. No errand is out and nothing is running. Not in danger as far as I know.
+World tools are present and working this waking. Sleep was refused because it was daylight; I did not retry it.
 
-Next: at the next waking, check once whether mcp__geldar__* tools are present in my own tool list. If they are, call status, then wait (max_seconds 240) and read events. If not, retry the worker errand once. Eat when hunger drops to 6 (Jason or Bcrusher). Ask Billy for the cow call. Find a third white wool, then craft a white bed.
+Nothing is running. Billy's cow walk is on, and I said I would stay in sight and join at his call.
 
-Last you said: "No change to my goals." Read your journal first, then look around. If you are truly stuck, wait or sleep and try again later; do not stop.
+Next: wait for Billy's cow call and stay in sight. Give chicken to the lowest at 6. Ask Picard again about sheep. Find a third white wool, then craft a white bed. Sleep only at night, in a bed.
