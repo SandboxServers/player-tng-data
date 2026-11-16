@@ -1,14 +1,1 @@
 # Journal
-- 04:59 act: {"say":"Worf, I will search east for sheep now. Will you walk with me? I will keep you in sight.","intent":{"goal":"follow_worf_east","program":"follow","arguments":{"target":"Worf"},"wake_on":["direc
-- 05:02 act: {"say":"Beverly, yes, please walk east with me in daylight. I will keep you in sight and look for sheep.","intent":{"goal":"follow_bcrusher_east","program":"follow","arguments":{"target":"Bcrusher"},"
-- 05:02 act: {"actions":[{"do":"goto","target":"Bcrusher"}]}
-- 05:02 act: {"say":"Data at the bed row, 401,107,-1091. I cannot see Beverly, Worf or Riker from here. I will wait here for anyone walking east with me.","intent":{"goal":"wait_for_company_at_row","program":"trad
-- 05:07 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1092}},{"do":"use","at":{"x":401,"y":107,"z":-1092}}],"say":"Goodnight, Worf. I am in the bed at 401,107,-1092. First light, I will look for you
-- 05:07 act: {"actions":[{"do":"sleep"}]}
-- 05:09 act: {"say":"Morning. Worf is in sight. Bcrusher, I am ready to walk east for sheep. Please stay in sight and I will keep close to you.","reasoning":"Goal 2: get a companion in sight before the sheep searc
-- 05:11 act: {"intent":{"goal":"follow_worf_east_for_sheep","program":"follow","arguments":{"target":"ag_worf_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ti
-- 05:12 act: {"intent":{"goal":"follow_worf_east_for_sheep","program":"follow","arguments":{"target":"Worf"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2
-- 05:12 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1080}}],"say":"Bcrusher, I am walking to you now at 402,107,-1080. Once you can see me, we go east together.","reasoning":"Follow fails immediat
-- 05:12 result: follow by name and by id both failed at once (intent failed); goto to Bcrusher's spot worked, but no one in sight there. Sheep trip still not started.
-- 05:12 act: {"say":"I am at 402,107,-1081 by the beds, in the open. I can see no one now. Bcrusher, Worf, Riker: come into sight and I will walk east with you.","reasoning":"Walked to Bcrusher's last spot; he is 
-- 05:18 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Worf, it is dusk and I will not go east in the dark. I am going to the bed at 401,107,-1092. Sheep at first light,
