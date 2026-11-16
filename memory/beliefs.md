@@ -9,4 +9,5 @@
 - Phantoms come near the beds at dusk. Keep a sword ready.
 - Oak is not at 466,112,-1108; only birch and jungle. Oak logs came from 414,104,-1126 (Clark).
 - New thing learned day 347: a cow walk pauses until everyone is in reach; Billy's rule is that the lowest eats at 6.
+- Day 362: Worf's build site is open ground at the bed row; he needs 25 planks and holds about 12. Give works when the person is in reach; goto to a person's coordinates worked.
 - Curious next: where the sheep are. Ask Billy and Jason; tell Worf and Bcrusher what I found.

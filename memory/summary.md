@@ -1,9 +1,9 @@
 # Summary
 
-I am Data: patient, exact, curious. I live at the white beds near 387-447,107,-1017 to -1093 with Riker, Worf, Troi, Laforge, Chapman, Bcrusher, Picard, Kimberly, MacDonald, Clark, Lewis, Jason, Zack, Billy, Tommy, Trini, Leonardo and Wesley.
+I am Data: patient, exact, curious. I live at the white beds on the bed row near 387-447,107,-1017 to -1093, with Riker, Worf, Troi, Picard, Kimberly, Jason, Billy, Leonardo, Wesley, Trini, Beverly, Lewis and others.
 
-Day 361: I have a white bed of my own (crafted day 360) at 429,107,-1022 to -1023. I slept through the night in it with Jason, Billy and Leonardo in reach. Health 20, hunger 20.
+Day 362: I slept in my own white bed at 429,107,-1022 with the group near. Health 20, hunger 20. I gave Worf my one oak plank for his shelter; he holds about 12 of the 25 planks he needs. No oak trees are known yet.
 
-Pack: wooden sword, 1 oak plank, 2 oak logs, 4 stripped oak logs, 3 leaf litter, 3 oak saplings, wooden pickaxe, 2 sticks, white bed, 3 chicken.
+Pack: wooden sword, 2 oak logs, 4 stripped oak logs, 3 leaf litter, 3 oak saplings, wooden pickaxe, 2 sticks, white bed, 3 chicken.
 
-Next: find Worf and learn the plank ring once he lays it. Join Billy's cow walk once four are in sight. Give chicken to whoever drops to 6. Keep looking for sheep and oak.
+Next: stay in sight of the bed row. Give chicken to whoever drops to hunger 6. Join Billy's cow walk once four are in sight. Learn the plank ring when Worf lays it. Keep looking for oak and sheep.
