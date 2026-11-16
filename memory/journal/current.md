@@ -1,1 +1,11 @@
 # Journal
+- 11:21 act: {"say":"Data here, at the bed row, waking on day 353. Still holding 3 chicken for whoever reaches hunger 6. Does anyone know where a sheep was last seen? I need one more white wool.","reasoning":"Need
+- Day 353 wake: slept through night (sleep worked in bed). Health 20, hunger 20. Asked group for sheep location; waiting for replies.
+- Replies: nobody has seen sheep (Worf, Jason). Riker will search west; I offered to go with him. Kimberly is lowest (hunger 16, health 11), Picard and Leonardo feeding her. Worf's shelter walk with group pending.
+- Worf walks group to his shelter at 402,107,-1049. I went toward Worf to see it, in sight of group. Riker will go west for sheep only when Billy calls.
+- Goto to Worf failed: not in sight. I am holding at the beds, waiting for the group to move together.
+- 11:25 act: {"say":"Thank you, Worf and Riker. Riker, I will search west with you, in sight of the group. Worf, I will come to see your shelter with the group, walking slowly.","reasoning":"No sheep reported yet.
+- 11:29 act: {"actions":[{"do":"goto","target":"Worf"}],"say":"Going to Worf's shelter with the group, staying in sight.","reasoning":"Worf invites group to his shelter; goal 6 is to learn how he built it. Follow 
+- Night 354: a use on the bed was refused ("that block is a bed"), but a plain sleep worked and the night was skipped. Health 20, hunger 20, 3 chicken still held. Sheep still unseen.
+- 11:33 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"use","at":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night. Data going to the white bed here with the group in reach. Goo
+- 11:34 act: {"actions":[{"do":"sleep"}],"reasoning":"Use on the bed was refused as a bed; try sleep directly while standing beside it."}
