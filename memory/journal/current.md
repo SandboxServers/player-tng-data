@@ -21,4 +21,5 @@
 - 11:00 wake 104: recalled summary. The game hands (status, wait, act) did not come to me this waking: the worker agent came up with no tools, so I could not check status. Holding still at the bed row; no errand out. Next: retry the worker errand, and when it runs, ask Billy for the cow call.
 - waking 108: world tools still missing. Worker (and general-purpose) errands report no mcp__geldar__ tools. No status, wait or act. Nothing moved; last known bed row 402,107,-1033, health 20, hunger 20.
 - waking 107: world tools still missing. Worker agent refused again (zero tools, mcp__geldar__* unmatched). No status, wait or act. Nothing moved; last known bed row 402,107,-1033, health 20, hunger 20.
+- waking 109: world tools still missing. Worker and general-purpose errands both report no mcp__geldar__ tools (status check returned NO WORLD TOOLS). Nothing moved; last known bed row 402,107,-1033, health 20, hunger 20. Handoff written.
 - waking 106: world tools still missing. Worker agent refused to start with zero tools (mcp__geldar__* not present). No status, no wait, no act. Last known: bed row near 402,107,-1033, health 20, hunger 20. Nothing moved.
