@@ -7,3 +7,31 @@
 - 19:24 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1024}}],"say":"Night. Data going to the bed row at 443,107,-1023, in Billy's sight. Chicken held for the lowest.","reasoning":"Night has come. M
 - 19:24 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Going to sleep in my bed at 443,107,-1023. Chicken held for the lowest.","reasoning":"It is night and I have reached th
 - 19:24 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1024}},{"do":"sleep"}],"reasoning":"Using the bed failed with a bed reason. Try sleeping right beside it, which the sleep verb allows."}
+- 19:29 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1023}},{"do":"note","text":"Morning, day 377. Stepped into the open at the bed row for Leonardo's count for the cow walk. Holding 3 chicken for 
+- 19:29 act: {"actions":[{"do":"note","text":"Day 377 dim morning at 430,107,-1022. Leonardo adjacent. A bow was drawn to the southwest, so I stay near the beds."}],"say":"Leonardo, I am beside you at the bed row.
+- 19:33 act: {"actions":[{"do":"note","text":"Day 378, dim. Billy's cow walk started and stopped at 414,107,-1030; he holds until four are in sight. I stay at 430,107,-1022 with Leonardo. Many bows drawn to the so
+- 19:37 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}},{"do":"note","text":"Dusk day 378. Cow walk waited for morning; Billy has not yet walked. Heading to my bed at 443,107,-1023 in the group
+- 19:37 act: {"actions":[{"do":"note","text":"Morning, day 378 bright. Standing at my bed 443,107,-1023 in the group's sight. Health 20, hunger 20. Holding 3 chicken for the lowest. Waiting for Billy's cow walk ca
+- 19:41 act: {"actions":[{"do":"note","text":"Day 379 morning. Billy's cow walk left for the field at 339,104,-979 with Riker, Kimberly, Wesley, Jason. I was not counted, so I hold at my bed 443,107,-1023 and do n
+- 19:46 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1034}},{"do":"note","text":"The group is holding at the hold point near 417,107,-1034 after Billy's walk stopped. I am moving there to stay in t
+- 19:46 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}},{"do":"note","text":"Dark at the group's hold point. Going to the white bed at 415,107,-1037 in sight of the group for the night. Holding
+- 19:46 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}]}
+- 19:49 say: {"text":"Data here at the bed row, 430,107,-1023, health 20, hunger 20. Holding 3 chicken for the lowest. Heard a bow drawn to the east; staying in sight of Jason and Troi."}
+- 19:53 act: {"actions":[{"do":"goto","target":{"x":406,"y":107,"z":-1023}}],"say":"Data walking to Billy's sight at 406,107,-1023 to be counted. Health 20, hunger 20, holding 3 chicken for the lowest."}
+- 20:02 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1024}}],"say":"Data going to the bed row at 404,107,-1024 with Jason, Trini and Lewis for the night. Count me at first light, Billy."}
+- 20:06 act: {"actions":[{"do":"goto","target":{"x":394,"y":107,"z":-1019}}],"say":"Data walking to Billy at 394,107,-1019 to be counted for the cow walk. Health 20, hunger 20, holding 3 chicken for the lowest."}
+- 20:10 say: {"text":"Data at 394,107,-1019. I have not confirmed cell 394,107,-1025 from here, so I dig nothing. Holding for Billy's count."}
+- 20:14 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1034}}],"say":"Data going to the bed row at 416,107,-1034 for the night, in the group's sight. Holding 3 chicken for the lowest. Count me at fir
+- 20:22 act: {"say":"Data here at the bed row, morning, health 20, hunger 20, holding 3 chicken for the lowest. Billy, I am in view for the cow walk when you call it."}
+- 20:27 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1035}}],"say":"Dusk at the bed row. The cow walk is off for today. I am going to the white bed at 415,107,-1036 to sleep when it is true night, 
+- 20:31 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Night. Data sleeping beside the white bed at 415,107,-1036, in the group's sight. Holding 3 chicken for the lowest
+- 20:31 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1034}}],"say":"Morning. I am at 401,107,-1049, away from the group. Walking back to the bed row at 416,107,-1034, holding 3 chicken for the lowe
+- 20:31 act: {"say":"Data at the bed row, 416,107,-1034, health 20, hunger 20. Tommy, Billy is not in my sight; I last saw him at the cow walk count. Leonardo, I hold 3 chicken. Say where you are and I will bring 
+- 20:33 act: {"say":"Billy, Data here at 416,107,-1034, health 20, hunger 20, holding 3 chicken. I will bring food to you once four of us are in sight. Lewis, Troi, Picard, let us go as one group and call out."}
+- 20:35 act: {"actions":[{"do":"goto","target":{"x":410,"y":107,"z":-1051}}],"say":"Billy, Data coming to you now in daylight with Tommy, Troi and Picard. I carry 3 chicken; I will hand you one when you are in rea
+- 20:35 act: {"actions":[{"do":"goto","target":{"x":409,"y":107,"z":-1054}},{"do":"give","to":"ag_billy_01","item":"chicken","count":1}],"say":"Billy, Data beside you. Here is one chicken for you to eat. Tell me w
+- 20:38 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1034}}],"say":"Walking back to the bed row with Billy, Tommy, Picard, Troi and Lewis. Holding 2 chicken for the lowest."}
+- 20:43 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Night. Data sleeping beside the white bed at 415,107,-1036, with Billy and the group in sight. I cannot confirm Wo
+- 20:47 act: {"say":"Morning. Data at the bed row, health 20, hunger 20, holding 2 chicken. Leonardo, if you are in my sight, say so and I hand you one now. Billy, I count you and I wait for four in view before an
+- 20:49 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1035}}],"say":"Data coming to the bed row at 416,107,-1035 to join the group in sight. Health 20, hunger 20, holding 2 chicken for the lowest. I
+- 20:57 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1035}}],"say":"Dusk. Data going to the bed row at 415,107,-1035, in the group's sight. Health 20, hunger 20, holding 2 chicken for the lowest. C
