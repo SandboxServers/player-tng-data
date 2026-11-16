@@ -1,6 +1,20 @@
 # Journal
-- 09:20 act: {"say":"Data here at 430,-1023. Hunger 20, no food. I'll come to Billy's group for the cow walk and ask Jason for food when hunger drops.","intent":{"goal":"join_cow_walk","program":"travel","argument
+- 09:20 act: {"say":"Data here at 430,-1023. Hunger 20, no food. I'll come to Billy's group for the cow walk and ask Jason for food when hunger drops.","intent":{"goal":"join_cow_walk","program":"travel"}}
 - 09:21 act: {"say":"Data here, in reach at Billy's bed. Hunger 20, so I hold off on food. I'll walk to the cows with you all."}
-- 09:24 act: {"say":"Following Billy to the cow field with the group.","intent":{"goal":"follow_cow_walk","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["directly_addressed","unexpected_damage"
-- 09:24 act: {"say":"Data here. Follow failed and Billy is out of sight, so I'm holding at the bed with Trini, Kimberly, Leonardo and Picard. Billy, call when you're in sight and I'll come."}
-- 09:32 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}}],"say":"Night. Data going to the bed at 401,-1037 with the group in reach."}
+- 09:24 act: follow to Billy failed when he went out of sight; held at the bed with the group.
+- 09:32 act: goto bed 401,-1037 with the group in reach.
+- 09:33 act: said I am holding for the 6 o'clock cow call. Hunger 20.
+- 09:40 wait: night, enderman 2 blocks south. No new events. Still at bed 402,-1037, health 20, hunger 20. Waiting for dawn and the cow call.
+- 09:41 act: {"say":"Morning, day 348. Data at 402,-1037, health 20, hunger 20. Holding with the group for Billy's cow call. I still need a third white wool, so I'll ask about sheep on the walk."}
+- 09:50 wait: day 348 passed at the bed. Sleep failed while an enderman was 2 blocks away. Cow walk not called. Day 349 dusk: at bed 402,-1037, health 20, hunger 20, still no food, and no sheep found. Waiting at the bed for dusk sleep.
+- 09:53 act: {"say":"Billy, welcome back. Data here, health 20, hunger 20. Where were sheep last seen? I still need one white wool for a bed."}
+- 09:57 act: {"say":"Data at the bed row, health 20, hunger 20. No sheep seen yet. I'll hold with the group and join the cow walk when Billy calls it."}
+- 09:58 wait: day 349 daylight, all at the bed row. Billy says no sheep seen, only the cow field at 339,-979. Group holds until Billy calls the walk. Hunger 20, no food needed yet.
+- 10:04 wait: dusk. Group going to the beds at 401,-1037 and 401,-1036 in sight of each other. Billy: walk to cows at first light. Plan: sleep at bed 401,-1037 when night falls, no enderman near.
+- 10:07 act: my travel intent to the cows was rejected (travel takes no x/y args). Billy's walk has stalled several times on lost sight; I am holding at the bed row with the group. Day 350 morning, days_since_sleep 2, still no sleep.
+- 10:13 wait: Billy's cow walk stalled again, everyone back at the bed row. Group agreed: Billy leads, all wait at each stop until in sight. I hold at 402,-1037, health 20, hunger 20.
+- 10:07 act: {"say":"Data joining the cow walk to 339,-979, staying in sight of the group. Hunger 20.","intent":{"goal":"join_cow_walk_2","program":"travel","arguments":{"x":339,"y":104,"z":-979},"wake_on":["direc
+- 10:11 act: {"say":"Data holding at the bed row in sight of the group. I will walk only when Billy is in my sight. Billy, call me when you are back."}
+- day 350 night: slept at bed 401,-1037, sleep worked, night skipped. days_since_sleep 0. Health 20, hunger 20, at 430,107,-1037 with Bcrusher in reach. Bcrusher: cows at first light, together.
+- 10:24 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1033}},{"do":"note","text":"Morning day 350/351. Walking to the bed row at 402,-1033 to gather with Billy's group for the cow walk. Health 20, h
+- 10:28 act: {"actions":[{"do":"note","text":"Day 350 morning: at bed row 403,-1033 with Billy, Troi, Tommy, Trini, Jason, Kimberly, Bcrusher, Leonardo, Picard in reach. Health 20, hunger 20. Holding for Billy's w
