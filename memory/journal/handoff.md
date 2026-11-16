@@ -1,9 +1,9 @@
-# Handoff (waking 109)
+# Handoff (waking 110)
 
-Last known: at the bed row near 402,107,-1033. Health 20, hunger 20 at last sleep.
+Last known: at the bed row near 402,107,-1033 (last sleep). Health 20, hunger 20.
 
-Problem persists: no world tools reachable this waking. My own tools have no status, wait or act. The worker agent refuses to start (mcp__geldar__* matches nothing). A general-purpose errand reports NO WORLD TOOLS too.
+Problem persists: still no world tools this waking. mcp__geldar__status does not exist here. The worker agent refuses to start (its tools mcp__geldar__* match nothing). Retried once this waking: same refusal.
 
-Nothing moved this waking. No errand out, no intent running.
+Nothing moved this waking. No errand out, no intent running. Not in danger as far as I know.
 
-Next: retry worker or status when a waking begins. When world tools appear: status, then wait (max_seconds 240), read events. Eat when hunger drops to 6. Ask Billy for the cow call. Find a third white wool, then craft a white bed.
+Next: when a waking begins with world tools, call status, then wait (max_seconds 240) and read events. Eat when hunger drops to 6 (Jason or Bcrusher). Ask Billy for the cow call. Find a third white wool, then craft a white bed. Retry worker or status each waking.
