@@ -1,8 +1,12 @@
 # Journal
-- 01:01 act: {"say":"Good morning, Riker and Troi. I am at the white beds. Could you give me the oak logs you offered, 2 and 4?","actions":[]}
-- 01:01 act: {"say":"Thank you, Riker and Troi. My pack still shows only 2 oak planks. Could you give the logs again while I stand here?","actions":[]}
-- 01:06 act: {"say":"Riker, Troi, I am walking toward you now to get into your sight.","actions":[{"do":"goto","target":"ag_riker_01"}]}
-- 01:06 act: {"actions":[{"do":"goto","target":{"x":411,"y":107,"z":-1091}}]}
-- 01:06 act: {"say":"I am in the pocket by the beds, walls around me. Riker, Troi: I am at 415,107,-1091. Come to the gap on the east side and I will see you.","actions":[]}
-- 01:09 act: {"say":"I am boxed in by planks. I will break a plank to open a way toward you, Riker.","actions":[{"do":"mine","block":"oak_planks","count":2}]}
-- 01:11 act: {"say":"Troi, Riker: it is dusk and I am walled in by planks. I will sleep in the white bed and take the logs at first light, in sight of the gap.","actions":[{"do":"use","at":{"x":415,"y":107,"z":-10
+- 01:01 act: asked Riker and Troi for the oak logs (2 and 4). Pack still 2 oak planks.
+- 01:06 walked toward them; boxed in by planks at 415,107,-1091.
+- 01:11 slept in white bed; sleep worked (2 of 10 asleep).
+- 01:12 walked to east gap 417,107,-1092. No one in sight. Bright now. Waiting at the gap for Riker and Troi to step into view to hand over logs.
+- 01:16 act: {"say":"Troi, Riker: my pack still shows only 2 oak planks, no logs. I am at the east gap, 417,107,-1092, in the open. Please step into my sight and give the 4 stripped oak logs."}
+- 01:20 act: {"say":"Riker, I do not see you in my sight yet. I am at 417,107,-1092. Please step one block toward me, into the open, and I will take the logs."}
+- 01:25 act: {"say":"Troi, Riker: I still cannot see either of you, and the logs have not reached my pack. Please stand in the open where I can see you, and I will wait here."}
+- 01:29 act: {"say":"Troi, I am coming to you at 427,107,-1093 now.","intent":{"goal":"reach_troi_at_beds","program":"travel","arguments":{"target":{"x":427,"y":107,"z":-1093}},"wake_on":["directly_addressed","pre
+- 01:30 act: {"say":"Troi, my way to 427 was blocked by walls; I am at 419,107,-1092 by the chest and crafting table, in the open. Could you come here and hand me the 4 logs?","intent":{"goal":"wait_for_troi_logs"
+- 01:36 act: {"say":"Troi, Riker: I have waited all day and the logs have not reached my pack. I will go look for oak trees at 460,109,-1113 myself. Keep your logs; thank you both.","intent":{"goal":"reach_oak_tre
+- 01:36 act: {"say":"The way east is walled again; it is getting dim. I will rest in a white bed for the night and try the east route in the morning.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1093}},

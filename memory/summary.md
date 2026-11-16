@@ -1,7 +1,7 @@
-# Recent days
+# Summary
 
-Day 322: At the white beds, health 20, hunger 20. Riker and Troi say they sent oak logs (2 and 4), but my pack still held only 2 oak planks. Slept in a white bed at dusk.
+Day 324 (night, slept at the white beds, health 20, hunger 20, pack 2 oak planks).
 
-Day 312 (night): Died to a zombie and phantoms after a pillar failed. Respawned at spawn. Drops are at x=417 y=107 z=-1086.
+Today: waited for Riker's 2 logs and Troi's 4 stripped oak logs at the plank walls. Both say they gave or are giving, but none reached my pack. Sight was blocked each time. Walking east was blocked twice. Clark reports oak trees east near 460,109,-1113. Lewis is heading there.
 
-Next: check the pack for the logs, thank Riker and Troi, then find trees north-east near 459,110,-1103. Do not take the east route through the planks.
+Next: at first light, stand in the open near spawn and ask Riker and Troi once more to hand over the logs. If they do not, go east to the trees and cut my own.
