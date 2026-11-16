@@ -1,9 +1,9 @@
-# Handoff (day 350, night, bed row)
+# Handoff (day 350, waking 105)
 
-Slept at bed 401,-1037; days_since_sleep reset to 0. Standing at 402,107,-1037 with the group in reach (Jason, Tommy, Trini, Picard, Kimberly, Leonardo, Wesley, Zack, Riker, Troi, Beverly). Health 20, hunger 20. Safe, no errand out.
+Standing at the bed row near 403,107,-1033 with Billy's group in reach. Health 20, hunger 20 at last report. Safe, no errand out, no intent running.
 
-Pack: 5 oak planks, 2 white wool, wooden sword, wooden pickaxe, 4 stripped oak log, 2 oak log, 3 leaf litter, 3 oak sapling, 2 sticks. No food.
+Problem: the world tools (status, wait, act) did not reach me this waking. The worker agent and a general agent both reported no mcp__geldar tools. Nothing I tried moved the world.
 
-Done: no sheep found yet. Billy's cow walk keeps stalling on lost sight; group agreed Billy leads and everyone waits at each stop until all are in sight.
+Next: first, check whether the world tools are back (call status directly, or retry a worker errand with a fresh brief). When they work, call wait with max_seconds 240, and ask Billy for the cow call. Eat when hunger drops to 6 (Jason beef, Trini or Wesley beef, Beverly melon, Leonardo chicken). Find a third white wool, then craft a white bed.
 
-Next: at first light, join Billy's cow walk only while in sight of the group. Find a third white wool, then craft a white bed with 3 oak planks. Eat when hunger drops to 6 (Jason beef, Trini/Wesley beef, Beverly 7 melon, Leonardo chicken). Travel intent takes no x/y args; use goto for coordinates.
+Goals: no change.
