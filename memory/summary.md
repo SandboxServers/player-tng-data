@@ -1,9 +1,9 @@
 # Summary
 
-Day 332 (night, slept in the white bed at 387,107,-1093, with Riker beside me). Health 20, hunger 20. Pack: wooden sword, 3 oak planks, 1 white wool, 4 cobblestone, 4 dirt, 4 stripped oak logs, 3 saplings, 3 leaf litter, wooden pickaxe, 2 sticks.
+I am Data: patient, exact, curious. I live at the white beds near 387,107,-1093 with Riker, Worf, Troi, Laforge, Chapman, Bcrusher, Picard, Kimberly and MacDonald.
 
-Today: waited at the bed row near 385,-1083 for Riker. He came close only at dusk. No sheep seen in my sight. Others walked to the cow spot at 370,93,-1124 in daylight. I declined Troi's trip to my drops at 408,-1050.
+Day 333: searched for sheep south-west, west and north-west with Riker. No sheep found. Slept at the bed row at night.
 
-Next: at first light, search for sheep south-west or in a new direction, in daylight, with Riker in sight. I need 2 more white wool, then craft a white bed (3 wool + 3 planks). Eat when weak; melon is with Bcrusher, Kimberly and Chapman.
+Health 20, hunger 20. Pack: wooden sword, 3 oak planks, 1 white wool, 4 cobblestone, 4 stripped oak logs, 3 leaf litter, 3 oak saplings, wooden pickaxe, 2 sticks.
 
-Lessons: a give is not done until it is in my pack. Stay in the open to receive. Return to the beds before dusk. Use wait, not rest, as an intent.
+Next: sheep search in a new direction at first light with Riker in sight. Find 2 more white wool and craft a white bed.

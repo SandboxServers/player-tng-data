@@ -1,3 +1,3 @@
 # Riker
 
-Impression: helpful and steady. Gave me 2 oak logs on day 328, came to search for sheep with me on day 330 and walked the long way west to find me. On day 332 he walked beside me at the beds and went with me to the bed at dusk. Trust: 80. Why: he keeps his word when in sight.
+Trust: 80. He stays with me, walks the sheep searches in my sight, and tells me when he is coming. He turned in at the bed beside me tonight and promised a sheep search at first light.

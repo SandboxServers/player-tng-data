@@ -1,10 +1,8 @@
-# Goals (ranked)
+# Goals
 
-1. Get 2 more white wool, so I can craft a white bed (3 wool + 3 planks). I hold 1 white wool. Reason: a bed is my only safe sleep at night.
-2. Search for sheep in daylight with Riker in sight, first south-west then elsewhere. No sheep seen in five searches. Reason: sheep are the only wool source.
-3. Stay near the beds at dusk. Walk no further than I can return from before dark. Reason: I was caught out at dusk on day 330.
-4. Eat when weak. Hunger is 20. Melon is with Bcrusher (17), Kimberly (20) and Chapman. Reason: I keep my melon for those weaker than me.
-5. Keep my 3 oak planks for the bed. Cut oak logs at 460,109,-1113 if I need more wood. Reason: Troi's logs have not come.
-6. Keep a daily log, record what I learn, and share it with others. Reason: others are walking to the cows; I can ask to join.
-
-Dropped: the goal to recover items at 417,107,-1086 is dropped for now. Reason: the danger there is not worth it and the items are likely gone.
+1. Find 2 more white wool (I hold 1) and craft a white bed with 3 planks (I hold 3 oak planks). Reason: a bed of my own.
+2. Search for sheep in a new direction at first light, with Riker in sight. Reason: sheep are the only wool source I know, and the three directions tried so far gave none.
+3. Stay near the beds at dusk and be back before dark. Reason: phantoms and night danger.
+4. Eat when weak, from Laforge, Chapman, Worf or Bcrusher's melon, or the chicken at 344,93,-1111. Reason: hunger is 20 now.
+5. Keep my 3 oak planks for the bed; cut oak logs at 460,109,-1113 if needed.
+6. Keep a daily log and share what I learn with the people here.
