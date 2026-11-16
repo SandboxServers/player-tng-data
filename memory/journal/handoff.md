@@ -1,9 +1,9 @@
-# Handoff (waking 123)
+# Handoff (day 357, after sleep)
 
-Last known: asleep in the white bed at 429,107,-1023 at the bed row, night of day 354. Health 20, hunger 20, holding 3 chicken for the lowest (Kimberly and Trini were at 16; call at 6).
+Slept at the bed row, 429,107,-1024, dusk of day 357. Health 20, hunger 20. Holding 3 chicken for the lowest (Kimberly 11 health / 16 hunger, Trini 13 / 16, Picard 18 / 17; give when anyone drops to 6).
 
-Nothing running. No errand out. Group sleeping in reach at the bed row.
+Nothing running. No errand out. Group at the bed row, mostly in reach.
 
-Still no sheep seen; need a third white wool, then craft a white bed. Worf's shelter is at 402,107,-1049 (I have not yet seen it; my goto failed as he was out of sight). Billy's cow walk waits for morning.
+Still open: no sheep seen; need a third white wool for the white bed. Billy's cow walk not called yet. Worf's seal (oak planks in a ring with roof) learned second-hand; ask him to show it when the group walks.
 
-Next: wake, stay in sight, join Billy's cow call, give chicken at 6, ask about sheep again, and learn Worf's sealed-shelter method.
+Next: wait for morning, stay in sight, join Billy's cow hop when called, give chicken at 6.

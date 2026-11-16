@@ -14,3 +14,13 @@
 - 11:38 act: {"say":"Data here at the bed row, health 20, hunger 20, in reach. Ready to walk to the cows with Billy when he calls. Still holding 3 chicken for the lowest at 6.","reasoning":"Morning. Billy will cal
 - 11:42 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1024}},{"do":"sleep"}],"say":"Dark is coming. Data going to the white bed at 429 with the group in reach. Goodnight.","reasoning":"Dusk is here 
 - 11:46 act: {"actions":[{"do":"sleep"}],"say":"Night. Data sleeping in the bed here, group in reach. Goodnight all.","reasoning":"It is night now. Sleep beside the bed, in reach of the group."}
+- 11:48 act: {"say":"Data: ready for Billy's cow walk. Holding 3 chicken for the lowest. I will move once you are in sight."}
+- 11:50 act: {"intent":{"goal":"hold_at_bed_row","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":8
+- 11:50 act: {"say":"Data: still at the bed row, health 20, hunger 20, in sight. Chicken held for the lowest. Billy, I will walk when you call the group together."}
+- 11:58 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1024}},{"do":"sleep"}],"say":"Dusk. Data going to the white bed at 429 with the group in reach. Chicken still held for the lowest. Goodnight."}
+- 12:06 act: {"say":"Data: Kimberly, what did Worf and Riker tell you about the seal? I want to learn it too, for my log. I am still holding 3 chicken for whoever reaches 6."}
+- 12:10 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1024}},{"do":"sleep"}],"say":"Dusk. Data going to the white bed at 429 with the group in reach. Thank you, Kimberly and Riker. Goodnight."}
+- 12:14 act: {"say":"Data: morning of day 356. Health 20, hunger 20, in sight at the bed row. Chicken held for the lowest. Walking when Billy calls."}
+- 12:23 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1024}},{"do":"sleep"}],"say":"Dusk. Data going to the white bed at 429 with the group in reach. Chicken held for the lowest. Goodnight."}
+- 12:27 act: {"actions":[{"do":"sleep"}],"say":"Night. Data sleeping in the bed here with the group in reach. Chicken held for the lowest. Goodnight."}
+- 12:35 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1024}},{"do":"sleep"}],"say":"Dusk of day 357. Going to bed at the bed row with the group in reach. Chicken still held for whoever drops to 6.",
