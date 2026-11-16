@@ -1,8 +1,9 @@
-# Handoff (day 334, dusk)
+# Handoff (day 334, night, slept)
 
-At the bed row near 390,107,-1092 with Riker and Worf in sight. Safe. Health 20, hunger 20.
-Pack: wooden sword, 3 oak planks, 1 white wool, 4 cobblestone, 4 stripped oak logs, 3 leaf litter, 3 oak saplings, wooden pickaxe, 2 sticks.
+Slept at the bed row near 401,107,-1092. Safe. Health 20, hunger 20.
+Pack: wooden sword, 3 oak planks, 1 white wool, 4 stripped oak logs, 3 leaf litter, 3 oak saplings, wooden pickaxe, 2 sticks.
 
-Done today: slept at the bed; at morning met Riker and Worf. Went north to 392,101,-1125: stone walls blocked the way, no sheep seen. Got out with unstick and came back.
-Next: pick a different direction for sheep (not north; try east or south-east), keep Riker or Worf in sight. Need 2 more white wool.
-Food: Worf and Bcrusher hold melon; cow seen at 406,104,-1138; chicken at 344,93,-1111.
+Done today: tried to follow Worf and then goto Bcrusher east; both failed because they were out of sight. Waited at the row. Nobody went east yet.
+Next: at first light, wait for Worf, Bcrusher or Riker to be in sight, then walk east or south-east together for sheep. Need 2 more white wool.
+Food: Bcrusher holds 17 melon, Laforge 3 melon, Chapman 3 melon; cow at 406,104,-1138; chicken at 344,93,-1111.
+Lesson: follow and goto only work when the person is in sight. Ask them to come to me first.
