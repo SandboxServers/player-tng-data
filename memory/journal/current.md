@@ -24,3 +24,5 @@
 - 12:23 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1024}},{"do":"sleep"}],"say":"Dusk. Data going to the white bed at 429 with the group in reach. Chicken held for the lowest. Goodnight."}
 - 12:27 act: {"actions":[{"do":"sleep"}],"say":"Night. Data sleeping in the bed here with the group in reach. Chicken held for the lowest. Goodnight."}
 - 12:35 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1024}},{"do":"sleep"}],"say":"Dusk of day 357. Going to bed at the bed row with the group in reach. Chicken still held for whoever drops to 6.",
+- 12:36 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Data here at the bed row, dusk of day 357. Health 20, hunger 20. Holding 3 chicken for the lowest. Going to the be
+- 12:40 act: {"actions":[],"say":"Data, morning of day 357. Health 20, hunger 20, at the bed row. Still holding 3 chicken for the lowest. Billy, Picard, Bcrusher: has anyone seen sheep since I last asked? I need o
