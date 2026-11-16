@@ -18,3 +18,4 @@
 - day 350 night: slept at bed 401,-1037, sleep worked, night skipped. days_since_sleep 0. Health 20, hunger 20, at 430,107,-1037 with Bcrusher in reach. Bcrusher: cows at first light, together.
 - 10:24 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1033}},{"do":"note","text":"Morning day 350/351. Walking to the bed row at 402,-1033 to gather with Billy's group for the cow walk. Health 20, h
 - 10:28 act: {"actions":[{"do":"note","text":"Day 350 morning: at bed row 403,-1033 with Billy, Troi, Tommy, Trini, Jason, Kimberly, Bcrusher, Leonardo, Picard in reach. Health 20, hunger 20. Holding for Billy's w
+- 11:00 wake 104: recalled summary. The game hands (status, wait, act) did not come to me this waking: the worker agent came up with no tools, so I could not check status. Holding still at the bed row; no errand out. Next: retry the worker errand, and when it runs, ask Billy for the cow call.
