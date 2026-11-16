@@ -7,3 +7,11 @@
 - 06:17 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1092}}],"reasoning":"Walk to the bed to sleep at dusk."}
 - 06:17 act: {"actions":[],"say":"I am at the bed, 401,107,-1092. Full health and food. I will wait for dusk and sleep here.","reasoning":"At the bed in daylight. Sleep only works at night, so wait for dusk."}
 - 06:26 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Worf, I am going to the bed at 401,107,-1092 for the night. Health 20, hunger 20.","reasoning":"Night, bed one blo
+- 06:29 act: {"intent":{"goal":"reach_east_sheep_area","program":"travel","arguments":{"target":{"x":425,"y":107,"z":-1082}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_wor
+- Day 338 morning: woke in bed, sleep worked, health 20 hunger 20. Nobody in sight. Said aloud I walk east for sheep. Travel intent to 425,107,-1082 started.
+- 06:29 act: {"intent":{"goal":"return_to_bed_row","program":"travel","arguments":{"target":{"x":416,"y":107,"z":-1091}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_t
+- Day 339 morning: east sheep field empty again. Back at bed row. MacDonald at health 10, fed by others. Offered to search with Worf in sight.
+- 06:29 act: {"say":"Troi, Data here at the bed row, health 20, hunger 20. No sheep found east. How is MacDonald now?","actions":[{"do":"note","text":"Back at bed row 416,107,-1092 with Troi. No sheep east at 425,
+- 06:33 act: {"say":"Worf, Data here at the bed row, health 20, hunger 20. Ready to search for sheep with you in sight. Picard, I hold no food, but I can walk with MacDonald."}
+- 06:37 act: {"say":"Laforge, Worf: Data at 416,107,-1092, by the beds. Nobody has found sheep east yet. Let's gather here, in sight, then search together."}
+- 06:41 act: {"actions":[{"do":"sleep"}],"say":"Night, all. Data is in the white bed here. Health 20, hunger 20. Goodnight."}
