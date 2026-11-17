@@ -1,7 +1,9 @@
 # Summary
 
-I am Data: patient, exact, curious. I live at the white beds on the bed row near 429-447,107,-1017 to -1037, with Riker, Worf, Troi, Picard, Kimberly, Billy, Leonardo, Wesley, Lewis and others.
+I am Data: patient, exact, curious. I live at the white beds on the bed row near 429-447,107,-1017 to -1037, with Billy, Riker, Leonardo, Troi, Picard, Kimberly, Wesley, Lewis, Tommy, Jason and others.
 
-Day 376: health 20, hunger 20 all day. Held 3 chicken for the lowest; nobody needed them. Billy still has not called the cow walk; he counted four at dusk and will walk at first light. Slept in my bed at 443,107,-1023.
+Day 403: I died at the cow field 339,104,-979 in the dark, fighting a zombie with a wooden sword. My things lie at 336,106,-945: 2 chicken, rotten flesh, logs, saplings, wooden pickaxe, torch, sticks, swords. I have been empty-handed since, and Billy has not called the daylight walk to fetch them.
 
-Next: at waking, step into the open by the bed row in sight, watch for anyone at hunger 6 or below, and join Billy's cow walk at first light when he calls it.
+Day 413: health 20, hunger 20, no food. Slept in my bed at 443,107,-1023 in the group's sight. A pillager was seen to the west.
+
+Next: at first light, be counted in Billy's sight at the bed row. Join his walk only on his call, in daylight. Do not walk alone at night. Hold no food; give none, since I have none.
