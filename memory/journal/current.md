@@ -154,3 +154,9 @@
 - 05:17 act: {"actions":[],"say":"Billy, Data here at the bed row, morning day 408. Whenever you are ready, call the walk to 336,106,-945. I hold until then."}
 - 05:25 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Data sleeping in my bed at the bed row, in sight. Count me at first light, Billy."}
 - 05:25 act: {"actions":[{"do":"sleep"}]}
+- 05:43 act: {"say":"Morning. Data here, at the bed row, in sight. Empty-handed, hunger 20. Ready for Billy's cow walk when he calls it.","intent":{"goal":"await_cow_walk","program":"rest","arguments":{},"wake_on"
+- 05:55 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk, day 409. Data going to my bed at 443,107,-1023 in the row's sight. Health 20, hunger 20, empty-handed. Count
+- 05:59 act: {"say":"Data counted at first light, day 410, at the bed row 444,107,-1023. Health 20, hunger 20, empty-handed. Riker, I have no food; Tommy holds the melon for you. Holding for Billy's walk call.","i
+- 06:07 act: {"actions":[{"do":"sleep"}],"say":"Night, day 409. Data sleeping in my bed at 443,107,-1023 in the row's sight. Health 20, hunger 20, empty-handed. Count me at first light, Billy."}
+- 06:15 act: {"say":"Data counted at the bed row, first light day 410. Health 20, hunger 20, empty-handed. Leonardo, Kimberly, I have nothing to give, but I hold in Billy's sight."}
+- 06:28 say: {"text":"Data counted at my bed 443,107,-1023, in the row's sight. Health 20, hunger 20, empty-handed. No walk until Billy calls it; my chicken are still at 336,106,-945."}
