@@ -12,5 +12,6 @@
 - Act actions take a fixed shape: a say in act is not valid; use the say tool.
 - A rest intent can finish at once ("goal_completed") and leave you unguarded; keep waiting in sight instead.
 - Not yet learned: the cow walk itself; Worf's plank ring.
+- Day 416: a rest intent at the bed held me in sight; sleep at dusk failed, and worked only once it was night (after a second wait).
 - Curious next: where the cows are, and whether Billy's walk ever starts.
 - Tell next: Billy and Deanna, what I learned about the count.
