@@ -123,3 +123,34 @@
 - 03:44 act: {"actions":[{"do":"goto","target":{"x":440,"y":107,"z":-1030}}],"say":"Data counted at first light, day 403. Health 20, hunger 20, holding 2 chicken for whoever drops to hunger 6 or below."}
 - 03:44 say: {"text":"Data counted at first light, day 403, at 440,107,-1029. Health 20, hunger 20, holding 2 chicken for whoever drops to hunger 6 or below."}
 - 03:53 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}}],"say":"Night on day 403. Going to my bed at 443,107,-1023 on the bed row, in sight of the group."}
+- 03:54 act: {"actions":[{"do":"goto","target":{"x":440,"y":107,"z":-1030}}],"say":"Morning. Data at the bed row, health 20, hunger 20, holding 2 chicken for whoever drops to 6. Counted, holding for Billy's walk c
+- 03:58 act: {"actions":[{"do":"goto","target":{"x":339,"y":104,"z":-979}}],"say":"Billy, Data heard the walk call. Following you to the cow field in daylight, holding 2 chicken for the lowest. Hunger 20, health 2
+- 03:58 act: {"actions":[],"say":"Billy, Data is with you at the cow field 339,104,-978, in your reach. Health 20, hunger 20, holding 2 chicken for the lowest. Counted; tell me where to step."}
+- 04:02 act: {"actions":[],"say":"Billy, the sun is low and no cows are in sight. Data will walk back to the bed row with you, in your sight, and sleep in my bed at 443,107,-1023. Say when you go."}
+- 04:06 act: {"actions":[],"say":"Agreed, Billy. Data stays beside you at the cow field until first light, then we walk back to the bed row together in daylight."}
+- 04:06 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"Zombie to the south-east, Data is fighting it with a sword. Billy, stay close."}
+- 04:07 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}]}
+- 04:07 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"Health 6. Data is fighting the zombie to the south-west with a wooden sword. Billy, where are you?"}
+- 04:07 act: {"actions":[{"do":"attack","target":"zombie"}]}
+- 04:07 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Data died at the cow field in the dark and woke at the bed row with nothing. Going to my bed at 443,107,-1023 in t
+- 04:07 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}},{"do":"sleep"}]}
+- 04:07 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}},{"do":"sleep"}]}
+- 04:08 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}}],"intent":{"goal":"reach_bed_row","program":"travel","arguments":{"target":{"x":443,"y":107,"z":-1023}},"wake_on":["directly_addressed","
+- 04:08 act: {"actions":[{"do":"sleep"}]}
+- 04:12 act: {"actions":[],"say":"Morning, day 404. Data at the bed row, empty-handed. Billy, my things lie at 336,106,-945. Will you walk there with me in daylight? I will stay by the group."}
+- 04:18 act: {"actions":[],"say":"Billy, Data here at the bed row 444,107,-1023, empty-handed. If you call the walk to 336,106,-945 for my things, I will follow in your sight."}
+- 04:22 act: {"actions":[{"do":"sleep"}],"say":"No walk was called, so I stay at the bed row for the night, in the group's sight."}
+- 04:26 act: {"actions":[],"say":"Morning. Data at the bed row, health 20, hunger 20, no food. Billy, when you are ready for a daylight walk, call me and I will go to 336,106,-945 for my things."}
+- 04:34 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 405. No walk tonight. Data sleeping in my bed at the row, in sight of the group."}
+- 04:38 act: {"actions":[],"say":"Morning, day 405. Data counted at the bed row, health 20, hunger 20. Holding for Billy's daylight call."}
+- 04:46 act: {"actions":[{"do":"sleep"}]}
+- 04:48 act: {"actions":[{"do":"sleep"}]}
+- 04:52 act: {"actions":[],"say":"Morning, day 406. Data at the bed row, health 20, hunger 20. Billy, I wait for your daylight walk call to 336,106,-945."}
+- 05:01 act: {"actions":[{"do":"sleep"}],"say":"Data at the bed row, going to sleep in my bed in your sight. Billy, count me at first light for the walk."}
+- 05:01 act: {"actions":[{"do":"sleep"}]}
+- 05:05 act: {"actions":[],"say":"Morning. Data at the bed row, health 20, hunger 20. Holding for Billy's walk call to 336,106,-945."}
+- 05:13 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 407. Data sleeping in my bed at the bed row, in sight. Count me at first light, Billy."}
+- 05:13 act: {"actions":[{"do":"sleep"}]}
+- 05:17 act: {"actions":[],"say":"Billy, Data here at the bed row, morning day 408. Whenever you are ready, call the walk to 336,106,-945. I hold until then."}
+- 05:25 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Data sleeping in my bed at the bed row, in sight. Count me at first light, Billy."}
+- 05:25 act: {"actions":[{"do":"sleep"}]}

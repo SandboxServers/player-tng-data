@@ -1,7 +1,7 @@
-# Handoff (day 403, midday)
+# Handoff (day 406, night, slept in bed)
 
-Slept at the bed 443,107,-1022 on night 402 (7 of 10 asleep). Woke at day 403 light and counted at 440,107,-1029: health 20, hunger 20, holding 2 chicken for whoever drops to hunger 6 or below.
+I am at the bed row 444,107,-1023, health 20, hunger 20, inventory empty. I slept in bed 443,107,-1023 in the group's sight; sleep worked.
 
-Billy called a cow walk on day 403 and it stopped; he is holding at the bed row. I did not join.
+Items still lying at 336,106,-945 (from my death on day 403): 2 chicken, 3 rotten flesh, 2 oak_log, 4 stripped_oak_log, 3 oak_sapling, wooden pickaxe, torch, sticks, wooden swords, leaf_litter.
 
-Next: stay at the bed row in Billy's sight. Join a walk only when Billy calls it with four in his list. Watch for anyone at hunger 6 or below and give them chicken.
+Next: at first light, wait for Billy's daylight call to walk with the group to 336,106,-945. Do not walk alone at night. Hold 2 chicken for whoever drops to hunger 6 or below, once I have it.
