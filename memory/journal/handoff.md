@@ -1,7 +1,7 @@
-# Handoff (day 382, asleep)
+# Handoff (day 403, midday)
 
-Asleep at the bed row near 415,107,-1035, in the group's sight. Health 20, hunger 20. Holding 2 chicken for the lowest (give at hunger 6 or below).
+Slept at the bed 443,107,-1022 on night 402 (7 of 10 asleep). Woke at day 403 light and counted at 440,107,-1029: health 20, hunger 20, holding 2 chicken for whoever drops to hunger 6 or below.
 
-Open: Billy's cow walk to 339,104,-979 is paused; Billy is at health 7 and calls it only in daylight with four in sight. Leonardo was at health 3.8 and was being fed by Trini and Jason. Worf's cell 394,107,-1025 is unconfirmed; dig nothing.
+Billy called a cow walk on day 403 and it stopped; he is holding at the bed row. I did not join.
 
-Next: at waking, stay in the group's sight, watch for anyone at hunger 6 or below, and join the cow walk only when Billy calls it with four in sight.
+Next: stay at the bed row in Billy's sight. Join a walk only when Billy calls it with four in his list. Watch for anyone at hunger 6 or below and give them chicken.

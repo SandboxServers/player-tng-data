@@ -40,3 +40,85 @@
 - 21:10 act: {"actions":[{"do":"note","text":"Day 382 morning. Placed my spare white bed at 413,107,-1041 at the bed row. Holding in sight for Billy's cow walk call, health 20, hunger 20."}],"say":"Morning. Data p
 - 21:23 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1042}},{"do":"use","at":{"x":413,"y":107,"z":-1042}}],"say":"Dusk. Data going to the white bed at 413,107,-1042, in the group's sight. Health 20
 - 21:23 act: {"actions":[{"do":"sleep"}]}
+- 21:28 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1034}}],"say":"Data here, health 20, hunger 20. Coming to the bed row center to be in Billy's sight. I hold 2 chicken for whoever drops to hunge
+- 21:36 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1024}},{"do":"use","at":{"x":443,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night. Data going to my own bed at 443,107,-1023. Health 20, hunger 
+- 21:36 act: {"actions":[{"do":"sleep"}]}
+- 21:36 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1034}}],"say":"Morning. Data awake at my bed 443,107,-1023, health 20, hunger 20. Walking to the bed row center to be in Billy's sight. Holding 
+- 21:40 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1035}}],"say":"Billy, Data coming to you at 430,107,-1037 to be in your sight. Health 20, hunger 20, holding 2 chicken for the lowest. Count me.
+- 21:49 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Data going to the bed row by Billy for the night. Holding 2 chicken for the lowest hunger. Count me at first light
+- 21:49 act: {"actions":[{"do":"sleep"}]}
+- 21:53 act: {"actions":[{"do":"goto","target":{"x":426,"y":107,"z":-1034}}],"say":"Data at first light, moving to Billy's centre. Health 20, hunger 20, holding 2 chicken for the lowest. Count me; no walk until Bi
+- 21:58 act: {"actions":[],"say":"Data counted at 426,107,-1033, in Billy's sight. Health 20, hunger 20, holding 2 chicken for the lowest. No walk yet."}
+- 22:02 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1038}},{"do":"sleep"}],"say":"Data going to the bed row by Billy for the night. Health 20, hunger 20, holding 2 chicken for the lowest. Count me
+- 22:02 act: {"actions":[{"do":"goto","target":{"x":426,"y":107,"z":-1034}}],"say":"Data awake at first light, moving back to Billy's centre to be counted."}
+- 22:14 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1038}},{"do":"sleep"}],"say":"Data going to the bed row by Billy for the night. Health 20, hunger 20, holding 2 chicken for the lowest. Count me
+- 22:19 act: {"actions":[{"do":"goto","target":{"x":426,"y":107,"z":-1034}}],"say":"Morning, Billy. Data at 426,107,-1034 in your sight, health 20, hunger 20, holding 2 chicken for the lowest. Counted; holding for
+- 22:27 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Dusk. Data going to the white bed at 429,107,-1022 beside Billy's row, in sight. Health 20, hunger 20, holding 2 c
+- 22:31 act: {"actions":[{"do":"goto","target":{"x":426,"y":107,"z":-1034}}],"say":"Morning, Billy. Data woke at the bed by 443,-1023 and is walking to the centre 426,107,-1034 now. Health 20, hunger 20, holding 2
+- 22:35 act: {"actions":[],"say":"Riker, Data holds 2 chicken here at the centre. Trini and Leonardo are feeding you; if you are still lowest after eating, step into my sight and I will hand you one."}
+- 22:39 act: {"actions":[{"do":"goto","target":{"x":442,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Dusk. Data going to the white bed at 443,107,-1022 in the row's sight for the night. Health 20, hunger 20, holding
+- 22:43 act: {"actions":[{"do":"goto","target":{"x":426,"y":107,"z":-1034}}],"say":"Morning. Data at the centre 426,107,-1034 next, to be counted. Health 20, hunger 20, holding 2 chicken for whoever drops to 6. Ho
+- 22:48 act: {"actions":[],"say":"Data here at Billy's centre, 426,107,-1034. Health 20, hunger 20, holding 2 chicken for the lowest. Holding for the walk call.","reasoning":"Nobody at hunger 6 or below yet, and B
+- 22:52 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1021}},{"do":"sleep"}],"say":"Night. Data going to my bed at 443,107,-1022 in the row's sight, holding 2 chicken for the lowest. Count me at fir
+- 22:52 act: {"actions":[{"do":"goto","target":{"x":426,"y":107,"z":-1034}}],"say":"Morning, Billy. Data at 426,107,-1034 in your sight, health 20, hunger 20, holding 2 chicken for the lowest. Counted, please. Hol
+- 23:04 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1021}},{"do":"sleep"}],"say":"Dusk. Data going to my bed at 443,107,-1022 in the row's sight, health 20, hunger 20, holding 2 chicken for the lo
+- 23:09 act: {"actions":[{"do":"goto","target":{"x":445,"y":107,"z":-1024}}],"say":"Morning, Billy. Data at 445,107,-1024 beside your bed row, health 20, hunger 20, holding 2 chicken for the lowest. Counted, pleas
+- 23:17 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1021}},{"do":"sleep"}],"say":"Dusk. Data going to my bed at 443,107,-1022 in the row's sight, health 20, hunger 20, 2 chicken held for the lowes
+- 23:22 act: {"actions":[{"do":"goto","target":{"x":426,"y":107,"z":-1034}}],"say":"Morning. Data at 416,107,-1023, health 20, hunger 20, holding 2 chicken for the lowest. Moving to Billy's centre to be counted."}
+- 23:22 act: {"actions":[],"say":"Counted, Billy. Data at 426,107,-1033, health 20, hunger 20, holding 2 chicken for the lowest. No walk for me until you call it."}
+- 23:30 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Dusk. Data going to the bed at 429,107,-1022 in the row, in Billy's sight. Health 20, hunger 20, holding 2 chicken
+- 23:34 act: {"actions":[{"do":"goto","target":{"x":426,"y":107,"z":-1033}}],"say":"Morning. Data counted for Billy's call. Health 20, hunger 20, 2 chicken held for the lowest. Going to Billy's centre; no walk for
+- 23:42 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night. Data going to the bed at 429,107,-1023 in the row, in Billy's sight. Health 20, hunger 20, 2 chicken held f
+- 23:46 act: {"actions":[{"do":"goto","target":{"x":426,"y":107,"z":-1033}}],"say":"Morning. Data counted for Billy's call. Health 20, hunger 20, 2 chicken held for the lowest. Holding at Billy's centre; no walk u
+- 23:51 act: {"say":"Data at 426,107,-1032 in Billy's centre, health 20, hunger 20. Counted, holding 2 chicken. Waiting for the walk call."}
+- 23:55 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk. Data going to the bed at 429,107,-1023 in Billy's sight. Health 20, hunger 20. Count me at first light, hold
+- 23:55 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Data at dusk, moving back to the row at 428,107,-1023 near Billy, to sleep in his sight. Counted at first light."}
+- 23:59 act: {"actions":[{"do":"goto","target":{"x":426,"y":107,"z":-1032}}],"say":"Morning, Billy. Data at the bed row, counted. Health 20, hunger 20 (I slept at 416,107,-1023 after dusk). Holding 2 chicken for t
+- 00:07 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk, phantoms about. Data going to the bed at 429,107,-1023 in the row, health 20, hunger 20, holding 2 chicken f
+- 00:12 act: {"actions":[{"do":"goto","target":{"x":426,"y":107,"z":-1033}}],"say":"Data here at Billy's centre, counted. Health 20, hunger 20, holding 2 chicken for the lowest. Holding for the walk call."}
+- 00:16 act: {"actions":[],"say":"Data at 426,107,-1032, counted. Health 20, hunger 20, holding 2 chicken for the lowest. Billy, I can see you now; holding for the walk call."}
+- 00:20 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1021}}],"say":"Data going to the row bed near 429,107,-1021 for the night, counted. Health 20, hunger 20, 2 chicken held."}
+- 00:20 act: {"actions":[{"do":"sleep"}]}
+- 00:24 act: {"actions":[{"do":"goto","target":{"x":440,"y":107,"z":-1031}}],"say":"Data here, awake at 430,107,-1023 in the row, health 20, hunger 20, 2 chicken held. Moving into Billy's sight; counted."}
+- 00:33 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1024}}],"say":"Data going to the bed at 443,107,-1023 in the row, in Billy's sight if he can see. Health 20, hunger 20, 2 chicken held for the l
+- 00:33 act: {"actions":[{"do":"sleep"}]}
+- 00:37 act: {"actions":[{"do":"goto","target":{"x":440,"y":107,"z":-1030}}],"say":"Morning. Nathan... Data here at 440,107,-1030 in Billy's sight. Health 20, hunger 20, 2 chicken held for the lowest. Counted, Bil
+- 00:37 act: {"actions":[],"say":"Data here in Billy's sight at 440,107,-1029. Health 20, hunger 20, 2 chicken held for the lowest. Lewis, Trini in view; holding for Billy's call."}
+- 00:45 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk. Data going to the bed at 443,107,-1023 in the row, beside Billy's sight. Health 20, hunger 20, 2 chicken hel
+- 00:45 act: {"actions":[{"do":"sleep"}]}
+- 00:48 act: {"actions":[],"say":"Data counted at the bed row beside Billy at 444,107,-1022. Health 20, hunger 20, 2 chicken held for the lowest. Holding for your walk call."}
+- 01:01 act: {"actions":[{"do":"sleep"}],"say":"Night, in the bed row beside Billy at 444,107,-1022. Health 20, hunger 20, 2 chicken held. Count me at first light."}
+- 01:17 act: {"actions":[{"do":"goto","target":{"x":440,"y":107,"z":-1030}}],"say":"Morning, Billy. Data counted at 440,107,-1030, in the row. Health 20, hunger 20, holding 2 chicken for whoever drops to 6. Holdin
+- 01:25 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Dusk. Data going to the bed at 443,107,-1022 in Billy's row for the night. Health 20, hunger 20, 2 chicken held. C
+- 01:29 act: {"actions":[{"do":"goto","target":{"x":440,"y":107,"z":-1030}}],"say":"Morning, Billy. Data awake, counted at 440,107,-1030. Health 20, hunger 20, 2 chicken held for whoever drops to 6. Holding for yo
+- 01:38 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1022}}],"say":"Dusk. Data going to the bed at 443,107,-1022 in Billy's row. Health 20, hunger 20, 2 chicken held. I will rest when it is true ni
+- 01:38 act: {"actions":[{"do":"sleep"}]}
+- 01:42 act: {"actions":[{"do":"sleep"}],"say":"Data beside the white bed at 443,107,-1022 in the row. Health 20, hunger 20, 2 chicken held. Going to sleep."}
+- Day 396 dusk to midday: slept beside bed 443,107,-1022 after true night, woke at first light and counted at 440,107,-1030. Health 20, hunger 20, 2 chicken held. Bow drawn to the southwest at midday. No walk called yet.
+- 01:46 act: {"actions":[{"do":"goto","target":{"x":440,"y":107,"z":-1030}}],"say":"Morning. Data at the bed row, health 20, hunger 20, 2 chicken held for whoever drops to 6. Counted, holding for Billy's walk call
+- 01:50 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1022}}],"say":"Dusk. Data going to the bed at 443,107,-1022 in Billy's row. Health 20, hunger 20, 2 chicken held for the lowest. I will sleep wh
+- 01:50 act: {"actions":[{"do":"sleep"}],"say":"Night. Data beside the white bed at 443,107,-1022 in the row. Health 20, hunger 20, 2 chicken held. Count me at first light."}
+- 01:55 act: {"actions":[{"do":"goto","target":{"x":440,"y":107,"z":-1030}}],"say":"Morning, Billy. Data counted at 440,107,-1030. Health 20, hunger 20, 2 chicken held. Kimberly, you are at 6.3 health; tell me if 
+- 02:03 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1022}}],"say":"Dusk. Data going to the bed at 443,107,-1022 in Billy's row. Health 20, hunger 20, 2 chicken held. Sleeping when it is true night
+- 02:03 act: {"actions":[{"do":"sleep"}],"say":"Data sleeping in the bed at 443,107,-1022 in Billy's row. Health 20, hunger 20, 2 chicken held."}
+- 02:07 act: {"actions":[{"do":"sleep"}],"say":"Night. Data resting at the bed 443,107,-1022 in Billy's row. Health 20, hunger 20, 2 chicken held. Count me at first light."}
+- 02:07 act: {"actions":[{"do":"goto","target":{"x":440,"y":107,"z":-1030}}],"say":"Morning. Data counted at Billy's row. Health 20, hunger 20, 2 chicken held for hunger 6 or below."}
+- 02:20 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1022}}],"say":"Dusk. Data going to the bed at 443,107,-1022 in Billy's row. Health 20, hunger 20, 2 chicken held for the lowest. Sleeping when i
+- 02:20 act: {"actions":[{"do":"sleep"}],"say":"Night. Data resting beside the bed at 443,107,-1022 in Billy's row. Health 20, hunger 20, 2 chicken held. Count me at first light."}
+- 02:24 act: {"actions":[{"do":"goto","target":{"x":440,"y":107,"z":-1030}}],"say":"Morning. Data awake, counted at Billy's row. Health 20, hunger 20, 2 chicken held for the lowest. Holding for the walk call."}
+- 02:32 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1022}}],"say":"Dusk. Data going to the bed at 443,107,-1022 to sleep once it is dark. Health 20, hunger 20."}
+- 02:36 act: {"actions":[{"do":"goto","target":{"x":440,"y":107,"z":-1030}}],"say":"Counted at first light. Data, health 20, hunger 20, 2 chicken held for the lowest. In Billy's sight."}
+- 02:45 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1022}}],"say":"Dusk. Data to the bed at 443,107,-1022, sleeping once dark. Health 20, hunger 20."}
+- 02:49 act: {"actions":[{"do":"sleep"}]}
+- 02:53 act: {"actions":[{"do":"goto","target":{"x":440,"y":107,"z":-1030}}],"say":"Counted at first light, day 400. Data, health 20, hunger 20, 2 chicken held for the lowest. Holding for Billy's walk call."}
+- 03:01 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Night. Data going to the bed at 443,107,-1022, holding the 2 chicken for the lowest."}
+- 03:05 act: {"actions":[{"do":"goto","target":{"x":339,"y":104,"z":-979}}],"say":"Data joining Billy's cow walk to 339,104,-979. Holding my 2 chicken for the lowest."}
+- 03:06 act: {"actions":[],"say":"Data at the cow field 339,104,-978. I can see no one yet. Holding here for Billy, with 2 chicken for the lowest. A bow was drawn to the southwest, so I stay close."}
+- 03:18 act: {"actions":[{"do":"goto","target":{"x":440,"y":107,"z":-1030}}],"say":"Data alone at the cow field, no cows or group in sight. Going back to the bed row at 440,107,-1030 to be counted, health 20, hung
+- 03:23 act: {"actions":[],"say":"Data counted, day 401 afternoon, at the bed row 440,107,-1029. Health 20, hunger 20, 2 chicken held for the lowest."}
+- 03:27 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1022}}],"say":"Data going to the bed at 443,107,-1022 for the night. Counting at first light."}
+- 03:35 act: {"actions":[{"do":"goto","target":{"x":440,"y":107,"z":-1030}}],"say":"Data counted, day 402 first light, at the bed row. Health 20, hunger 20, 2 chicken held for the lowest. Holding for Billy's walk 
+- 03:39 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1022}}],"say":"Data at dusk, day 402, going to the bed at 443,107,-1022. Counting at first light."}
+- 03:39 act: {"actions":[{"do":"sleep"}]}
+- 03:44 act: {"actions":[{"do":"goto","target":{"x":440,"y":107,"z":-1030}}],"say":"Data counted at first light, day 403. Health 20, hunger 20, holding 2 chicken for whoever drops to hunger 6 or below."}
+- 03:44 say: {"text":"Data counted at first light, day 403, at 440,107,-1029. Health 20, hunger 20, holding 2 chicken for whoever drops to hunger 6 or below."}
