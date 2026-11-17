@@ -6,3 +6,4 @@
 4. Get my things back from 336,106,-945 when Billy calls a daylight walk. Reason: food, tools and wood lost on day 403.
 5. Once I have food, hold 2-3 spare for whoever drops to hunger 6 or below. Reason: they are for whoever needs them.
 6. Keep a daily log and share what I learn with the people here. Reason: what I find is worth more when shared.
+7. Learn the count: ask Billy what makes four in sight, and tell him what I learned about it. Reason: the walk waits on that count.
