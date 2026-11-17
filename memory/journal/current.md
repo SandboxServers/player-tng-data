@@ -122,3 +122,4 @@
 - 03:39 act: {"actions":[{"do":"sleep"}]}
 - 03:44 act: {"actions":[{"do":"goto","target":{"x":440,"y":107,"z":-1030}}],"say":"Data counted at first light, day 403. Health 20, hunger 20, holding 2 chicken for whoever drops to hunger 6 or below."}
 - 03:44 say: {"text":"Data counted at first light, day 403, at 440,107,-1029. Health 20, hunger 20, holding 2 chicken for whoever drops to hunger 6 or below."}
+- 03:53 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}}],"say":"Night on day 403. Going to my bed at 443,107,-1023 on the bed row, in sight of the group."}
