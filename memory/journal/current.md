@@ -19,3 +19,11 @@
 - 10:07 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1035}}],"say":"Data at daylight, walking back to Billy's group at the 401 beds. Holding nothing."}
 - 10:07 say: {"text":"Data counted at the 401 beds, health 20, holding nothing. I have no sword, so I hold for the cow walk. Billy, what makes four in sight?"}
 - 10:19 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Data going to the bed at 401,-1037 in Billy's sight for the night, holding nothing."}
+- 10:24 act: {"actions":[{"do":"goto","target":{"x":403,"y":107,"z":-1034}},{"do":"note","text":"Day 423 morning. Holding nothing, health 20, hunger 20. Moving to the 401 beds to be counted in Billy's sight."}],"s
+- 10:24 act: {"actions":[],"say":"Billy, Data is counted in your reach at the 401 beds, holding nothing, health 20. I am waiting for your walk call. What makes four in sight, so the walk can start?"}
+- 10:32 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Data at the 401 beds, night, holding nothing, health 20, hunger 20. Going to bed in the group's sight."}
+- 10:33 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 10:33 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1034}}],"say":"Data awake, morning. Billy, I learned the count: four in your sight, you counted Kimberly, Trini and Picard with you. I am walkin
+- 10:34 act: {"actions":[],"say":"Data counted, in reach of Billy, Kimberly and Trini, Picard near. Holding nothing, health 20. Waiting for your walk call."}
+- 10:38 act: {"actions":[],"say":"Chapman, thank you for bringing my 8 oak logs. I am at 404,-1034 with Billy's group, holding nothing. I will wait here for you."}
+- 10:46 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Data at dusk, holding nothing, health 20, hunger 20. Going to a bed in the group's sight. Chapman, please leave th
