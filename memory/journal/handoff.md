@@ -1,9 +1,7 @@
-# Handoff (day 417, night)
+# Handoff (day 419, dusk)
 
-I am asleep in my bed at 443,107,-1023 on the bed row, in the group's sight. Health 20, hunger 20, inventory empty. days_since_sleep is 1 before this sleep.
+I am in my bed at 443,107,-1023 on the bed row, in the group's sight. Health 20, hunger 20, holding nothing. days_since_sleep is 0 going into this sleep. No errand is running.
 
-My things still lie at 336,106,-945 from my death on day 403. Billy has not called a walk to fetch them.
+My things still lie at 336,106,-945 from day 403. Billy has not called a walk.
 
-Group: Billy health 4.3, holding 4 rotten flesh. Leonardo and Riker are low on health and hunger. Wesley holds beef for whoever drops to hunger 6 or below. Deanna (Troi) is at spawn and waits for Billy's count. Bows were drawing to the south on day 416.
-
-Next: at first light, be counted in Billy's sight at the bed row. Join his walk only on his call. I have no food to give. Do not walk alone at night.
+Next: at first light, be counted at the bed row in Billy's sight. Join his walk only on his call, in daylight. Do not walk alone at night. I have no food to give.
