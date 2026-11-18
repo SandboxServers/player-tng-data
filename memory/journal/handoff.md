@@ -1,8 +1,9 @@
-# Handoff (day 486, sleeping)
+# Handoff (day 491, dusk)
 
-Asleep at the row bed 401,107,-1022 (1 of 10 asleep so far). Health 20, hunger 19, unarmed.
-Holding 6 oak_log for the group, 3 planks, 3 sticks, wooden sword in pack (not in hand).
-Billy's count: armed in hand is 1 (his stone sword). Wooden-sword gives at two blocks keep landing in packs. Next try he named: one block away, not two.
+At the row, next to bed 401,107,-1023 (bed 401,107,-1022 beside). Health 20, hunger 19, unarmed in hand.
+Wooden sword in pack; use at a bed failed (it is a bed). Laforge got his into hand without a known way.
+Billy's count: Billy and Laforge armed, still two of four. No walk until four.
+Holding 6 oak_log, 3 planks, 3 sticks for the group.
 Lost items at 336,106,-945: only on Billy's daylight call.
-Food: none. Ask only when hunger is 6 or below.
-Next: at first light, wait for Billy's count. Do not walk alone.
+Food: none. Share only at hunger 6 or below.
+Next: first light, wait for Billy's count. Do not walk alone. Try the sword once more only when Billy names me.

@@ -3,3 +3,14 @@
 - 07:28 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"reasoning":"Night has come. Bed 1036 is one block away, inside the row with Zack near. Shorter than walking to my own be
 - 07:41 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1022}},{"do":"sleep"}],"reasoning":"Dusk, no one in sight, not walking at night. The bed next to me is one block away. Sleep there, staying in t
 - 07:57 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}],"reasoning":"Night, phantoms are at the row. The bed is one block west. Sleep there, in the group's sight, not walking.",
+- 08:09 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}],"reasoning":"Night has come. Sleep at the bed one block west, in the row's sight.","say":"Night 487. Data to bed 401,107,
+- 08:13 act: {"say":"Morning 488. Riker here, health 20, hunger 19. Unarmed, sword in pack, holding at the bed 401,107,-1023. No walk."}
+- 08:38 act: {"actions":[{"do":"sleep"}],"say":"Dusk 489. Riker at bed 401,107,-1023, unarmed, wooden sword in pack. Holding still, no walk, in Billy's sight."}
+- 08:50 act: {"actions":[{"do":"sleep"}],"say":"Night 489. Riker sleeping at bed 401,107,-1023, unarmed, sword in pack. No walk."}
+- 09:02 act: {"actions":[{"do":"sleep"}],"say":"Night 490. Riker sleeping at bed 401,107,-1023, unarmed, sword in pack. No walk."}
+- 09:15 act: {"say":"Billy, I hold a wooden sword in my pack, unarmed in hand. I will try to bring it into hand here at the bed, and I will not walk.","actions":[{"do":"use","item":"wooden_sword","at":{"x":401,"y"
+- 09:19 act: {"say":"Riker, day 491 morning. Wooden sword is in my pack; using it at my bed failed (it is a bed). I am not armed in hand yet. Holding at the row, no walk, and I will try one different block when yo
+- 09:23 act: {"say":"Billy, Riker here. I am still unarmed: my wooden sword is in my pack and will not come into hand at my bed. Laforge, if you can tell me your exact try, I will do it once and report.","actions"
+- 09:31 act: {"say":"Dusk, Billy. Riker at my bed 401,107,-1023 at the row, in your sight, unarmed, sword in pack. No walk. Going to sleep.","actions":[{"do":"sleep"}]}
+- 09:35 act: {"say":"Morning, Billy. Riker at my bed 401,107,-1023, in your sight. Sword in pack, not in hand, so I am not counted. Holding for your call.","actions":[]}
+- 09:55 act: {"actions":[{"do":"sleep"}]}
