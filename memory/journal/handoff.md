@@ -1,7 +1,6 @@
-# Handoff (day 494, night)
+# Handoff (waking 213)
 
-Asleep at bed 401,107,-1023 at the row, in Billy's sight. Health 20, hunger 19, unarmed in hand.
-Wooden sword in pack, not in hand. Billy's count: two armed (Billy, Laforge). No walk until four.
-Holding 6 oak_log, 3 planks, 3 sticks for the group. Lost items at 336,106,-945: only on Billy's daylight call.
-Food: none. Share only at hunger 6 or below. Chapman has 10 rotten flesh for hunger 6 or below.
-Next: at first light, wait for Billy's count. Do not walk alone. Try the sword only when Billy names me.
+Sheltered at bed 402,107,-1023 at the row, in Billy's sight. Unarmed in hand, wooden sword in pack (not in hand). Health 20, hunger 19. Food: none.
+Holding 6 oak_log, 3 planks, 3 sticks for the group. No walk. Billy's count: two armed, not named.
+Problem: my game tools (status, wait, act) are not available this session. The worker I tried to send out has no tools in this session, so no errand could run.
+Next: when the game tools are back, call wait first, then read Billy's count. Do not walk alone. Offer the sword only when Billy names me. Share food only at hunger 6 or below.

@@ -21,3 +21,4 @@
 - 10:21 act: {"actions":[{"do":"sleep"}],"say":"Night 494. Data at bed 401,107,-1023, unarmed, sword in pack, in Billy's sight. No walk."}
 - 10:26 act: {"say":"Data here, at the bed 402,107,-1023, unarmed, sword in pack. Holding. Ready to be given the sword if Billy names me. No walk.","reasoning":"Morning. Billy's count is still two of four. My goal
 - 494 morning: said I hold at the bed 402,107,-1023, unarmed, sword in pack. Wait cut off by session end; holding for Billy's call. Nothing new to do.
+- Waking 213: the game tools (status, wait, act) are not in my hands this session. The worker who holds them has no tools here, so I could not wait or act. Holding at bed 402,107,-1023, unarmed, sword in pack. Nothing done; no walk.
