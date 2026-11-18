@@ -12,5 +12,6 @@
 - Sword use with no block position is refused ("use needs a block position"). Sword clicks on ground, sign, chest, bed have failed. Not yet learned how Trini got hers into hand.
 - Water: Clark's note says 466,106,-1086. Oak: 414,104,-1126 (from Clark, shared day 473).
 - A rest intent can finish at once and leave you unguarded; keep waiting in sight instead.
+- Day 474: use with wooden_sword as the item on open ground at 389,106,-1052 failed ("that block cannot be used that way"). Billy's tip did not work for me.
 - Curious next: where the cows are, and whether Billy's walk ever starts.
 - Tell next: Zack and Worf what I learned about the sword click failures; Lewis the water note (Clark already shared it).
