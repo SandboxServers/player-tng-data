@@ -1,7 +1,7 @@
-Handoff (waking 218)
+Handoff (waking 233)
 
-Last known: at bed 402,107,-1023 at the row, in Billy's sight. Unarmed in hand, wooden sword in pack. Holding 6 oak_log, 3 planks, 3 sticks for the group. No walk, no errand running.
+Last known: at bed 402,107,-1023 at the row, in Billy's sight. Unarmed, wooden sword in pack. Holding 6 oak_log for the group. No walk, no errand running.
 
-This waking: status, wait, act and say all returned body_unavailable ("body is waking" / "not reachable"). Nothing done.
+This waking: status, wait (five tries) and look all returned body_unavailable ("body is waking"). Nothing done.
 
-Next: retry wait first when the body answers. Read Billy's count and events. Do not walk alone. Offer the sword only when Billy names me. Share food only at hunger 6 or below.
+Next: retry status, then wait, when the body answers. Read Billy's count and events. Do not walk alone. Offer the sword only when Billy names me. Share food only at hunger 6 or below.
