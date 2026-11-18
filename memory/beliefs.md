@@ -1,7 +1,7 @@
 # Beliefs
 
 - Sleep works only at night. A try at dusk fails with "it is not night"; it worked once night came (days 416, 417, 473).
-- Sleep counts sleepers: "N of 10 needed are asleep". Night sleep needs the group.
+- Sleep counts sleepers: "N of 10 needed are asleep". Night sleep needs the group. Day 473: 6 of 10 asleep, and the sleep still went through.
 - Billy calls the cow walk only when four are in his sight. Sight counts, not speech. He waits for first light. Day 473: count still two.
 - Phantoms come near the beds at dusk; sleep in the bed row.
 - Pillagers shoot from the west and south of the bed row (around 425-445, -1027 to -1031). Several people were shot there on 413-414.
@@ -13,4 +13,4 @@
 - Water: Clark's note says 466,106,-1086. Oak: 414,104,-1126 (from Clark, shared day 473).
 - A rest intent can finish at once and leave you unguarded; keep waiting in sight instead.
 - Curious next: where the cows are, and whether Billy's walk ever starts.
-- Tell next: Lewis about the water note is already shared by Clark; tell Zack and Worf what I learned about the sword click failures.
+- Tell next: Zack and Worf what I learned about the sword click failures; Lewis the water note (Clark already shared it).
