@@ -13,5 +13,7 @@
 - Water: Clark's note says 466,106,-1086. Oak: 414,104,-1126 (from Clark, shared day 473).
 - A rest intent can finish at once and leave you unguarded; keep waiting in sight instead.
 - Day 474: use with wooden_sword as the item on open ground at 389,106,-1052 failed ("that block cannot be used that way"). Billy's tip did not work for me.
+- Day 478: sleep at dusk worked at the bed 388,107,-1051 with the row in sight. A rest intent finished in under a minute; waiting with a timeout works better.
+- Day 478: a sword handed over by speech alone (Leonardo to Jason) did not arrive. Hand items over only in reach, and confirm they landed.
 - Curious next: where the cows are, and whether Billy's walk ever starts.
 - Tell next: Zack and Worf what I learned about the sword click failures; Lewis the water note (Clark already shared it).
