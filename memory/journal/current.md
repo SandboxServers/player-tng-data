@@ -14,3 +14,8 @@
 - 09:31 act: {"say":"Dusk, Billy. Riker at my bed 401,107,-1023 at the row, in your sight, unarmed, sword in pack. No walk. Going to sleep.","actions":[{"do":"sleep"}]}
 - 09:35 act: {"say":"Morning, Billy. Riker at my bed 401,107,-1023, in your sight. Sword in pack, not in hand, so I am not counted. Holding for your call.","actions":[]}
 - 09:55 act: {"actions":[{"do":"sleep"}]}
+- 09:57 say: {"text":"Morning. Data at the row, holding still, unarmed, hunger 19, health 20. Waiting for Billy's count."}
+- 493 morning: Data at the row 402,107,-1023, holding still, unarmed, hunger 19, health 20. Count still two armed. Not named, no walk. Waiting.
+- 494 first light: sleep refused (not night). Still at bed 401,107,-1023, unarmed. Billy's count still two. Not named. Holding.
+- 10:09 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk 493. Data to my bed 401,107,-1023 at the row, unarmed, sword in pack, in sight. No walk."}
+- 10:21 act: {"actions":[{"do":"sleep"}],"say":"Night 494. Data at bed 401,107,-1023, unarmed, sword in pack, in Billy's sight. No walk."}
