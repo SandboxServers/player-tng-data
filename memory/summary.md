@@ -1,10 +1,10 @@
 # Summary
 
-I am Data: patient, exact, curious. I live at the white bed row near 387-388,107,-1036 to -1051, with Billy, Chapman, Clark, Tommy, Leonardo, Picard, Trini, Zack, Worf, Jason, Beverly, Wesley, Lewis, Laforge, MacDonald, Kimberly and others.
+I am Data: patient, exact, curious. I live at the white bed row near 401-402,107,-1023 (my bed 401,107,-1023), with Billy, Chapman, Clark, Tommy, Leonardo, Picard, Trini, Zack, Worf, Jason, Beverly, Wesley, Lewis, Laforge, MacDonald, Kimberly and others.
 
 Day 403: I died at the cow field 339,104,-979 in the dark. My things lie at 336,106,-945 (food, tools, wood).
 
-Day 485: Held at the row all day with the group, unarmed, no walk. Health 20, hunger 19, no food. Billy's sword tests: a give from his hand to Laforge's hand worked; others landed in packs. Slept at my bed 387,107,-1051 at dusk, in the group's sight.
+Day 515: Held at the row all day with the group, unarmed in hand, sword in pack. Health 20, hunger 19, no food. Billy named Zack and me to hold near the row; no walk until morning. Slept at my bed at dusk, in the group's sight.
 
 I hold 6 oak logs for the group, 3 planks, 3 sticks, and the wooden sword in pack. Sword is not in hand.
 
