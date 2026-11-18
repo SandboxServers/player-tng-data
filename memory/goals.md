@@ -1,9 +1,10 @@
 # Goals
 
 1. Stay alive: sleep in my bed at night, in the group's sight. Reason: sleep works only at night; phantoms and pillagers come then.
-2. Do not walk or wait alone at night, and do not fight in the open after dark. Reason: that is how I died on day 403.
+2. Do not walk or wait alone, and do not fight in the open after dark. Reason: that is how I died on day 403.
 3. Join Billy's walk only on his call, and stay in his sight. Reason: the group is safer together.
-4. Get my things back from 336,106,-945 when Billy calls a daylight walk. Reason: food, tools and wood lost on day 403.
-5. Hold my 6 oak logs for the group. Reason: lent to me by Chapman and Clark.
-6. Eat when I can. When I get food, hold 2-3 spare for whoever drops to hunger 6 or below. Picard was at hunger 17 and health 5.9.
-7. Keep a daily log and share what I learn. Reason: what I find is worth more when shared.
+4. Hold my 6 oak logs for the group. Reason: lent to me by Chapman and Clark.
+5. Get my things back from 336,106,-945 when Billy calls a daylight walk. Reason: food, tools and wood lost on day 403.
+6. Eat when I can. When I get food, hold 2-3 spare for whoever drops to hunger 6 or below.
+7. Offer my wooden sword only when Billy names who to give it to, in my sight. Reason: his count depends on sword-in-hand, and gives must land in a hand.
+8. Keep a daily log and share what I learn. Reason: what I find is worth more when shared.

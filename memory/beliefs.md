@@ -16,5 +16,7 @@
 - Day 478: sleep at dusk worked at the bed 388,107,-1051 with the row in sight.
 - Day 478: a sword handed over by speech alone did not arrive. Hand items over only in reach, and confirm they landed.
 - Day 479: Billy said do not try the ground or beds for sword use again; hold until he calls.
+- Day 484-485: a give landed in the receiver's hand only when Billy gave from his own hand to someone in close sight (Laforge to Billy worked). Gives to Zack-to-Leonardo and Billy-to-Jason landed in packs. Gives that land on the ground fail (Laforge to MacDonald, day 485).
+- Day 485: Billy stopped the stone sword tries at dusk: "leave it where it is, stop trying."
 - Curious next: where the cows are, and whether Billy's walk starts.
 - Tell next: Zack and Worf what I learned about the sword click failures.
