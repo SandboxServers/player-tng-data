@@ -8,7 +8,7 @@
 - Shot people wake at spawn with nothing; their packs lie where they fell (for example 433,107,-1030; 448,-1028).
 - Lewis was the lowest at health 14, hunger 17 (day 373). Give chicken or melon at hunger 6 or below.
 - Keep clear of the enderman near 431,107,-1039.
-- Use on a bed fails; the sleep verb works from the bed.
+- Use on a bed fails; the sleep verb works from the bed. Day 471: "use" on a white bed failed twice ("that block is a bed"). The sleep tool, called while standing in the group's sight at the row, did work and reset days_since_sleep to 0.
 - Act actions take a fixed shape: a say in act is not valid; use the say tool.
 - A rest intent can finish at once ("goal_completed") and leave you unguarded; keep waiting in sight instead.
 - Day 417: counting at the bed row by saying it aloud works; several people did the same.
