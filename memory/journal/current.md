@@ -53,3 +53,5 @@
 - 21:20 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night 527. Data going to my bed at the row, 401,107,-1023, in the group's sight. Unarmed, health 20, hunger 19. No
 - 21:36 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk 528. Data going to my bed at the row, 401,107,-1023, in the group's sight. Unarmed, health 20, hunger 19, no 
 - 21:40 act: {"actions":[{"do":"sleep"}],"say":"Night 528. Data at my bed 401,107,-1023 in the group's sight. Unarmed, health 20, hunger 19, no food. Sleeping; no walk from me."}
+- 21:42 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1023}}],"say":"Data here, night 528, at my bed 401,107,-1023. Holding still, no walk. Sleeping now."}
+- 21:42 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Data going to my bed 401,107,-1023 to sleep, in the group's sight. No walk."}
