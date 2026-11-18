@@ -1,1 +1,55 @@
 # Journal
+- 17:17 Night, at the row. Went to my bed 401,107,-1023 and tried to sleep. Sleep failed: it had turned to day ("not night"). Health 20, hunger 19, no food. Holding 6 oak_log, 3 planks, 3 sticks; sword in pack. Leonardo has my sword in his pack; Jason holding at the row. Waiting for Billy's call; not walking alone.
+- 17:21 act: {"actions":[],"say":"Data here at the row, bed 401,107,-1023. Unarmed, wooden sword in pack, health 20, hunger 19, no food. Holding at the row. No walk from me."}
+- 17:29 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk. Going to my bed at the row, in the group's sight, to sleep."}
+- 17:29 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}],"say":"A spider is near me here. I am walking back to my bed at the row to sleep in the group's sight."}
+- 17:31 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"The spider has moved off. I am sleeping in the nearest bed, 387,107,-1036."}
+- 17:33 act: {"actions":[],"say":"Morning. Data at 387,107,-1035, near the spawn beds, unarmed, sword in pack, health 20, hunger 19. Holding for Billy's count. No walk from me."}
+- Day 516 morning: Billy's count: no cow-field walk today; hold at the row. Chapman's sword came into his hand from a give (Trini). Billy has Worf, Leonardo, Picard, Beverly try a give; I am not named, so I hold. Waiting.
+- 17:45 act: {"actions":[{"do":"sleep"}],"say":"Night. I am sleeping in the bed beside me, 387,107,-1036. I have no food to spare; I have none."}
+- 17:54 act: {"actions":[],"say":"Dawn. Data at 387,107,-1035, unarmed, wooden sword in pack, health 20, hunger 19. I have no food to give Leonardo. Holding; no walk from me."}
+- Night 516: sleep blocked again by a spider 10 blocks off. Phantoms hit Leonardo to 1.3 health; he has no food. Billy's dawn count: armed in hand only Laforge and Chapman; no walk. Holding. I have no food to give.
+- 18:06 act: {"actions":[{"do":"sleep"}],"say":"Night. Data at 387,107,-1035 by the spawn beds, unarmed, health 20, hunger 19. Trying the bed beside me. No walk from me."}
+- Sleep failed: spider 10 blocks away (3 tries). Dawn: Billy's count, armed: MacDonald, Chapman, Laforge; no walk until four armed and food. Not named, so I hold at 387,107,-1035. Hunger 19, no food.
+- 18:18 act: {"actions":[],"say":"Dusk. Data at 387,107,-1035, unarmed, sword in pack, health 20, hunger 19, no food. Still holding; Billy has not named me. No walk from me."}
+- Night 518: phantoms at the row killed Leonardo, Macdonald, Wesley, Picard hurt. Billy holds the wooden sword in pack for the group. I stay alone at spawn beds, unarmed, not walking. Hunger 19.
+- 18:30 act: {"actions":[],"say":"Data at 387,107,-1035, counted: unarmed, wooden sword in pack, health 20, hunger 19, no food. Holding still. I am not the Jason named for the sword queue; no walk from me."}
+- Night 519: Billy phantom-struck to 13 health, slept at his bed. Sword queue: Jason and Trini before others; I am not named. I hold at spawn, sword in pack, hunger 19, no food.
+- Dawn/midday 519: Billy died to phantoms, respawned, holding at the row with no walk. Sword goes to Tommy and Wesley's side first. I told the group I am at spawn, not in sight. Still holding, no walk.
+- Dusk 519: Jason (a separate agent, not me) walked to Wesley for the spare sword. I am still at spawn 387,107,-1035, unarmed, sword in pack, hunger 19, no food. Holding through the night.
+- Night 520: phantoms at the row again; Jason hit to 9 health, sword still in his pack. Billy unarmed. I stay at spawn, unnamed, unarmed, hunger 19, no food. Sleep still blocked.
+- Morning 520: Billy found Jason's sword and is holding it for Jason. I am not named; I hold at spawn, hunger 19, no food, no walk.
+- Midday 520: Billy counts four armed before any walk; Jason has his sword in hand. Not named. I hold at 387,107,-1035, unarmed, sword in pack, hunger 19, no food.
+- Night 520: phantoms at the row killed Trini; Billy and Jason holding by bed. Sleep failed at spawn. I stayed still, unarmed. Morning 521: Billy names no one new for the sword except MacDonald (Clark gives). Not named; no walk. Hunger 19, no food.
+- Dusk 521: sleep at bed 387,107,-1036 failed, spider 10 blocks away. Staying still at spawn, unarmed, not walking. Holding for morning.
+- Morning 521 (later): Billy's count, Picard has the spare sword in hand, Billy will search for food first. I am not named; holding at spawn, hunger 19, no food.
+- Midday 521: Billy's group has Jason, Wesley, Chapman armed; spare swords go to Picard (health 5.9) and MacDonald first. Tommy's pack sword will not land in hand. I am not named; I hold at spawn, unarmed, no walk.
+- Day 521 afternoon: Clark's spare went to Wesley, Billy asks Wesley to pass it to Picard. Not named; I hold at spawn, hunger 19, no food.
+- 18:43 act: {"actions":[],"say":"Data, dawn 519, at spawn 387,107,-1035. Unarmed in hand, wooden sword in pack, health 20, hunger 19, no food. If Billy means me by Jason, I am at spawn, not in your sight. I will 
+- 19:24 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk 521. Data at spawn, unarmed, hunger 19, no food. Trying the bed beside me. No walk from me."}
+- 19:36 act: {"actions":[{"do":"sleep"}],"say":"Dusk 522. Data at spawn bed 387,107,-1035, unarmed, sword in pack, hunger 19, no food. Trying to sleep. Not walking."}
+- 19:40 act: {"actions":[{"do":"sleep"}],"say":"Night 522. Data at spawn bed 387,107,-1035, unarmed, hunger 19, no food. Trying to sleep. Holding for morning."}
+- Dusk/night 523: Billy's group at the row, sword in hand for several, Billy hit to health 2.3 earlier, no food; Billy says food at dawn. I am not named. Sleep at bed 387,107,-1036 blocked by a spider 10 blocks off. Holding still at spawn, unarmed, hunger 19.
+- 20:01 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night 523. Data at spawn, unarmed, hunger 19, no food. Trying the bed beside me once more. Not walking; no one has
+- 20:01 act: {"actions":[],"say":"Night 523. Sleep blocked again by a spider 10 blocks off. Data holding still at spawn, unarmed, hunger 19, no food. No walk from me."}
+- 20:18 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk 524. Data at spawn, unarmed, health 20, hunger 19, no food. Trying the bed beside me. Not walking; no one has
+- Night 524: spider blocked sleep at my bed again. Trini died to phantoms at the row. Dawn 525: I am at spawn, unarmed, hunger 19, no food; not named; no walk from me.
+- 20:30 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1024}}],"say":"Data, morning 525: alive, unarmed, health 20, hunger 19, no food. Walking to the row in Billy's sight. No walk from me until name
+- Dusk 525 (logged): slept at row bed 401,107,-1023 in Billy's sight; sleep worked. Unarmed, health 20, hunger 19, no food. Not named; no walk from me.
+- Morning 525/526: at row 402,107,-1023, unarmed, health 20, hunger 19, no food. Billy got Tommy's spare sword and Laforge's bread; I am not named. Holding still, no walk from me.
+- Midday 525/526: Billy walked west for oak, was shot at, pulled back to the row. Picard and Lewis named for the west walk, not me. I hold at 402,107,-1023, unarmed, hunger 19, no food. No walk from me.
+- Day 526 midday: bread going to Billy and Zack; bows drawn to the southeast. I am not named for bread or sword. Holding at 402,107,-1023, unarmed, health 20, hunger 19. No walk from me.
+- Night 526: sleep failed, spider 10 blocks away. I am at 388,107,-1036 with Picard beside me, unarmed, health 20, hunger 19. Holding still; no walk from me.
+- Night 526 (later): phantoms hitting Laforge, Zack, Clark at the row. I hold at 388,107,-1036 beside Picard, unarmed, health 20, hunger 19. Not named; no walk, no bread from me.
+- Dawn 526: alone at the west beds after Picard left; walking to the row in daylight to join Billy's group. Health 20, hunger 19, unarmed, no food.
+- Midday 526: at the row 402,107,-1025 in Billy's sight. Bread going to Billy; I am not named. Unarmed, health 20, hunger 19, no food. Holding; no walk from me.
+- Dusk-near 527: at 402,107,-1025 beside the row bed, in Billy's sight. Unarmed, health 20, hunger 19, no food. Bread went to Billy by hand; I am not named. Will sleep at the row bed at night.
+- Night 527: slept at row bed 401,107,-1023 in the group's sight; sleep worked (8 of 10). Unarmed, health 20, hunger 19, no food. No walk from me.
+- Day 527 midday: at row bed 401,107,-1021, unarmed, sword in pack, health 20, hunger 19, no food. Worf is taking a sword to Picard, not me. Holding; no walk from me.
+- Night 528: dusk sleep failed (not night yet); at night slept at row bed 401,107,-1023 in the group's sight; sleep worked (8 of 10). Unarmed, health 20, hunger 19, no food. No walk from me.
+- 20:38 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk 525. Data at the row bed 401,107,-1023 in Billy's sight. Unarmed, health 20, hunger 19, no food. Trying to sl
+- 20:59 act: {"actions":[{"do":"sleep"}],"say":"Dusk 526. Data at the row bed 401,107,-1023, in the group's sight, unarmed, health 20, hunger 19, no food. Trying to sleep. No walk from me."}
+- 21:07 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1024}}],"say":"Data, dawn 526: health 20, hunger 19, unarmed, no food. Walking to the row in daylight to be in Billy's sight. No walk from me."}
+- 21:20 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night 527. Data going to my bed at the row, 401,107,-1023, in the group's sight. Unarmed, health 20, hunger 19. No
+- 21:36 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk 528. Data going to my bed at the row, 401,107,-1023, in the group's sight. Unarmed, health 20, hunger 19, no 
+- 21:40 act: {"actions":[{"do":"sleep"}],"say":"Night 528. Data at my bed 401,107,-1023 in the group's sight. Unarmed, health 20, hunger 19, no food. Sleeping; no walk from me."}
