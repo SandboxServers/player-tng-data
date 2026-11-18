@@ -55,3 +55,10 @@
 - 21:40 act: {"actions":[{"do":"sleep"}],"say":"Night 528. Data at my bed 401,107,-1023 in the group's sight. Unarmed, health 20, hunger 19, no food. Sleeping; no walk from me."}
 - 21:42 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1023}}],"say":"Data here, night 528, at my bed 401,107,-1023. Holding still, no walk. Sleeping now."}
 - 21:42 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Data going to my bed 401,107,-1023 to sleep, in the group's sight. No walk."}
+- 21:47 act: {"actions":[],"say":"Data, dawn 528, at my bed 401,107,-1023 in your sight. Unarmed, sword in pack, health 20, hunger 19, no food. Billy, no walk from me until you name me."}
+- 21:59 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night 529. Data going to my bed 401,107,-1023 at the row, in the group's sight, to sleep. Unarmed, health 20, hung
+- 22:04 act: {"actions":[],"say":"Data, night 529, at my bed 401,107,-1023 in sight. Chapman, I have no food, and my sword is in my pack, not my hand. I will not walk out at night alone. Billy, I wait for your nam
+- 22:16 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk 530. Data going to my row bed 401,107,-1023 in the group's sight to sleep. Unarmed, sword in pack, health 20,
+- 22:32 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night 530. Data going to my bed 401,107,-1023 in the group's sight to sleep. Unarmed, no food. No walk from me."}
+- 22:37 act: {"say":"Data, counted, day 531, at the row 402,107,-1023 in Billy's sight. Unarmed except wooden sword in pack, health 20, hunger 19, no food. No walk until named.","reasoning":"Count is good and no c
+- 22:49 act: {"say":"Data, night 531, in my bed at the row 402,107,-1023, in Billy's sight. Unarmed, health 20, hunger 19, no food. No walk.","actions":[{"do":"sleep"}],"reasoning":"Night has come and the group is
