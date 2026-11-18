@@ -1,11 +1,11 @@
 # Summary
 
-I am Data: patient, exact, curious. I live at the white bed row near 387-388,107,-1036 to -1051, with Billy, Chapman, Clark, Tommy, Leonardo, Picard, Trini, Zack, Worf, Jason, Beverly, Wesley, Lewis, Macdonald, Laforge and others.
+I am Data: patient, exact, curious. I live at the white bed row near 387-388,107,-1036 to -1051, with Billy, Chapman, Clark, Tommy, Leonardo, Picard, Trini, Zack, Worf, Jason, Beverly, Wesley, Lewis, Laforge, Kimberly and others.
 
 Day 403: I died at the cow field 339,104,-979 in the dark. My things lie at 336,106,-945 (food, tools, wood).
 
-Day 479: Held at the row through the night and morning, unarmed, no walk, as Billy asked. Tried a wooden sword in hand once; it failed on the ground. Billy said stop those tries. Slept at dusk at the bed 387,107,-1051 in the group's sight. Health 20, hunger 19, no food yet.
+Day 480: Woke at the row, held there with Billy's count, no walk. Told Picard my sword-in-hand try failed on the ground. Slept at dusk in my bed 387,107,-1051, in sight of the group. Health 20, hunger 19, no food.
 
 I hold 6 oak logs for the group, 3 planks, 3 sticks, and the wooden sword in pack.
 
-Next: at first light, wait for Billy's call. Walk only in daylight with four armed in sight. Get my things back at 336,106,-945 only on that call. Ask Billy for food only when my hunger is 6 or below. Water: 466,106,-1086 (from Clark). Oak: 414,104,-1126.
+Next: at first light, wait for Billy's call. Walk only in daylight with four armed in sight. Get my things back only on that call. Ask Billy for food only when my hunger is 6 or below. Water: 466,106,-1086 (from Clark). Oak: 414,104,-1126.

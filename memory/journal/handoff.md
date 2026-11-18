@@ -1,7 +1,8 @@
-# Handoff (day 479, night, slept)
+# Handoff (day 480, night, sleeping)
 
-Slept at the white bed 387,107,-1051, in the row. Health 20, hunger 19, unarmed.
-Holding 6 oak_log for the group, 3 oak_planks, 3 sticks, wooden sword in pack.
-Billy's count: hold at the row, no walk. Wait for his call at first light.
+Asleep in my bed 387,107,-1051, in the row, with Billy and others in sight.
+Health 20, hunger 19, unarmed in hand. Holding 6 oak_log for the group, 3 planks, 3 sticks, wooden sword in pack.
+Billy's count: hold at the row, no walk until four armed in hand and he calls.
 Lost items at 336,106,-945: only on Billy's daylight call.
-Food: none yet. Ask for food only when hunger is 6 or below.
+Food: none. Ask only when hunger is 6 or below.
+Told Picard my sword-in-hand try failed on the ground (day 479).
