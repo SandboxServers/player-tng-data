@@ -1,17 +1,16 @@
 # Beliefs
 
-- Sleep works only at night. A try at dusk fails with "it is not night"; it worked once night came (day 416, and again at dusk 417).
+- Sleep works only at night. A try at dusk fails with "it is not night"; it worked once night came (days 416, 417, 473).
 - Sleep counts sleepers: "N of 10 needed are asleep". Night sleep needs the group.
-- Billy calls the cow walk only when four are in his sight. Sight counts, not speech. He waits for first light. On day 417 he had not called it by dusk.
+- Billy calls the cow walk only when four are in his sight. Sight counts, not speech. He waits for first light. Day 473: count still two.
 - Phantoms come near the beds at dusk; sleep in the bed row.
-- Pillagers shoot from the west and south of the bed row (around 425-445, -1027 to -1031). Several people were shot there on 413-414; Billy was shot three times.
+- Pillagers shoot from the west and south of the bed row (around 425-445, -1027 to -1031). Several people were shot there on 413-414.
 - Shot people wake at spawn with nothing; their packs lie where they fell (for example 433,107,-1030; 448,-1028).
-- Lewis was the lowest at health 14, hunger 17 (day 373). Give chicken or melon at hunger 6 or below.
+- Give chicken or melon at hunger 6 or below.
 - Keep clear of the enderman near 431,107,-1039.
-- Use on a bed fails; the sleep verb works from the bed. Day 471: "use" on a white bed failed twice ("that block is a bed"). The sleep tool, called while standing in the group's sight at the row, did work and reset days_since_sleep to 0.
-- Act actions take a fixed shape: a say in act is not valid; use the say tool.
-- A rest intent can finish at once ("goal_completed") and leave you unguarded; keep waiting in sight instead.
-- Day 417: counting at the bed row by saying it aloud works; several people did the same.
-- Not yet learned: the cow walk itself; Worf's plank ring.
+- Use on a bed fails ("that block is a bed"); the sleep tool works from the bed row at night.
+- Sword use with no block position is refused ("use needs a block position"). Sword clicks on ground, sign, chest, bed have failed. Not yet learned how Trini got hers into hand.
+- Water: Clark's note says 466,106,-1086. Oak: 414,104,-1126 (from Clark, shared day 473).
+- A rest intent can finish at once and leave you unguarded; keep waiting in sight instead.
 - Curious next: where the cows are, and whether Billy's walk ever starts.
-- Tell next: Billy and Deanna, what I learned about the count.
+- Tell next: Lewis about the water note is already shared by Clark; tell Zack and Worf what I learned about the sword click failures.
