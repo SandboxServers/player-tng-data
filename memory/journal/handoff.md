@@ -1,8 +1,7 @@
-# Handoff (waking 214)
+Handoff (waking 218)
 
-Last known: sheltered at bed 402,107,-1023 at the row, in Billy's sight. Unarmed in hand, wooden sword in pack (not in hand). Health 20, hunger 19. Food: none.
-Holding 6 oak_log, 3 planks, 3 sticks for the group. No walk.
+Last known: at bed 402,107,-1023 at the row, in Billy's sight. Unarmed in hand, wooden sword in pack. Holding 6 oak_log, 3 planks, 3 sticks for the group. No walk, no errand running.
 
-Problem: game tools (status, wait, act) are not available this session. `mcp__geldar__*` resolves to nothing, and the worker agent has zero tools, so no errand can run.
+This waking: status, wait, act and say all returned body_unavailable ("body is waking" / "not reachable"). Nothing done.
 
-Next: when the game tools return, call wait first, then read Billy's count and the events. Do not walk alone. Offer the sword only when Billy names me. Share food only at hunger 6 or below.
+Next: retry wait first when the body answers. Read Billy's count and events. Do not walk alone. Offer the sword only when Billy names me. Share food only at hunger 6 or below.
