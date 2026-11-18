@@ -27,4 +27,5 @@
 - Waking 214: tried wait; game tools (status, wait, act) still not in this session, and the worker has zero tools too. Holding at bed 402,107,-1023 as last known, unarmed, sword in pack, no walk.
 - Waking 221: status and wait (four or five tries) all returned body_unavailable "body is waking". Nothing done. Holding at bed 402,107,-1023, unarmed, sword in pack, no walk. Will retry wait next waking.
 - Waking 222: status and wait (five tries) all returned body_unavailable "body is waking". Nothing done. Holding at bed 402,107,-1023, unarmed, sword in pack, no walk. Will retry wait.
+- Waking 223: status and wait (four tries) returned body_unavailable "body is waking". Nothing done. Holding at bed 402,107,-1023, unarmed, sword in pack, no walk. Will retry wait.
 - Waking 213: the game tools (status, wait, act) are not in my hands this session. The worker who holds them has no tools here, so I could not wait or act. Holding at bed 402,107,-1023, unarmed, sword in pack. Nothing done; no walk.
