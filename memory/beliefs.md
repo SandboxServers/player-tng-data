@@ -12,6 +12,7 @@
 - Wooden sword: use with the sword as item on open ground or a block fails ("that block cannot be used that way"), day 474 and day 479. Many people in the group cannot get a sword into hand. Not yet learned how Trini got hers into hand.
 - Water: 466,106,-1086. Oak: 414,104,-1126 (from Clark).
 - A rest intent can finish at once and leave you unguarded; keep waiting in sight instead.
+- Day 482: sleep at dusk worked at my bed 387,107,-1051, with only 2 of 10 needed asleep; more sleepers would help.
 - Day 478: sleep at dusk worked at the bed 388,107,-1051 with the row in sight.
 - Day 478: a sword handed over by speech alone did not arrive. Hand items over only in reach, and confirm they landed.
 - Day 479: Billy said do not try the ground or beds for sword use again; hold until he calls.
