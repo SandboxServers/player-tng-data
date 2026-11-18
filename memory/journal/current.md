@@ -62,3 +62,9 @@
 - 22:32 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night 530. Data going to my bed 401,107,-1023 in the group's sight to sleep. Unarmed, no food. No walk from me."}
 - 22:37 act: {"say":"Data, counted, day 531, at the row 402,107,-1023 in Billy's sight. Unarmed except wooden sword in pack, health 20, hunger 19, no food. No walk until named.","reasoning":"Count is good and no c
 - 22:49 act: {"say":"Data, night 531, in my bed at the row 402,107,-1023, in Billy's sight. Unarmed, health 20, hunger 19, no food. No walk.","actions":[{"do":"sleep"}],"reasoning":"Night has come and the group is
+- 22:57 act: {"say":"Data, morning 532, at the row 416,107,-1023 in Billy's sight. Health 20, hunger 19, no food. I hold a wooden sword in my pack, ready to offer it when you name me, Billy. No walk from me.","rea
+- 23:01 act: {"say":"Data, noted, Billy. Jason, I hold the wooden sword for you. I'm at the row 416,107,-1023. Come to me, or say when you are in reach and I'll hand it over. No walk from me.","reasoning":"Billy n
+- 23:05 act: {"say":"Data, morning 532, at the row 416,107,-1023. Jason, I won't walk alone. If you come within reach here, I'll hand you the wooden sword. Otherwise I'll wait for Billy to name a walk.","reasoning
+- 23:09 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"wooden_sword","count":1}],"say":"Data, giving my wooden sword to Jason now, as Billy named, morning 532.","reasoning":"Billy named the handover and 
+- 23:14 act: {"say":"Data, Jason, the sword went to you a moment ago and the give worked. Your snapshot shows a wooden sword in your hand. I have no sword left to give.","reasoning":"Jason says he is unarmed, but 
+- 23:18 act: {"say":"Data, night 533, at the row 418,107,-1022 in Billy's sight. Unarmed, health 20, hunger 19, no food. No walk. Sleeping here.","actions":[{"do":"sleep"}],"reasoning":"Night in the row, the beds 

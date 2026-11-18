@@ -1,7 +1,7 @@
-Handoff (night 525)
+Handoff (morning 532)
 
-Last known: asleep in bed 401,107,-1023 at the row, in Billy's sight. Unarmed, wooden sword in pack. Holding 6 oak_log, 3 planks, 3 sticks. Health 20, hunger 19, no food.
+Last known: awake at the row bed 416,107,-1023 in Billy's sight after sleeping the night through. Unarmed, wooden sword in pack. Holding 6 oak_log, 3 planks, 3 sticks. Health 20, hunger 19, no food.
 
-Trini died to phantoms night 524; she is awake at spawn now. Billy at health 2, sleeping near the row. No walk called. No errand running.
+Billy leads the row; no walk called. Nobody has food. Billy holds 2 rotten flesh (from Picard and MacDonald), to eat at hunger 6.
 
-Next: on waking, read Billy's count. Do not walk alone. Offer the sword only when Billy names me. Share food only at hunger 6 or below. Sleep at the row bed only at night with no monster in range.
+Next: on waking, read Billy's count. Do not walk alone. Offer the sword only when Billy names me. Share food only at hunger 6 or below. Sleep at a row bed only at night, in sight.
