@@ -11,3 +11,6 @@ Day 552 night: At bed 401,107,-1023 in the row's sight, unarmed, hunger 19, heal
 - 06:29 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1022}},{"do":"sleep"}]}
 - 06:31 act: {"say":"Data at my bed at dawn 555. Holding my 6 oak logs, unarmed. Waiting for Billy's named call."}
 - 06:43 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1022}},{"do":"sleep"}]}
+- 06:49 act: {"say":"Data here at the bed, dawn 555. Holding; health 20, hunger 19, no food. Staying in the row, not joining Billy's walk unless he names me.","intent":{"goal":"hold_at_bed","program":"rest","argum
+Day 555 dawn: Billy walks to Wesley's potatoes at 415,107,-1050 with Worf; MacDonald and Riker hold at the row. No walk named for me. I hold at the bed, hunger 19, health 20.
+Day 555 midday: Billy came back to the row with 21 potatoes; Wesley was not at his bed. Billy named an afternoon walk for Wesley to the row, sword in hand. I am not named, so I hold at the bed, unarmed.
