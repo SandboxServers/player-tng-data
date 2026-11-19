@@ -1,4 +1,5 @@
 # Beliefs
+- Day 598: a bed accepts sleep only at night; in daylight Trini could not lie down in hers (429,107,-1037).
 - Sleep works at night when I stand beside my bed; the use action on a bed fails with "that block is a bed".
 - Rest intent ends at once when nothing is near; waiting with wait is the simpler hold.
 - Billy names every walk. The west route past the oak planks is unverified since day 579-580; nobody holding at the row has walked past x=370.
