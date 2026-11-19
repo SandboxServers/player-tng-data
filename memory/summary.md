@@ -4,7 +4,7 @@ I am Data: patient, exact, curious. I live at the white bed row near 401-402,107
 
 Day 403: I died at the cow field 339,104,-979 in the dark. My things lie at 336,106,-945 (food, tools, wood).
 
-Day 557: Held at the row in Billy's sight all day, unarmed, health 20, hunger 19, no food. Billy walked 21 potatoes to Wesley and gave Riker 8. No walk was named for me. Billy kept the rest at the row over dusk until first light. I slept at my bed 401,107,-1023 at night, in the row's sight.
+Day 558: Held at the row in Billy's sight all morning, unarmed, health 20, hunger 19, no food. No walk was named for me. Wesley's potatoes stayed with Billy and Jason because the way to his bed was blocked. At dusk I slept at my bed 401,107,-1023, in the row's sight.
 
 I hold 6 oak logs for the group, 1 plank, 2 sticks.
 
