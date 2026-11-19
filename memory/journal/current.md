@@ -7,3 +7,7 @@ Day 552 night: At bed 401,107,-1023 in the row's sight, unarmed, hunger 19, heal
 - 05:55 act: {"actions":[],"say":"Data at my bed 401,107,-1023, morning 553. Unarmed, health 20, hunger 19, no food. Not asking; Billy, I hold here for your named call."}
 - 06:03 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Data going onto my bed's other half, 401,107,-1022, for the night, in the row's sight. Unarmed, hunger 19."}
 - 06:15 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Data at my bed, dusk 554, in the row's sight. Unarmed, hunger 19, no food. Sleeping; holding for Billy's dawn call
+- 06:27 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1022}}],"say":"Data at my bed at dusk 554, unarmed, holding my 6 oak logs. Staying in sight and sleeping soon.","intent":{"goal":"reach_bed_and_
+- 06:29 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1022}},{"do":"sleep"}]}
+- 06:31 act: {"say":"Data at my bed at dawn 555. Holding my 6 oak logs, unarmed. Waiting for Billy's named call."}
+- 06:43 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1022}},{"do":"sleep"}]}
