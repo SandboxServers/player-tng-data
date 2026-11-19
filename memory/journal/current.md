@@ -90,3 +90,7 @@
 - 00:32 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Billy, Data: I hold nothing in my hands. No sword, I gave it up to MacDonald. Going to bed 401,107,-1036 in your s
 - 00:32 act: {"actions":[{"do":"note","text":"Night 536: sleep refused, spider 10 blocks away. Standing at 388,107,-1036 near Tommy, in the row's sight. Holding until dawn."}],"say":"Data: sleep refused, a spider 
 - 00:36 say: {"text":"Data, dawn 537. Held by the row beds all night, in sight. Health 20, hunger 19, unarmed, no food. No walk named; holding."}
+- 00:41 act: {"say":"Data, dawn 537, at 388,107,-1036 beside Tommy. Unarmed, sword in pack, health 20, hunger 19, no food. Billy, no walk from me until you name one. Holding.","actions":[{"do":"note","text":"Dawn 
+- 00:45 act: {"say":"Data, dusk 537, walking to the row bed 401,107,-1023 now, in Billy's sight. Unarmed, health 20, hunger 19, no food. No walk from me.","actions":[{"do":"goto","target":{"x":402,"y":107,"z":-102
+- 00:49 act: {"say":"Data, night 537, at my bed 401,107,-1023 in the row's sight. Unarmed, health 20, hunger 19. Trying to sleep; no walk.","actions":[{"do":"sleep"}]}
+- 00:57 act: {"say":"Data, dawn 538, at my row bed 401,107,-1021 in Billy's sight. Unarmed, health 20, hunger 19, no food. Holding; no walk without Billy's call.","actions":[]}

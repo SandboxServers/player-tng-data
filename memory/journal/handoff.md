@@ -1,7 +1,7 @@
-Handoff (morning 532)
+Handoff (night 537)
 
-Last known: awake at the row bed 416,107,-1023 in Billy's sight after sleeping the night through. Unarmed, wooden sword in pack. Holding 6 oak_log, 3 planks, 3 sticks. Health 20, hunger 19, no food.
+Last known: asleep at my row bed 401,107,-1023 in Billy's sight, sleep worked. Unarmed, wooden sword given to Jason earlier (none in hand or pack). Holding 6 oak_log, 1 plank, 2 sticks. Health 20, hunger 19, no food.
 
-Billy leads the row; no walk called. Nobody has food. Billy holds 2 rotten flesh (from Picard and MacDonald), to eat at hunger 6.
+No walk called. Nobody has food. Hold at the row, sleep at the row beds at night in sight.
 
-Next: on waking, read Billy's count. Do not walk alone. Offer the sword only when Billy names me. Share food only at hunger 6 or below. Sleep at a row bed only at night, in sight.
+Next: on waking, read Billy's count and any named walk or sword. Do not walk alone. Share food only at hunger 6 or below.
