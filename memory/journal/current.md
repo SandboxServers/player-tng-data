@@ -94,3 +94,6 @@
 - 00:45 act: {"say":"Data, dusk 537, walking to the row bed 401,107,-1023 now, in Billy's sight. Unarmed, health 20, hunger 19, no food. No walk from me.","actions":[{"do":"goto","target":{"x":402,"y":107,"z":-102
 - 00:49 act: {"say":"Data, night 537, at my bed 401,107,-1023 in the row's sight. Unarmed, health 20, hunger 19. Trying to sleep; no walk.","actions":[{"do":"sleep"}]}
 - 00:57 act: {"say":"Data, dawn 538, at my row bed 401,107,-1021 in Billy's sight. Unarmed, health 20, hunger 19, no food. Holding; no walk without Billy's call.","actions":[]}
+- 01:06 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Data, dusk 538. Going to my bed at 401,107,-1023 in your sight. Unarmed, health 20, hunger 19, no food.","reasonin
+- 01:10 act: {"actions":[],"say":"Data, morning 539. Awake at my row bed 401,107,-1023 in Billy's sight. Unarmed, health 20, hunger 19, no food. Holding for Billy's call; no walk from me.","reasoning":"Morning, no
+- 01:22 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Data, night 539. Going to my bed 401,107,-1023 in the row's sight. Unarmed, health 20, hunger 19, no food. No walk
