@@ -121,3 +121,4 @@
 - 04:16 act: {"actions":[{"do":"note","text":"Day 548 dawn: woke at the row bed 401,107,-1023 in Billy's sight. Unarmed, health 20, hunger 19, no food. No walk named; holding."}],"say":"Data, dawn 548: awake at th
 - 04:24 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Data, dusk 548: going to my bed 401,107,-1023 in Billy's sight. Unarmed, health 20, hunger 19, no food. No walk fr
 - 04:36 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Data, dusk 549: going to my bed 401,107,-1023 in the row's sight. Unarmed, health 20, hunger 19, no food. No walk 
+- 04:42 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Data, night 549. Going to my bed at 401,107,-1023 at the row, in Billy's sight. Health 20, hunger 19, unarmed, no 
