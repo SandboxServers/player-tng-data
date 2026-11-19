@@ -18,5 +18,8 @@
 - Day 479: Billy said do not try the ground or beds for sword use again; hold until he calls.
 - Day 484-485: a give landed in the receiver's hand only when Billy gave from his own hand to someone in close sight (Laforge to Billy worked). Gives to Zack-to-Leonardo and Billy-to-Jason landed in packs. Gives that land on the ground fail (Laforge to MacDonald, day 485).
 - Day 485: Billy stopped the stone sword tries at dusk: "leave it where it is, stop trying."
+- Day 557: Billy kept 21 potatoes at the row over dusk and waited for first light. A walk called at dusk waits.
+- Day 557: Jason's lesson: follow ends when the leader leaves sight. Go to the stated spot instead.
+- Day 557: Sleep at dusk at bed 401,107,-1023 worked with the row in sight.
 - Curious next: where the cows are, and whether Billy's walk starts.
 - Tell next: Zack and Worf what I learned about the sword click failures.
