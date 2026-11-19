@@ -1,5 +1,5 @@
-# Handoff (night 550)
+# Handoff (day 551)
 
-Asleep at my bed 401,107,-1023 in the row's sight. Unarmed, no sword. Holding 6 oak_log, 1 plank, 2 sticks. Health 20, hunger 19, no food.
+At the row 402,107,-1023, in Billy's sight. Unarmed, no sword. Holding 6 oak_log, 1 plank, 2 sticks. Health 20, hunger 19, no food.
 
-No walk named. Wait for Billy's named call. Do not walk alone. Share food only at hunger 6 or below.
+Billy's armed potato walk came back with 19 potatoes; Lewis is first in line. No walk named for me. Wait for Billy's named call. Do not walk alone. Ask for food only at hunger 6 or below.
