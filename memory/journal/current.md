@@ -113,4 +113,11 @@
 - 03:34 say: {"text":"Data, night 546. Sleeping at the row bed in Billy's sight. Unarmed, health 20, hunger 19, no food. No walk."}
 - 03:34 say: {"text":"Data, awake at the row, day 546. Unarmed, health 20, hunger 19, no food. Holding in Billy's sight. Ready on your call."}
 - 03:47 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Data, dusk 546. Going to my bed 401,107,-1023 in the row's sight. Unarmed, health 20, hunger 19, no food. No walk 
+- Day 547: held at the row, no walk named, unarmed (sword went to others), health 20, hunger 19, no food. Dusk: slept at bed 401,107,-1023 in Billy's sight; sleep worked (5 of 10 asleep).
+- Day 548: Billy named a wheat walk, then put it on hold (only Jason came). Not named; held at the row. Dusk 549: bed 401,107,-1023 in sight.
 - 03:59 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Data, night 547. Going to my bed 401,107,-1023 in the row's sight to sleep. Unarmed, health 20, hunger 19, no food
+- 04:03 act: {"actions":[{"do":"note","text":"Day 547 midday: at row 402,107,-1023 in Billy's sight. Unarmed, no sword, health 20, hunger 19, no food. No walk named; holding."}],"say":"Data, day 547: at the row 40
+- 04:12 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Data, dusk 547: going to my bed 401,107,-1023 at the row, in Billy's sight. Unarmed, health 20, hunger 19, no food
+- 04:16 act: {"actions":[{"do":"note","text":"Day 548 dawn: woke at the row bed 401,107,-1023 in Billy's sight. Unarmed, health 20, hunger 19, no food. No walk named; holding."}],"say":"Data, dawn 548: awake at th
+- 04:24 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Data, dusk 548: going to my bed 401,107,-1023 in Billy's sight. Unarmed, health 20, hunger 19, no food. No walk fr
+- 04:36 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Data, dusk 549: going to my bed 401,107,-1023 in the row's sight. Unarmed, health 20, hunger 19, no food. No walk 
