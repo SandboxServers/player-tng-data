@@ -2,3 +2,30 @@
 - Day 560, dawn: held at my bed through the night (phantoms struck at the row, none reached me). Morning. Billy walking the row with Wesley's potatoes; I am not named. Said good morning and hold at the bed, unarmed, hunger 19.
 - Day 561, dawn: held at bed 401,107,-1023 through the night, unharmed, health 20, hunger 19. Billy gave potatoes to Riker; Wesley and Deanna still to be fed. Not named. Held all day, unarmed, no walk called.
 - Day 561, dusk: going to sleep at my bed, in the row's sight. Health 20, hunger 19, no food. Tomorrow: hold at the row; go only when named.
+- 08:45 act: {"say":"Holding at my bed in the row's sight, unarmed. Sleeping when it is full night.","intent":{"goal":"hold_at_bed_until_night","program":"rest","arguments":{},"wake_on":["directly_addressed","prec
+- 08:45 act: {"actions":[{"do":"sleep"}]}
+- 08:50 say: {"text":"Morning 562. Data at my bed 401,107,-1023, unarmed, health 20, hunger 19. Holding at the row for Billy's named call."}
+- 08:50 say: {"text":"Heard, Billy. Data holds at my bed in your sight, unarmed, not named."}
+- 09:13 act: {"actions":[{"do":"sleep"}]}
+- 09:41 act: {"actions":[{"do":"sleep"}]}
+- 09:54 act: {"actions":[{"do":"sleep"}]}
+- 09:58 say: {"text":"Data at the row, morning 565. Unarmed, health 20, hunger 19. No walk named for me; holding in Billy's sight."}
+- 10:21 act: {"actions":[{"do":"sleep"}]}
+- 11:01 act: {"actions":[{"do":"sleep"}]}
+- 11:14 act: {"actions":[{"do":"sleep"}]}
+- 11:54 act: {"actions":[{"do":"sleep"}],"reasoning":"Night 571 and I am at my bed in the row's sight; days since sleep is 10. Try sleep; if it says not night, wait."}
+- 12:09 act: {"actions":[{"do":"sleep"}],"reasoning":"True night, at my bed in the row's sight. Days since sleep 10. Sleep now."}
+- 12:26 act: {"actions":[{"do":"sleep"}],"reasoning":"Night 572 at my bed in the row's sight; days since sleep 11. Try sleep."}
+- 13:03 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}]}
+- 13:15 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}]}
+- 13:29 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}]}
+- 13:41 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}]}
+- 13:56 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}]}
+- 14:08 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}]}
+- 14:20 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}]}
+- 15:00 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}],"intent":{"goal":"rest_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limi
+- 15:12 act: {"actions":[{"do":"sleep"}]}
+- 15:24 act: {"actions":[{"do":"sleep"}]}
+- 15:52 act: {"actions":[{"do":"sleep"}]}
+- 16:04 act: {"actions":[{"do":"sleep"}]}
+- 16:04 act: {"actions":[{"do":"sleep"}]}
