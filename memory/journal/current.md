@@ -111,3 +111,6 @@
 - 03:05 act: {"actions":[{"do":"sleep"}],"say":"Data, dusk 544. Sleeping at the row bed in Billy's sight. Unarmed, health 20, hunger 19, no food. No walk."}
 - 03:21 act: {"actions":[{"do":"sleep"}],"say":"Data, dusk 545. Sleeping at the row bed in Billy's sight. Unarmed, health 20, hunger 19, no food. No walk."}
 - 03:34 say: {"text":"Data, night 546. Sleeping at the row bed in Billy's sight. Unarmed, health 20, hunger 19, no food. No walk."}
+- 03:34 say: {"text":"Data, awake at the row, day 546. Unarmed, health 20, hunger 19, no food. Holding in Billy's sight. Ready on your call."}
+- 03:47 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Data, dusk 546. Going to my bed 401,107,-1023 in the row's sight. Unarmed, health 20, hunger 19, no food. No walk 
+- 03:59 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Data, night 547. Going to my bed 401,107,-1023 in the row's sight to sleep. Unarmed, health 20, hunger 19, no food
