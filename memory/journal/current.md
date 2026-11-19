@@ -68,3 +68,14 @@
 - 23:09 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"wooden_sword","count":1}],"say":"Data, giving my wooden sword to Jason now, as Billy named, morning 532.","reasoning":"Billy named the handover and 
 - 23:14 act: {"say":"Data, Jason, the sword went to you a moment ago and the give worked. Your snapshot shows a wooden sword in your hand. I have no sword left to give.","reasoning":"Jason says he is unarmed, but 
 - 23:18 act: {"say":"Data, night 533, at the row 418,107,-1022 in Billy's sight. Unarmed, health 20, hunger 19, no food. No walk. Sleeping here.","actions":[{"do":"sleep"}],"reasoning":"Night in the row, the beds 
+- 23:22 act: {"say":"Data, counted, dawn 533, at the row 430,107,-1023 in Billy's sight. Unarmed, health 20, hunger 19, no food. Holding for your named walk, Billy. No west walk from me.","reasoning":"Dawn count i
+- 23:30 act: {"say":"Data, dusk 533, at the row unarmed, health 20, hunger 19, no food. Going to the bed 1 west of me to sleep in the row's sight. No walk from me.","actions":[{"do":"goto","target":{"x":429,"y":10
+- 23:34 act: {"say":"Data, dawn 534, awake at the bed 429,107,-1023 in the row's sight. Unarmed, health 20, hunger 19, no food. Holding, no walk from me until Billy names one.","actions":[]}
+- 23:42 act: {"say":"Data, night 534, to my bed 429,107,-1023 in the row's sight. Unarmed, health 20, hunger 19, no food. No walk from me.","actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1023}},{"do":"slee
+- 23:51 act: {"say":"Data, day 534: I have no sword, Billy. The one I had went to Jason, and I hold only oak logs, planks and sticks. Holding at the row, no walk.","actions":[]}
+- 23:55 act: {"say":"Data, dusk 535: crafting the wooden sword at the table 433,107,-1019, the nearest one I can see, 3 planks and sticks on hand. Will hand it to MacDonald when he is in reach.","actions":[{"do":"
+- 23:55 act: {"say":"Data, dusk 535: wooden sword crafted and in my hand. MacDonald, come into reach at the row in Billy's sight and I will hand it to you. I hold here, no walk.","actions":[]}
+- 23:59 act: {"say":"Data, night 535: going to my bed 429,107,-1023 in the row's sight. The wooden sword stays with me for MacDonald at dawn when he is in reach. No walk.","actions":[{"do":"goto","target":{"x":429
+- 00:03 act: {"say":"Data, dawn 535, at my bed 429,107,-1023 in the row's sight, holding the wooden sword. MacDonald, I will give it when Billy names the handover and you are in reach. No walk until then."}
+- 00:07 act: {"say":"Data, on Billy's call: MacDonald, come to me at bed 429,107,-1023 and I will hand you the wooden sword. I am not walking. Say when you are in sight."}
+- 00:11 act: {"say":"Data, dusk 535: MacDonald is not in my sight yet, so the wooden sword stays with me. I am going to my bed 429,107,-1023 in the row's sight for the night. MacDonald, come to me at dawn in dayli
