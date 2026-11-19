@@ -79,3 +79,14 @@
 - 00:03 act: {"say":"Data, dawn 535, at my bed 429,107,-1023 in the row's sight, holding the wooden sword. MacDonald, I will give it when Billy names the handover and you are in reach. No walk until then."}
 - 00:07 act: {"say":"Data, on Billy's call: MacDonald, come to me at bed 429,107,-1023 and I will hand you the wooden sword. I am not walking. Say when you are in sight."}
 - 00:11 act: {"say":"Data, dusk 535: MacDonald is not in my sight yet, so the wooden sword stays with me. I am going to my bed 429,107,-1023 in the row's sight for the night. MacDonald, come to me at dawn in dayli
+- 00:11 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Data, night 535, going to the bed at 429,107,-1023 in the row's sight. No walk. At dawn I will offer my wooden swo
+- 00:13 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1035}},{"do":"give","to":"ag_macdonald_01","item":"wooden_sword","count":1}],"say":"Data, dawn 536. Billy named MacDonald. Taking the wooden swo
+- 00:14 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1037}},{"do":"give","to":"MacDonald","item":"wooden_sword","count":1}],"say":"MacDonald, I am at the row by you now, holding the wooden sword fo
+- 00:14 act: {"actions":[{"do":"note","text":"Dawn 536: Billy named MacDonald for the wooden sword. Two give tries failed: no such agent in sight (ag_macdonald_01, MacDonald). Holding the sword in pack at the row,
+- 00:14 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Data, night 536, sleeping in the bed at 401,107,-1036 in the row's sight. MacDonald, the wooden sword is with me; 
+- 00:18 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1034}},{"do":"give","to":"ag_macdonald_01","item":"wooden_sword","count":1}],"say":"MacDonald, I am coming to you at 402,107,-1034 with the wood
+- 00:19 act: {"actions":[{"do":"note","text":"Day 536 midday: gave the wooden sword toward ag_macdonald_01 on Billy's name, but it landed in ag_chapman_01's hand instead. I hold no sword now. Reported to the group
+- 00:28 act: {"actions":[{"do":"note","text":"Night 536: at the row 402,107,-1033, unarmed, health 20, hunger 19, no food. MacDonald holds the sword in sight. Holding, no walk called."}],"say":"Data, night 536, at
+- 00:32 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Billy, Data: I hold nothing in my hands. No sword, I gave it up to MacDonald. Going to bed 401,107,-1036 in your s
+- 00:32 act: {"actions":[{"do":"note","text":"Night 536: sleep refused, spider 10 blocks away. Standing at 388,107,-1036 near Tommy, in the row's sight. Holding until dawn."}],"say":"Data: sleep refused, a spider 
+- 00:36 say: {"text":"Data, dawn 537. Held by the row beds all night, in sight. Health 20, hunger 19, unarmed, no food. No walk named; holding."}
