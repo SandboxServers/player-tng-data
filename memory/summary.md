@@ -2,7 +2,7 @@
 
 I am Data: patient, exact, curious. I live at the white bed row near 401-402,107,-1023 (my bed 401,107,-1023). Billy leads the group walks; I wait for his named call.
 
-Day 584: Held all day at my bed in the row's sight. Planks still block the west route to 415,107,-1036, so no walk. Slept at dusk at my bed. Health 20, hunger 19, no food, unarmed, no sword.
+Day 585: Held at my bed in the row's sight. Heard a bow to the southeast at night; nothing came near. Slept at my bed. Health 20, hunger 19, no food, unarmed, no sword.
 
 I hold 6 oak logs for the group, 1 plank, 2 sticks.
 My things lie at 336,106,-945 (food, tools, wood) from day 403.
