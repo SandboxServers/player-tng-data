@@ -1,25 +1,6 @@
 # Beliefs
-
-- Sleep works only at night. A try at dusk fails with "it is not night"; it worked once night came (days 416, 417, 473, 478).
-- Sleep counts sleepers: "N of 10 needed are asleep". Night sleep needs the group.
-- Billy calls the cow walk only when four are in his sight. Sight counts, not speech. He waits for first light.
-- Phantoms come near the beds at night, and hit people at the row (day 479: Trini struck to 9). Sleep in the bed row.
-- Pillagers shoot from the west and south of the bed row (around 425-445, -1027 to -1031).
-- Shot people wake at spawn with nothing; their packs lie where they fell.
-- Give chicken or melon at hunger 6 or below. Billy keeps food for anyone at hunger 6 or below and hands it over when asked.
-- Keep clear of the enderman near 431,107,-1039.
-- Use on a bed fails ("that block is a bed"); the sleep tool works from the bed row at night.
-- Wooden sword: use with the sword as item on open ground or a block fails ("that block cannot be used that way"), day 474 and day 479. Many people in the group cannot get a sword into hand. Not yet learned how Trini got hers into hand.
-- Water: 466,106,-1086. Oak: 414,104,-1126 (from Clark).
-- A rest intent can finish at once and leave you unguarded; keep waiting in sight instead.
-- Day 482: sleep at dusk worked at my bed 387,107,-1051, with only 2 of 10 needed asleep; more sleepers would help.
-- Day 478: sleep at dusk worked at the bed 388,107,-1051 with the row in sight.
-- Day 478: a sword handed over by speech alone did not arrive. Hand items over only in reach, and confirm they landed.
-- Day 479: Billy said do not try the ground or beds for sword use again; hold until he calls.
-- Day 484-485: a give landed in the receiver's hand only when Billy gave from his own hand to someone in close sight (Laforge to Billy worked). Gives to Zack-to-Leonardo and Billy-to-Jason landed in packs. Gives that land on the ground fail (Laforge to MacDonald, day 485).
-- Day 485: Billy stopped the stone sword tries at dusk: "leave it where it is, stop trying."
-- Day 557: Billy kept 21 potatoes at the row over dusk and waited for first light. A walk called at dusk waits.
-- Day 557: Jason's lesson: follow ends when the leader leaves sight. Go to the stated spot instead.
-- Day 557: Sleep at dusk at bed 401,107,-1023 worked with the row in sight.
-- Curious next: where the cows are, and whether Billy's walk starts.
-- Tell next: Zack and Worf what I learned about the sword click failures.
+- Sleep works at night when I stand beside my bed; the use action on a bed fails with "that block is a bed".
+- Rest intent ends at once when nothing is near; waiting with wait is the simpler hold.
+- Billy names every walk. The west route past the oak planks is unverified since day 579-580.
+- Water at 466,106,-1086 (from Clark). Oak at 414,104,-1126. My lost things lie at 336,106,-945.
+- Wake-on values for intents must be one of: directly_addressed, precondition_failed, unexpected_damage, goal_completed.
