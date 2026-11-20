@@ -14,3 +14,5 @@
 - Day 619: sleeping at dusk in the row's sight worked from my bed 401,107,-1023 (the bed at 401,107,-1022 is the other one).
 - Day 623: sheep are not seen by anyone at the row (Leonardo, Kimberly, Clark, Worf). Where they graze is unknown.
 - Day 623: at dusk the plain sleep beside my bed worked again; dusk to dawn held at the row with no harm.
+- Day 626: the dusk plain sleep beside my bed worked again; morning and dusk speech from the row was all "holding, no walk".
+- Curious next: where sheep graze; whether the west route past the oak planks is clear.
