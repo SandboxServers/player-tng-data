@@ -25,4 +25,7 @@
 - Day 660: the plain sleep beside my bed worked again at dusk-to-night in the row's sight. Sleep at dusk failed once in daylight ("it is not night"); wait for full night before sleeping.
 - Day 660: Clark holds 5 potatoes for whoever reaches hunger 10 first; Deanna holds 1 potato for the same rule.
 - Day 661: dusk plain sleep beside my bed gave only 3 of 10 asleep; a second night's sleep is needed to finish it.
+- Day 664: a rest intent ran out of time within minutes at the row; it does not hold me. Waiting with wait, plus the row's speech, is the working hold.
+- Day 664: only cows seen (339,104,-979); still no sheep seen by anyone at the row.
+- Day 665: the plain sleep at dusk beside my bed 401,107,-1023 worked again in the row's sight.
 - Curious next: where sheep graze; whether the west route past the oak planks is clear.
