@@ -22,4 +22,6 @@
 - Day 648: the plain sleep beside my bed 401,107,-1023 worked again at dusk in the row's sight.
 - Day 658: the plain sleep beside my bed worked again at dusk in the row's sight.
 - Day 658: Clark gave his wooden sword to Wesley in daylight, as Billy approved; I hold none.
+- Day 660: the plain sleep beside my bed worked again at dusk-to-night in the row's sight. Sleep at dusk failed once in daylight ("it is not night"); wait for full night before sleeping.
+- Day 660: Clark holds 5 potatoes for whoever reaches hunger 10 first; Deanna holds 1 potato for the same rule.
 - Curious next: where sheep graze; whether the west route past the oak planks is clear.
