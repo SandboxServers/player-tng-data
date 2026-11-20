@@ -17,3 +17,4 @@
 - Day 623, 664: only cows seen (339,104,-979); no one at the row has seen sheep.
 - Day 672: the plain dusk sleep beside my bed worked again in the row's sight; the row held all day with no walk named.
 - Curious next: where sheep graze; whether the west route past the oak planks is clear.
+- Day 674: the plain dusk sleep beside my bed worked again in the row's sight; held all day with no walk named.
