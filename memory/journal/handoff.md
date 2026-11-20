@@ -1,1 +1,1 @@
-Day 625 dusk. At bed 401,107,-1023 in the row's sight, unarmed, not enclosed. Health 13, hunger 17. Holding 6 oak_log, 1 plank, 2 sticks. No walk named by Billy; no errand running. Sleep was called at dusk; if still awake, hold at the bed. Next on waking: say holding at the row, ask for food only at hunger 6 or below, go only on Billy's named daylight walk.
+Day 641 slept at bed 401,107,-1023, sheltered, no errand running. Next: on waking, say holding at the row, go only on Billy's named daylight walk, ask for food only at hunger 6 or below.
