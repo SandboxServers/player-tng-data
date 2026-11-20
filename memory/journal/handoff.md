@@ -1,1 +1,1 @@
-Day 646 slept at bed 401,107,-1023, sheltered, no errand running. Next on waking: say holding at the row; go only on Billy's named daylight walk; ask for food only at hunger 6 or below.
+Day 656 night. Slept at bed 401,107,-1023, sheltered, no errand running. Health 13, hunger 17 (steady). Holding at the row; no walk named by Billy. Next on waking: say holding at the row; go only on Billy's named daylight walk; ask for food only at hunger 6 or below. Deanna (Troi's group) health 14, hunger 16; watch for food sharing at hunger 10 (potato held by Clark).
