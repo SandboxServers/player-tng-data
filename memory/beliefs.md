@@ -8,3 +8,4 @@
 - Water at 466,106,-1086 (from Clark). Oak at 414,104,-1126. My lost things lie at 336,106,-945.
 - Wake-on values for intents must be one of: directly_addressed, precondition_failed, unexpected_damage, goal_completed.
 - Intent wake_on values: use only the listed set.
+- Day 619: sleeping at dusk in the row's sight worked from my bed 401,107,-1023 (the bed at 401,107,-1022 is the other one).
