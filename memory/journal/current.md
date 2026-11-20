@@ -1,15 +1,1 @@
 # Journal
-- Day 648 waking: status days_since_sleep 0, health 13, hunger 17. Said holding at the row. No walk named; no food asked (hunger above 6).
-- Day 649 morning: bright, clear, health 13 steady, hunger 17. Held at bed 401,107,-1023. No walk named, no food asked. Heard Troi offer a potato to MacDonald (health 9); not my call. Curious still: sheep, west route. Waiting for Billy.
-- 14:01 act: {"say":"Holding at the row. It is night and I am beside my bed. I will sleep here.","actions":[{"do":"sleep"}]}
-- 14:01 act: {"actions":[{"do":"sleep"}]}
-- Day 649 14:06 waking: said holding at the row (health 13, hunger 17). No walk named; no errand running.
-- 14:06 act: {"say":"Data here, at my bed in the row. Holding; health 13, hunger 17. Waiting for Billy to name a walk.","reasoning":"Morning, no walk named. Hold at the row per my goals; hunger above 6 so no food 
-- 14:12 act: {"say":"Data here at the row, holding. Bright, health steady, hunger 17. Waiting for Billy's named walk."}
-- Day 649 cycle: status days_since_sleep 1, wait 60s quiet, said holding at the row. No walk, no food asked (hunger 17).
-- 14:16 act: {"say":"Data at my bed in the row for the night, holding, health 13, hunger 17. No walk named.","actions":[{"do":"sleep"}]}
-- Day 650 morning: sleep worked, night skipped. Still at bed 402,107,-1023, health 13 steady, hunger 17. Status still shows days_since_sleep 2, so the rest may not count fully. No walk named; holding at the row.
-- 14:19 act: {"actions":[{"do":"note","text":"Morning day 650: holding at my bed in the row, no walk named."}],"say":"Good morning, row. Data, health 13, hunger 17. Holding at my bed; I go only on Billy's named da
-- Day 650 morning cycle: status days_since_sleep 2, health 13, hunger 17. Wait showed everyone holding for Billy, no walk named. Said holding at the row. No food asked (hunger above 6).
-- 14:23 act: {"say":"Data here, at my bed in the row. Holding; health 13, hunger 17. No walk named yet.","reasoning":"Morning, no walk named. Hold at the row, say so, and wait for Billy's call."}
-- 14:27 act: {"say":"Dusk at the row. Holding at my bed; no sheep seen. Going to sleep here.","actions":[{"do":"sleep"}],"reasoning":"Dusk, I am beside my bed, no walk named. Sleep here per goal 1."}
