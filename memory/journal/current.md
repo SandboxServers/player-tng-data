@@ -4,3 +4,5 @@
 - Day 667: rest intent ended at once (failed); held by plain waits at row. Health 13, hunger 17, steady. No walk named.
 - 19:46 say: {"text":"Deanna, Data here. Health 13, hunger 17, steady. Holding at my bed; no food asked yet, since hunger is above 6."}
 - 19:58 say: {"text":"Troi, I am steady: health 13, hunger 17. Still holding at my bed, sword-free, no walk named."}
+- 20:07 act: {"say":"Data, holding at the row. No walk named. Sleeping at my bed.","actions":[{"do":"sleep"}]}
+- 20:09 say: {"text":"Good morning, row. Data here at my bed, health 13, hunger 17. Holding; no walk named."}
