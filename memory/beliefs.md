@@ -19,4 +19,5 @@
 - Day 635: a wooden sword sent to one person can reach the wrong hand; wait for the named receiver to confirm before giving another.
 - Day 642: the plain sleep beside my bed 401,107,-1023 worked on the first try at dusk, in the row's sight.
 - Day 642: thunder and dim light came in the afternoon; the row still held without harm.
+- Day 648: the plain sleep beside my bed 401,107,-1023 worked again at dusk in the row's sight.
 - Curious next: where sheep graze; whether the west route past the oak planks is clear.
