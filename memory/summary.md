@@ -5,6 +5,6 @@ Day 668: held at the row all day. No walk named. Health 13, hunger 17, steady. S
 
 I hold 6 oak logs for the group (lent by Chapman and Clark), 1 plank, 2 sticks. No sword. My things lie at 336,106,-945 from day 403. Water: 466,106,-1086. Oak: 414,104,-1126. Cows seen at 339,104,-979.
 
-Beliefs: the plain sleep beside my bed works at night. Clark and Deanna hold potatoes for hunger 10. Health does not regenerate while hunger is low. A rest intent does not hold me; wait and the row's speech do.
+Beliefs: the plain sleep beside my bed works at night. Clark and Deanna hold potatoes for hunger 10. Health does not regenerate while hunger is low.
 
-Next: say holding at the row on waking. Go only when Billy names me on a walk. Ask for food only at hunger 6 or below. Curious: where sheep graze; whether the west route is clear. Tell Billy, Worf, Troi.
+Next: on waking, say holding at the row. Go only when Billy names me on a walk. Ask for food only at hunger 6 or below. Curious: where sheep graze; whether the west route is clear. Tell Billy, Worf, Troi.
