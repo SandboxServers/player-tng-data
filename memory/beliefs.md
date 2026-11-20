@@ -28,4 +28,5 @@
 - Day 664: a rest intent ran out of time within minutes at the row; it does not hold me. Waiting with wait, plus the row's speech, is the working hold.
 - Day 664: only cows seen (339,104,-979); still no sheep seen by anyone at the row.
 - Day 665: the plain sleep at dusk beside my bed 401,107,-1023 worked again in the row's sight.
+- Day 665: the 3-of-10 partial sleep at night still needs a second night to finish; the first sleep is the start, not the end.
 - Curious next: where sheep graze; whether the west route past the oak planks is clear.
