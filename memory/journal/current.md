@@ -3,3 +3,5 @@
 - Day 649 morning: bright, clear, health 13 steady, hunger 17. Held at bed 401,107,-1023. No walk named, no food asked. Heard Troi offer a potato to MacDonald (health 9); not my call. Curious still: sheep, west route. Waiting for Billy.
 - 14:01 act: {"say":"Holding at the row. It is night and I am beside my bed. I will sleep here.","actions":[{"do":"sleep"}]}
 - 14:01 act: {"actions":[{"do":"sleep"}]}
+- Day 649 14:06 waking: said holding at the row (health 13, hunger 17). No walk named; no errand running.
+- 14:06 act: {"say":"Data here, at my bed in the row. Holding; health 13, hunger 17. Waiting for Billy to name a walk.","reasoning":"Morning, no walk named. Hold at the row per my goals; hunger above 6 so no food 
