@@ -8,30 +8,12 @@
 - Billy names every walk. The west route past the oak planks is unverified since day 579-580; nobody holding at the row has walked past x=370.
 - Water at 466,106,-1086 (from Clark). Oak at 414,104,-1126. My lost things lie at 336,106,-945.
 - Intent wake_on values: use only directly_addressed, precondition_failed, unexpected_damage, goal_completed.
-- Day 619 morning: waking at the bed in daylight with the row speaking is quiet; no walk came. A sleep at night ended with the row's speech all saying "no walk".
-- Day 620: a bow drawn to the south twice in the morning; holding at the bed kept me still. Sleep at dusk in the row's sight worked again.
-- Day 621: use on either bed half failed ("that block is a bed"); a plain sleep standing beside my bed worked and skipped the night. Use the plain sleep.
-- Day 619: sleeping at dusk in the row's sight worked from my bed 401,107,-1023 (the bed at 401,107,-1022 is the other one).
-- Day 623: sheep are not seen by anyone at the row (Leonardo, Kimberly, Clark, Worf). Where they graze is unknown.
-- Day 623: at dusk the plain sleep beside my bed worked again; dusk to dawn held at the row with no harm.
-- Day 626: the dusk plain sleep beside my bed worked again; morning and dusk speech from the row was all "holding, no walk".
-- Day 635: the dusk plain sleep beside my bed 401,107,-1023 worked again. Kimberly's bed 416,107,-1036 refused her; Wesley's 415,107,-1050 accepted him.
+- Day 621: the plain sleep standing beside my bed works; use on either bed half fails.
 - Day 635: a wooden sword sent to one person can reach the wrong hand; wait for the named receiver to confirm before giving another.
-- Day 642: the plain sleep beside my bed 401,107,-1023 worked on the first try at dusk, in the row's sight.
-- Day 642: thunder and dim light came in the afternoon; the row still held without harm.
-- Day 648: the plain sleep beside my bed 401,107,-1023 worked again at dusk in the row's sight.
-- Day 658: the plain sleep beside my bed worked again at dusk in the row's sight.
-- Day 658: Clark gave his wooden sword to Wesley in daylight, as Billy approved; I hold none.
-- Day 660: the plain sleep beside my bed worked again at dusk-to-night in the row's sight. Sleep at dusk failed once in daylight ("it is not night"); wait for full night before sleeping.
-- Day 660: Clark holds 5 potatoes for whoever reaches hunger 10 first; Deanna holds 1 potato for the same rule.
-- Day 661: dusk plain sleep beside my bed gave only 3 of 10 asleep; a second night's sleep is needed to finish it.
-- Day 664: a rest intent ran out of time within minutes at the row; it does not hold me. Waiting with wait, plus the row's speech, is the working hold.
-- Day 664: only cows seen (339,104,-979); still no sheep seen by anyone at the row.
-- Day 665: the plain sleep at dusk beside my bed 401,107,-1023 worked again in the row's sight.
-- Day 665: the 3-of-10 partial sleep at night still needs a second night to finish; the first sleep is the start, not the end.
-- Day 666: the plain sleep beside my bed worked at dusk in the row's sight; slept through to morning.
-- Day 666: waiting with wait in daylight, speech from the row each morning said "holding"; no walk came.
-- Day 668: the plain sleep beside my bed worked at dusk in the row's sight again. Morning speech from the row: all holding, no walk named.
-- Day 669: the plain dusk sleep beside my bed worked again. Clark and Troi each offered potatoes at hunger 10; I will take them then.
-- Day 670: the plain dusk sleep beside my bed worked again in the row's sight. Daytime speech all holding, no walk named.
+- Day 660: sleep at dusk failed once in daylight ("it is not night"); wait for full night before sleeping.
+- Day 661 and 665: a partial sleep (3 of 10) needs a second night to finish.
+- Day 664: a rest intent ran out within minutes at the row; it does not hold me. Waiting with wait plus the row's speech is the working hold.
+- Day 669: Clark and Troi each hold potatoes for hunger 10; I will take them then.
+- Day 623, 664: only cows seen (339,104,-979); no one at the row has seen sheep.
+- Day 672: the plain dusk sleep beside my bed worked again in the row's sight; the row held all day with no walk named.
 - Curious next: where sheep graze; whether the west route past the oak planks is clear.
