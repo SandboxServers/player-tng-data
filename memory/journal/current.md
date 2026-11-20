@@ -9,3 +9,4 @@
 - 18:41 act: {"say":"Good morning. Data at my bed 401,107,-1023, health 13, hunger 17, holding at the row. No walk named for me yet."}
 - Day 663 morning: heard Billy name Beverly's sword and Clark giving Wesley a spare sword; no walk named for me. Said holding at the row. Still at bed, health 13, hunger 17.
 - 18:49 act: {"say":"Troi, steady at 13 health, hunger 17. Dusk now; I am going to sleep at my bed, holding for Billy's daylight call."}
+- 18:50 act: {"say":"Good morning. Data, health 13, hunger 17. Holding at my bed at the row. No walk named for me; I wait for Billy's call."}
