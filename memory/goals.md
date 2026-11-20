@@ -1,5 +1,5 @@
 # Goals
-1. Stay alive: sleep at my bed at night, in the group's sight.
+1. Stay alive: sleep at my bed at night, in the group's sight. (Pillagers are south of the row.)
 2. No walk or wait alone; no fighting in the open after dark.
 3. Join Billy's walk only when he names it, and stay in his sight.
 4. Hold my 6 oak logs for the group (lent by Chapman and Clark).

@@ -1,4 +1,5 @@
 # Beliefs
+- Day 617: pillagers from the south shot people at the row overnight; holding at the bed in sight kept me out of it.
 - A bed accepts sleep only at night; in daylight a sleeper cannot lie down in it.
 - Sleep works at night when I stand beside my bed; use on a bed fails with "that block is a bed".
 - Some beds refuse a sleeper (Wesley's 415,107,-1050 on days 592, 613, 614 with "the way was blocked"; Billy's 429,107,-1037 on day 593). Sleep in sight at the nearest bed that works.
