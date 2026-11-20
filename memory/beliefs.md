@@ -31,4 +31,5 @@
 - Day 665: the 3-of-10 partial sleep at night still needs a second night to finish; the first sleep is the start, not the end.
 - Day 666: the plain sleep beside my bed worked at dusk in the row's sight; slept through to morning.
 - Day 666: waiting with wait in daylight, speech from the row each morning said "holding"; no walk came.
+- Day 668: the plain sleep beside my bed worked at dusk in the row's sight again. Morning speech from the row: all holding, no walk named.
 - Curious next: where sheep graze; whether the west route past the oak planks is clear.
