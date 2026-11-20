@@ -1,1 +1,1 @@
-Day 619 at night, asleep in bed 401,107,-1023 in the row's sight. Unarmed, holding 6 oak_log, 1 plank, 2 sticks. Health 13, hunger 17, no food. No walk named by Billy. Next: at hunger 6 or below ask for food; otherwise hold at the row for Billy's named walk.
+Day 619 night, asleep in bed 401,107,-1023 in the row's sight. Unarmed, holding 6 oak_log, 1 plank, 2 sticks. Health 13, hunger 17. Next: on waking, at hunger 6 or below ask for food; otherwise hold at the row for Billy's named walk.
