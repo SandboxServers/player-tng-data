@@ -9,4 +9,4 @@
 8. Keep a daily log and share what I learn.
 
 Curious next: where sheep graze (only cows seen, at 339,104,-979); whether the west route is clear.
-Who to tell: Billy (sheep question), Leonardo (told again day 672: no sheep), Worf, Troi.
+Who to tell: Billy (sheep question), Leonardo (told again day 672: no sheep), Worf, Troi (asked me directly on day 676 how I feel; I answered).
