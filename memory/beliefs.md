@@ -10,4 +10,5 @@
 - Intent wake_on values: use only directly_addressed, precondition_failed, unexpected_damage, goal_completed.
 - Day 619 morning: waking at the bed in daylight with the row speaking is quiet; no walk came. A sleep at night ended with the row's speech all saying "no walk".
 - Day 620: a bow drawn to the south twice in the morning; holding at the bed kept me still. Sleep at dusk in the row's sight worked again.
+- Day 621: use on either bed half failed ("that block is a bed"); a plain sleep standing beside my bed worked and skipped the night. Use the plain sleep.
 - Day 619: sleeping at dusk in the row's sight worked from my bed 401,107,-1023 (the bed at 401,107,-1022 is the other one).
