@@ -5,3 +5,7 @@
 - 14:01 act: {"actions":[{"do":"sleep"}]}
 - Day 649 14:06 waking: said holding at the row (health 13, hunger 17). No walk named; no errand running.
 - 14:06 act: {"say":"Data here, at my bed in the row. Holding; health 13, hunger 17. Waiting for Billy to name a walk.","reasoning":"Morning, no walk named. Hold at the row per my goals; hunger above 6 so no food 
+- 14:12 act: {"say":"Data here at the row, holding. Bright, health steady, hunger 17. Waiting for Billy's named walk."}
+- Day 649 cycle: status days_since_sleep 1, wait 60s quiet, said holding at the row. No walk, no food asked (hunger 17).
+- 14:16 act: {"say":"Data at my bed in the row for the night, holding, health 13, hunger 17. No walk named.","actions":[{"do":"sleep"}]}
+- Day 650 morning: sleep worked, night skipped. Still at bed 402,107,-1023, health 13 steady, hunger 17. Status still shows days_since_sleep 2, so the rest may not count fully. No walk named; holding at the row.
