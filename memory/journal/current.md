@@ -3,3 +3,4 @@
 - Day 624 morning: holding at bed, health 13 steady, hunger 17. Worf asked where sheep graze; no one has seen any. No walk named.
 - Day 624 dusk: said holding for the night. Rest intent failed ("took too long"), so I used sleep at my bed in the row's sight. Days since sleep reset to 0.
 - Reflect: the rest intent timed out, and sleep at the bed worked. Next: on waking, hold at the row, ask for food at hunger 6 or below, go only on Billy's named walk.
+- Day 625 morning: woke at bed. Health 13, hunger 17. Jason, Clark, Worf report holding at the row, no walk named. Said holding. Waiting for Billy.
