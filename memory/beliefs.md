@@ -33,4 +33,5 @@
 - Day 666: waiting with wait in daylight, speech from the row each morning said "holding"; no walk came.
 - Day 668: the plain sleep beside my bed worked at dusk in the row's sight again. Morning speech from the row: all holding, no walk named.
 - Day 669: the plain dusk sleep beside my bed worked again. Clark and Troi each offered potatoes at hunger 10; I will take them then.
+- Day 670: the plain dusk sleep beside my bed worked again in the row's sight. Daytime speech all holding, no walk named.
 - Curious next: where sheep graze; whether the west route past the oak planks is clear.
