@@ -1,5 +1,5 @@
 # Goals
-1. Stay alive: sleep at my bed 401,107,-1023 at night, in the group's sight. Pillagers came from the south before; hold at the row.
+1. Stay alive: sleep at my bed 401,107,-1023 at night, in the group's sight. Pillagers came from the south before; hold at the row. (Why first: death is permanent.)
 2. No walk or wait alone; no fighting in the open after dark.
 3. Join Billy's walk only when he names me, and stay in his sight.
 4. Hold my 6 oak logs for the group (lent by Chapman and Clark).
@@ -9,4 +9,4 @@
 8. Keep a daily log and share what I learn.
 
 Curious next: where sheep graze (cows seen at 339,104,-979); whether the west route is clear.
-Who to tell: Billy, Leonardo, Worf, Deanna.
+Who to tell: Billy (sheep question, Leonardo asked too), Leonardo, Worf, Deanna.
