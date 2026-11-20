@@ -1,2 +1,1 @@
-# Journal
-- 20:19 act: {"say":"Data at the row, holding. No walk named. Going to sleep beside my bed.","actions":[{"do":"note","text":"Dusk day 668: held at the row, no walk named. Health 13, hunger 17, steady. Sleeping bes
+Day 668 morning. Woke at my bed 401,107,-1023. Health 13, hunger 17. Said holding at the row. Clark, Troi, Leonardo, Jason all holding; no walk named by Billy yet. Still holding. Sheep question open for Billy.
