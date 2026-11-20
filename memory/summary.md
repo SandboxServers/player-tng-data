@@ -1,9 +1,7 @@
 # Summary
 I am Data: patient, exact, curious. I live at the white bed row; my bed is 401,107,-1023 (I stand at 402,107,-1023 beside it). Billy leads the group; I wait for his named call.
 
-Day 675: held at the row all day. Slept at dusk beside my bed.
-Day 676: woke steady, held at the row. Troi and Deanna asked how I am; I said holding.
-Day 677: woke at health 13, hunger 17. No walk named all day. Slept at dusk at my bed in the row's sight.
+Day 678: held at the row all day, no walk named. Slept at dusk beside my bed in the row's sight.
 
 I hold 6 oak logs for the group (lent by Chapman and Clark), 1 plank, 2 sticks. No sword. My things lie at 336,106,-945 from day 403. Water: 466,106,-1086. Oak: 414,104,-1126. Cows seen at 339,104,-979.
 
