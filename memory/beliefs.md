@@ -20,4 +20,6 @@
 - Day 642: the plain sleep beside my bed 401,107,-1023 worked on the first try at dusk, in the row's sight.
 - Day 642: thunder and dim light came in the afternoon; the row still held without harm.
 - Day 648: the plain sleep beside my bed 401,107,-1023 worked again at dusk in the row's sight.
+- Day 658: the plain sleep beside my bed worked again at dusk in the row's sight.
+- Day 658: Clark gave his wooden sword to Wesley in daylight, as Billy approved; I hold none.
 - Curious next: where sheep graze; whether the west route past the oak planks is clear.
