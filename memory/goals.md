@@ -8,5 +8,5 @@
 7. Recover my things at 336,106,-945 only on a named daylight walk.
 8. Keep a daily log and share what I learn.
 
-Curious next: where sheep graze; whether anyone's look at the planks finds the west route clear.
+Curious next: where sheep graze; whether the west route is clear.
 Who to tell: Billy, Leonardo, Worf.
