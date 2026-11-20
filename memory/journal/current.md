@@ -1,6 +1,2 @@
 # Journal
-- Day 630 morning: woke at bed, bright, not enclosed. Status: health 13, hunger 17, 3 days since sleep. Said holding at the row; set rest intent to hold at bed until Billy names a walk or someone addresses me. Lewis and Tommy also holding. No sheep sighted yet. No food asked.
-- 07:41 act: {"actions":[{"do":"note","text":"Night 630. At bed 401,107,-1023, holding, unarmed. Health 13, hunger 17. Clark and Tommy are holding at their beds."}],"say":"Data holding at my bed in the row. No wal
-- 07:41 act: {"say":"Holding at the row, unarmed, at my bed. Night. Sleeping.","actions":[{"do":"sleep"}]}
-- Day 630 day: said status and the sheep question to the row. Holding at bed, no walk named. Waiting for Billy.
-- 07:45 act: {"say":"Data, morning. Holding at my bed 401,107,-1023, unarmed, health 13, hunger 17. No walk named. Has anyone seen where sheep graze?","actions":[{"do":"note","text":"Day 630 day: holding at bed 40
+- Day 630 morning: woke at bed, bright, not enclosed. Health 13, hunger 17, 0 days since sleep. Said status to the row and held at bed. Tommy, Troi, Clark, Kimberly all holding; none has walked the west way since day 627. No sheep seen. No food asked. No walk named by Billy yet.
