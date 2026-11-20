@@ -29,4 +29,6 @@
 - Day 664: only cows seen (339,104,-979); still no sheep seen by anyone at the row.
 - Day 665: the plain sleep at dusk beside my bed 401,107,-1023 worked again in the row's sight.
 - Day 665: the 3-of-10 partial sleep at night still needs a second night to finish; the first sleep is the start, not the end.
+- Day 666: the plain sleep beside my bed worked at dusk in the row's sight; slept through to morning.
+- Day 666: waiting with wait in daylight, speech from the row each morning said "holding"; no walk came.
 - Curious next: where sheep graze; whether the west route past the oak planks is clear.
