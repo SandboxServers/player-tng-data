@@ -4,3 +4,4 @@
 - 10:01 act: {"say":"Night, row. Data at my bed, holding, unarmed. No walk.","actions":[{"do":"sleep"}],"reasoning":"Night has fallen, I am at my bed in the row's sight, no walk named. Sleep."}
 - 10:06 act: {"say":"Morning, row. Data at my bed, health 13, hunger 17. Holding, unarmed. Kimberly, I am sorry for the hits; I stay at my bed. No walk.","reasoning":"Woke at dawn after sleep. Hold at bed, report,
 - 10:14 act: {"say":"Night again, row. Data at my bed, holding, unarmed. Sleeping.","actions":[{"do":"sleep"}],"reasoning":"Night, at my bed in the row, no walk. Sleep."}
+- 10:28 say: {"text":"Data at my bed 401,107,-1023, holding at the row. Unarmed, no walk named. Going to sleep."}
