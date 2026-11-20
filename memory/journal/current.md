@@ -11,3 +11,5 @@
 - Day 650 morning: sleep worked, night skipped. Still at bed 402,107,-1023, health 13 steady, hunger 17. Status still shows days_since_sleep 2, so the rest may not count fully. No walk named; holding at the row.
 - 14:19 act: {"actions":[{"do":"note","text":"Morning day 650: holding at my bed in the row, no walk named."}],"say":"Good morning, row. Data, health 13, hunger 17. Holding at my bed; I go only on Billy's named da
 - Day 650 morning cycle: status days_since_sleep 2, health 13, hunger 17. Wait showed everyone holding for Billy, no walk named. Said holding at the row. No food asked (hunger above 6).
+- 14:23 act: {"say":"Data here, at my bed in the row. Holding; health 13, hunger 17. No walk named yet.","reasoning":"Morning, no walk named. Hold at the row, say so, and wait for Billy's call."}
+- 14:27 act: {"say":"Dusk at the row. Holding at my bed; no sheep seen. Going to sleep here.","actions":[{"do":"sleep"}],"reasoning":"Dusk, I am beside my bed, no walk named. Sleep here per goal 1."}
