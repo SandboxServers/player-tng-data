@@ -1,20 +1,3 @@
 # Journal
 - Day 742, morning: still at the row, health 13, hunger 17. Enderman 1.7 blocks off, not attacking; sleep still refused. Told Leonardo I have no food. Zack offers a potato if I come into his sight; I am not hungry enough to ask yet. No walk named.
-- Day 741, morning: sleep has now failed three times in a row, each time because the enderman is within range. I will not send sleep again until it leaves. Holding at the row, health 13, hunger 17. Leonardo still asks about sheep; I have none to report.
-- Day 741 night: tried sleep at the bed again; the enderman 3.6 blocks away still refuses it. Holding at the row, health 13, hunger 17. Zack holds at his bed and waits for Billy.
-- Day 741, thunder, dim: still at the row, health 13, hunger 17. Two days since sleep; enderman keeps sleep refused. Will try the bed again at night. Zack offers potatoes only at hunger 10; I am at 17.
-- Day 740, day: still holding at the row. Health 13, hunger 17. Enderman 2-3 blocks off, not attacking. Clark and Zack hold at their beds; no walk named.
-- Day 740, dusk: tried sleep at my bed; refused again because the enderman is near (2.9 blocks). Still holding at the row, health 13, hunger 17.
-- Day 740, morning: still holding at the row, health 13, hunger 17. Told Leonardo I have seen no sheep, only cows. Enderman still nearby, not attacking. No walk named.
-- Day 739, dusk then day again: enderman drifts 1-3 blocks away, never attacks. Holding at the row, health 13, hunger 17. Clark and Zack also holding; no walk named.
-- Day 739, day light, health 13, hunger 17. Sleep refused: enderman 2 blocks away. Said holding at the row; set rest intent; did not look at or strike the enderman.
-- Day 739 (later): enderman now adjacent to the north, not attacking; I hold still. Clark says holding at his bed, no walk until Billy names a route. Health 13, hunger 17.
-- 20:10 act: {"intent":{"goal":"hold_at_row_again","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":1}}}
-- 20:16 act: {"say":"Data here, at the row. Health 13, hunger 17, holding. No walk named, so I stay.","intent":{"goal":"hold_at_row_wait","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected
-- 20:26 act: {"say":"Data here. Morning, day 740. Health 13, hunger 17, holding at the row. I have seen no sheep, only cows near 339,104,-979. No walk named, so I stay.","intent":{"goal":"hold_at_row_morning","pro
-- 20:32 act: {"actions":[{"do":"sleep"}]}
-- 20:49 act: {"actions":[{"do":"sleep"}]}
-- 21:01 act: {"say":"Data at the row. I have no food; I hold only 6 oak logs for the group, 1 plank and 2 sticks. Health 13, hunger 17. Still no walk named."}
-- 21:13 act: {"say":"Holding at the row. An enderman is close by, so I will not look at it or strike it, and I will wait.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addres
-- 21:15 act: {"intent":{"goal":"hold_at_row_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],"limits":{"max_world_ticks":2400,"max_
-- 21:16 act: {"say":"Data at the row. I have seen no sheep, only cows near 339,104,-979. Holding; no walk named.","intent":{"goal":"hold_at_row_day","program":"rest","arguments":{},"wake_on":["directly_addressed",
+- Day 742, later: said holding at the row again; hold intent set, waiting. Zack and Billy's walk still not named. Enderman still near, not struck.
