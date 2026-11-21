@@ -16,4 +16,5 @@
 - Day 683: Clark and Leonardo reported health 20 and hunger 20 at their beds; I am at 13 and 17.
 - Day 689: use on a bed block failed ("that block is a bed"); sleep worked with the sleep verb at dusk beside the bed. Use the sleep verb, not use, on the bed.
 - Day 694: sleep verb beside the bed worked at dusk again (after a morning wait; the wait itself went quiet).
+- Day 695 (night begins): the group held at the row all morning; Billy named no walk. Dusk came while I waited, so I reflected before sleeping.
 - Curious next: where sheep graze; whether the west route past the oak planks is clear.
