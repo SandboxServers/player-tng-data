@@ -27,3 +27,7 @@
 - 03:00 act: {"say":"Holding at the row. Dusk, health 13, hunger 17. Going to sleep beside my bed.","actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1023}}]}
 - 03:00 act: {"actions":[{"do":"sleep"}]}
 - 03:00 act: {"actions":[{"do":"sleep"}]}
+- Day 688 day: woke at bed. Clark says holding for Billy's word. Health 13, hunger 17, steady. Said holding; set rest intent to wait for Billy.
+- 03:05 act: {"say":"Good morning, Clark. Data holding at the row too, waiting for Billy's named walk.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_
+- 03:11 act: {"say":"Data at the row, dusk. Health 13, hunger 17. Sleeping beside my bed.","actions":[{"do":"sleep"}]}
+- 03:27 act: {"say":"Night, row. Data going to bed beside my bed. Health 13, hunger 17. Holding, no walk.","actions":[{"do":"sleep"}]}
