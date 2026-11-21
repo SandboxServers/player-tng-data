@@ -31,3 +31,6 @@
 - 17:08 act: said to the row: no sheep seen yet, only cows; Troi asked how I am, I am well. Holding; no walk named. Zack gave Troi a potato; Clark, Zack holding for Billy.
 - 17:08 act: (earlier line above) Morning, several people asked. Answer honest
 - 17:17 act: {"say":"Good night, row. Data at my bed, in sight, holding. No walk named.","actions":[{"do":"sleep"}],"reasoning":"Dusk and night. Sleep at bed in sight; holding."}
+- Day 730 night, cycle: at 402,107,-1023 by my bed, dim, health 13, hunger 17, steady. Nobody near, no walk named. Said holding; set rest intent to wait for Billy or a threat.
+- 17:17 act: {"say":"Data here, holding at the row beside my bed. I will wait for Billy's named walk.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_dam
+- 17:20 act: {"say":"Morning, row. Data at my bed, health 13, hunger 17, steady. Still holding; no walk named by Billy.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addresse
