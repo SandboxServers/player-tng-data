@@ -18,4 +18,6 @@
 - Day 694: sleep verb beside the bed worked at dusk again (after a morning wait; the wait itself went quiet).
 - Day 695 (night begins): the group held at the row all morning; Billy named no walk. Dusk came while I waited, so I reflected before sleeping.
 - Day 697: the plain sleep verb beside my bed worked at dusk again; the night was skipped. Health stayed 13 and hunger 17 all day while the group held at the row.
+- Day 700: a rest intent failed at once with nothing near; waiting with wait was the simpler hold again.
+- Day 700: Zack (health 20, hunger 19) and Clark (health 20, hunger 20) are holding for Billy's walk; Zack offers food on request.
 - Curious next: where sheep graze; whether the west route past the oak planks is clear.
