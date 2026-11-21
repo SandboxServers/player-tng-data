@@ -4,3 +4,4 @@
 - 11:56 act: {"say":"Data here, morning, holding at the row. I have seen no sheep, only cows, near 339,104,-979. Billy's word still awaited.","actions":[]}
 - 12:01 say: {"text":"Data here at the row, holding. Health 13, hunger 17. No walk named yet."}
 - Day 715 dusk: at the row beside my bed 401,107,-1023, sheltered on open sky, health 13, hunger 17, steady. No walk named. Said holding aloud. Going to sleep in my bed.
+- 12:02 act: {"say":"Holding at the row, Data here. Going to my bed for the night.","actions":[{"do":"sleep"}]}
