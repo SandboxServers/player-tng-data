@@ -1,5 +1,5 @@
 # Goals
-(Day 697 reflect: no change to goals. Still holding at the row; go only on Billy's named daylight walk.)
+(Day 698 reflect: no change. Still holding at the row; go only on Billy's named daylight walk.)
 1. Stay alive: sleep at my bed 401,107,-1023 at night, in the group's sight. Hold at the row. Death is permanent.
 2. No walk or wait alone; no fighting in the open after dark.
 3. Join Billy's walk only when he names me, and stay in his sight.
@@ -10,4 +10,4 @@
 8. Keep a daily log and share what I learn.
 
 Curious next: where sheep graze (only cows seen, at 339,104,-979); whether the west route is clear.
-Who to tell: Billy (sheep question), Leonardo (told again day 672: no sheep), Worf, Troi (asked me directly on day 676 how I feel; I answered).
+Who to tell: Billy (sheep question; Leonardo, Clark and Zack are all asking too), Worf, Troi.
