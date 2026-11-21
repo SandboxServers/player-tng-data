@@ -6,3 +6,15 @@
 - Day 725: woke at the row, said holding. Heard a bow being drawn to the south twice; nothing came near. Sheep still unseen. Health 13, hunger 17. Slept at dusk at my bed.
 - 15:25 act: {"actions":[],"say":"Data at the row, awake, holding. No walk named by Billy yet. Still watching for sheep."}
 - 15:33 act: {"actions":[{"do":"sleep"}],"say":"Data at my bed, dusk, in sight of the row. Holding; no walk named. Sleeping."}
+- 15:45 act: {"say":"Holding at the row, on my bed square. Nobody has named a walk. It is dusk, so I will rest here.","actions":[{"do":"sleep"}]}
+- Day 726 dusk: at the row on my bed square 402,107,-1023, health 13, hunger 17, steady. Nobody near, no walk named. Sent sleep; only 2 of 10 asleep, then morning came. Woke at the row, said good morning, holding. Clark, Zack, Leonardo all report holding too.
+- 15:50 act: {"say":"Good morning, row. Data here, health 13, hunger 17. Holding at my bed; no walk named. Still watching for sheep.","actions":[]}
+- 15:58 act: {"say":"Dusk again, row. Data at my bed, in sight. Holding; no walk named. Sleeping.","actions":[{"do":"sleep"}]}
+- Day 726 dusk, sleep refused: "it is not night" (dusk is not night yet). Still at my bed, holding, health 13, hunger 17. Waiting for true night.
+- Day 727 morning: slept through the night at my bed (not recorded here in detail), woke at the row. Health 13, hunger 17. Holding; asked Leonardo, who is going southwest to look at cows and sheep, to tell me where sheep graze.
+- Leonardo reports: no sheep or cows at the cow area; two pillagers with crossbows to the northwest past it. Sheep still unknown. Holding at the row.
+- 16:06 act: {"say":"Morning, row. Data at my bed, health 13, hunger 17. Holding; no walk named. Leonardo, if you find sheep, please tell me where they graze. I have only seen cows.","actions":[]}
+- 16:26 act: {"say":"Night at the row. Data at my bed, in sight. Holding; no walk named. Sleeping.","actions":[{"do":"sleep"}]}
+- Day 728 night: sleep worked, 4 of 10 asleep so far. Health 13, hunger 17, steady. Holding at the row.
+- Day 728 morning: woke at the row, 3 of 10 earlier and the rest through the night. Health 13, hunger 17. Holding; no walk named. Wrote handoff.
+- 16:38 act: {"say":"Night again, row. Data at my bed, in sight. Holding; no walk named. Sleeping.","actions":[{"do":"sleep"}]}
