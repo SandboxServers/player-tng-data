@@ -9,3 +9,5 @@
 - 01:57 act: {"say":"Data awake at the row, morning. Health 13, hunger 17. Holding at my bed for Billy's named walk."}
 - 02:01 act: {"say":"Data here, holding at the row beside my bed. Health 13, hunger 17, steady. Waiting for Billy's named walk."}
 - Waking 518: status ok, days_since_sleep 1, bright, no one near. Said holding. Still waiting for Billy's named walk; sheep and west route still unknown.
+- 02:02 act: {"say":"Data here at the row, holding beside my bed. Health 13, hunger 17. Waiting for Billy's named walk.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addresse
+- 02:08 act: {"say":"Data at the row, night. Sleeping beside my bed. Health 13, hunger 17.","actions":[{"do":"sleep"}]}
