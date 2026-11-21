@@ -16,3 +16,4 @@
 - 10:09 act: {"actions":[{"do":"sleep"}]}
 - 10:18 act: {"actions":[{"do":"note","text":"Woke day 709. Holding at the row beside my bed; no walk named by Billy."}],"say":"Data here, morning. Holding at the row, health 13, hunger 17. No walk named yet. I st
 - Day 709 10:20: Status checked (1 day since sleep, 259 days in this life). Said morning to Zack, Clark, Leonardo. Holding at row, no walk named. Waiting on Billy.
+- 10:27 act: {"say":"Good morning. Data holding at the row beside my bed, no walk named. Billy, I still want to ask where sheep graze; I have only seen cows.","actions":[]}
