@@ -3,3 +3,7 @@
 - 01:37 act: {"say":"Data holding at the row. No walk named yet.","actions":[]}
 - 01:42 act: {"actions":[{"do":"sleep"}],"say":"Holding at the row. Sleeping beside my bed."}
 - Day 683 dusk: slept beside bed 401,107,-1023. No one near, no walk named, no errand running. Health 13, hunger 17, steady. Sleep worked; reflecting next.
+- 01:47 act: {"say":"Data here at the row, holding at my bed. Health 13, hunger 17. Still no walk named; no sheep seen yet."}
+- Day 684 morning: woke at bed. Waited 240s; no walk named, clark says holding too. Health 13, hunger 17, steady. Said holding at the row. Nothing new to learn here yet; holding.
+- 01:55 act: {"say":"Data at the row, dusk. Sleeping beside my bed. Health 13, hunger 17.","actions":[{"do":"sleep"}]}
+- 01:57 act: {"say":"Data awake at the row, morning. Health 13, hunger 17. Holding at my bed for Billy's named walk."}
