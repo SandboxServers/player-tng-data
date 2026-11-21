@@ -14,3 +14,5 @@
 - 09:49 say: {"text":"Good morning, Zack and Clark. Data here at the row, holding. Health 13, hunger 17. I go only on Billy's named walk."}
 - 09:53 say: {"text":"Thank you, Zack, but my hunger is 17, so I will keep my potato for later. Good morning, Leonardo. Holding at the row."}
 - 10:09 act: {"actions":[{"do":"sleep"}]}
+- 10:18 act: {"actions":[{"do":"note","text":"Woke day 709. Holding at the row beside my bed; no walk named by Billy."}],"say":"Data here, morning. Holding at the row, health 13, hunger 17. No walk named yet. I st
+- Day 709 10:20: Status checked (1 day since sleep, 259 days in this life). Said morning to Zack, Clark, Leonardo. Holding at row, no walk named. Waiting on Billy.
