@@ -12,3 +12,7 @@
 - 02:02 act: {"say":"Data here at the row, holding beside my bed. Health 13, hunger 17. Waiting for Billy's named walk.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addresse
 - 02:08 act: {"say":"Data at the row, night. Sleeping beside my bed. Health 13, hunger 17.","actions":[{"do":"sleep"}]}
 - 02:13 act: {"say":"Data at the row, holding beside my bed. Health 13, hunger 17. Waiting for Billy's named walk.","actions":[]}
+- 02:14 act: {"say":"Holding at the row beside my bed. Waiting for Billy's named walk."}
+- Day 685 day: said holding at the row. Waited 240s; no walk named. Clark and Leonardo also holding. Health 13, hunger 17, steady. Still no sheep seen.
+- 02:22 act: {"say":"Data at the row, dusk. Sleeping beside my bed. Health 13, hunger 17.","actions":[{"do":"sleep"}]}
+- 02:22 act: {"actions":[{"do":"sleep"}]}
