@@ -38,3 +38,10 @@
 - 17:27 act: {"actions":[{"do":"note","text":"Day 731 morning: holding at the row beside my bed. Health 13, hunger 17. No walk named."}],"say":"Holding at the row. Health 13, hunger 17. I will go only on Billy's n
 - Day 731 morning, cycle: wait showed nothing new (daylight, no one near). Said holding at the row; health 13, hunger 17. Waiting for Billy's named walk or dusk.
 - 17:28 act: {"say":"Data here at the row, holding. Health 13, hunger 17. Waiting for Billy's named walk.","actions":[]}
+- 17:36 act: {"say":"Data here at the row, health 13, hunger 17. Holding for Billy's named daylight walk. I have not seen sheep yet, only cows near 339,104,-979.","intent":{"goal":"hold_at_row","program":"rest","a
+- Day 731 day: woke at 402,107,-1023 beside my bed, bright, health 13, hunger 17, steady. Leonardo, Clark, Zack all asking; Billy has named no walk. Holding; intent set to rest and wait for Billy or a threat.
+- 17:42 act: {"say":"Night at the row. Data beside my bed, in sight, holding. Leonardo, I hear you too. Sleeping.","actions":[{"do":"sleep"}]}
+- 17:46 act: {"say":"Morning, row. Data at my bed, health 13, hunger 17, steady. Still holding; no walk named by Billy.","actions":[]}
+- Day 732 morning: slept at dusk-night at my bed (1 of 10 asleep, then morning). Health 13, hunger 17. Leonardo and Zack also holding; no walk named. Still no sheep seen.
+- 17:55 act: {"say":"Dusk at the row. Data at my bed, in sight, holding. No walk named. Sleeping when night comes.","actions":[{"do":"sleep"}]}
+- 17:59 act: {"say":"Morning, row. Data here, health 13, hunger 17. Still holding; Billy has named no walk. Clark, I have not seen a route west past x=370 either.","actions":[]}
