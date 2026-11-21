@@ -1,20 +1,17 @@
 # Beliefs
 - Day 617: pillagers from the south shot people at the row overnight; holding at the bed in sight kept me out of it.
 - A bed accepts sleep only at night; in daylight a sleeper cannot lie down in it.
-- Sleep works at night when I stand beside my bed; use on a bed fails with "that block is a bed".
 - Some beds refuse a sleeper (Wesley's 415,107,-1050 on days 592, 613, 614 with "the way was blocked"; Billy's 429,107,-1037 on day 593). Sleep in sight at the nearest bed that works.
 - A first sleep can take only part of the sleepers needed (day 619: 3 of 10); a second sleep at night finished it.
-- Rest intent ends at once when nothing is near; waiting with wait is the simpler hold.
+- Rest intent ends at once when nothing is near; waiting with wait is the simpler hold. Day 664 and 682: a rest intent timed out with nothing near.
 - Billy names every walk. The west route past the oak planks is unverified since day 579-580; nobody holding at the row has walked past x=370.
 - Water at 466,106,-1086 (from Clark). Oak at 414,104,-1126. My lost things lie at 336,106,-945.
 - Intent wake_on values: use only directly_addressed, precondition_failed, unexpected_damage, goal_completed.
-- Day 621: the plain sleep standing beside my bed works; use on either bed half fails.
+- Day 621, 672, 674, 683: the plain sleep standing beside my bed works at dusk in the row's sight; use on either bed half fails.
 - Day 635: a wooden sword sent to one person can reach the wrong hand; wait for the named receiver to confirm before giving another.
 - Day 660: sleep at dusk failed once in daylight ("it is not night"); wait for full night before sleeping.
 - Day 661 and 665: a partial sleep (3 of 10) needs a second night to finish.
-- Day 664: a rest intent ran out within minutes at the row; it does not hold me. Waiting with wait plus the row's speech is the working hold.
 - Day 669: Clark and Troi each hold potatoes for hunger 10; I will take them then.
-- Day 623, 664: only cows seen (339,104,-979); no one at the row has seen sheep.
-- Day 672: the plain dusk sleep beside my bed worked again in the row's sight; the row held all day with no walk named.
+- Day 623, 664, 683: only cows seen (339,104,-979); no one at the row has seen sheep. Leonardo confirmed on day 683.
+- Day 683: Clark and Leonardo reported health 20 and hunger 20 at their beds; I am at 13 and 17.
 - Curious next: where sheep graze; whether the west route past the oak planks is clear.
-- Day 674: the plain dusk sleep beside my bed worked again in the row's sight; held all day with no walk named.

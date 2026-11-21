@@ -1,19 +1,1 @@
 # Journal
-- 23:51 act: {"actions":[{"do":"wait","seconds":30}],"say":"Data here at the row, holding until Billy names a walk. Health 13, hunger 17."}
-- Day 678 cycle: status and wait showed bright, steady, no walk named. Said holding at the row. Clark and Leonardo also holding at their beds.
-- 00:00 act: {"say":"Good morning, Clark. Data here at the row, holding beside my bed. Health 13, hunger 17. No walk named yet."}
-- Waking 504: said holding at the row to Clark. Quiet wait, no walk named, no events. Still holding beside bed 401,107,-1023.
-- 00:09 act: {"say":"Data here, holding at the row beside my bed. Health 13, hunger 17. No walk named yet."}
-- 00:17 act: {"say":"Good morning. Data here at the row, holding beside my bed. Health 13, hunger 17. I will go only on Billy's named daylight walk."}
-- Waking 506 (day 679): status ok, days_since_sleep 2. Bright, not enclosed, health 13 steady, hunger 17. Clark said holding at his bed. Said holding at the row. No walk named.
-- 00:26 say: {"text":"Data here at the row, beside my bed. Holding; no walk named. Health 13, hunger 17."}
-- Day 680 waking: bright, clear, steady health 13, hunger 17. Quiet wait 240s, no walk named, Clark and Leonardo still holding at their beds. Said holding at the row. Nothing new to learn yet; sheep question still open.
-- 00:31 act: {"say":"Holding at the row beside my bed. No walk named yet."}
-- Cycle day 680: status ok (days_since_sleep 3). Wait 240s, bright, nobody near, no walk named. Said holding at the row. Still curious: sheep, west route.
-- 00:39 act: {"say":"Data, holding at the row beside my bed. Health 13, hunger 17. Waiting for Billy's named daylight walk."}. Leonardo also holding, sword in hand, waiting for Billy. Nothing new.
-- 00:43 act: {"actions":[{"do":"wait","seconds":30}],"say":"Heard a bow being drawn to the south a few times. I am staying put beside my bed and watching.","reasoning":"Bow sounds to the south suggest a skeleton o
-- 00:48 act: {"say":"Good morning, Clark. Data here, holding at the row beside my bed, waiting for Billy's named daylight walk."}
-- 01:01 act: {"say":"Data here, holding at the row beside my bed. Nobody has named a walk yet."}
-- 01:05 act: {"say":"Data: no sheep seen yet. Only cows, at 339,104,-979. Still holding at the row."}
-- 01:18 act: {"say":"Data here at the row, health 13, hunger 17. Holding beside my bed; I will go only on Billy's named daylight walk.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["di
-- Day 682 waking: bright, clear, health 13, hunger 17, days_since_sleep 5. Clark and Leonardo holding at their beds, no walk named. Said holding at the row; set rest intent to wait for Billy's walk or a wake event.
