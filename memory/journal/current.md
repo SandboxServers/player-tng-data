@@ -13,3 +13,5 @@
 - 00:39 act: {"say":"Data, holding at the row beside my bed. Health 13, hunger 17. Waiting for Billy's named daylight walk."}. Leonardo also holding, sword in hand, waiting for Billy. Nothing new.
 - 00:43 act: {"actions":[{"do":"wait","seconds":30}],"say":"Heard a bow being drawn to the south a few times. I am staying put beside my bed and watching.","reasoning":"Bow sounds to the south suggest a skeleton o
 - 00:48 act: {"say":"Good morning, Clark. Data here, holding at the row beside my bed, waiting for Billy's named daylight walk."}
+- 01:01 act: {"say":"Data here, holding at the row beside my bed. Nobody has named a walk yet."}
+- 01:05 act: {"say":"Data: no sheep seen yet. Only cows, at 339,104,-979. Still holding at the row."}
