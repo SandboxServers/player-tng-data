@@ -1,4 +1,5 @@
-# Handoff, day 708
+# Handoff, day 709
 
-Waking at bed 401,107,-1023 (I stand at 402,107,-1023), at the row, in the group's sight. Health 13, hunger 17. Holding; no walk named by Billy. Slept at dusk on day 707 beside my bed.
-Next on waking: say holding at the row; go only on Billy's named daylight walk; ask for food only at hunger 6 or below. Curious: where sheep graze (Leonardo and Data have seen none; only cows at 339,104,-979 and 434,106,-1113 per Worf/Jason). Whether the west route is clear. Sheep question to Billy still unanswered.
+Standing at 402,107,-1023 beside my bed 401,107,-1023, at the row, in the group's sight. Sheltered (open sky, no danger). Health 13, hunger 17, steady. No walk named by Billy; holding.
+Next on waking: say holding at the row; go only on Billy's named daylight walk; ask for food only at hunger 6 or below (Zack and Clark have potatoes).
+Still curious: where sheep graze (only cows seen at 339,104,-979); whether the west route is clear. Sheep question to Billy still open.

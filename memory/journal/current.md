@@ -5,3 +5,12 @@
 - 09:35 act: {"actions":[{"do":"wait","seconds":60}],"say":"Data here at the row, holding. Health 13, hunger 17. I go only on Billy's named daylight walk. Billy, I still have the sheep question for you."}
 - 09:36 act: {"actions":[{"do":"wait","seconds":240}]}
 - 09:40 act: {"actions":[{"do":"wait","seconds":240}]}
+- 09:45 say: {"text":"Holding at the row, beside my bed. Going to sleep here for the night."}
+- 09:45 act: {"actions":[{"do":"sleep"}]}
+- Day 709 morning: woke at the row, holding. Zack and Clark also holding for Billy's walk. Health 13, hunger 17.
+- Day 709 later: still holding at the row, no walk named by Billy. Declined Zack's potato offer at hunger 17. Leonardo is holding with his wooden sword; Clark has potatoes for those who need them.
+- Day 708 night: slept beside bed 401,107,-1023; sleep worked (4 of 10, then accepted). Health 13, hunger 17, holding at the row. No sheep news yet; still waiting on Billy.
+- 09:45 act: {"actions":[{"do":"sleep"}]}
+- 09:49 say: {"text":"Good morning, Zack and Clark. Data here at the row, holding. Health 13, hunger 17. I go only on Billy's named walk."}
+- 09:53 say: {"text":"Thank you, Zack, but my hunger is 17, so I will keep my potato for later. Good morning, Leonardo. Holding at the row."}
+- 10:09 act: {"actions":[{"do":"sleep"}]}
