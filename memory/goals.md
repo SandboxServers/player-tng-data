@@ -1,5 +1,5 @@
 # Goals
-(Day 714 reflect: no change. Still holding at the row; go only on Billy's named daylight walk.)
+(Day 715 reflect: no change. Still holding at the row; go only on Billy's named daylight walk.)
 1. Stay alive: sleep at my bed 401,107,-1023 at night, in the group's sight. Hold at the row. Death is permanent.
 2. No walk or wait alone; no fighting in the open after dark.
 3. Join Billy's walk only when he names me, and stay in his sight.
