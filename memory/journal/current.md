@@ -45,3 +45,6 @@
 - Day 732 morning: slept at dusk-night at my bed (1 of 10 asleep, then morning). Health 13, hunger 17. Leonardo and Zack also holding; no walk named. Still no sheep seen.
 - 17:55 act: {"say":"Dusk at the row. Data at my bed, in sight, holding. No walk named. Sleeping when night comes.","actions":[{"do":"sleep"}]}
 - 17:59 act: {"say":"Morning, row. Data here, health 13, hunger 17. Still holding; Billy has named no walk. Clark, I have not seen a route west past x=370 either.","actions":[]}
+- 18:07 act: {"actions":[{"do":"note","text":"Dusk at the row, beside my bed. Holding; no walk named. Sleeping at the bed."}],"say":"Holding at the row. No walk named, so I stay here and sleep by my bed."}
+- 18:07 act: {"actions":[{"do":"sleep"}]}
+- 18:11 act: {"actions":[{"do":"note","text":"Morning day 733. Holding at the row beside my bed; no walk named. Health 13, hunger 17."}],"say":"Morning, row. Data here, health 13, hunger 17. Still holding; Billy h
