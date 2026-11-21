@@ -15,3 +15,6 @@
 - 20:32 act: {"actions":[{"do":"sleep"}]}
 - 20:49 act: {"actions":[{"do":"sleep"}]}
 - 21:01 act: {"say":"Data at the row. I have no food; I hold only 6 oak logs for the group, 1 plank and 2 sticks. Health 13, hunger 17. Still no walk named."}
+- 21:13 act: {"say":"Holding at the row. An enderman is close by, so I will not look at it or strike it, and I will wait.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addres
+- 21:15 act: {"intent":{"goal":"hold_at_row_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],"limits":{"max_world_ticks":2400,"max_
+- 21:16 act: {"say":"Data at the row. I have seen no sheep, only cows near 339,104,-979. Holding; no walk named.","intent":{"goal":"hold_at_row_day","program":"rest","arguments":{},"wake_on":["directly_addressed",
