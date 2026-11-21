@@ -1,3 +1,8 @@
 # Journal
 - 18:36 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Data here, holding at the row beside my bed. No walk named, so I stay in sight and sleep for the night.","reasonin
 - 18:40 act: {"actions":[{"do":"goto","target":{"x":403,"y":107,"z":-1025}}],"say":"Data: morning. An enderman stands 4 south of me. I will not look at it or fight it; I step a little north and keep holding at the
+- 18:49 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Data here. Holding at the row, no walk named. Going to my bed for the night."}
+- 18:49 act: {"actions":[{"do":"wait","seconds":30}],"reasoning":"Enderman 2 blocks away. I will not look at it or fight. Wait for it to leave, then sleep."}
+- Night 735: sleep refused, enderman within 4 blocks. Waited. Day came. Enderman still 2-3 blocks off, not attacking. Holding at 402,107,-1022 beside bed, health 13, hunger 17. No walk named; Leonardo and Zack also holding.
+- 19:05 act: {"actions":[],"say":"Data: good morning, row. Holding beside my bed, health 13, hunger 17. No walk named. Still no sheep seen; only cows at 339,104,-979."}
+- Day 736: dusk then day again. Enderman keeps circling 1-3 blocks away; it has not attacked and I have not looked at it. Sleep still refused while it is near. Holding at the row, no walk named. Health 13, hunger 17.
