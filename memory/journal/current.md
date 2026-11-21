@@ -26,3 +26,8 @@
 - 17:04 act: {"say":"Data here at the row, beside my bed. Holding, no walk named. Going to sleep at dusk.","actions":[{"do":"sleep"}]}
 - Day 729 night: sleep worked, 4 of 10 asleep. Health 13, hunger 17, steady, not enclosed, at 402,107,-1023. No walk named; sent sleep again to rest through the night.
 - 17:04 act: {"actions":[{"do":"sleep"}]}
+- 17:04 act: {"say":"Holding at the row, by my bed. Health 13, hunger 17, steady. Waiting for Billy's named walk.","reasoning":"Night, at bed, sleep just worked. Hold position, no walk named. Keep my goals."}
+- Day 730 night: woke by the sleep result at my bed 401,107,-1023 (I stand at 402,107,-1023). Health 13, hunger 17, steady, dim, not enclosed. No walk named; said holding. Sheep still unknown.
+- 17:08 act: said to the row: no sheep seen yet, only cows; Troi asked how I am, I am well. Holding; no walk named. Zack gave Troi a potato; Clark, Zack holding for Billy.
+- 17:08 act: (earlier line above) Morning, several people asked. Answer honest
+- 17:17 act: {"say":"Good night, row. Data at my bed, in sight, holding. No walk named.","actions":[{"do":"sleep"}],"reasoning":"Dusk and night. Sleep at bed in sight; holding."}
