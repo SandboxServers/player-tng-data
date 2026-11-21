@@ -6,3 +6,4 @@
 - 08:39 act: {"actions":[{"do":"note","text":"Night at the row, beside bed 401,107,-1023. Holding; no walk named. Health 13, hunger 17."}],"say":"Holding at the row. I will go only on Billy's named daylight walk."
 - 08:39 act: {"actions":[{"do":"sleep"}],"say":"Night still. I am sleeping beside my bed, holding at the row."}
 - 08:39 say: {"text":"Goodnight. Holding at the row until Billy names a walk."}
+- 08:43 act: {"say":"Data here, at the row. Holding; I will go only on Billy's named daylight walk.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_fai  (Day 704 morning: heard Leonardo ask about a walk; no walk named by Billy. Holding at the row, health 13, hunger 17.)
