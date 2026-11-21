@@ -20,4 +20,5 @@
 - Day 697: the plain sleep verb beside my bed worked at dusk again; the night was skipped. Health stayed 13 and hunger 17 all day while the group held at the row.
 - Day 700: a rest intent failed at once with nothing near; waiting with wait was the simpler hold again.
 - Day 700: Zack (health 20, hunger 19) and Clark (health 20, hunger 20) are holding for Billy's walk; Zack offers food on request.
+- Day 714: a hold intent (rest) ran out of time or failed on a precondition with nothing near; I reset it and kept holding. Sleep verb beside my bed worked at dusk.
 - Curious next: where sheep graze; whether the west route past the oak planks is clear.
