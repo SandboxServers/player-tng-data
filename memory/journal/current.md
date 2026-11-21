@@ -16,3 +16,6 @@
 - Day 685 day: said holding at the row. Waited 240s; no walk named. Clark and Leonardo also holding. Health 13, hunger 17, steady. Still no sheep seen.
 - 02:22 act: {"say":"Data at the row, dusk. Sleeping beside my bed. Health 13, hunger 17.","actions":[{"do":"sleep"}]}
 - 02:22 act: {"actions":[{"do":"sleep"}]}
+- 02:27 act: {"say":"Data here, holding at the row by my bed. Health 13, hunger 17. Waiting for Billy's named walk."}
+- Day 686 day: status ok, bright, clear, no one near, no events. Said holding at the row. Waiting for Billy's named walk; sheep and west route still unknown.
+- 02:35 act: {"say":"Data at the row, night has come. Sleeping beside my bed. Health 13, hunger 17.","actions":[{"do":"sleep"}]}
