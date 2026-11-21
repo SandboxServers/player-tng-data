@@ -6,3 +6,5 @@
 - 00:09 act: {"say":"Data here, holding at the row beside my bed. Health 13, hunger 17. No walk named yet."}
 - 00:17 act: {"say":"Good morning. Data here at the row, holding beside my bed. Health 13, hunger 17. I will go only on Billy's named daylight walk."}
 - Waking 506 (day 679): status ok, days_since_sleep 2. Bright, not enclosed, health 13 steady, hunger 17. Clark said holding at his bed. Said holding at the row. No walk named.
+- 00:26 say: {"text":"Data here at the row, beside my bed. Holding; no walk named. Health 13, hunger 17."}
+- Day 680 waking: bright, clear, steady health 13, hunger 17. Quiet wait 240s, no walk named, Clark and Leonardo still holding at their beds. Said holding at the row. Nothing new to learn yet; sheep question still open.
