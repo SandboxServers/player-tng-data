@@ -11,3 +11,4 @@
 - Waking 518: status ok, days_since_sleep 1, bright, no one near. Said holding. Still waiting for Billy's named walk; sheep and west route still unknown.
 - 02:02 act: {"say":"Data here at the row, holding beside my bed. Health 13, hunger 17. Waiting for Billy's named walk.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addresse
 - 02:08 act: {"say":"Data at the row, night. Sleeping beside my bed. Health 13, hunger 17.","actions":[{"do":"sleep"}]}
+- 02:13 act: {"say":"Data at the row, holding beside my bed. Health 13, hunger 17. Waiting for Billy's named walk.","actions":[]}
