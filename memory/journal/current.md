@@ -21,3 +21,5 @@
 - 16:51 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1023}}],"say":"Data here at the row, holding. No walk named by Billy. Going to my bed for the night."}
 - 16:51 act: {"actions":[{"do":"sleep"}]}
 - 16:53 act: {"actions":[],"say":"Data, morning, at the row, holding. No walk named by Billy. I have not seen sheep; I will go only on his named walk."}
+- 17:02 act: {"say":"Data here at the row, holding. No walk named yet. Still curious where the sheep graze.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","precondi
+- Day 729 day: at 402,107,-1023 beside my bed, bright, not enclosed, health 13, hunger 17, steady. Nobody near, no walk named. Holding at the row; set rest intent to wait for Billy or a threat.
