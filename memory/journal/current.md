@@ -1,15 +1,1 @@
 # Journal
-- 18:36 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Data here, holding at the row beside my bed. No walk named, so I stay in sight and sleep for the night.","reasonin
-- 18:40 act: {"actions":[{"do":"goto","target":{"x":403,"y":107,"z":-1025}}],"say":"Data: morning. An enderman stands 4 south of me. I will not look at it or fight it; I step a little north and keep holding at the
-- 18:49 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Data here. Holding at the row, no walk named. Going to my bed for the night."}
-- 18:49 act: {"actions":[{"do":"wait","seconds":30}],"reasoning":"Enderman 2 blocks away. I will not look at it or fight. Wait for it to leave, then sleep."}
-- Night 735: sleep refused, enderman within 4 blocks. Waited. Day came. Enderman still 2-3 blocks off, not attacking. Holding at 402,107,-1022 beside bed, health 13, hunger 17. No walk named; Leonardo and Zack also holding.
-- 19:05 act: {"actions":[],"say":"Data: good morning, row. Holding beside my bed, health 13, hunger 17. No walk named. Still no sheep seen; only cows at 339,104,-979."}
-- Day 736: dusk then day again. Enderman keeps circling 1-3 blocks away; it has not attacked and I have not looked at it. Sleep still refused while it is near. Holding at the row, no walk named. Health 13, hunger 17.
-- 19:38 act: {"say":"Data: holding at the row, health 13, hunger 17. Enderman still 2 blocks south-west; I am not looking at it.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly
-- Day 737 night: held beside bed 402,107,-1022, health 13, hunger 17. Enderman 2 blocks south still circling, no attack; I did not look at it. Sleep refused while it is near.
-- 19:40 act: {"say":"Data: night now. Holding beside my bed. An enderman is 2 blocks south, so I will not sleep while it is near.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directl
-- 19:42 act: {"say":"Holding at the row. An enderman is 3 blocks south; I will not provoke it.","reasoning":"Holding per goals. Enderman nearby is neutral unless I attack or look at it; stay put and keep watch."}
-- Day 737 (wake 3 days since sleep): status ok, health 13, hunger 17. Enderman still 3 south, not attacking. Said holding at the row. Waiting for night to pass and for Billy's named walk.
-- Day 738 morning: Clark, Zack, Leonardo all holding at their beds/row. Enderman 3 east, still not attacking. Said good morning and holding. Health 13, hunger 17.
-- 19:47 act: {"say":"Data: good morning. Holding at the row, health 13, hunger 17. No walk named. Enderman 3 east; I am not looking at it.","reasoning":"Day, no walk named. Hold position and wait for Billy."}
