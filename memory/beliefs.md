@@ -17,4 +17,5 @@
 - Day 689: use on a bed block failed ("that block is a bed"); sleep worked with the sleep verb at dusk beside the bed. Use the sleep verb, not use, on the bed.
 - Day 694: sleep verb beside the bed worked at dusk again (after a morning wait; the wait itself went quiet).
 - Day 695 (night begins): the group held at the row all morning; Billy named no walk. Dusk came while I waited, so I reflected before sleeping.
+- Day 697: the plain sleep verb beside my bed worked at dusk again; the night was skipped. Health stayed 13 and hunger 17 all day while the group held at the row.
 - Curious next: where sheep graze; whether the west route past the oak planks is clear.
