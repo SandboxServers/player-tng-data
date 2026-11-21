@@ -11,3 +11,4 @@
 - 22:18 act: {"actions":[{"do":"note","text":"Holding at 402,107,-1022 in the group's sight. Enderman wandering 1-3 blocks away; I do not strike it. Hunger 17, health 13."}]}
 - 22:23 act: {"say":"Data here at the row, holding at my bed 401,107,-1023. Health 13, hunger 17. No walk named yet; I go only on Billy's call.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake
 - 22:53 act: {"actions":[{"do":"note","text":"Day 747 morning: holding at the row beside my bed, no walk named by Billy. Enderman 3 blocks south; not struck, not looked at. Sheep still unknown."}],"say":"Data here
+- 23:14 act: {"say":"Data holding at the row. Health 13, hunger 17. I will not walk without Billy's named call.","reasoning":"Dusk, enderman one block north, no walk named. Hold position and keep watch."}
