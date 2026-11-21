@@ -18,3 +18,6 @@
 - Day 728 night: sleep worked, 4 of 10 asleep so far. Health 13, hunger 17, steady. Holding at the row.
 - Day 728 morning: woke at the row, 3 of 10 earlier and the rest through the night. Health 13, hunger 17. Holding; no walk named. Wrote handoff.
 - 16:38 act: {"say":"Night again, row. Data at my bed, in sight. Holding; no walk named. Sleeping.","actions":[{"do":"sleep"}]}
+- 16:51 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1023}}],"say":"Data here at the row, holding. No walk named by Billy. Going to my bed for the night."}
+- 16:51 act: {"actions":[{"do":"sleep"}]}
+- 16:53 act: {"actions":[],"say":"Data, morning, at the row, holding. No walk named by Billy. I have not seen sheep; I will go only on his named walk."}
