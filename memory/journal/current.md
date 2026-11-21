@@ -35,3 +35,5 @@
 - 17:17 act: {"say":"Data here, holding at the row beside my bed. I will wait for Billy's named walk.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_dam
 - 17:20 act: {"say":"Morning, row. Data at my bed, health 13, hunger 17, steady. Still holding; no walk named by Billy.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addresse
 - 17:22 act: {"actions":[{"do":"note","text":"Morning day 730. Holding at the row; no walk named by Billy. Leonardo reports a skeleton horse 10 south, which I will leave be."}],"say":"Data here at the row, holding
+- 17:27 act: {"actions":[{"do":"note","text":"Day 731 morning: holding at the row beside my bed. Health 13, hunger 17. No walk named."}],"say":"Holding at the row. Health 13, hunger 17. I will go only on Billy's n
+- Day 731 morning, cycle: wait showed nothing new (daylight, no one near). Said holding at the row; health 13, hunger 17. Waiting for Billy's named walk or dusk.
