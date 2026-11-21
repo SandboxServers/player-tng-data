@@ -1,3 +1,4 @@
 # Journal
-- 10:53 say: {"text":"Holding at the row, Data here beside my bed. Health 13, hunger 17. Waiting for Billy's named walk."}
+- 10:53 say: holding at the row, Data beside my bed. Health 13, hunger 17. Waiting for Billy's named walk.
 - Morning day 711: Leonardo and Zack hold at the row too; no walk named by Billy. I hold at 402,107,-1023. Health 13, hunger 17.
+- Day 712 (bright): said holding at the row. Clark and Leonardo said good night. No walk named. Still holding; sheep question still open for Billy.
