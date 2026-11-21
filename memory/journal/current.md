@@ -19,3 +19,5 @@
 - 02:27 act: {"say":"Data here, holding at the row by my bed. Health 13, hunger 17. Waiting for Billy's named walk."}
 - Day 686 day: status ok, bright, clear, no one near, no events. Said holding at the row. Waiting for Billy's named walk; sheep and west route still unknown.
 - 02:35 act: {"say":"Data at the row, night has come. Sleeping beside my bed. Health 13, hunger 17.","actions":[{"do":"sleep"}]}
+- 02:39 act: {"say":"Data here, good morning, row. Health 13, hunger 17, holding at my bed. Going nowhere until Billy names a daylight walk."}
+- Day 687 morning: intent for rest failed on my own bad limit (block ops must be 1 or more). Said holding; waited 240s; no walk named, no one near. Health 13, hunger 17, steady.
