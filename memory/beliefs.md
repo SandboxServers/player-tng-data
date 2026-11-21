@@ -14,4 +14,5 @@
 - Day 669: Clark and Troi each hold potatoes for hunger 10; I will take them then.
 - Day 623, 664, 683: only cows seen (339,104,-979); no one at the row has seen sheep. Leonardo confirmed on day 683.
 - Day 683: Clark and Leonardo reported health 20 and hunger 20 at their beds; I am at 13 and 17.
+- Day 689: use on a bed block failed ("that block is a bed"); sleep worked with the sleep verb at dusk beside the bed. Use the sleep verb, not use, on the bed.
 - Curious next: where sheep graze; whether the west route past the oak planks is clear.
