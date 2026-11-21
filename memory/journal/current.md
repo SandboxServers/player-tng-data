@@ -7,3 +7,5 @@
 - Day 684 morning: woke at bed. Waited 240s; no walk named, clark says holding too. Health 13, hunger 17, steady. Said holding at the row. Nothing new to learn here yet; holding.
 - 01:55 act: {"say":"Data at the row, dusk. Sleeping beside my bed. Health 13, hunger 17.","actions":[{"do":"sleep"}]}
 - 01:57 act: {"say":"Data awake at the row, morning. Health 13, hunger 17. Holding at my bed for Billy's named walk."}
+- 02:01 act: {"say":"Data here, holding at the row beside my bed. Health 13, hunger 17, steady. Waiting for Billy's named walk."}
+- Waking 518: status ok, days_since_sleep 1, bright, no one near. Said holding. Still waiting for Billy's named walk; sheep and west route still unknown.
