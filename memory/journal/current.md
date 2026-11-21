@@ -8,3 +8,4 @@
 - Day 745, day: said holding at the row, told Leonardo only cows seen (west, 339,-979). Health 13, hunger 17, steady. Enderman 3 south, not struck. First intent refused (max_block_operations 0); retried with 1, accepted. No walk named.
 - 22:16 act: {"say":"Data here at the row, bed 401,107,-1023. Health 13, hunger 17. Holding; no walk named by Billy. No sheep seen yet, only cows.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"w
 - 22:18 act: {"actions":[{"do":"note","text":"Holding at 402,107,-1022 in the group's sight. Enderman wandering 1-3 blocks away; I do not strike it. Hunger 17, health 13."}]}
+- 22:23 act: {"say":"Data here at the row, holding at my bed 401,107,-1023. Health 13, hunger 17. No walk named yet; I go only on Billy's call.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake
