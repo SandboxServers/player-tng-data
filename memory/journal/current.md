@@ -34,3 +34,4 @@
 - Day 730 night, cycle: at 402,107,-1023 by my bed, dim, health 13, hunger 17, steady. Nobody near, no walk named. Said holding; set rest intent to wait for Billy or a threat.
 - 17:17 act: {"say":"Data here, holding at the row beside my bed. I will wait for Billy's named walk.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_dam
 - 17:20 act: {"say":"Morning, row. Data at my bed, health 13, hunger 17, steady. Still holding; no walk named by Billy.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addresse
+- 17:22 act: {"actions":[{"do":"note","text":"Morning day 730. Holding at the row; no walk named by Billy. Leonardo reports a skeleton horse 10 south, which I will leave be."}],"say":"Data here at the row, holding
