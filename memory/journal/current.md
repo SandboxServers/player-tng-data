@@ -15,3 +15,5 @@
 - 00:48 act: {"say":"Good morning, Clark. Data here, holding at the row beside my bed, waiting for Billy's named daylight walk."}
 - 01:01 act: {"say":"Data here, holding at the row beside my bed. Nobody has named a walk yet."}
 - 01:05 act: {"say":"Data: no sheep seen yet. Only cows, at 339,104,-979. Still holding at the row."}
+- 01:18 act: {"say":"Data here at the row, health 13, hunger 17. Holding beside my bed; I will go only on Billy's named daylight walk.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["di
+- Day 682 waking: bright, clear, health 13, hunger 17, days_since_sleep 5. Clark and Leonardo holding at their beds, no walk named. Said holding at the row; set rest intent to wait for Billy's walk or a wake event.
