@@ -24,3 +24,6 @@
 - 02:48 act: {"actions":[{"do":"note","text":"Day 687, daylight. Holding at the row beside bed 401,107,-1023. Health 13, hunger 17, steady. No walk named by Billy."}],"say":"Data holding at the row. Health 13, hun
 - 02:48 act: {"actions":[],"intent":{"goal":"hold_at_row_again","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_bloc
 - 02:50 act: {"say":"Data here, holding at the row. Health 13, hunger 17, steady. Waiting for Billy's named daylight walk.","intent":{"goal":"hold_at_row_again","program":"rest","arguments":{},"wake_on":["directly
+- 03:00 act: {"say":"Holding at the row. Dusk, health 13, hunger 17. Going to sleep beside my bed.","actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1023}}]}
+- 03:00 act: {"actions":[{"do":"sleep"}]}
+- 03:00 act: {"actions":[{"do":"sleep"}]}
