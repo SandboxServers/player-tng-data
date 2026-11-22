@@ -12,3 +12,4 @@
 - Day 751, waking 652: the world tools (status, wait, act) are still not in this session; only memory and skills are open to me. Holding at the row, nothing moved, nothing struck. Recorded in handoff.
 - 00:13 act: {"say":"Data holding at the row, 402,107,-1022. Night, health 13, hunger 17. An enderman is 2 blocks off; I am not looking at it or striking it. Still no walk named."}
 - Day 752, dusk to day: world tools back. Health 13, hunger 17, steady, at the row. Enderman 3.6 away, not struck or looked at. Leonardo says he holds too. No walk named; holding. Days since sleep 13.
+- 00:41 say: {"text":"Data here at the row, holding at 402,107,-1022. No walk named. An enderman is close; I am not looking at it or striking it."}
