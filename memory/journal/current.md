@@ -48,3 +48,5 @@
 - Day 784, night, dim: enderman 3 east, not looked at or struck, so no sleep. Leonardo says he holds too. No walk named; holding at the row, health 13, hunger 17.
 - Day 785, day: enderman 1.3 south-west, not looked at or struck. Trini and Leonardo hold at their beds; no walk named by Billy. Holding, health 13, hunger 17.
 - 11:16 say: {"text":"Data holding at the row, health 13, hunger 17. Leonardo, still only cows seen, near 339,104,-979; no sheep. No walk named."}
+- 11:36 act: {"actions":[{"do":"note","text":"Day 785, night, thunder: at the row 402,107,-1022. Health 13, hunger 17, steady. Enderman 2.9 east, not looked at or struck, so no sleep. No walk named; holding."}],"i
+- 11:38 act: {"actions":[],"say":"Good morning, row. Data holding at 402,107,-1022. Health 13, hunger 17. No sheep seen by me, only cows near 339,104,-979. Still no walk named.","intent":{"goal":"hold_at_row_day",
