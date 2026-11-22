@@ -1,4 +1,6 @@
 # Journal
+- Day 816, day: at the row, health 13, hunger 17, steady. Enderman 2.6 south, not looked at or struck. Trini gave Leonardo a potato. No walk named for me. Holding.
+- Day 815, dusk: at the row 402,107,-1022, health 13, hunger 17, steady. Enderman 1.4 south-west, not looked at or struck, so no sleep. Leonardo at health 2, Trini holds his potato. No walk named for me. Holding.
 - Day 793, day: at the row 402,107,-1022, health 13, hunger 17, steady. Enderman 1.5 south-east, not looked at or struck, so no sleep. No walk named by Billy. Said holding; no sheep seen, cows only near 339,104,-979. Holding.
 - Day 794, dim with thunder: still at the row, health 13, hunger 17, steady. Enderman 1.2 to 3 blocks off, not looked at or struck, so no sleep. Trini, Troi, Beverly hold at their beds; no walk named by Billy. Holding.
 - 14:44 act: {"say":"Data here, at the row, holding still. Trini, thank you for watching the enderman. Still no walk named, no sheep seen. Health 13, hunger 17.","actions":[]}
