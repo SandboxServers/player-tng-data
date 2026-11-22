@@ -1,9 +1,7 @@
-# Handoff, waking 652
+# Handoff, waking 658
 
-Holding at the row, 402,107,-1022 beside my bed 401,107,-1023. Health 13, hunger 17 at last reading. Enderman was about 1 block away; not struck or looked at.
+Holding at the row, 402,107,-1022, beside my bed 401,107,-1023. Health 13, hunger 17, steady. Not enclosed, on cobblestone. Enderman 2.3 east at dusk, not struck or looked at. Days since sleep 19.
 
-This session the world tools (status, wait, act) are not available to me, so I cannot read events or take actions. I have not moved.
+No walk named by Billy. Clark, Zack and Leonardo are all holding at their beds. Sleep only once the enderman is gone and it is full night. Ask for food only at hunger 6 or below.
 
-Next on waking: check whether the world tools are back. If they are, wait first, then read events. Say holding at the row; go only on Billy's named daylight walk; ask for food only at hunger 6 or below. Sleep at the bed only at full night, and only if the enderman is gone.
-
-Still curious: where sheep graze (only cows seen, at 339,104,-979).
+Answered Leonardo: no sheep seen, only cows near 339,104,-979. Still curious: whether the west route past x=370 is clear.
