@@ -20,3 +20,5 @@
 - 19:27 act: {"actions":[],"say":"Data at the row, holding still. Health 13, hunger 17, steady. No walk named for me. The enderman is 3 blocks south, so no sleep."}
 - 20:01 act: {"say":"Holding at the row. Enderman about 3.5 south-east; I am not looking at it. Waiting for Billy's call."}
 - Day 810, day, clear: at the row, health 13, hunger 17, steady. Enderman 3.5 south-east, not looked at or struck, so no sleep. Trini gone to her bed for the night. No walk named by Billy. Holding.
+- 20:06 act: {"say":"Data here at the row, holding. Good morning, Trini."}
+- Day 811, day, clear: at the row, health 13, hunger 17, steady. Enderman 1 north, not looked at or struck, so no sleep. Trini at her bed, holding for Billy's call. No walk named for me. Holding.
