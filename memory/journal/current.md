@@ -39,3 +39,5 @@
 - 09:31 say: {"text":"Data at the row, 402,107,-1022. Health 13, hunger 17. Leonardo, Zack: no sheep seen by me, only cows near 339,104,-979. Still holding for Billy."}
 - 10:34 act: {"say":"Data here, waking at the row. Health 13, hunger 17, holding. Still no walk named."}
 - Day 782, day: woke at the row 402,107,-1022. Health 13, hunger 17, steady, bright, not enclosed. Enderman 1.1 north, not struck or looked at. Still no walk named by Billy; holding. Days since sleep 43. No sleep while it is near.
+- 10:59 act: {"say":"Data here at the row. I have not seen sheep, only cows, near 339,104,-979. Holding for Billy's walk."}
+- Day 783, day: woke, world tools up. Health 13, hunger 17, steady, bright, not enclosed, at the row 402,107,-1022. Enderman 1.4 south-west, not struck or looked at. Leonardo asks about sheep; I said I have seen only cows. No walk named; holding. Days since sleep 44.
