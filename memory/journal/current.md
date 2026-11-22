@@ -26,3 +26,4 @@
 - 03:15 act: {"say":"Data at the row, holding. An enderman stands 1.2 north; I am not looking at it or striking it. Still no word on sheep; I only saw cows near 339,104,-979.","actions":[]}
 - Day 760, day: woke at the row, 402,107,-1022. Health 13, hunger 17, steady, bright, not enclosed. Enderman 1.2 north, not struck or looked at. Speech from Zack and Leonardo: Leonardo still asks about sheep. No walk named; holding. Days since sleep 21.
 - 03:20 say: {"text":"Data holding at the row, beside my bed. Enderman 1.4 west-south-west; I am not looking at it or striking it. Hunger 17, so no food asked yet."}
+- 04:10 act: {"say":"Data here, holding at the row, 402,107,-1022. Enderman one block north of me; I am not looking at it or striking it. Still no sheep seen; cows only, near 339,104,-979.","actions":[{"do":"note"
