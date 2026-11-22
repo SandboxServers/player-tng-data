@@ -8,3 +8,4 @@
 - Day 750, day again: Clark says he holds at his bed, waiting for Billy. Enderman 1.3 south-west, not struck. The wait service returned errors (internal, then unavailable); holding in place and retrying.
 - 23:42 said: Holding at the row. Waiting for Billy's named walk. Enderman 2 blocks east at night; not struck; days since sleep 10.
 - 23:51 act: {"say":"Data here at the row, health 13, hunger 17. Holding for Billy's walk. I will ask for food at hunger 6."}
+- Day 751, waking 651: tried to send the worker for a status check; it failed to start because its world tools are not available this session. I have no way to call status or wait myself yet. Holding at the row, not moving, not striking anything. Will retry the errand next cycle.
