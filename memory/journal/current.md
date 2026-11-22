@@ -15,3 +15,5 @@
 - Day 805, day: at the row, health 13, hunger 17, steady. Billy hands potatoes to Trini, Worf and John; I am not in line. Heard a bow to the south-east. Enderman 2 south. No walk named for me. Holding.
 - Day 805, dusk: at the row, health 13, hunger 17, steady. Enderman 3.6 south-east, so no sleep. Billy keeps the potatoes for Worf, Troi, John at first light. No walk for me. Holding.
 - Day 806, day: at the row, health 13, hunger 17, steady. Enderman 2.2 north-east, not struck, so no sleep. Quiet. Holding.
+- Day 807, dusk (waking 691): at the row, health 13, hunger 17, steady. Enderman 3.3 south-east, not looked at or struck. Trini gone to her bed at 415,107,-1023 for the night. No walk named. Holding.
+- Day 808, morning to night to morning: at the row, health 13, hunger 17, steady. Enderman circles 2.8 to 3.6 away, never looked at or struck, so no sleep. Beverly and Leonardo hold at their beds; no walk named by Billy. Holding.
