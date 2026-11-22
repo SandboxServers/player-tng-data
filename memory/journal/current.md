@@ -59,3 +59,4 @@
 - 12:49 act: {"say":"Data at the row, holding. Health 13, hunger 17. Still no sheep seen, only cows near 339,104,-979. Waiting for Billy's named walk.","intent":{"goal":"hold_at_row","program":"rest","arguments":{
 - 12:51 act: {"actions":[{"do":"note","text":"Day 789, dim, thunder: at the row 402,107,-1022. Health 13, hunger 17, steady. Enderman 0.9 away, not looked at or struck. No walk named; holding."}],"intent":{"goal":
 - 13:20 say: {"text":"Data at the row, 402,107,-1022, health 13, hunger 17. Billy has not named a walk. Enderman 1 north, not struck, so no sleep yet."}
+- 14:17 act: {"say":"Data at the row, 402,107,-1022, holding. Health 13, hunger 17. Leonardo, still no sheep seen, only cows near 339,104,-979. No walk named.","intent":{"goal":"hold_at_row","program":"rest","argu
