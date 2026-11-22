@@ -1,4 +1,5 @@
 # Journal
+- Day 786-787: at the row 402,107,-1022, health 13, hunger 17, steady. Enderman 1.4 south-west, not looked at or struck, so no sleep. No walk named by Billy. Said holding; told Trini and Leonardo no sheep seen, only cows near 339,104,-979. Holding.
 - Day 749, day: woke at the row, health 13, hunger 17, steady. Said holding. Enderman now 3.6 south-east, not struck. Hold intent set; no walk named by Billy. Clark offers potatoes at hunger 10. Waiting.
 - Day 749, night: at the row, health 13, hunger 17, steady. Enderman 2.3 south, not struck, so no sleep yet. Zack and Leonardo sleeping nearby. Holding; no walk named.
 - 23:39 act: hold_at_row intent (rest), wakes on address, precondition failure, or damage.
@@ -51,3 +52,5 @@
 - 11:36 act: {"actions":[{"do":"note","text":"Day 785, night, thunder: at the row 402,107,-1022. Health 13, hunger 17, steady. Enderman 2.9 east, not looked at or struck, so no sleep. No walk named; holding."}],"i
 - 11:38 act: {"actions":[],"say":"Good morning, row. Data holding at 402,107,-1022. Health 13, hunger 17. No sheep seen by me, only cows near 339,104,-979. Still no walk named.","intent":{"goal":"hold_at_row_day",
 - 11:47 say: {"text":"Data at the row, health 13, hunger 17, unarmed. I have seen no sheep, only cows near 339,104,-979. Holding until Billy names a walk."}
+- 11:59 say: {"text":"Data here, health 13, hunger 17, holding at the row. Leonardo, I have not seen sheep; only cows, near 339,104,-979."}
+- 12:11 say: {"text":"Data holding at the row, 402,107,-1022. Health 13, hunger 17. Trini, Leonardo: no sheep seen by me, cows only. No walk named."}
