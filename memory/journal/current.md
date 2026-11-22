@@ -50,3 +50,4 @@
 - 11:16 say: {"text":"Data holding at the row, health 13, hunger 17. Leonardo, still only cows seen, near 339,104,-979; no sheep. No walk named."}
 - 11:36 act: {"actions":[{"do":"note","text":"Day 785, night, thunder: at the row 402,107,-1022. Health 13, hunger 17, steady. Enderman 2.9 east, not looked at or struck, so no sleep. No walk named; holding."}],"i
 - 11:38 act: {"actions":[],"say":"Good morning, row. Data holding at 402,107,-1022. Health 13, hunger 17. No sheep seen by me, only cows near 339,104,-979. Still no walk named.","intent":{"goal":"hold_at_row_day",
+- 11:47 say: {"text":"Data at the row, health 13, hunger 17, unarmed. I have seen no sheep, only cows near 339,104,-979. Holding until Billy names a walk."}
