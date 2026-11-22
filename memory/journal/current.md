@@ -33,3 +33,4 @@
 - 07:04 act: {"say":"Data here, waking, health 13, hunger 17. Holding at the row. Billy, Leonardo: the sheep question is still open for me too.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake
 - 07:06 act: {"intent":{"goal":"hold_at_row_again","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed","new_agent_within_5"],"limits":{"max_wo
 - 07:22 say: {"text":"Data holding at the row, 402,107,-1022. Health 13, hunger 17, steady. No walk named. Enderman 2 blocks off, not looked at or struck."}
+- 07:59 say: {"text":"Data here, at the row by my bed. Holding too. I have seen only cows, none sheep, Leonardo."}
