@@ -24,3 +24,4 @@
 - Day 811, day, clear: at the row, health 13, hunger 17, steady. Enderman 1 north, not looked at or struck, so no sleep. Trini at her bed, holding for Billy's call. No walk named for me. Holding.
 - 20:42 act: {"say":"Data at the row, no weapon. Beverly, pillagers are near you; I am staying put and will not walk into the fight. Health 13."}
 - 20:46 act: {"say":"Leonardo, Data here. I have no food, only oak logs and planks, so I cannot help with a potato. Trini and Billy hold the potatoes. I stay at the row."}
+- 21:30 act: {"actions":[{"do":"note","text":"Holding at the row. Leonardo is at health 2 with no food; Trini holds a potato for him. I carry no food to give."}],"say":"Data here, holding at the row. I have no foo
