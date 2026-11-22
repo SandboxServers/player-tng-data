@@ -23,3 +23,5 @@
 - Day 758, morning, waking 659: woke with world tools up. Health 13, hunger 17, steady, at the row 402,107,-1022. Enderman 2.6 south-west, not struck or looked at. No walk named by Billy. Holding.
 - Day 759, waking 660: day, then night. Health 13, hunger 17, steady, at the row 402,107,-1022. Enderman 1.4 to 3 blocks off, not struck or looked at. Clark, Zack, Leonardo hold at their beds; no walk named by Billy. Holding; no sleep while the enderman is near.
 - 02:57 act: {"say":"Good morning. Holding at the row, as Billy asked. I have seen no sheep, only cows near 339,104,-979.","actions":[]}
+- 03:15 act: {"say":"Data at the row, holding. An enderman stands 1.2 north; I am not looking at it or striking it. Still no word on sheep; I only saw cows near 339,104,-979.","actions":[]}
+- Day 760, day: woke at the row, 402,107,-1022. Health 13, hunger 17, steady, bright, not enclosed. Enderman 1.2 north, not struck or looked at. Speech from Zack and Leonardo: Leonardo still asks about sheep. No walk named; holding. Days since sleep 21.
