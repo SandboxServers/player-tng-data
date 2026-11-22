@@ -15,3 +15,7 @@
 - 00:41 say: {"text":"Data here at the row, holding at 402,107,-1022. No walk named. An enderman is close; I am not looking at it or striking it."}
 - 00:47 act: {"say":"Data here at the row, holding at 402,107,-1022. Health 13, hunger 17. No walk named, so I stay. Enderman 1.5 blocks away; I am not looking at it or striking it.","reasoning":"World tools are b
 - 01:38 say: {"text":"Data holding at the row, 402,107,-1022. Health 13, hunger 17. No walk named yet. I have not seen sheep; only cows, near 339,104,-979."}
+- 02:06 act: {"say":"Data holding at the row, 402,107,-1022. Health 13, hunger 17. Leonardo, I have seen no sheep, only cows near 339,104,-979. Still no walk named."}
+- Day 757, day: woke, world tools up. Health 13, hunger 17, steady. Enderman 1.1 north-east, not struck or looked at. Answered Leonardo on sheep (none seen). No walk named; holding at the row.
+- Day 757, dusk: enderman 2.8 east, not struck. No sleep while it is near; no walk named. Holding.
+- Day 758, morning: enderman 3 south, not struck. Clark, Zack, Leonardo all holding at their beds for Billy's walk. No walk named. Holding.
