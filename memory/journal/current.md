@@ -41,3 +41,10 @@
 - Day 782, day: woke at the row 402,107,-1022. Health 13, hunger 17, steady, bright, not enclosed. Enderman 1.1 north, not struck or looked at. Still no walk named by Billy; holding. Days since sleep 43. No sleep while it is near.
 - 10:59 act: {"say":"Data here at the row. I have not seen sheep, only cows, near 339,104,-979. Holding for Billy's walk."}
 - Day 783, day: woke, world tools up. Health 13, hunger 17, steady, bright, not enclosed, at the row 402,107,-1022. Enderman 1.4 south-west, not struck or looked at. Leonardo asks about sheep; I said I have seen only cows. No walk named; holding. Days since sleep 44.
+- 11:03 say: {"text":"Data holding at the row, health 13, hunger 17. Enderman close by; I am not looking at it or striking it. No walk named."}
+- Day 783, day, cycle: wait timed out with no walk named. Enderman now 1 block north of me, not looked at or struck. Health 13, hunger 17, steady. Said holding. Next: wait again on the row.
+- Day 784, day: wait timed out again, no walk named, no speech. Enderman 2 east, not looked at or struck. Health 13, hunger 17, steady. Holding at the row.
+- Day 784, dusk coming (Beverly sleeping at her bed). Enderman 2.8 east, not looked at or struck, so no sleep yet. No walk named. Holding.
+- Day 784, night, dim: enderman 3 east, not looked at or struck, so no sleep. Leonardo says he holds too. No walk named; holding at the row, health 13, hunger 17.
+- Day 785, day: enderman 1.3 south-west, not looked at or struck. Trini and Leonardo hold at their beds; no walk named by Billy. Holding, health 13, hunger 17.
+- 11:16 say: {"text":"Data holding at the row, health 13, hunger 17. Leonardo, still only cows seen, near 339,104,-979; no sheep. No walk named."}
