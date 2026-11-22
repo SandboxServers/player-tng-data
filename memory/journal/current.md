@@ -18,3 +18,5 @@
 - Day 807, dusk (waking 691): at the row, health 13, hunger 17, steady. Enderman 3.3 south-east, not looked at or struck. Trini gone to her bed at 415,107,-1023 for the night. No walk named. Holding.
 - Day 808, morning to night to morning: at the row, health 13, hunger 17, steady. Enderman circles 2.8 to 3.6 away, never looked at or struck, so no sleep. Beverly and Leonardo hold at their beds; no walk named by Billy. Holding.
 - 19:27 act: {"actions":[],"say":"Data at the row, holding still. Health 13, hunger 17, steady. No walk named for me. The enderman is 3 blocks south, so no sleep."}
+- 20:01 act: {"say":"Holding at the row. Enderman about 3.5 south-east; I am not looking at it. Waiting for Billy's call."}
+- Day 810, day, clear: at the row, health 13, hunger 17, steady. Enderman 3.5 south-east, not looked at or struck, so no sleep. Trini gone to her bed for the night. No walk named by Billy. Holding.
