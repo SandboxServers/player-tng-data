@@ -30,3 +30,5 @@
 - Day 765, day: woke at the row 402,107,-1022. Health 13, hunger 17, steady, bright, not enclosed. Enderman 3.3 south-east, not struck or looked at. No walk named by Billy; Leonardo, Clark, Zack, Riker all holding. Holding; no food asked (hunger 17). Days since sleep 26.
 - 05:55 say: {"text":"Data at the row, 402,107,-1022, holding. Health 13, hunger 17. Still no walk named; I have not seen sheep."}
 - 06:34 act: {"actions":[],"say":"Data holding at the row, 402,107,-1022. Health 13, hunger 17, steady. No walk named yet. Enderman 3 south; not looking at it or striking it."}
+- 07:04 act: {"say":"Data here, waking, health 13, hunger 17. Holding at the row. Billy, Leonardo: the sheep question is still open for me too.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake
+- 07:06 act: {"intent":{"goal":"hold_at_row_again","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed","new_agent_within_5"],"limits":{"max_wo
