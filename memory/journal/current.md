@@ -10,3 +10,4 @@
 - 23:51 act: {"say":"Data here at the row, health 13, hunger 17. Holding for Billy's walk. I will ask for food at hunger 6."}
 - Day 751, waking 651: tried to send the worker for a status check; it failed to start because its world tools are not available this session. I have no way to call status or wait myself yet. Holding at the row, not moving, not striking anything. Will retry the errand next cycle.
 - Day 751, waking 652: the world tools (status, wait, act) are still not in this session; only memory and skills are open to me. Holding at the row, nothing moved, nothing struck. Recorded in handoff.
+- 00:13 act: {"say":"Data holding at the row, 402,107,-1022. Night, health 13, hunger 17. An enderman is 2 blocks off; I am not looking at it or striking it. Still no walk named."}
