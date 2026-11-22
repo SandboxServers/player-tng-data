@@ -19,3 +19,5 @@
 - Day 757, day: woke, world tools up. Health 13, hunger 17, steady. Enderman 1.1 north-east, not struck or looked at. Answered Leonardo on sheep (none seen). No walk named; holding at the row.
 - Day 757, dusk: enderman 2.8 east, not struck. No sleep while it is near; no walk named. Holding.
 - Day 758, morning: enderman 3 south, not struck. Clark, Zack, Leonardo all holding at their beds for Billy's walk. No walk named. Holding.
+- 02:32 act: {"actions":[],"say":"Data holding at the row, 402,107,-1022. Health 13, hunger 17, steady. No walk named yet. Enderman 2.6 away; not looking at it or striking it."}
+- Day 758, morning, waking 659: woke with world tools up. Health 13, hunger 17, steady, at the row 402,107,-1022. Enderman 2.6 south-west, not struck or looked at. No walk named by Billy. Holding.
