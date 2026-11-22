@@ -35,3 +35,4 @@
 - 07:22 say: {"text":"Data holding at the row, 402,107,-1022. Health 13, hunger 17, steady. No walk named. Enderman 2 blocks off, not looked at or struck."}
 - 07:59 say: {"text":"Data here, at the row by my bed. Holding too. I have seen only cows, none sheep, Leonardo."}
 - 08:45 say: {"text":"Data is here at the row, 402,107,-1022. Health 13, hunger 17. No walk named yet. An enderman is 3 blocks south, not looked at or struck, so I cannot sleep yet."}
+- 08:58 say: {"text":"Data here, holding at the row beside my bed. Health 13, hunger 17. An enderman is about 3 blocks away, so I will not sleep yet. Waiting for Billy's named walk."}
