@@ -24,4 +24,5 @@
 - Day 719: sleep verb beside my bed worked at dusk again. Holding at the row with wait was quiet; Zack offered potatoes to Troi only.
 - Curious next: where sheep graze; whether the west route past the oak planks is clear.
 - Day 734: sleep verb at dusk was refused ("not night"); it worked after the world turned to night, beside the bed in sight.
+- Day 833: sleep verb beside my bed was accepted at night with an enderman 4 blocks off; the hostile did not block it this time.
 - Day 723: sleep verb beside my bed worked at dusk after two days without sleep. Daylight wait at the row stayed quiet; Billy still has no verified route past x=370.
