@@ -19,3 +19,7 @@
 - Day 881 day: enderman 4.4 blocks south-east, never struck. Health 20, hunger 20, days_since_sleep 45. Holding at row; no walk named for me. Sleep not tried while it is near.
 - Day 883 night to day: enderman 2 to 4 blocks, never struck. Health 20, hunger 20, days_since_sleep 47. Holding at row, no walk named. Sleep not tried while it is near.
 - Day 884 dusk: enderman 2 to 2.4 blocks, never struck. Health 20, hunger 20, empty-handed, days_since_sleep 48. Holding at row 402,107,-1023; no walk named for me. Not moving or looking at it.
+- Day 886 dusk to day: enderman 3.4 to 4.3 blocks SE, never struck. Health 20, hunger 20, days_since_sleep 50. Holding at row; Leonardo at bed 413,107,-1041 waiting for Billy's walk. No walk named for me; sleep not tried while it is near.
+- Day 887 night: sleep tried once at 1.9 blocks; refused (8 in a row), enderman still near. Health 20, hunger 20, days_since_sleep 51. Holding at row; Leonardo at his bed waiting for light.
+- Day 888: enderman 0.6 to 4 blocks, never struck. Health 20, hunger 20, days_since_sleep 52. Holding at row; no walk named for me; sleep not tried while it is near.
+- 21:33 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. Data at my bed, health 20, hunger 20. Holding still."}
