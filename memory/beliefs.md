@@ -25,4 +25,5 @@
 - Curious next: where sheep graze; whether the west route past the oak planks is clear.
 - Day 734: sleep verb at dusk was refused ("not night"); it worked after the world turned to night, beside the bed in sight.
 - Day 833: sleep verb beside my bed was accepted at night with an enderman 4 blocks off; the hostile did not block it this time.
+- Day 836: use on the bed block failed again ("that block is a bed"); the sleep verb beside it worked at night with an enderman 3.9 blocks south.
 - Day 723: sleep verb beside my bed worked at dusk after two days without sleep. Daylight wait at the row stayed quiet; Billy still has no verified route past x=370.
