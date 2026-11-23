@@ -1,3 +1,7 @@
 # Journal
 - Day 865 (day, thunder, waking 730): health 20, hunger 20, empty-handed, days_since_sleep 29. Enderman 1.8 to 2.4 blocks away; sleep not tried. Holding at row 402,107,-1023 with intent hold_at_row. No walk named by Billy. Said so aloud.
 - Day 865 dusk to day 866: enderman circled 2 to 4 blocks away, bows drawn east and south per Leonardo. Still holding at the row, health 20, hunger 20. Day 866 now, days_since_sleep 30. Leonardo at bed, hunger 17, no food. Waiting for Billy's named walk.
+- Day 866 night: sleep refused 3 more times, enderman 3.3 blocks south. Day again now; enderman 4.1 south. Holding at row, health 20, hunger 20. Leonardo health 11, hunger 17, no food, still at his bed.
+- Day 866 day: enderman came to 1.4 blocks, never struck; held still. Day 867 dusk now, enderman 4.1 south, days_since_sleep 31. Holding at row, health 20, hunger 20. Will try sleep once the world is truly night and the enderman is gone.
+- Day 867 day: enderman has circled 0.7 to 4 blocks, never struck. Health 20, hunger 20, holding at row. Leonardo still at his bed, asking Billy for a daylight walk. Nothing named for me.
+- Day 867 night to day 868: enderman 3 to 3.7 blocks away the whole night, so sleep not tried again. Health 20, hunger 20, holding at row. Leonardo at his bed, health 11, hunger 17, still waiting for Billy.
