@@ -27,3 +27,4 @@
 - Day 850 wake: days_since_sleep 14. Sleep refused 9 times (enderman near). Enderman now 0.7 blocks east. Health 20, hunger 20, empty. Holding at 402,107,-1023. Leonardo at bed, health 10, hunger 17, asks for potatoes; no walk named by Billy. Said so aloud.
 - 09:10 say: {"text":"Still holding at my bed row, health 20, hunger 20. The enderman keeps circling 3 to 4 blocks away, so sleep is refused. I am not moving without Billy's named walk."}
 - 09:11 act: {"intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operations":1}},"
+- 09:20 act: {"actions":[{"do":"sleep"}]}
