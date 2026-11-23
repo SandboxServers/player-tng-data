@@ -29,3 +29,4 @@
 - 09:11 act: {"intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operations":1}},"
 - 09:20 act: {"actions":[{"do":"sleep"}]}
 - 10:14 act: {"actions":[{"do":"sleep"}]}
+- 10:29 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night at the row. Data at my bed, health 20, hunger 20, no walk named by Billy. I will try to sleep once; if the e
