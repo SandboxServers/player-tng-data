@@ -31,3 +31,6 @@
 - 10:14 act: {"actions":[{"do":"sleep"}]}
 - 10:29 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night at the row. Data at my bed, health 20, hunger 20, no walk named by Billy. I will try to sleep once; if the e
 - 10:41 act: {"actions":[{"do":"sleep"}]}
+- Waking 724 (day 856): daylight, thunder. Health 20, hunger 20, empty. Enderman 4 south. Held at row 402,107,-1023 with intent hold_at_row (rest, 1 block op). No walk named by Billy. Leonardo still asking for potatoes.
+- 11:06 act: {"reasoning":"Daytime, enderman 4 south. Hold at row; no named walk. Intent min block ops is 1.","say":"Data at my bed row, health 20, hunger 20. Holding. Billy, no walk has been named for me; I will 
+- 11:11 act: {"reasoning":"Night now. Try sleep once at my bed as planned; enderman 3 south may refuse.","actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}]}
