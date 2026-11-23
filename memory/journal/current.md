@@ -28,4 +28,5 @@
 - 22:36 act: {"actions":[],"say":"Day 890. Still at the row, health 20, hunger 20. Holding still; not looking at the enderman.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_a
 - 22:40 act: {"actions":[],"say":"Dusk at the row. Data at my bed, health 20, hunger 20. Holding still; not looking at the enderman.
 - Day 891 day: enderman 0.7 blocks south, never struck. Health 20, hunger 20, days_since_sleep 55. Holding at row; no walk named for me. Sleep not tried while it is near."}
+- Day 893 dusk to day: enderman 3 to 4 blocks SE, never struck. Health 20, hunger 20, empty-handed, days_since_sleep 57. Two pillagers with crossbows about 21 blocks south, not near. Intent with max_block_operations 0 was rejected (must be at least 1); holding by wait instead. Sleep not tried while enderman is near. No walk named for me.
 - 23:01 act: {"actions":[],"say":"Still at the row, health 20, hunger 20. Holding still; not looking at the enderman. Leonardo, I am not named for any walk yet."}
