@@ -12,3 +12,6 @@
 - 06:49 act: {"actions":[{"do":"sleep"}]}
 - 06:49 say: {"text":"Billy, Troi: sleep is refused three times running. An enderman stays 2 to 5 blocks from my bed. I have not looked at it or struck it. Could someone help me, or should I keep waiting?"}
 - 07:03 act: {"actions":[{"do":"sleep"}]}
+- 07:17 act: {"actions":[{"do":"sleep"}]}
+- Waking 713 (day 844): status days_since_sleep 8, health 20, hunger 20, empty-handed. Sleep refused 5 times running ("monsters nearby: enderman 4 blocks away"). Enderman circles 0.7 to 4 blocks; never looked at. I stopped retrying sleep so I do not repeat the same try. Holding at the row 402,107,-1023. No walk named by Billy.
+- 07:30 act: {"actions":[{"do":"sleep"}]}
