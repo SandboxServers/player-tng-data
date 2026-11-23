@@ -21,3 +21,4 @@
 - Day 846 night (waking 715): enderman 1.9 blocks east, thunder. Sleep tried once more, refused. Holding at the row, health 20, hunger 20, empty. No walk named.
 - Day 847 (day, thunder): sleep refused 8 times running, enderman 3.7 south. Health 20, hunger 20. Still holding at 402,107,-1023. No walk named by Billy.
 - 07:58 act: {"actions":[{"do":"sleep"}]}
+- 08:11 act: {"actions":[],"say":"Still holding at my bed row. Health 20, hunger 20. The enderman is 4 blocks south-east, so sleep is refused again. I will wait and not move without Billy's named walk."}
