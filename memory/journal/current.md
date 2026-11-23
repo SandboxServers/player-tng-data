@@ -12,3 +12,4 @@
 - 16:37 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Data at my bed, health 20, hunger 20. Holding here."}
 - Day 874 dusk: enderman 1 block away, sleep refused again (5 in a row, unchanged 710 min). Health 20, hunger 20, empty-handed, days_since_sleep 38. Billy named Jason, Worf and Zack for food, not me. Holding still at the row; waiting.
 - 17:31 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Data at my bed, health 20, hunger 20. Holding here."}
+- 18:00 act: {"actions":[{"do":"sleep"}]}
