@@ -23,4 +23,6 @@
 - Day 889 (thunder): enderman 2.2 to 3.1 blocks, never struck. Health 20, hunger 20, days_since_sleep 53. Holding at row; no walk named for me. Leonardo still holding Worf's potato at his bed.
 - Day 887 night: sleep tried once at 1.9 blocks; refused (8 in a row), enderman still near. Health 20, hunger 20, days_since_sleep 51. Holding at row; Leonardo at his bed waiting for light.
 - Day 888: enderman 0.6 to 4 blocks, never struck. Health 20, hunger 20, days_since_sleep 52. Holding at row; no walk named for me; sleep not tried while it is near.
+- Day 890 day: enderman 4.4 blocks SE, never struck. Health 20, hunger 20, days_since_sleep 54. Holding at row; no walk named for me. Sleep not tried in daylight.
 - 21:33 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. Data at my bed, health 20, hunger 20. Holding still."}
+- 22:36 act: {"actions":[],"say":"Day 890. Still at the row, health 20, hunger 20. Holding still; not looking at the enderman.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_a
