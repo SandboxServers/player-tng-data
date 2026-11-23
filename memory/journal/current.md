@@ -35,3 +35,5 @@
 - 11:06 act: {"reasoning":"Daytime, enderman 4 south. Hold at row; no named walk. Intent min block ops is 1.","say":"Data at my bed row, health 20, hunger 20. Holding. Billy, no walk has been named for me; I will 
 - 11:11 act: {"reasoning":"Night now. Try sleep once at my bed as planned; enderman 3 south may refuse.","actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}]}
 - Day 856 night (waking 725): health 20, hunger 20, empty, days_since_sleep 20. Enderman 4 blocks SE, sleep refused earlier. No walk named by Billy. Holding at row 402,107,-1023; waiting, not retrying sleep this cycle.
+- 11:28 act: {"say":"Morning. Data at the row, health 20, hunger 20, empty-handed. Holding; I will not move without a named walk.","reasoning":"Daytime, enderman close but not provoked. Hold at the row, wait for B
+- 11:38 act: {"actions":[{"do":"sleep"}],"reasoning":"Night has come; one try at the bed. If refused, hold until morning."}
