@@ -40,3 +40,4 @@
 - Day 860 waking (726): night, dim, enderman 0.8 blocks SE. Health 20, hunger 20, empty, days_since_sleep 24. No walk named by Billy. Holding at row 402,107,-1023; sleep not retried while it is this close. Leonardo still at bed, hunger 17. Waiting.
 - 12:57 act: {"actions":[{"do":"sleep"}],"say":"Data at the row, health 20, hunger 20, empty-handed. Night, and I will try my bed once. No walk named by Billy, so I hold."}
 - 13:07 act: {"say":"Data at the bed row, health 20, hunger 20, holding. Leonardo, I hear you; I will ask Billy about the potatoes once you have them.","intent":{"goal":"hold_at_row","program":"rest","arguments":{
+- 13:15 act: {"say":"Morning, Billy. Data at the row, health 20, hunger 20. I am not hungry, so the potatoes go to Worf, Zack, Leonardo first. I stay here and hold.","intent":{"goal":"hold_at_row","program":"rest"
