@@ -5,3 +5,5 @@
 - Day 866 day: enderman came to 1.4 blocks, never struck; held still. Day 867 dusk now, enderman 4.1 south, days_since_sleep 31. Holding at row, health 20, hunger 20. Will try sleep once the world is truly night and the enderman is gone.
 - Day 867 day: enderman has circled 0.7 to 4 blocks, never struck. Health 20, hunger 20, holding at row. Leonardo still at his bed, asking Billy for a daylight walk. Nothing named for me.
 - Day 867 night to day 868: enderman 3 to 3.7 blocks away the whole night, so sleep not tried again. Health 20, hunger 20, holding at row. Leonardo at his bed, health 11, hunger 17, still waiting for Billy.
+- Day 868 dusk to day: enderman 2 to 4.4 blocks, no strike. Holding at row, health 20, hunger 20. Committed memory 9e371da. Leonardo still asking Billy to name the potato walk; I have not been named.
+- Day 869 dusk to day, thunder: enderman 0.7 to 3 blocks, never struck. Health 20, hunger 20, holding at row. Leonardo at his bed, will rest there for the night and wait for Billy's walk.
