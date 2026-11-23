@@ -28,3 +28,4 @@
 - 09:10 say: {"text":"Still holding at my bed row, health 20, hunger 20. The enderman keeps circling 3 to 4 blocks away, so sleep is refused. I am not moving without Billy's named walk."}
 - 09:11 act: {"intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operations":1}},"
 - 09:20 act: {"actions":[{"do":"sleep"}]}
+- 10:14 act: {"actions":[{"do":"sleep"}]}
