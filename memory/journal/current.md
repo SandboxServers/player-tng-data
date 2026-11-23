@@ -15,3 +15,5 @@
 - 18:00 act: {"actions":[{"do":"sleep"}]}
 - Day 878 (wake 738): day, health 20, hunger 20, empty-handed, days_since_sleep 42. Enderman 2.7 to 3.1 blocks; sleep refused 7 in a row. Night now. Holding at row 402,107,-1023. No walk named for me.
 - Day 879 day: enderman 2.4 to 4.2 blocks, never struck. Health 20, hunger 20, days_since_sleep 43. Still holding; sleep not retried while it is near.
+- 19:22 act: {"say":"Still here at the row, health 20, hunger 20. Holding; not moving or looking at the enderman.","actions":[]}
+- Day 881 day: enderman 4.4 blocks south-east, never struck. Health 20, hunger 20, days_since_sleep 45. Holding at row; no walk named for me. Sleep not tried while it is near.
