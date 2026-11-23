@@ -10,3 +10,5 @@
 - 15:56 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, row. Data at my bed, health 20, hunger 20. Holding here."}
 - Day 870 night: sleep tried once at 4.3 blocks; refused, enderman 6 blocks away (4 refusals in a row). Day 870 morning: enderman 4 blocks south, never struck. Health 20, hunger 20, holding at row. Leonardo at his bed, hunger 17, still waiting for Billy's named walk. Nothing named for me.
 - 16:37 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Data at my bed, health 20, hunger 20. Holding here."}
+- Day 874 dusk: enderman 1 block away, sleep refused again (5 in a row, unchanged 710 min). Health 20, hunger 20, empty-handed, days_since_sleep 38. Billy named Jason, Worf and Zack for food, not me. Holding still at the row; waiting.
+- 17:31 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Data at my bed, health 20, hunger 20. Holding here."}
