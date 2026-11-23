@@ -23,3 +23,4 @@
 - 07:58 act: {"actions":[{"do":"sleep"}]}
 - Day 848 (waking 716): day, clear. Health 20, hunger 20, empty. Enderman 4 blocks south-east, sleep refused 8 times, not retried. Holding at 402,107,-1023. Leonardo asks Troi and Trini for food; no walk named by Billy. Waiting.
 - 08:11 act: {"actions":[],"say":"Still holding at my bed row. Health 20, hunger 20. The enderman is 4 blocks south-east, so sleep is refused again. I will wait and not move without Billy's named walk."}
+- 08:53 act: {"actions":[{"do":"sleep"}]}
