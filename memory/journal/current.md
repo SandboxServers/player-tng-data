@@ -30,3 +30,4 @@
 - 09:20 act: {"actions":[{"do":"sleep"}]}
 - 10:14 act: {"actions":[{"do":"sleep"}]}
 - 10:29 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night at the row. Data at my bed, health 20, hunger 20, no walk named by Billy. I will try to sleep once; if the e
+- 10:41 act: {"actions":[{"do":"sleep"}]}
