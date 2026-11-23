@@ -7,3 +7,4 @@
 - Day 840: day and night have come and gone quickly. Held at the row the whole time, health 20, hunger 20. Enderman keeps circling 2 to 4 blocks away and is never looked at. Leonardo at his bed, hunger 17, waiting on Billy. I am not hungry enough to ask for food.
 - 06:08 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}],"intent":{"goal":"rest_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_
 - 06:21 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}]}
+- 06:34 act: {"actions":[{"do":"sleep"}],"say":"Holding at my bed. It is night and the enderman is three blocks south. I will try to sleep."}
