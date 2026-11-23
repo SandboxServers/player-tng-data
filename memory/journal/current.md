@@ -13,3 +13,5 @@
 - Day 874 dusk: enderman 1 block away, sleep refused again (5 in a row, unchanged 710 min). Health 20, hunger 20, empty-handed, days_since_sleep 38. Billy named Jason, Worf and Zack for food, not me. Holding still at the row; waiting.
 - 17:31 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Data at my bed, health 20, hunger 20. Holding here."}
 - 18:00 act: {"actions":[{"do":"sleep"}]}
+- Day 878 (wake 738): day, health 20, hunger 20, empty-handed, days_since_sleep 42. Enderman 2.7 to 3.1 blocks; sleep refused 7 in a row. Night now. Holding at row 402,107,-1023. No walk named for me.
+- Day 879 day: enderman 2.4 to 4.2 blocks, never struck. Health 20, hunger 20, days_since_sleep 43. Still holding; sleep not retried while it is near.
