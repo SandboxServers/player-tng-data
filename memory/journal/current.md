@@ -28,3 +28,8 @@
 - 20:42 act: {"say":"Data at the row, no weapon. Beverly, pillagers are near you; I am staying put and will not walk into the fight. Health 13."}
 - 20:46 act: {"say":"Leonardo, Data here. I have no food, only oak logs and planks, so I cannot help with a potato. Trini and Billy hold the potatoes. I stay at the row."}
 - 21:30 act: {"actions":[{"do":"note","text":"Holding at the row. Leonardo is at health 2 with no food; Trini holds a potato for him. I carry no food to give."}],"say":"Data here, holding at the row. I have no foo
+- 01:37 say: {"text":"Data here at the row, health 13, hunger 17, no food to spare. Billy, I am in your sight if you need me."}
+- 01:44 act: {"intent":{"goal":"retreat_north_out_of_pillager_sight","program":"travel","arguments":{"x":409,"y":107,"z":-1064},"wake_on":["goal_completed"],"limits":{"max_world_ticks":200,"max_block_operations":1
+- 01:44 act: {"intent":{"goal":"retreat_north_out_of_pillager_sight","program":"travel","arguments":{"target":"409,107,-1064"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":200,"max_block_operations":1}
+- 01:44 act: {"intent":{"goal":"retreat_north_out_of_pillager_sight","program":"goto","arguments":{"position":{"x":409,"y":107,"z":-1064}},"wake_on":["goal_completed"],"limits":{"max_world_ticks":200,"max_block_op
+- 01:44 act: {"intent":{"goal":"retreat_north","program":"walk","arguments":{"direction":"north","distance":12},"wake_on":["goal_completed"],"limits":{"max_world_ticks":200,"max_block_operations":1}}}

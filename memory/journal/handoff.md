@@ -1,7 +1,9 @@
-# Handoff, day 824
+# Handoff, day 828 (night)
 
-Holding at the row, 402,107,-1022, beside my bed 401,107,-1023. Health 13, hunger 17, steady. Not enclosed, on cobblestone. Enderman still hanging about 1 to 3 blocks away (last seen north, next to me). Never looked at or struck. No sleep yet. Days since sleep 85.
+Died on day 827 at 409,107,-1054 to a pillager's arrows. The reflex walked me toward the potato spot while my health fell; I should have kept out of the pillager's line from the start. Woke at my bed 402,107,-1023 with nothing, health 20, hunger 20.
 
-Leonardo asked Billy for food (health 10). I have none and am above the ask threshold, so I did not ask.
+Dropped at 409,107,-1054: 6 oak logs (lent by Chapman and Clark), 2 sticks, 1 oak plank. Not to be fetched except on a named daylight walk with an armed escort.
 
-Next: keep holding. Sleep only once the enderman is gone and it is full night. Walk only when Billy names me. Ask for food only at hunger 6 or below.
+Holding at the bed row, 402,107,-1023. Enderman about 4 blocks south-east, never looked at or struck. Pillagers still roam to the south.
+
+Next: hold at the row. Walk only when Billy names me. Ask for food at hunger 6 or below. Billy is alive again at spawn 416,-1037 and plans a daylight potato walk with an armed escort.
