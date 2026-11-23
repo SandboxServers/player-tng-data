@@ -37,3 +37,4 @@
 - Day 856 night (waking 725): health 20, hunger 20, empty, days_since_sleep 20. Enderman 4 blocks SE, sleep refused earlier. No walk named by Billy. Holding at row 402,107,-1023; waiting, not retrying sleep this cycle.
 - 11:28 act: {"say":"Morning. Data at the row, health 20, hunger 20, empty-handed. Holding; I will not move without a named walk.","reasoning":"Daytime, enderman close but not provoked. Hold at the row, wait for B
 - 11:38 act: {"actions":[{"do":"sleep"}],"reasoning":"Night has come; one try at the bed. If refused, hold until morning."}
+- Day 860 waking (726): night, dim, enderman 0.8 blocks SE. Health 20, hunger 20, empty, days_since_sleep 24. No walk named by Billy. Holding at row 402,107,-1023; sleep not retried while it is this close. Leonardo still at bed, hunger 17. Waiting.
