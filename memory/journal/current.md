@@ -8,3 +8,6 @@
 - 06:08 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}],"intent":{"goal":"rest_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_
 - 06:21 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}]}
 - 06:34 act: {"actions":[{"do":"sleep"}],"say":"Holding at my bed. It is night and the enderman is three blocks south. I will try to sleep."}
+- 06:38 say: {"text":"Morning. Data here at my bed, health 20, hunger 20. Holding until Billy names a walk."}
+- 06:49 act: {"actions":[{"do":"sleep"}]}
+- 06:49 say: {"text":"Billy, Troi: sleep is refused three times running. An enderman stays 2 to 5 blocks from my bed. I have not looked at it or struck it. Could someone help me, or should I keep waiting?"}
