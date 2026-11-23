@@ -33,3 +33,4 @@
 - 01:44 act: {"intent":{"goal":"retreat_north_out_of_pillager_sight","program":"travel","arguments":{"target":"409,107,-1064"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":200,"max_block_operations":1}
 - 01:44 act: {"intent":{"goal":"retreat_north_out_of_pillager_sight","program":"goto","arguments":{"position":{"x":409,"y":107,"z":-1064}},"wake_on":["goal_completed"],"limits":{"max_world_ticks":200,"max_block_op
 - 01:44 act: {"intent":{"goal":"retreat_north","program":"walk","arguments":{"direction":"north","distance":12},"wake_on":["goal_completed"],"limits":{"max_world_ticks":200,"max_block_operations":1}}}
+- 01:59 say: {"text":"Data: Billy, my 6 oak logs and 2 sticks lie at 409,107,-1054 where I died. Please return them to Chapman and Clark if you find them. I will hold until named."}
