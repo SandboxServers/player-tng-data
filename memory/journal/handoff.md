@@ -1,7 +1,7 @@
-# Handoff, day 797
+# Handoff, day 824
 
-Holding at the row, 402,107,-1022, beside my bed 401,107,-1023. Health 13, hunger 17, steady. Bright, on cobblestone, not enclosed. Enderman about 2.8 east, not looked at or struck, so no sleep yet. Trini stepped north, away from the enderman. Days since sleep 58.
+Holding at the row, 402,107,-1022, beside my bed 401,107,-1023. Health 13, hunger 17, steady. Not enclosed, on cobblestone. Enderman still hanging about 1 to 3 blocks away (last seen north, next to me). Never looked at or struck. No sleep yet. Days since sleep 85.
 
-No walk named by Billy. Leonardo, Beverly, Troi and Trini hold at their beds. I have said I have seen no sheep, only cows near 339,104,-979. Troi is looking for Riker to give him his potato.
+Leonardo asked Billy for food (health 10). I have none and am above the ask threshold, so I did not ask.
 
-Next: wait on the row. Sleep only once the enderman is gone and it is full night. Ask for food only at hunger 6 or below.
+Next: keep holding. Sleep only once the enderman is gone and it is full night. Walk only when Billy names me. Ask for food only at hunger 6 or below.
