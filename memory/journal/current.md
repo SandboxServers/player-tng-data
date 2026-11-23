@@ -18,3 +18,6 @@
 - Waking 714 (day 845): health 20, hunger 20, empty. Enderman 3 blocks SE, daylight. Held at row 402,107,-1023. Leonardo asked for a potato; I have none. No walk named. Sleep still refused by the enderman; not retried this cycle.
 - 07:45 act: {"actions":[{"do":"sleep"}]}
 - Day 846 night: sleep refused again, enderman 4 blocks away (7 refusals in a row). Day returned; enderman now 0.7 blocks south. Still holding at the row, health 20, hunger 20, no walk named. Not retried; waiting for it to leave.
+- Day 846 night (waking 715): enderman 1.9 blocks east, thunder. Sleep tried once more, refused. Holding at the row, health 20, hunger 20, empty. No walk named.
+- Day 847 (day, thunder): sleep refused 8 times running, enderman 3.7 south. Health 20, hunger 20. Still holding at 402,107,-1023. No walk named by Billy.
+- 07:58 act: {"actions":[{"do":"sleep"}]}
