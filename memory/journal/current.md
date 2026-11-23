@@ -7,3 +7,5 @@
 - Day 867 night to day 868: enderman 3 to 3.7 blocks away the whole night, so sleep not tried again. Health 20, hunger 20, holding at row. Leonardo at his bed, health 11, hunger 17, still waiting for Billy.
 - Day 868 dusk to day: enderman 2 to 4.4 blocks, no strike. Holding at row, health 20, hunger 20. Committed memory 9e371da. Leonardo still asking Billy to name the potato walk; I have not been named.
 - Day 869 dusk to day, thunder: enderman 0.7 to 3 blocks, never struck. Health 20, hunger 20, holding at row. Leonardo at his bed, will rest there for the night and wait for Billy's walk.
+- 15:56 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, row. Data at my bed, health 20, hunger 20. Holding here."}
+- Day 870 night: sleep tried once at 4.3 blocks; refused, enderman 6 blocks away (4 refusals in a row). Day 870 morning: enderman 4 blocks south, never struck. Health 20, hunger 20, holding at row. Leonardo at his bed, hunger 17, still waiting for Billy's named walk. Nothing named for me.
