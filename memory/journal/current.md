@@ -5,3 +5,5 @@
 - 05:28 act: goto bed, then sleep. Goto worked. Sleep refused: "it is not night." Day already, enderman 4.3 south. Holding at the row 402,107,-1023 until the next night. No walk named.
 - 05:40 night again: goto bed worked; sleep refused: enderman 3 blocks away. Holding. Sleep refusal is the enderman's doing, not the bed's. Still no walk named by Billy.
 - Day 840: day and night have come and gone quickly. Held at the row the whole time, health 20, hunger 20. Enderman keeps circling 2 to 4 blocks away and is never looked at. Leonardo at his bed, hunger 17, waiting on Billy. I am not hungry enough to ask for food.
+- 06:08 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}],"intent":{"goal":"rest_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_
+- 06:21 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}]}
