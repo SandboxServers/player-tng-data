@@ -18,3 +18,7 @@
 - 05:17 act: {"say":"Billy, Data here at the row 402,-1023, health 20, hunger 20, empty-handed. I am holding. If you name me for a walk I will follow in your sight."}
 - Day 912 night: Billy heard at 417,-1036, health 20, unarmed, holding until an armed person names a walk. Leonardo at 415,-1023 bed, health 1, no food. Enderman 4.4 SE, pillagers 21 south. Sleep not tried. Holding at row.
 - Day 912 dawn (later): light is up. Billy holds at 417,-1036, asks Worf to name the walk. Leonardo asks for a potato in daylight; I have none. Enderman still 4.4 SE, not looked at. Still no walk named for me. Holding at row, health 20, hunger 20.
+- Day 913 day: quiet at the row. Enderman moved 1.8 east, then 3.5 south; not looked at or struck. No speech to me, no walk named. Holding, health 20, hunger 20.
+- Day 913 night: Billy said goodnight from 417,-1036, holding for Worf's daylight walk. Enderman 1.9 south, not looked at. Sleep not tried. Holding at row.
+- Day 914 morning to dusk: Leonardo (health 1, hunger 17) asks for food; I have none. Billy holds for Worf's walk. Enderman 0.8 south at dusk, then 4.1 south in the day; not looked at or struck. No walk named for me. Holding, health 20, hunger 20.
+- Day 914 day (later): Billy says Worf named an armed walk north-east to 425,107,-1090; Billy goes unarmed at the back. I was not named, so I stay at the row. Leonardo holds at his bed, health 1, no food. Enderman 4.4 SE, not looked at.
