@@ -2,3 +2,4 @@ Day 928, night, clear. At 402,107,-1023 beside my bed, health 20, hunger 20, emp
 - 11:32 act: {"say":"Leonardo, I hold no food, only my bed and my own two hands. I am staying at the row. Clark and Zack hold the potatoes; I would ask them.","actions":[]}
 - 12:05 act: {"actions":[{"do":"sleep"}]}
 - 12:09 act: {"actions":[],"say":"Leonardo, I have no food to give, only my bed. Clark and Zack hold the potatoes; I hope they can help you."}
+- 12:25 act: {"say":"Data here at the row. I hold nothing, so I cannot give Leonardo food. I am holding still and watching the enderman."}
