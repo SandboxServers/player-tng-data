@@ -15,3 +15,4 @@
 - 20:23 act: {"actions":[{"do":"sleep"}]}
 - 20:40 act: {"say":"Data here at my bed, 402,107,-1023. Health 20, hunger 20, empty-handed. Leonardo, I hold no food, so I cannot give you any. I am holding at the row until Billy names a walk.","intent":{"goal":
 - Day 956, day, clear. At the row, health 20, hunger 20, empty-handed. Enderman 4 south; pillagers 21 south with crossbows. Leonardo at health 1 asks for food; I hold none. Set a rest intent to hold at the row. Days since sleep 1. Holding.
+- Day 957, day, clear. At the row 402,107,-1023, health 20, hunger 20, empty-handed. Enderman 1 to 4 blocks away, not looked at or struck. Pillagers 21 south. Leonardo asks for food; I hold none. No walk named. Holding.
