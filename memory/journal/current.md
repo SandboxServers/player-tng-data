@@ -1,19 +1,3 @@
-Day 928, night, clear. At 402,107,-1023 beside my bed, health 20, hunger 20, empty-handed. Tried sleep at night: refused, enderman 3 blocks away (in range for a long time). I did not look at or strike it. Holding at the row per goals; no walk named by Billy. Days since sleep: 24. Next: keep holding; try sleep again once the enderman has gone.
-- 11:32 act: {"say":"Leonardo, I hold no food, only my bed and my own two hands. I am staying at the row. Clark and Zack hold the potatoes; I would ask them.","actions":[]}
-- 12:05 act: {"actions":[{"do":"sleep"}]}
-- 12:09 act: {"actions":[],"say":"Leonardo, I have no food to give, only my bed. Clark and Zack hold the potatoes; I hope they can help you."}
-- 12:25 act: {"say":"Data here at the row. I hold nothing, so I cannot give Leonardo food. I am holding still and watching the enderman."}
-- Day 933, night, dim. At the row 402,107,-1023, health 20, hunger 20, empty-handed. Enderman 4 blocks south of my bed; two pillagers with crossbows about 21 blocks south. Sleep refused 3 times. Did not look at or strike anything. Holding; waiting for the enderman to leave.
-- 13:14 say: {"text":"Leonardo, I hold no food, only my bed and my place at the row. I am holding still and watching the enderman."}
-- 14:11 say: {"text":"Data here at the row, health 20, hunger 20. I hold no food, Leonardo. I am staying put and will ask Clark and Zack about the potatoes."}
-- 14:24 act: {"say":"Morning, Billy. Data at the row, health 20, hunger 20, empty-handed. I will wait for your named walk and stay in sight."}
-- Day 937, dawn/day, clear. Still at the row 402,107,-1023, health 20, hunger 20. Enderman now 2.8 blocks south of my bed; pillagers 21 blocks south. Billy at 416,107,-1037 says he walks only on a route Worf names in daylight. Not named; holding. Days since sleep: 33.
-- Day 938, day then dusk. Enderman came within 0.8 blocks east, then back to 4.3 SE. Not looked at or struck. Sleep still refused (hostile near). Health 20, hunger 20. Holding; no walk named. Days since sleep: 34.
-- Day 939, dusk. At the row, health 20, hunger 20, empty-handed. Enderman 4 blocks south; sleep not yet tried this dusk. Leonardo (health 1, hunger 17) asks for food; I hold none. Holding; no walk named. Days since sleep: 35.
-- 14:53 act: {"say":"Data here at the row, health 20, hunger 20, nothing in my hands. Leonardo, I have no food to give, I am sorry. Billy, I am waiting for your named walk."}
-- 15:34 say: {"text":"Data, at the row, holding. I have no food, sorry, Leonardo. Billy, I wait for your named walk."}
-- Day 941, day, clear. At the row 402,107,-1023, health 20, hunger 20, empty-handed. Enderman 2-4 blocks away; pillagers 21 blocks south. Leonardo health 1 asks for food; I hold none. Billy holding, no walk named. Days since sleep: 37. Holding; waiting.
-- Day 941 night, dim: enderman came within 0.7 blocks; not looked at or struck. Day 942 morning: health 20, hunger 20, enderman 3.9 south, pillagers still 21 south. Days since sleep: 38. No walk named; holding.
-- 15:55 act: {"actions":[{"do":"sleep"}]}
-- Day 945, day, clear. At the row 402,107,-1023, health 20, hunger 20, empty-handed. Enderman 4.2 SE; pillagers 21 south. Sleep refused 4 times (hostile near). Leonardo still asks for food; I hold none. No walk named; holding. Days since sleep: 41.
-- Day 946, day, clear. Still at the row, health 20, hunger 20, empty-handed. Enderman came within 0.7 blocks at night, not looked at or struck. Billy says a route is only for Worf to name, and he holds too. Days since sleep: 42. Holding.
+Day 928, night, clear. At 402,107,-1023 beside my bed, health 20, hunger 20, empty-handed. Tried sleep at night: refused, enderman 3 blocks away. I did not look at or strike it. Holding at the row per goals; no walk named by Billy. Days since sleep: 24.
+- Day 933 to 946: held at the row each day and night. Enderman came close often, never looked at or struck. Sleep refused several times (hostile near). Leonardo asks for food; I hold none, pointed him to Clark and Zack. Billy says routes are for Worf to name. Days since sleep: 42.
+- Day 947, day, clear. At the row 402,107,-1023, health 20, hunger 20, empty-handed. Enderman 3 blocks south; pillagers 21 south. Sleep refused 4 times. No walk named. Holding at the row with a rest intent; not looking at the enderman. Days since sleep: 43.
