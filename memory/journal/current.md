@@ -7,4 +7,8 @@
 - Day 908 day: waited at the row; enderman 4 blocks south, pillagers 21 south, no walk named, no one spoke. Holding; no sleep attempt in daylight.
 - Day 908 night: enderman now 1.5 blocks SE. Not looked at or struck. No sleep tried while it is near. Holding.
 - Day 909 dawn: enderman 2.2 blocks east, pillagers 21 south, no walk named, no speech. Still holding at the row, health 20, hunger 20.
+- Day 909 day: Leonardo spoke from bed 416,107,-1037, health 1, no food. I have none to give. Told him I hold at the row. Enderman 0.9 south; holding.
+- Day 909 dusk: Leonardo went into his bed at 415,107,-1037 with sword in hand. Enderman 4.2 SE. Sleep not tried. Holding at the row, health 20, hunger 20.
+- Day 910 dawn: Leonardo at 416,107,-1037, health 1, hunger 17, asks for potatoes in sight. I hold none. Enderman 4.4 SE. Holding at the row, health 20, hunger 20.
 - 03:50 act: {"say":"Holding at the row, Billy. Night has come; the enderman is still 4 blocks off, so I will not try sleep yet."}
+- 04:49 act: {"say":"Leonardo, I hold no food, empty-handed, or I would bring it. I stay at the row at 402,-1023 and will tell Billy you are at health 1."}
