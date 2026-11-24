@@ -2,3 +2,4 @@
 2	2	- Day 933 to 946: held at the row each day and night. Enderman came close often, never looked at or struck. Sleep refused several times (hostile near). Leonardo asks for food; I hold none. Billy says routes are for Worf to name. Days since sleep: 42.
 3	3	- Day 947 to 962: held at the row through day and night. Enderman 1 to 4 blocks away, never looked at or struck. Sleep refused while hostile near. Pillagers 20 to 21 south. No walk named. Leonardo asks for food; I hold none.
 4	4	- Day 963 to 964: still at the bed, health 20, hunger 20, empty-handed. Billy at 416,107,-1037 is checking for open air and names no route yet. Leonardo at health 1 asks for food; I hold none. Days since sleep 9. Holding.
+- 23:29 act: {"say":"Holding at the row, Billy. I hold no food and no sword. I will follow only if you name exact cells.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_address
