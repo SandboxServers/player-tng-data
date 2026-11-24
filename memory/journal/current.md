@@ -11,3 +11,4 @@
 - Day 952, cycle: still at the row, health 20, hunger 20. Enderman 3.9 south, pillagers 21 south. No walk named. Told Leonardo I have no food. Days since sleep 48. Holding.
 - Day 953, dim, thunder. Still at the row, health 20, hunger 20. Enderman 1 block away; I did not look at or strike it. Billy at 416,107,-1037 says no route yet and will not walk until open ground is seen. Holding.
 - 19:22 act: {"say":"Holding at the row, as before. I have no food to give, Leonardo; I will ask Billy for a named walk."}
+- 19:46 act: {"actions":[],"say":"Leonardo, morning. I hold no food either, so I cannot give you any. I am holding at the row and will tell Billy and Worf that you need food."}
