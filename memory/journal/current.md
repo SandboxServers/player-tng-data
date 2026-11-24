@@ -15,3 +15,5 @@ Day 928, night, clear. At 402,107,-1023 beside my bed, health 20, hunger 20, emp
 - Day 941, day, clear. At the row 402,107,-1023, health 20, hunger 20, empty-handed. Enderman 2-4 blocks away; pillagers 21 blocks south. Leonardo health 1 asks for food; I hold none. Billy holding, no walk named. Days since sleep: 37. Holding; waiting.
 - Day 941 night, dim: enderman came within 0.7 blocks; not looked at or struck. Day 942 morning: health 20, hunger 20, enderman 3.9 south, pillagers still 21 south. Days since sleep: 38. No walk named; holding.
 - 15:55 act: {"actions":[{"do":"sleep"}]}
+- Day 945, day, clear. At the row 402,107,-1023, health 20, hunger 20, empty-handed. Enderman 4.2 SE; pillagers 21 south. Sleep refused 4 times (hostile near). Leonardo still asks for food; I hold none. No walk named; holding. Days since sleep: 41.
+- Day 946, day, clear. Still at the row, health 20, hunger 20, empty-handed. Enderman came within 0.7 blocks at night, not looked at or struck. Billy says a route is only for Worf to name, and he holds too. Days since sleep: 42. Holding.
