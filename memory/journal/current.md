@@ -11,3 +11,6 @@ Day 928, night, clear. At 402,107,-1023 beside my bed, health 20, hunger 20, emp
 - Day 938, day then dusk. Enderman came within 0.8 blocks east, then back to 4.3 SE. Not looked at or struck. Sleep still refused (hostile near). Health 20, hunger 20. Holding; no walk named. Days since sleep: 34.
 - Day 939, dusk. At the row, health 20, hunger 20, empty-handed. Enderman 4 blocks south; sleep not yet tried this dusk. Leonardo (health 1, hunger 17) asks for food; I hold none. Holding; no walk named. Days since sleep: 35.
 - 14:53 act: {"say":"Data here at the row, health 20, hunger 20, nothing in my hands. Leonardo, I have no food to give, I am sorry. Billy, I am waiting for your named walk."}
+- 15:34 say: {"text":"Data, at the row, holding. I have no food, sorry, Leonardo. Billy, I wait for your named walk."}
+- Day 941, day, clear. At the row 402,107,-1023, health 20, hunger 20, empty-handed. Enderman 2-4 blocks away; pillagers 21 blocks south. Leonardo health 1 asks for food; I hold none. Billy holding, no walk named. Days since sleep: 37. Holding; waiting.
+- Day 941 night, dim: enderman came within 0.7 blocks; not looked at or struck. Day 942 morning: health 20, hunger 20, enderman 3.9 south, pillagers still 21 south. Days since sleep: 38. No walk named; holding.
