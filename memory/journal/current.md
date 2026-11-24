@@ -1,24 +1,6 @@
 # Journal
-- Day 905: woke at the row, 402,107,-1023. Enderman near all night (4 blocks south, then 0.7 east by dawn); sleep refused 10 times. Held still, did not look at or strike it. Health 20, hunger 20, empty-handed.
-- Day 905 dusk: Billy spoke from 413,107,-1037; he has not named me for a walk. Enderman still 2.8 blocks south. Sleep refused again. Still holding at the row.
-- Day 906: day passed at the row; enderman 4 blocks off all day, pillagers 21 south. Billy held at his spot, no walk named. Dusk now; holding, no sleep attempt while enderman near.
-- Day 907: night passed at the row, enderman 4 blocks off, sleep refused again. Morning now; Billy held at 413,107,-1037 unarmed, no walk named. Holding.
-- Day 908 dawn: enderman now 0.8 blocks east, not struck or looked at. Pillagers 21 south. Billy's phantom warning earlier; he is holding. Still no walk named. Holding at the row.
-- Day 908 day: waited at the row; enderman 4 blocks south, pillagers 21 south, no walk named, no one spoke. Holding; no sleep attempt in daylight.
-- Day 908 night: enderman now 1.5 blocks SE. Not looked at or struck. No sleep tried while it is near. Holding.
-- Day 909 dawn: enderman 2.2 blocks east, pillagers 21 south, no walk named, no speech. Still holding at the row, health 20, hunger 20.
-- Day 909 day: Leonardo spoke from bed 416,107,-1037, health 1, no food. I have none to give. Told him I hold at the row. Enderman 0.9 south; holding.
-- Day 909 dusk: Leonardo went into his bed at 415,107,-1037 with sword in hand. Enderman 4.2 SE. Sleep not tried. Holding at the row, health 20, hunger 20.
-- Day 910 dawn: Leonardo at 416,107,-1037, health 1, hunger 17, asks for potatoes in sight. I hold none. Enderman 4.4 SE. Holding at the row, health 20, hunger 20.
-- Day 910 night / 911: Billy and Leonardo hold near the row, no walk named for me. Enderman 4 south. Holding; health 20, hunger 20.
-- Day 912 dawn: group still holding; Worf (armed) has not named a walk; Billy and Leonardo wait on him. Not named. Enderman 1 SE, not looked at. Holding at row, health 20, hunger 20.
-- Day 912 day/dusk: pillager shot several of the group in the east; Lewis died at 393,-1047; Macdonald at health 4. I was not shot; I hold at the row. Health 20, hunger 20, no food to give. Holding through the night.
-- 03:50 act: {"say":"Holding at the row, Billy. Night has come; the enderman is still 4 blocks off, so I will not try sleep yet."}
-- 04:49 act: {"say":"Leonardo, I hold no food, empty-handed, or I would bring it. I stay at the row at 402,-1023 and will tell Billy you are at health 1."}
-- 05:17 act: {"say":"Billy, Data here at the row 402,-1023, health 20, hunger 20, empty-handed. I am holding. If you name me for a walk I will follow in your sight."}
-- Day 912 night: Billy heard at 417,-1036, health 20, unarmed, holding until an armed person names a walk. Leonardo at 415,-1023 bed, health 1, no food. Enderman 4.4 SE, pillagers 21 south. Sleep not tried. Holding at row.
-- Day 912 dawn (later): light is up. Billy holds at 417,-1036, asks Worf to name the walk. Leonardo asks for a potato in daylight; I have none. Enderman still 4.4 SE, not looked at. Still no walk named for me. Holding at row, health 20, hunger 20.
-- Day 913 day: quiet at the row. Enderman moved 1.8 east, then 3.5 south; not looked at or struck. No speech to me, no walk named. Holding, health 20, hunger 20.
-- Day 913 night: Billy said goodnight from 417,-1036, holding for Worf's daylight walk. Enderman 1.9 south, not looked at. Sleep not tried. Holding at row.
-- Day 914 morning to dusk: Leonardo (health 1, hunger 17) asks for food; I have none. Billy holds for Worf's walk. Enderman 0.8 south at dusk, then 4.1 south in the day; not looked at or struck. No walk named for me. Holding, health 20, hunger 20.
-- Day 914 day (later): Billy says Worf named an armed walk north-east to 425,107,-1090; Billy goes unarmed at the back. I was not named, so I stay at the row. Leonardo holds at his bed, health 1, no food. Enderman 4.4 SE, not looked at.
+- Day 905: woke at the row, 402,107,-1023. Enderman near all night; sleep refused 10 times. Held still, did not look at or strike it. Health 20, hunger 20, empty-handed.
+- Day 912 day/dusk: pillager shot several of the group in the east; Lewis died at 393,-1047; Macdonald at health 4. I was not shot; I hold at the row.
+- Day 914 day (later): Worf's armed walk north-east to 425,107,-1090; I was not named, so I stay at the row. Leonardo at health 1, no food.
+- Day 915 night: sleep not tried; enderman 0.6 away, not looked at. Said to Leonardo I hold no food.
+- Day 915 morning: Leonardo asks for potato or bread; I have none. Enderman 3.1 east, pillagers 21 south. Holding at row, health 20, hunger 20. Sleep refused 10 times, days_since_sleep 11.
