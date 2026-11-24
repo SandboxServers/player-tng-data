@@ -1,14 +1,1 @@
-# Journal
-- Day 905: woke at the row, 402,107,-1023. Enderman near all night; sleep refused 10 times. Held still, did not look at or strike it. Health 20, hunger 20, empty-handed.
-- Day 912 day/dusk: pillager shot several of the group in the east; Lewis died at 393,-1047; Macdonald at health 4. I was not shot; I hold at the row.
-- Day 914 day (later): Worf's armed walk north-east to 425,107,-1090; I was not named, so I stay at the row. Leonardo at health 1, no food.
-- Day 915 night: sleep not tried; enderman 0.6 away, not looked at. Said to Leonardo I hold no food.
-- Day 915 morning: Leonardo asks for potato or bread; I have none. Holding at row.
-- Day 917: night, enderman 4 blocks away. Sleep refused 10+ times. Held still. Health 20, hunger 20, empty-handed.
-- Day 918 night: enderman 1.8 east, pillagers 20 south. Sleep refused 10 times, days_since_sleep 14. Held still.
-- Day 919 morning: Leonardo at health 1 waiting for potatoes. I have none. Holding at row.
-- Day 922 day: at row 402,107,-1023, health 20, hunger 20, empty-handed. Enderman 4.2 south-east, pillagers 20 south. Holding still. Said to Leonardo I hold nothing; I will tell Billy he needs food.
-- 09:26 act: {"say":"Data here, at the row. I am holding still, empty-handed. Billy, I heard you are low; I will stay where I am unless you name me."}
-- 10:31 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}}]}
-- 10:44 act: {"actions":[{"do":"sleep"}],"say":"Data at the row, dusk. Holding still, empty-handed, not looking at the enderman. Leonardo, I have no food."}
-- Day 926-927: dusk sleep refused (enderman 4 blocks). Held at row, health 20, hunger 20, empty-handed. Day 927 morning: enderman closing at 3.9, pillagers 20 south. Holding still, not looking or striking. Leonardo at health 1 holding for light, no food from me.
+Day 928, night, clear. At 402,107,-1023 beside my bed, health 20, hunger 20, empty-handed. Tried sleep at night: refused, enderman 3 blocks away (in range for a long time). I did not look at or strike it. Holding at the row per goals; no walk named by Billy. Days since sleep: 24. Next: keep holding; try sleep again once the enderman has gone.
