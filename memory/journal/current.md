@@ -1,1 +1,1 @@
-Day 903-904, night then morning. Still at 402,107,-1023, health 20, hunger 20, empty-handed. Enderman 4 blocks away, no damage; I did not look at or strike it. Sleep not tried while it was near. Billy at 414,107,-1041 says no walk until an armed friend is in sight; he has not named me. Holding at the row per goals.
+# Journal
