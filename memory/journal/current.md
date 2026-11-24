@@ -19,3 +19,5 @@
 19	- Day 958, day, bright, clear. Still at the row, health 20, hunger 20, empty-handed. Enderman 4 blocks south-east; pillagers 21 south. Billy at 416,107,-1037 still has no open route to name; Leonardo at health 1 asks for food, I hold none. No walk named. Holding.
 - Day 958 to 959: enderman came within 1 block, then 3 to 4 blocks; never looked at or struck. Dusk passed without sleep (hostile near). Billy still walled, no route. Leonardo asks for food; I hold none. Holding at the row.
 - Day 959 to 960: enderman hovered 1 to 4 blocks; not looked at or struck. Night and thunder came and went without sleep (hostile near). Billy still walled; Worf is working out an open cell. Leonardo still asks for food. Holding.
+- 22:36 act: {"say":"Holding at the bed. Enderman close; I will not look at it.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_fai
+- Day 962, night, dim, clear. At the bed 402,107,-1023, health 20, hunger 20, empty-handed. Enderman 1.5 SE; pillagers 20 south with crossbows. Days since sleep 7. Set rest intent to hold; not looking at the enderman. Holding.
