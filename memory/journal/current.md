@@ -6,3 +6,5 @@
 - 18:49 act: {"say":"Holding at the row, health 20, hunger 20. I have no food to give Leonardo, sorry.","actions":[{"do":"wait","seconds":60}]}
 - 19:03 act: {"actions":[{"do":"wait","seconds":60}]}
 - Day 951, day, bright. At the row 402,107,-1023, health 20, hunger 20, empty-handed. Enderman 3.6 SE, pillagers 21 south. Billy holding still, tried his bed. No walk named for me. Days since sleep 47. Holding.
+- 19:13 act: {"say":"Holding at the row for now. Leonardo, I have no potatoes to bring, but I hear you.","actions":[]}
+- Day 952, day now, bright. At the row 402,107,-1023, health 20, hunger 20, empty-handed. Enderman 3.2 east, pillagers 21 south. Leonardo sleeping at health 1, asks for food first. No walk named. Days since sleep 48. Holding.
