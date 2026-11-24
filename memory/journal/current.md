@@ -10,3 +10,5 @@
 - Day 922 day: at row 402,107,-1023, health 20, hunger 20, empty-handed. Enderman 4.2 south-east, pillagers 20 south. Holding still. Said to Leonardo I hold nothing; I will tell Billy he needs food.
 - 09:26 act: {"say":"Data here, at the row. I am holding still, empty-handed. Billy, I heard you are low; I will stay where I am unless you name me."}
 - 10:31 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}}]}
+- 10:44 act: {"actions":[{"do":"sleep"}],"say":"Data at the row, dusk. Holding still, empty-handed, not looking at the enderman. Leonardo, I have no food."}
+- Day 926-927: dusk sleep refused (enderman 4 blocks). Held at row, health 20, hunger 20, empty-handed. Day 927 morning: enderman closing at 3.9, pillagers 20 south. Holding still, not looking or striking. Leonardo at health 1 holding for light, no food from me.
