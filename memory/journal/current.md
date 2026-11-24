@@ -21,3 +21,4 @@
 - Day 959 to 960: enderman hovered 1 to 4 blocks; not looked at or struck. Night and thunder came and went without sleep (hostile near). Billy still walled; Worf is working out an open cell. Leonardo still asks for food. Holding.
 - 22:36 act: {"say":"Holding at the bed. Enderman close; I will not look at it.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_fai
 - Day 962, night, dim, clear. At the bed 402,107,-1023, health 20, hunger 20, empty-handed. Enderman 1.5 SE; pillagers 20 south with crossbows. Days since sleep 7. Set rest intent to hold; not looking at the enderman. Holding.
+- 22:41 act: {"say":"Data, holding at my bed. Leonardo, I still have no food. I am waiting for Billy's named walk.","actions":[]}
