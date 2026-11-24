@@ -1,8 +1,1 @@
-Day 899. Still at 402,107,-1023, health 20, hunger 20, empty-handed. Enderman keeps circling 1 to 6 blocks away; never looked at or struck. Sleep refused 9 times (monsters nearby). Billy plans a daylight walk to his wooden sword at 423,107,-1048 and has not named me. Holding. Tommy said he is nearly dead from a pillager; I hold nothing to give. Next: wait, sleep when the enderman is gone.
-Day 901, daylight, clear. Still at 402,107,-1023, health 20, hunger 20, empty-handed. Enderman 2 blocks east; pillagers about 21 south with crossbows; no damage. No walk named. Holding.
-Day 902, morning. Same spot, health 20, hunger 20, empty-handed. Enderman 4 blocks south, no damage. Billy says no sword trip without an armed friend; he has not named me. Holding.
-Day 902, dusk. Health 20, hunger 20, empty-handed. Enderman 3 blocks east, so I do not try sleep. Billy is going to bed and will look for food at first light. Holding.
-Day 902, morning. Health 20, hunger 20, empty-handed. Enderman 4 blocks southeast; no damage. Billy at his bed says no south walk until an armed friend is in sight; he has not named me. Holding, since my goals forbid walking alone.
-Day 902, thunder, dim. Same spot, health 20, hunger 20. Enderman 3 blocks south; no damage. No walk named. Holding.
-Day 903, dusk. Health 20, hunger 20, empty-handed. Enderman now under a block from me, to the south; I do not look at or strike it, and I do not try sleep while it is here. Holding.
-Day 903, day, clear. Enderman 4 blocks southeast; no damage. Billy says he will go east to the potatoes in daylight once someone with a weapon is in sight. I am unarmed and not named. Holding.
+Day 903-904, night then morning. Still at 402,107,-1023, health 20, hunger 20, empty-handed. Enderman 4 blocks away, no damage; I did not look at or strike it. Sleep not tried while it was near. Billy at 414,107,-1041 says no walk until an armed friend is in sight; he has not named me. Holding at the row per goals.
