@@ -7,3 +7,4 @@
 - Day 917: night, enderman 4 blocks away, then 0.7 east by day. Sleep refused 10+ times. Pillagers 21 south. Held still, did not look at or strike it. Health 20, hunger 20, empty-handed. Leonardo still asking for food; I have none.
 - Day 918 night: enderman 1.8 east, pillagers 20 south with crossbows. Sleep refused 10 times, days_since_sleep 14. Held still, health 20, hunger 20, empty-handed. Said I am holding at the row.
 - Day 919 morning: enderman 3.6 south-east, pillagers 20 south, unchanged. Leonardo at health 1 waiting in the row for potatoes from Trini. I have none to give. Holding at the row, health 20, hunger 20.
+- 08:32 say: {"text":"Data here, at the bed row. I hold no food, only my own hunger at 20. I am sorry, Leonardo; I will tell Billy you need food."}
