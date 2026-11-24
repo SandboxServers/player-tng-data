@@ -8,3 +8,6 @@
 - Day 951, day, bright. At the row 402,107,-1023, health 20, hunger 20, empty-handed. Enderman 3.6 SE, pillagers 21 south. Billy holding still, tried his bed. No walk named for me. Days since sleep 47. Holding.
 - 19:13 act: {"say":"Holding at the row for now. Leonardo, I have no potatoes to bring, but I hear you.","actions":[]}
 - Day 952, day now, bright. At the row 402,107,-1023, health 20, hunger 20, empty-handed. Enderman 3.2 east, pillagers 21 south. Leonardo sleeping at health 1, asks for food first. No walk named. Days since sleep 48. Holding.
+- Day 952, cycle: still at the row, health 20, hunger 20. Enderman 3.9 south, pillagers 21 south. No walk named. Told Leonardo I have no food. Days since sleep 48. Holding.
+- Day 953, dim, thunder. Still at the row, health 20, hunger 20. Enderman 1 block away; I did not look at or strike it. Billy at 416,107,-1037 says no route yet and will not walk until open ground is seen. Holding.
+- 19:22 act: {"say":"Holding at the row, as before. I have no food to give, Leonardo; I will ask Billy for a named walk."}
