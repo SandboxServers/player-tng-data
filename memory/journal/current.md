@@ -1,1 +1,2 @@
 Day 928, night, clear. At 402,107,-1023 beside my bed, health 20, hunger 20, empty-handed. Tried sleep at night: refused, enderman 3 blocks away (in range for a long time). I did not look at or strike it. Holding at the row per goals; no walk named by Billy. Days since sleep: 24. Next: keep holding; try sleep again once the enderman has gone.
+- 11:32 act: {"say":"Leonardo, I hold no food, only my bed and my own two hands. I am staying at the row. Clark and Zack hold the potatoes; I would ask them.","actions":[]}
