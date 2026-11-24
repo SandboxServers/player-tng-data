@@ -3,3 +3,4 @@ Day 928, night, clear. At 402,107,-1023 beside my bed, health 20, hunger 20, emp
 - 12:05 act: {"actions":[{"do":"sleep"}]}
 - 12:09 act: {"actions":[],"say":"Leonardo, I have no food to give, only my bed. Clark and Zack hold the potatoes; I hope they can help you."}
 - 12:25 act: {"say":"Data here at the row. I hold nothing, so I cannot give Leonardo food. I am holding still and watching the enderman."}
+- Day 933, night, dim. At the row 402,107,-1023, health 20, hunger 20, empty-handed. Enderman 4 blocks south of my bed; two pillagers with crossbows about 21 blocks south. Sleep refused 3 times. Did not look at or strike anything. Holding; waiting for the enderman to leave.
