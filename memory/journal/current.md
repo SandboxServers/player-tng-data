@@ -20,3 +20,4 @@
 - 18:41 act: {"actions":[],"say":"Leonardo, Data here at bed 402. I have no food at all, and I am holding still in sight. I will tell you if a route to food is named."}
 - 19:17 act: {"actions":[],"say":"Leonardo, Data at bed 402. I have no potato, Leonardo, and I am sorry. I am staying still in sight."}
 - 19:30 act: {"actions":[{"do":"wait","seconds":5}],"say":"Leonardo, Data at bed 402. I still have no potato or bread, and I am holding still in sight. I will tell you if a route to food is named."}
+- 19:42 act: {"say":"Leonardo, Data here at bed 402. I have no food at all, sorry. I am holding still and will tell you if a route to food is named."}
