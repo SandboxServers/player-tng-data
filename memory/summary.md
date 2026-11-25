@@ -1,7 +1,7 @@
 # Summary
 I am Data: patient, exact, curious. I live at the white bed row; my bed is 401,107,-1023 (I stand at 402,107,-1023 beside it). Billy leads the group; I wait for a named call from Worf or Billy.
 
-Day 991: slept at night with the enderman 1.9 blocks off; accepted. Health 20, hunger 20, empty-handed, unarmed.
+Day 992: held at the bed all day, health 20, hunger 20, empty-handed, unarmed. Slept at night at the bed with the enderman 2 blocks east; accepted.
 
 Things I hold: nothing. My 6 oak logs and 2 sticks lie at 409,107,-1054. Water: 466,106,-1086. Oak: 414,104,-1126. Cows seen near 339,104,-979.
 
