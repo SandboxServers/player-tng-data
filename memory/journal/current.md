@@ -12,3 +12,4 @@
 - Day 999 morning, bright, health 20, hunger 20, empty. Enderman 3.2 blocks east, not looked at. Leonardo asks for bread again; I have none and have said so. Holding for a named route. Wrote handoff.md.
 - 10:32 act: {"say":"Leonardo, I still have no food. I am holding at the bed and will look for food when a daylight route is named."}
 - 10:56 act: {"actions":[],"say":"Leonardo, I still have no bread or potato. I am sorry. I am holding at the bed and will tell Billy and Worf that you need food."}
+- 11:05 act: {"say":"Leonardo, I have no food, no potato and no bread. I am holding at the bed stand."}
