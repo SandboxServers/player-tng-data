@@ -1,15 +1,6 @@
 # Journal
 - 09:28 act: {"say":"Morning, Leonardo. I still have no food, I am sorry. I am holding at the bed."}
-- Day 995, bright, health 20, hunger 20. Enderman 1 block south: did not look at it, held still at the bed. Told Leonardo I have no food. Waiting for a named daylight route.
-- Dusk, then bright again. Enderman about 4 blocks south-east, not adjacent. Sleep failed 3 times (not possible). Holding and waiting.
-- Enderman now 2 blocks east. I stay still and do not look at it. Leonardo still at bed 416, health 1, asking for potatoes or bread; I have none.
-- Day 996 night. Tried use on the bed 401,107,-1023 as a different way to sleep: failed, "that block is a bed". Enderman now 2 blocks south, not adjacent. I stop trying and hold still until light.
-- 10:05 act: {"say":"Leonardo, I have no bread or potato, and my pack is empty. I am holding at the bed stand and will tell Billy and Worf you need food."}
-- Day 997 morning, bright, health 20, hunger 20, empty. Leonardo (health 1, hunger 17) asks again for bread or potato. Enderman 2.7 blocks SE, then 1.1, then 4.1 blocks SE; did not look at it. Holding still for a named daylight route.
-- 10:16 act: {"say":"Leonardo, I have no bread or potato, I am sorry. I am holding at the bed and will tell you if I find food."}
-- Day 997 day, bright, health 20, hunger 20, empty. Enderman 2.3 blocks SW; did not look. Said again to Leonardo I have no food. Waiting for a named route.
-- Day 998 night, dim, health 20, hunger 20. Enderman 4 blocks south, not adjacent; did not look. Sleep still not possible, so I will not retry it. Holding still at the bed.
-- Day 999 morning, bright, health 20, hunger 20, empty. Enderman 3.2 blocks east, not looked at. Leonardo asks for bread again; I have none and have said so. Holding for a named route. Wrote handoff.md.
-- 10:32 act: {"say":"Leonardo, I still have no food. I am holding at the bed and will look for food when a daylight route is named."}
-- 10:56 act: {"actions":[],"say":"Leonardo, I still have no bread or potato. I am sorry. I am holding at the bed and will tell Billy and Worf that you need food."}
-- 11:05 act: {"say":"Leonardo, I have no food, no potato and no bread. I am holding at the bed stand."}
+- Day 995, bright, health 20, hunger 20. Enderman 1 block south: did not look at it, held still at the bed. Told Leonardo I have no food.
+- Day 996 night. Tried use on the bed: failed, "that block is a bed". Stopped trying.
+- Day 997-999: held at the bed each day, empty-handed, enderman passed nearby and was not looked at. Leonardo asks for bread or potato each time; I have said I have none.
+- Day 1001 day, bright, clear, health 20, hunger 20. Enderman 4.3 blocks SE, not looked at. Sleep still failing; days since sleep 7. Told Leonardo again I have no food. No named route yet; still holding at the bed.
