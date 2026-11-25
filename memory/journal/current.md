@@ -5,3 +5,8 @@
 - 17:16 act: {"say":"Leonardo, Data here. I still have no bread or potato. I am holding at my bed, health 20, and will tell you if a route to food is named."}
 - 17:28 act: {"say":"Data here at the bed stand. I have no bread or potato, Leonardo. I am holding still and watching for a daylight route."}
 - Day 1019 day, bright, clear, health 20, hunger 20, empty-handed. Enderman 3.2 east, not looked at. Leonardo (health 1, hunger 17) still needs food; told him again I have none. No named route, no food known. Holding at the bed stand. Sleep not retried (days since sleep 25).
+- 17:33 act: {"say":"Leonardo, I have no bread or potato, my pack is empty. I am holding at my bed and will tell you if food turns up."}
+- Day 1019 day, bright, health 20, hunger 20. Told Leonardo again I have no food. Enderman 4.1 south, not looked at. No named route. Holding at the bed stand.
+- Day 1019 dusk, dim, health 20, hunger 20. Enderman 2.9 south, not looked at. Leonardo says he is sleeping at his bed, still no food. Holding still; sleep not retried.
+- Day 1019 bright, health 20, hunger 20. Enderman 2.4 south-west, not looked at. Leonardo asks again for bread; I have none to give. Holding still.
+- Day 1020 morning, bright, health 20, hunger 20. Enderman 3.9 south, not looked at. Leonardo still at bed 416 with no food; he thanked me for staying in sight. No named route. Holding still.
