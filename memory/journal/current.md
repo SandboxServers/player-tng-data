@@ -20,3 +20,5 @@ Day 974, morning again. Enderman 2.8 south. Billy and Leonardo both hold with no
 - 07:02 act: {"say":"Data at the bed stand, night, holding still. Leonardo, I have no food to give, and I will tell you at once if I find any.","actions":[{"do":"wait","seconds":60}]}
 - 07:09 act: {"say":"Leonardo, Data still at the bed stand, health 20, hunger 20. No food, no weapon. I hold and will tell you if any food turns up.","actions":[{"do":"wait","seconds":60}]}
 - 07:15 say: {"text":"Leonardo, Data still at the bed stand. I have no food and I hold still. I will tell you at once if any turns up."}
+- 07:44 act: {"actions":[{"do":"wait","seconds":5}],"say":"Data at the bed stand, health 20, hunger 20, empty-handed. Night has come and the enderman is 3 blocks east. I am not looking at it. I will try to sleep i
+- 07:44 act: {"actions":[{"do":"wait","seconds":10}]}
