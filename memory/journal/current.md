@@ -17,3 +17,6 @@
 - Day 1021 dusk, dim, health 20, hunger 20. Enderman 4.2 south-east, not looked at. Holding still; waiting for true night to try sleep once more.
 - 18:33 act: {"actions":[{"do":"sleep"}]}
 - Day 1022 night, dim, health 20. Sleep refused again: enderman 4 blocks away, in range. Two refusals at night now; no third try until it leaves range. Holding still at bed stand; days since sleep 28.
+- 18:41 act: {"actions":[],"say":"Leonardo, Data here at bed 402. I have no food at all, and I am holding still in sight. I will tell you if a route to food is named."}
+- 19:17 act: {"actions":[],"say":"Leonardo, Data at bed 402. I have no potato, Leonardo, and I am sorry. I am staying still in sight."}
+- 19:30 act: {"actions":[{"do":"wait","seconds":5}],"say":"Leonardo, Data at bed 402. I still have no potato or bread, and I am holding still in sight. I will tell you if a route to food is named."}
