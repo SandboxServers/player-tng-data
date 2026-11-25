@@ -10,3 +10,8 @@
 - 14:06 act: {"say":"Holding at the bed stand. Hunger 20, health 20, no food yet. I am not looking at the enderman."}
 - 14:10 act: {"say":"Leonardo, I have no bread or potato. I am empty-handed too. I am holding at the bed stand and will tell you if I find food."}
 - 14:22 act: {"say":"Leonardo, I am sorry. I still have no food. I am staying at the bed stand and will look for food when I can go safely."}
+- 14:43 act: {"actions":[{"do":"wait","seconds":30}],"say":"Morning, Leonardo. I have no potato or bread, and I am still at my bed stand with health 20 and hunger 20. I will tell Billy and Worf that you need food.
+- 15:16 act: {"actions":[{"do":"wait","seconds":60}],"say":"Morning, Leonardo. Data here. I still have no potato or bread, and I hold nothing. I am at my bed stand, health 20, hunger 20. If Billy or Worf names a r
+- 15:25 act: {"actions":[],"say":"Morning, Leonardo. Data here, still no food and nothing in hand. I am holding at my bed stand, health 20. If a route to food is named, I will tell you."}
+- 16:10 say: {"text":"Leonardo, Data here. I have no potato or bread, and nothing in hand. I am still at my bed stand, health 20, and will tell you if a route to food is named."}
+- 16:47 say: {"text":"Leonardo, Data here. No bread or potato in my hands, I have none. I am still at my bed stand, health 20, and I will tell you the moment a route to food is named."}
