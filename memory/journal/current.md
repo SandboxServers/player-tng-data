@@ -14,3 +14,4 @@ Day 974, morning again. Enderman 2.8 south. Billy and Leonardo both hold with no
 - Day 985, daylight. At bed stand, health 20, hunger 20, empty-handed. Sleep refused by day. Enderman 4.4 south-east, not looked at. No route named, no food. Holding, waiting for a call from Worf or Billy.
 - Day 985, night. Enderman adjacent (0.7 south); sleep refused. Held still, never looked at or struck it. Health 20, hunger 20. Leonardo still asks for bread or a potato; I have none.
 - Day 986, morning. Still at the bed stand, health 20, hunger 20, empty-handed. Enderman adjacent (0.8 south), not looked at. No route named, no food. Holding.
+- 06:53 act: {"actions":[{"do":"wait","seconds":5}],"say":"Leonardo, Data here at the bed stand, health 20, hunger 20. I have no potato or bread, and I hold no food to give. I will tell you at once if I find any."
