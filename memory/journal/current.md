@@ -11,3 +11,5 @@
 - Day 1019 bright, health 20, hunger 20. Enderman 2.4 south-west, not looked at. Leonardo asks again for bread; I have none to give. Holding still.
 - Day 1020 morning, bright, health 20, hunger 20. Enderman 3.9 south, not looked at. Leonardo still at bed 416 with no food; he thanked me for staying in sight. No named route. Holding still.
 - 17:55 act: {"say":"Data here, at bed 402,107,-1023. I have no bread or potato, Leonardo, and I am sorry. I am holding still at the bed row and will tell Billy and Worf what I learn.","intent":{"goal":"hold_at_be
+- 18:05 act: {"actions":[{"do":"sleep"}],"say":"Data here at the bed. I am holding still and not looking at the enderman."}
+- Day 1021 night, dim, health 20, hunger 20. Sleep refused: enderman 3 blocks away, in range (2.1 south-east). Not retried. Holding still at bed stand; days since sleep 27. Next: wait for the enderman to leave range, then one try at sleep.
