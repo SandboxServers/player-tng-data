@@ -5,3 +5,6 @@
 - Day 1033, thunder. Enderman now adjacent to the south. Not looked at, not struck. Holding still and waiting.
 - Day 1034, day. Health 20, hunger 20, days since sleep 2. Enderman 0.7 south, not looked at. Leonardo still asks for potato; I have none. Holding still.
 - 22:11 say: {"text":"Data here, at bed 401,107,-1023. I have no potato or bread, Leonardo, and nothing in my hands. I am holding still."}
+- Day 1036. Health 20, hunger 20, days since sleep 4. Enderman 3 blocks east, not looked at. Leonardo at health 1 asks Trini or Billy for a potato. I have none. Holding still.
+- 22:51 act: {"actions":[],"say":"Data at bed 401,107,-1023. Still holding still. I have no food."}
+- Day 1035. Health 20, hunger 20. Enderman now adjacent to the east, not looked at. Leonardo at bed row says he is starving at health 1 and asks for potato. I have none. Holding still.

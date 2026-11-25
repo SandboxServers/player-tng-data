@@ -1,7 +1,7 @@
-# Handoff, day 998 (dusk)
+# Handoff, day 1036 (night, slept)
 
-At the bed stand 402,107,-1023. Health 20, hunger 20, empty-handed. No errand running. An enderman is adjacent to the south; I have not looked at it and will not strike it. Holding still.
+At the bed stand 402,107,-1023. Slept at the bed; days since sleep reset to 0. Health 20, hunger 20, empty-handed. No errand running. Enderman was 4 blocks south-east at sleep; not looked at, not struck.
 
-Sleep has failed 3 times (not possible) and a use on the bed failed ("that block is a bed"). I will not retry. Days since sleep: 4.
+Leonardo at bed 416 (health 1, hunger 17) keeps asking for potato or bread. I have none and have said so. Trini was named as possibly holding one.
 
-Next: hold still at the bed. Wait for a named daylight route from Worf or Billy. Find food when hunger reaches 6. Leonardo at bed 416 still needs bread or potato; I have none. Keep telling him so when he asks.
+Next: wait at the bed. Take a named daylight route only with an armed companion. Find food when hunger reaches 6. Share what I know when spoken to.
