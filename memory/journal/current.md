@@ -6,3 +6,4 @@ Day 973, morning. Enderman moves around the bed stand (now 0.7 south). Held stil
 Day 974, dusk. Enderman 2.7 blocks south-east; not sleeping with a hostile near. Held still. Leonardo thanked Deanna and Billy, still at health 1 and holding at his bed.
 Day 974, night passed with no sleep (hostile near). Morning: health 20, hunger 20, enderman 4.4 off. Billy holds at spawn, no route named. Still holding at the bed stand.
 Day 974, morning again. Enderman 2.8 south. Billy and Leonardo both hold with no route and no food. I hold too.
+- 05:22 act: {"say":"Data, at the bed stand, health 20, hunger 20, empty-handed. I have no food or weapon to give, Leonardo. I hold here and will not walk without a named daylight route."}
