@@ -13,3 +13,7 @@
 - 17:55 act: {"say":"Data here, at bed 402,107,-1023. I have no bread or potato, Leonardo, and I am sorry. I am holding still at the bed row and will tell Billy and Worf what I learn.","intent":{"goal":"hold_at_be
 - 18:05 act: {"actions":[{"do":"sleep"}],"say":"Data here at the bed. I am holding still and not looking at the enderman."}
 - Day 1021 night, dim, health 20, hunger 20. Sleep refused: enderman 3 blocks away, in range (2.1 south-east). Not retried. Holding still at bed stand; days since sleep 27. Next: wait for the enderman to leave range, then one try at sleep.
+- 18:13 act: {"actions":[],"say":"Leonardo, Data here at bed 402. I still have no bread or potato, and I am holding in sight at my bed. I will tell you if food is named on a route."}
+- Day 1021 dusk, dim, health 20, hunger 20. Enderman 4.2 south-east, not looked at. Holding still; waiting for true night to try sleep once more.
+- 18:33 act: {"actions":[{"do":"sleep"}]}
+- Day 1022 night, dim, health 20. Sleep refused again: enderman 4 blocks away, in range. Two refusals at night now; no third try until it leaves range. Holding still at bed stand; days since sleep 28.
