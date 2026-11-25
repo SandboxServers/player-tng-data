@@ -1,1 +1,7 @@
 # Journal
+- Night, day 1032, at bed stand 402,107,-1023. Health 20, hunger 20, empty-handed. Sleep refused: enderman 2.5 to 5 blocks SE. Did not look at it. Holding still and waiting.
+- Day 1033 dawn. Still at bed stand, health 20, hunger 20. Enderman wandered 4 blocks SE. Nothing new; still holding, no errand running.
+- Night, day 1033. Enderman 1.7 south, not looked at. Leonardo asked for potato or bread; told him I have none. Holding still.
+- Day 1033, thunder. Enderman now adjacent to the south. Not looked at, not struck. Holding still and waiting.
+- Day 1034, day. Health 20, hunger 20, days since sleep 2. Enderman 0.7 south, not looked at. Leonardo still asks for potato; I have none. Holding still.
+- 22:11 say: {"text":"Data here, at bed 401,107,-1023. I have no potato or bread, Leonardo, and nothing in my hands. I am holding still."}
