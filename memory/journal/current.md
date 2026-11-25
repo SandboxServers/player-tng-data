@@ -10,3 +10,7 @@ Day 974, night passed with no sleep (hostile near). Morning: health 20, hunger 2
 Day 974, morning again. Enderman 2.8 south. Billy and Leonardo both hold with no route and no food. I hold too.
 - 05:22 act: {"say":"Data, at the bed stand, health 20, hunger 20, empty-handed. I have no food or weapon to give, Leonardo. I hold here and will not walk without a named daylight route."}
 - 05:39 act: {"say":"Data, night 983, at the bed stand, health 20, hunger 20, empty-handed. Sleep refused: an enderman is near. Holding still and not looking at it.","intent":{"goal":"hold_at_bed_night","program":
+- 06:08 act: {"say":"Holding at the bed. Still no food and no route. I will wait for Worf or Billy.","actions":[]}
+- Day 985, daylight. At bed stand, health 20, hunger 20, empty-handed. Sleep refused by day. Enderman 4.4 south-east, not looked at. No route named, no food. Holding, waiting for a call from Worf or Billy.
+- Day 985, night. Enderman adjacent (0.7 south); sleep refused. Held still, never looked at or struck it. Health 20, hunger 20. Leonardo still asks for bread or a potato; I have none.
+- Day 986, morning. Still at the bed stand, health 20, hunger 20, empty-handed. Enderman adjacent (0.8 south), not looked at. No route named, no food. Holding.
