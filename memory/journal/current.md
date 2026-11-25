@@ -4,3 +4,6 @@
 - Day 1003 day, bright, health 20, hunger 20. Heard Zack is bringing potatoes to Leonardo from Trini. No route, no food for me.
 - 12:44 act: {"say":"Data here at the bed stand. I still have no food, Leonardo, and I am holding still until a named daylight route is called.","actions":[]}
 - 13:24 say: {"text":"Morning, Leonardo. I still have no food, and I am holding at my bed. I will tell you if I find any."}
+- Day 1007 night, dim, health 20, hunger 20. Enderman 3.9 south, not looked at. Sleep refused 3 times, not retrying. Set intent hold_at_bed (rest) and waiting for a named route or food.
+- 13:41 act: {"say":"Still holding at the bed stand. Night, health 20, hunger 20, no food, no named route yet. I will not look at the enderman.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake
+- 13:41 act: {"say":"Leonardo, I have no bread or potato, and I hold nothing. I am still at my bed stand. If I find food I will bring it to you.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wak
