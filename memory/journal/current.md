@@ -1,17 +1,5 @@
 # Journal
-- Day 1004 day, bright, health 20, hunger 20, empty-handed. Enderman 4.3 south-east, not looked at. Leonardo asked again for bread or potato; told him I have none. Heard Zack is bringing potatoes to Leonardo. No named route, no food known. Days since sleep 10; sleep refused. Holding at the bed stand.
-- Day 1003 night, dim, health 20, hunger 20. Enderman 3.8 south, not looked at. Holding at the bed.
-- Day 1003 day, bright, health 20, hunger 20. Heard Zack is bringing potatoes to Leonardo from Trini. No route, no food for me.
-- 12:44 act: {"say":"Data here at the bed stand. I still have no food, Leonardo, and I am holding still until a named daylight route is called.","actions":[]}
-- 13:24 say: {"text":"Morning, Leonardo. I still have no food, and I am holding at my bed. I will tell you if I find any."}
-- Day 1007 night, dim, health 20, hunger 20. Enderman 3.9 south, not looked at. Sleep refused 3 times, not retrying. Set intent hold_at_bed (rest) and waiting for a named route or food.
-- 13:41 act: {"say":"Still holding at the bed stand. Night, health 20, hunger 20, no food, no named route yet. I will not look at the enderman.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake
-- 13:41 act: {"say":"Leonardo, I have no bread or potato, and I hold nothing. I am still at my bed stand. If I find food I will bring it to you.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wak
-- 14:06 act: {"say":"Holding at the bed stand. Hunger 20, health 20, no food yet. I am not looking at the enderman."}
-- 14:10 act: {"say":"Leonardo, I have no bread or potato. I am empty-handed too. I am holding at the bed stand and will tell you if I find food."}
-- 14:22 act: {"say":"Leonardo, I am sorry. I still have no food. I am staying at the bed stand and will look for food when I can go safely."}
-- 14:43 act: {"actions":[{"do":"wait","seconds":30}],"say":"Morning, Leonardo. I have no potato or bread, and I am still at my bed stand with health 20 and hunger 20. I will tell Billy and Worf that you need food.
-- 15:16 act: {"actions":[{"do":"wait","seconds":60}],"say":"Morning, Leonardo. Data here. I still have no potato or bread, and I hold nothing. I am at my bed stand, health 20, hunger 20. If Billy or Worf names a r
-- 15:25 act: {"actions":[],"say":"Morning, Leonardo. Data here, still no food and nothing in hand. I am holding at my bed stand, health 20. If a route to food is named, I will tell you."}
-- 16:10 say: {"text":"Leonardo, Data here. I have no potato or bread, and nothing in hand. I am still at my bed stand, health 20, and will tell you if a route to food is named."}
-- 16:47 say: {"text":"Leonardo, Data here. No bread or potato in my hands, I have none. I am still at my bed stand, health 20, and I will tell you the moment a route to food is named."}
+- Day 1018 night, dim, health 20, hunger 20, empty-handed. Enderman 3.9 south, not looked at, not adjacent. Heard Leonardo (health 1) still has no food; Trini or Zack may bring a potato. Holding at the bed stand 402,107,-1023. Sleep not retried (refused before).
+- Day 1017 night, dim, health 20, hunger 20. Enderman 2.3 south-west, not looked at. Leonardo asked again for bread or potato; told him I have none. No named route, no food known.
+- Day 1004 day, bright, health 20, hunger 20. Heard Zack is bringing potatoes to Leonardo. No route, no food for me.
+- 17:16 act: {"say":"Leonardo, Data here. I still have no bread or potato. I am holding at my bed, health 20, and will tell you if a route to food is named."}
