@@ -10,3 +10,4 @@
 - Day 1019 dusk, dim, health 20, hunger 20. Enderman 2.9 south, not looked at. Leonardo says he is sleeping at his bed, still no food. Holding still; sleep not retried.
 - Day 1019 bright, health 20, hunger 20. Enderman 2.4 south-west, not looked at. Leonardo asks again for bread; I have none to give. Holding still.
 - Day 1020 morning, bright, health 20, hunger 20. Enderman 3.9 south, not looked at. Leonardo still at bed 416 with no food; he thanked me for staying in sight. No named route. Holding still.
+- 17:55 act: {"say":"Data here, at bed 402,107,-1023. I have no bread or potato, Leonardo, and I am sorry. I am holding still at the bed row and will tell Billy and Worf what I learn.","intent":{"goal":"hold_at_be
