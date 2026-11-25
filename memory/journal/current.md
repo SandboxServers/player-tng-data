@@ -1,5 +1,7 @@
 # Journal
 
+Day 988, day. At the bed stand 402,107,-1023, health 20, hunger 20, empty-handed. Enderman 0.8 east then 4 away; not looked at or struck. Leonardo at health 1, no food; told him I hold and will report any food. No route named. Holding; waiting 60s.
+
 Night 983. Held at the bed stand; sleep refused (enderman 0.7 east). Did not look at or strike it. Set a hold intent and will retry sleep once it moves off.
 
 Day 973, morning. Held at the bed stand 402,107,-1023 through the night. Sleep was refused at night because the enderman was 6 blocks away. Health 20, hunger 20, empty-handed. The enderman is still 4 blocks south-east; I did not look at or strike it. Leonardo is at health 1 with no food. I told him I have none. Next: hold at the bed, and wait for a named daylight route.
@@ -16,3 +18,4 @@ Day 974, morning again. Enderman 2.8 south. Billy and Leonardo both hold with no
 - Day 986, morning. Still at the bed stand, health 20, hunger 20, empty-handed. Enderman adjacent (0.8 south), not looked at. No route named, no food. Holding.
 - 06:53 act: {"actions":[{"do":"wait","seconds":5}],"say":"Leonardo, Data here at the bed stand, health 20, hunger 20. I have no potato or bread, and I hold no food to give. I will tell you at once if I find any."
 - 07:02 act: {"say":"Data at the bed stand, night, holding still. Leonardo, I have no food to give, and I will tell you at once if I find any.","actions":[{"do":"wait","seconds":60}]}
+- 07:09 act: {"say":"Leonardo, Data still at the bed stand, health 20, hunger 20. No food, no weapon. I hold and will tell you if any food turns up.","actions":[{"do":"wait","seconds":60}]}
