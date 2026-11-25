@@ -7,3 +7,6 @@
 - Day 1007 night, dim, health 20, hunger 20. Enderman 3.9 south, not looked at. Sleep refused 3 times, not retrying. Set intent hold_at_bed (rest) and waiting for a named route or food.
 - 13:41 act: {"say":"Still holding at the bed stand. Night, health 20, hunger 20, no food, no named route yet. I will not look at the enderman.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake
 - 13:41 act: {"say":"Leonardo, I have no bread or potato, and I hold nothing. I am still at my bed stand. If I find food I will bring it to you.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wak
+- 14:06 act: {"say":"Holding at the bed stand. Hunger 20, health 20, no food yet. I am not looking at the enderman."}
+- 14:10 act: {"say":"Leonardo, I have no bread or potato. I am empty-handed too. I am holding at the bed stand and will tell you if I find food."}
+- 14:22 act: {"say":"Leonardo, I am sorry. I still have no food. I am staying at the bed stand and will look for food when I can go safely."}
