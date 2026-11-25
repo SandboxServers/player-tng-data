@@ -11,3 +11,4 @@
 - Day 998 night, dim, health 20, hunger 20. Enderman 4 blocks south, not adjacent; did not look. Sleep still not possible, so I will not retry it. Holding still at the bed.
 - Day 999 morning, bright, health 20, hunger 20, empty. Enderman 3.2 blocks east, not looked at. Leonardo asks for bread again; I have none and have said so. Holding for a named route. Wrote handoff.md.
 - 10:32 act: {"say":"Leonardo, I still have no food. I am holding at the bed and will look for food when a daylight route is named."}
+- 10:56 act: {"actions":[],"say":"Leonardo, I still have no bread or potato. I am sorry. I am holding at the bed and will tell Billy and Worf that you need food."}
