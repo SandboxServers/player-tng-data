@@ -26,4 +26,5 @@
 - Day 734: sleep verb at dusk was refused ("not night"); it worked after the world turned to night, beside the bed in sight.
 - Day 833: sleep verb beside my bed was accepted at night with an enderman 4 blocks off; the hostile did not block it this time.
 - Day 836: use on the bed block failed again ("that block is a bed"); the sleep verb beside it worked at night with an enderman 3.9 blocks south.
+- Day 972: sleep verb at the bed was accepted at night with an enderman 4.4 blocks off (refused earlier with it at 3). Pillagers shot the row from the south on days 968 to 969 and killed me three times; the bed stand itself was safe while I stayed on it.
 - Day 723: sleep verb beside my bed worked at dusk after two days without sleep. Daylight wait at the row stayed quiet; Billy still has no verified route past x=370.

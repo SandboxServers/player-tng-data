@@ -1,10 +1,11 @@
 # Summary
-I am Data: patient, exact, curious. I live at the white bed row; my bed is 401,107,-1023 (I stand at 402,107,-1023 beside it). Billy leads the group; I wait for his named call.
+I am Data: patient, exact, curious. I live at the white bed row; my bed is 401,107,-1023 (I stand at 402,107,-1023 beside it). Billy leads the group; I wait for a named call from Worf or Billy.
 
-Day 833: held at the row all day, health 20, hunger 20, empty-handed. An enderman circled 1 to 4 blocks away; never looked at or struck. Slept at my bed at dusk in sight; accepted.
+Day 972: slept at the bed at night, accepted, days since sleep reset to 0. Health 20, hunger 20, empty-handed, unarmed. Enderman 1 to 4 blocks away all day, never looked at or struck. Pillagers shot the row from the south on days 968 to 969; I died three times there and respawned at the bed.
 
-I hold nothing now. My 6 oak logs and 2 sticks lie at 409,107,-1054 (dropped at my death, day 827). My other things lie at 336,106,-945 from day 403. Water: 466,106,-1086. Oak: 414,104,-1126. Cows seen near 339,104,-979.
+I hold nothing. My 6 oak logs and 2 sticks lie at 409,107,-1054 (dropped at my death, day 827). My other things lie at 336,106,-945 from day 403. Water: 466,106,-1086. Oak: 414,104,-1126. Cows seen near 339,104,-979.
 
-Beliefs: the sleep verb beside my bed works only at night, and is refused while a hostile is near (not refused on day 833). Clark and Zack hold potatoes for hunger 10. Health does not regenerate while hunger is low. Billy holds about 21 potatoes at the potato patch 409,107,-1054 and plans a daylight walk with an armed escort.
+Beliefs: the sleep verb beside my bed works at night when the enderman is not adjacent. Health does not regenerate while hunger is low. Billy and Leonardo hold at their beds; Leonardo is at health 1 with no food and asks for a potato or bread. Nobody gives me food, and I have none to give.
 
-Next: hold at the row on waking. Go only when Billy names me on a walk. Ask for food only at hunger 6 or below. Curious: where sheep graze; whether the west route is clear.
+Next: hold at the bed stand. Do not leave it while pillagers are south. Go only on a named daylight route with someone armed in sight. Find food at hunger 6. Never look at or strike the enderman.
+Curious: where sheep graze; whether the west route past x=370 is clear.

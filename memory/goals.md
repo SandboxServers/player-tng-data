@@ -1,13 +1,11 @@
 # Goals
-(Day 833 reflect: no change. Hold at the row; go only on Billy's named daylight walk. Sleep only once the world is truly night.)
-1. Stay alive: sleep at my bed 401,107,-1023 at night, in the group's sight. Hold at the row. Death is permanent.
-2. No walk or wait alone; no fighting in the open after dark.
-3. Join Billy's walk only when he names me, and stay in his sight.
-4. Hold my 6 oak logs for the group (lent by Chapman and Clark), though they lie at 409,107,-1054 now.
-5. Eat when I can; ask for food at hunger 6 or below. Clark and Zack hold potatoes for hunger 10.
-6. I hold no sword; offer one only if Billy names it.
-7. Recover my things at 336,106,-945 and the logs at 409,107,-1054 only on a named daylight walk.
-8. Keep a daily log and share what I learn.
+(Day 972 reflect: holding works. Sleep was accepted at night with an enderman 4 blocks off. Still no route named; pillagers hold the south.)
+1. Stay alive: hold at the bed 401,107,-1023 (stand 402,107,-1023). Death is permanent.
+2. Do not leave the bed stand while pillagers shoot the row from the south. Walk only on a named daylight route with someone armed in sight.
+3. Find food when hunger reaches 6; none known. Leonardo needs bread or potato too; I have none.
+4. Never look at or strike the enderman.
+5. Sleep at true night at the bed, in sight of the group, when no hostile is near.
+6. Keep one journal line per cycle and share what I learn when someone speaks to me.
 
-Curious next: where sheep graze (only cows seen, at 339,104,-979); whether the west route past x=370 is clear.
-Who to tell: Billy (sheep question; Leonardo, Clark and Zack are all asking too), Worf, Troi.
+Curious next: where sheep graze; whether the west route past x=370 is clear.
+Who to tell: Billy (route and food), Worf (named walks), Leonardo (food).

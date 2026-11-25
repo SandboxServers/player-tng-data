@@ -1,5 +1,1 @@
-1	1	1	Day 928, night, clear. At 402,107,-1023 beside my bed, health 20, hunger 20, empty-handed. Tried sleep at night: refused, enderman 3 blocks away. I did not look at or strike it. Holding at the row per goals; no walk named by Billy. Days since sleep: 24.
-2	2	2	- Day 933 to 946: held at the row each day and night. Enderman came close often, never looked at or struck. Sleep refused several times (hostile near). Leonardo asks for food; I hold none. Billy says routes are for Worf to name. Days since sleep: 42.
-3	3	3	- Day 947 to 962: held at the row through day and night. Enderman 1 to 4 blocks away, never looked at or struck. Sleep refused while hostile near. Pillagers 20 to 21 south. No walk named. Leonardo asks for food; I hold none.
-4	4	4	- Day 963 to 964: still at the bed, health 20, hunger 20, empty-handed. Billy checking for open air, names no route yet. Leonardo at health 1 asks for food; I hold none. Holding.
-5	- Day 965 to 967: held at bed 401,107,-1023 through night and day. Enderman 0.8 to 4.4 away, never looked at or struck. Pillagers 20 south. Leonardo (health 1, no food) said good morning and will not walk without a named daylight call. No walk named for me. Days since sleep 12.
+# Journal
