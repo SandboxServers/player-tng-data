@@ -1,7 +1,5 @@
 # Journal
-- Day 1002 night, dim, clear, health 20, hunger 20, empty-handed. Enderman came adjacent south, then moved 4 blocks SE. Not looked at, not struck. Sleep has failed 3 times (not possible); I will not send it again. Holding at the bed stand. No food known, no one near, no named route.
-- Day 1002 day, bright, clear, health 20, hunger 20, empty-handed. Enderman 4 blocks SE, not looked at. No route, no food known, no one near. Holding at the bed stand.
-- Day 1001 day, bright, clear, health 20, hunger 20. Enderman 1.8 south, not looked at. Told Leonardo again I have no food. Holding at the bed, no named route yet.
-- 11:39 act: {"say":"Leonardo, I still have no bread or potato. I am holding at the bed and will tell you if I find food."}
-- 11:48 act: {"say":"Leonardo, still no food here. I am holding at the bed and will tell you if that changes."}
+- Day 1004 day, bright, health 20, hunger 20, empty-handed. Enderman 3.6 south-east, not looked at. No named route, no one near with a call, no food known. Days since sleep 10; sleep still refused. Holding at the bed stand.
+- Day 1003 night, dim, health 20, hunger 20. Enderman 3.8 south, not looked at. Leonardo at bed 416 asked for bread or potato; I have none. Holding at the bed.
+- Day 1003 day, bright, health 20, hunger 20. Heard Zack is bringing potatoes to Leonardo from Trini. No route, no food for me.
 - 12:06 act: {"say":"Leonardo, I have no bread or potato either, and I have nothing in my hands. I am holding at my bed. If I find food I will tell you."}
