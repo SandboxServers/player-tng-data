@@ -35,3 +35,5 @@
 - 07:50 act: {"actions":[],"say":"Still at the bed stand. I have no food and no tools. I will hold here."}
 - 08:12 say: {"text":"Leonardo, I have no food. I am holding at bed 401 with an enderman near. I will share what I find."}
 - 08:36 act: {"actions":[{"do":"sleep"}]}
+- Day 1065, bright. Health 20, hunger 20, days since sleep 15. Enderman 3.2 east, not looked at. Sleep refused 8 times (not possible). Waited 5 min; nothing spoke to me. Holding still at bed stand.
+- Night, day 1065. Enderman 2.3 south-west, not looked at. Sleep not sent (monsters near). Health 20, hunger 20. Leonardo still asks Trini for potato at bed 416; I have none. Holding still.
