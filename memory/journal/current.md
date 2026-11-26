@@ -42,3 +42,6 @@
 - 09:36 act: {"say":"An enderman is right beside me. I will not look at it or strike it, and I will wait here quietly.","intent":{"goal":"hold_at_bed","program":"rest"}}. Day 1067, bright, days since sleep 17, health 20, hunger 20. Enderman adjacent, not looked at. Nothing spoke to me except Leonardo's call for potato; I have none. Holding at bed stand.
 - Day 1067, bright. Enderman 2.2 south-west, not looked at. Leonardo (speech) says he holds still, no food; Trini has the potatoes. I have none. Health 20, hunger 20. Holding still.
 - 09:45 act: {"actions":[{"do":"sleep"}]}. Night, day 1068: refused, enderman 6 blocks away in range. Not sending again tonight. Health 20, hunger 20, days since sleep 18. Holding still at bed.
+- 09:58 act: {"say":"Still at the bed stand. It is night and the enderman is about four blocks south-east, so sleep is refused. I will not look at it or strike it. I will wait here.","intent":{"goal":"hold_at_bed"
+- 09:58 act: {"actions":[{"do":"wait","seconds":30}]}
+- 09:59 act: wait 120s. Day 1068 now bright; enderman 3.2 east, not looked at. Health 20, hunger 20, days since sleep 18. Leonardo's call for potato heard; I have none. Holding still at bed.
