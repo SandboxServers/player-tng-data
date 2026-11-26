@@ -6,3 +6,4 @@
 - Day 1100, night: enderman 4.1 SE. Sleep at the bed worked after 13 refusals; days since sleep 0. Health 20, hunger 20. Leonardo still has no food and says he is holding.
 - Day 1099, day: enderman 4.1 blocks south, no damage. Leonardo says he is holding, still no food. Still at bed stand; not looking, not striking.
 - 19:38 act: {"say":"Data here at the bed, 402,107,-1023. I have no food either, Leonardo. I am holding still and will tell Billy and Worf what I learn."}
+- 21:20 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}}]}
