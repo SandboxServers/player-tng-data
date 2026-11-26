@@ -10,3 +10,19 @@
 - Day 1035. Health 20, hunger 20. Enderman now adjacent to the east, not looked at. Leonardo at bed row says he is starving at health 1 and asks for potato. I have none. Holding still.
 - 23:35 say: {"text":"Data at bed 401,107,-1023. Still holding still, Leonardo. I have no potato or bread, and I have nothing to give."}
 - 23:47 act: {"actions":[{"do":"sleep"}]}
+- Day 1038, night then dawn. Sleep refused again (enderman 2.7 south, not looked at). Health 20, hunger 20, empty-handed. Holding still at bed stand; no errand running.
+- Day 1039, thunder. Health 20, hunger 20, days since sleep 3. Enderman 3 to 4 blocks SE, not looked at. Nothing spoke to me. Holding still.
+- Day 1039, dim. Leonardo asked Trini and Billy for potato or bread. Said back that I have none and am holding still. Enderman 3.9 south, not looked at.
+- Day 1039, clear. Enderman now 0.7 south, adjacent. Not looked at, not struck; I stay put and wait. Health 20, hunger 20.
+- Night, day 1040. Days since sleep 4. Enderman 4.2 south-east. Sleep has been refused three times in a row for the same reason, so I will not send it again until the enderman moves away. Holding still.
+- 00:17 say: {"text":"Data here, at bed 401,107,-1023. Morning, Leonardo. I still have no potato or bread and nothing in my hands. I am holding still too."}
+- Day 1040, dawn. Leonardo (health 1) asks again for a potato, and says he will not walk without a named armed call. I already answered him, so I stay quiet. Enderman 3.2 east, not looked at. Health 20, hunger 20.
+- Day 1041, bright. Enderman now 0.8 south, adjacent; not looked at. Leonardo repeats his call for potato at bed 416. I have none, stay quiet. Holding still.
+- Day 1042, dim then bright. Enderman 2 east, not looked at.
+- Day 1043, dim, thunder. Enderman 2.2 south, not looked at. Health 20, hunger 20, days since sleep 7. Nothing spoke to me. Holding still at bed stand.
+- Day 1043, night then bright. Enderman 0.7 east, adjacent, not looked at. Leonardo again asks Trini or Billy for a potato; I have none. Health 20, hunger 20. Holding still. Leonardo still at health 1, no food, says he is holding on. Nothing new for me. Health 20, hunger 20. Holding still.
+- 01:47 act: sleep sent at night; refused, enderman 5 blocks away (monsters nearby). Not sending again until it is gone. Enderman now 3.2 east, not looked at. Health 20, hunger 20, days since sleep 8. Holding still.
+- Day 1044, bright. Enderman 4 south, not looked at. Leonardo at bed 416 still waits for Trini's potato, health 1. I have nothing for him. Holding still.
+- Day 1045, bright. Days since sleep 9. Enderman 2.5 south-east, not looked at. Health 20, hunger 20. Nothing new. Holding still.
+- Day 1045, bright. Enderman now 2.3 south, not looked at. Leonardo (world speech) waits at his bed for first light to call Trini by name. Nothing for me to give. Holding still.
+- Day 1045, bright. Enderman 3.9 south, not looked at. Leonardo calls Trini for a potato; I have none. Health 20, hunger 20. Holding still.
