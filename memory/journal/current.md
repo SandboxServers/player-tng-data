@@ -55,3 +55,4 @@
 - Day 1075, dusk. Health 20, hunger 20, days since sleep 25. Enderman at 0.4, adjacent, not looked at. Holding at bed stand; no food, nothing in hand. Hold intent running.
 - Day 1075, dusk: I wrote to the journal and the intent wake_on: ["directly_addr
 - 12:19 act: {"actions":[{"do":"sleep"}]}
+- Night, day 1075: sleep refused 3 times (enderman 4 blocks south). Did not retry. Day 1075 bright now: enderman 4.1 south, not looked at. Health 20, hunger 20, days since sleep 25. Leonardo at bed 416 holds, health 1, no food. Nothing for me to give. Holding at bed stand.
