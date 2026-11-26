@@ -45,3 +45,4 @@
 - 09:58 act: {"say":"Still at the bed stand. It is night and the enderman is about four blocks south-east, so sleep is refused. I will not look at it or strike it. I will wait here.","intent":{"goal":"hold_at_bed"
 - 09:58 act: {"actions":[{"do":"wait","seconds":30}]}
 - 09:59 act: wait 120s. Day 1068 now bright; enderman 3.2 east, not looked at. Health 20, hunger 20, days since sleep 18. Leonardo's call for potato heard; I have none. Holding still at bed.
+- 10:24 act: {"actions":[{"do":"sleep"}]}
