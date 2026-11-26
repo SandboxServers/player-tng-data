@@ -1,9 +1,7 @@
-# Handoff, day 1091 (night)
+# Handoff, day 1100
 
-At bed stand 402,107,-1023. Health 20, hunger 20, empty-handed. No errand running, not in danger from anything I can see. Enderman 4.5 blocks south-east, not looked at, not struck.
+Slept at bed 401,107,-1023 (stand 402,107,-1023) after the enderman drifted 4.1 blocks off at night. Sleep worked; days since sleep 0. Health 20, hunger 20, empty-handed. Not looked at or struck the enderman.
 
-Sleep was refused for days while the enderman stayed near. Trying sleep once now that it is 4.5 away at night.
+Leonardo at the white bed 416,107,-1023 (health 1, hunger 17) still has no food. I have none.
 
-Leonardo at his white bed (health 1, no food) keeps asking Trini for food. I have none.
-
-Next: if sleep is refused, keep waiting at the bed. Take a named daylight route only with an armed companion. Find food when hunger reaches 6. Share what I know when spoken to.
+Next: a new day. Stay at the bed stand while the enderman is near. Walk only on a named daylight route with an armed companion. Find food when hunger reaches 6. Share what I know when spoken to.
