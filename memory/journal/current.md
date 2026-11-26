@@ -51,3 +51,7 @@
 - Day 1073, bright. Dusk then night passed with the enderman 2 to 4 blocks east, not looked at. Days since sleep 23, health 20, hunger 20. Leonardo still waits for potato at bed 416. Holding still.
 - 11:34 act: {"actions":[{"do":"sleep"}],"say":"Holding at the bed. Going to sleep now; no food yet, I have none to share."}
 - Day 1073, night. Sleep refused again: enderman came adjacent (0.7 south). Not looked at, not struck. Holding still. Day returned (bright, enderman 2.3 SW, not looked at). Days since sleep 23, health 20, hunger 20. Nothing spoke to me. Holding at bed stand.
+- 12:19 act: {"say":"Data at the bed stand. An enderman is beside me; I am not looking at it or striking it. Holding still.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed"...] (first try rejected: max_block_operations must be at least 1; retried with 1, accepted)
+- Day 1075, dusk. Health 20, hunger 20, days since sleep 25. Enderman at 0.4, adjacent, not looked at. Holding at bed stand; no food, nothing in hand. Hold intent running.
+- Day 1075, dusk: I wrote to the journal and the intent wake_on: ["directly_addr
+- 12:19 act: {"actions":[{"do":"sleep"}]}
