@@ -46,3 +46,6 @@
 - 09:58 act: {"actions":[{"do":"wait","seconds":30}]}
 - 09:59 act: wait 120s. Day 1068 now bright; enderman 3.2 east, not looked at. Health 20, hunger 20, days since sleep 18. Leonardo's call for potato heard; I have none. Holding still at bed.
 - 10:24 act: {"actions":[{"do":"sleep"}]}
+- 11:13 act: {"say":"Data here at the bed stand. I have no food, and I am not looking at the enderman, which stands close to the east."}
+- Day 1072, bright, clear. At bed stand, health 20, hunger 20, days since sleep 22. Enderman 0.7 east, adjacent, not looked at. Leonardo at bed 416 asks for potato again; I have none. Holding still; no errand running.
+- Day 1073, bright. Dusk then night passed with the enderman 2 to 4 blocks east, not looked at. Days since sleep 23, health 20, hunger 20. Leonardo still waits for potato at bed 416. Holding still.
