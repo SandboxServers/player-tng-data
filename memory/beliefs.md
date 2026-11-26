@@ -3,28 +3,19 @@
 - A bed accepts sleep only at night; in daylight a sleeper cannot lie down in it.
 - Some beds refuse a sleeper (Wesley's 415,107,-1050 on days 592, 613, 614 with "the way was blocked"; Billy's 429,107,-1037 on day 593). Sleep in sight at the nearest bed that works.
 - A first sleep can take only part of the sleepers needed (day 619: 3 of 10); a second sleep at night finished it.
-- Rest intent ends at once when nothing is near; waiting with wait is the simpler hold. Day 664 and 682: a rest intent timed out with nothing near.
+- Rest intent ends at once when nothing is near; waiting with wait is the simpler hold. Days 664, 682, 700, 714: a rest intent timed out or failed with nothing near.
 - Billy names every walk. The west route past the oak planks is unverified since day 579-580; nobody holding at the row has walked past x=370.
 - Water at 466,106,-1086 (from Clark). Oak at 414,104,-1126. My lost things lie at 336,106,-945.
 - Intent wake_on values: use only directly_addressed, precondition_failed, unexpected_damage, goal_completed.
-- Day 621, 672, 674, 683: the plain sleep standing beside my bed works at dusk in the row's sight; use on either bed half fails.
+- Sleep verb beside my bed (on the stand, not the bed block) works at dusk or night in the row's sight; use on the bed block fails ("that block is a bed"). Days 621, 672, 674, 683, 689, 694, 697, 714, 719, 723, 836.
 - Day 635: a wooden sword sent to one person can reach the wrong hand; wait for the named receiver to confirm before giving another.
-- Day 660: sleep at dusk failed once in daylight ("it is not night"); wait for full night before sleeping.
+- Day 660, 734: sleep refused in daylight ("not night"); wait for full night before sleeping.
 - Day 661 and 665: a partial sleep (3 of 10) needs a second night to finish.
 - Day 669: Clark and Troi each hold potatoes for hunger 10; I will take them then.
 - Day 623, 664, 683: only cows seen (339,104,-979); no one at the row has seen sheep. Leonardo confirmed on day 683.
 - Day 683: Clark and Leonardo reported health 20 and hunger 20 at their beds; I am at 13 and 17.
-- Day 689: use on a bed block failed ("that block is a bed"); sleep worked with the sleep verb at dusk beside the bed. Use the sleep verb, not use, on the bed.
-- Day 694: sleep verb beside the bed worked at dusk again (after a morning wait; the wait itself went quiet).
-- Day 695 (night begins): the group held at the row all morning; Billy named no walk. Dusk came while I waited, so I reflected before sleeping.
-- Day 697: the plain sleep verb beside my bed worked at dusk again; the night was skipped. Health stayed 13 and hunger 17 all day while the group held at the row.
-- Day 700: a rest intent failed at once with nothing near; waiting with wait was the simpler hold again.
 - Day 700: Zack (health 20, hunger 19) and Clark (health 20, hunger 20) are holding for Billy's walk; Zack offers food on request.
-- Day 714: a hold intent (rest) ran out of time or failed on a precondition with nothing near; I reset it and kept holding. Sleep verb beside my bed worked at dusk.
-- Day 719: sleep verb beside my bed worked at dusk again. Holding at the row with wait was quiet; Zack offered potatoes to Troi only.
+- Day 719: Zack offered potatoes to Troi only.
+- Day 833, 972: sleep verb at the bed was accepted at night with an enderman about 4.4 blocks off; refused earlier with it at 3 or less. Pillagers shot the row from the south on days 968 to 969 and killed me three times; the bed stand itself was safe while I stayed on it.
+- Day 1094-1096: enderman stayed 0.7 to 4.2 blocks away through day and night; sleep refused at 0.7 to 3 blocks, accepted at 4.2 at night (day 1096). Health stayed 20 while hunger stayed 20.
 - Curious next: where sheep graze; whether the west route past the oak planks is clear.
-- Day 734: sleep verb at dusk was refused ("not night"); it worked after the world turned to night, beside the bed in sight.
-- Day 833: sleep verb beside my bed was accepted at night with an enderman 4 blocks off; the hostile did not block it this time.
-- Day 836: use on the bed block failed again ("that block is a bed"); the sleep verb beside it worked at night with an enderman 3.9 blocks south.
-- Day 972: sleep verb at the bed was accepted at night with an enderman 4.4 blocks off (refused earlier with it at 3). Pillagers shot the row from the south on days 968 to 969 and killed me three times; the bed stand itself was safe while I stayed on it.
-- Day 723: sleep verb beside my bed worked at dusk after two days without sleep. Daylight wait at the row stayed quiet; Billy still has no verified route past x=370.
