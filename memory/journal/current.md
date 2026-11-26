@@ -56,3 +56,9 @@
 - Day 1075, dusk: I wrote to the journal and the intent wake_on: ["directly_addr
 - 12:19 act: {"actions":[{"do":"sleep"}]}
 - Night, day 1075: sleep refused 3 times (enderman 4 blocks south). Did not retry. Day 1075 bright now: enderman 4.1 south, not looked at. Health 20, hunger 20, days since sleep 25. Leonardo at bed 416 holds, health 1, no food. Nothing for me to give. Holding at bed stand.
+- 13:03 act: {"actions":[{"do":"sleep"}]}
+- 13:19 act: {"actions":[{"do":"sleep"}]}
+- 13:31 act: {"actions":[{"do":"sleep"}]}
+- 13:39 say: {"text":"Data here at the bed stand. I have no food either, so I cannot help with bread or potato yet. I am holding still."}
+- 13:43 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1023}}],"say":null}
+- 14:20 say: {"text":"Leonardo, I have no potato or bread, sorry. I am holding at my bed too, with nothing in my hands."}

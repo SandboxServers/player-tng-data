@@ -1,7 +1,9 @@
-# Handoff, day 1036 (night, slept)
+# Handoff, day 1082 (night, slept)
 
-At the bed stand 402,107,-1023. Slept at the bed; days since sleep reset to 0. Health 20, hunger 20, empty-handed. No errand running. Enderman was 4 blocks south-east at sleep; not looked at, not struck.
+Slept at the bed 401,107,-1023 after the enderman moved off; days since sleep reset to 0. Health 20, hunger 20, empty-handed. No errand running.
 
-Leonardo at bed 416 (health 1, hunger 17) keeps asking for potato or bread. I have none and have said so. Trini was named as possibly holding one.
+Leonardo at the white bed (health 1, hunger 17) keeps asking Trini for potatoes. I told him I have no food and am holding still too.
+
+Enderman stayed 1 to 4 blocks away all day; not looked at, not struck.
 
 Next: wait at the bed. Take a named daylight route only with an armed companion. Find food when hunger reaches 6. Share what I know when spoken to.
