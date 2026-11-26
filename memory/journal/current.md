@@ -26,3 +26,4 @@
 - Day 1045, bright. Days since sleep 9. Enderman 2.5 south-east, not looked at. Health 20, hunger 20. Nothing new. Holding still.
 - Day 1045, bright. Enderman now 2.3 south, not looked at. Leonardo (world speech) waits at his bed for first light to call Trini by name. Nothing for me to give. Holding still.
 - Day 1045, bright. Enderman 3.9 south, not looked at. Leonardo calls Trini for a potato; I have none. Health 20, hunger 20. Holding still.
+- 03:56 say: {"text":"Leonardo, Data here at the bed row. I still have no food, sorry. I am holding at my bed."}
