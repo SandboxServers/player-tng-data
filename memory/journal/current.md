@@ -34,3 +34,4 @@
 - 07:26 say: {"text":"Data here, at the bed stand. I have no food either, Leonardo. I am holding still."}
 - 07:50 act: {"actions":[],"say":"Still at the bed stand. I have no food and no tools. I will hold here."}
 - 08:12 say: {"text":"Leonardo, I have no food. I am holding at bed 401 with an enderman near. I will share what I find."}
+- 08:36 act: {"actions":[{"do":"sleep"}]}
