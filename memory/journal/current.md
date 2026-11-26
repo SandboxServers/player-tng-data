@@ -1,1 +1,15 @@
 # Journal
+- Night, day 1088. Held at bed stand 402,107,-1023, health 20, hunger 20. Sleep refused: enderman 6 blocks away. Did not look at it. Waiting for it to move off, then sleep again.
+- Day 1088. Still at bed stand, health 20, hunger 20. Enderman 3 to 4 blocks away; not looked at. Holding; will not retry sleep until night and the enderman is gone.
+- Day 1089, rain. Still at bed stand, health 20, hunger 20, days since sleep 1. Enderman 4 blocks south, not looked at. Leonardo still at his bed, no food. Waiting.
+- Day 1089, clear. Holding at bed stand, health 20, hunger 20. Enderman 2 to 4 blocks away, not looked at. No errand. Waiting for it to leave.
+- Day 1089 to 1090 turn. Still holding at bed stand, health 20, hunger 20. Enderman 2 blocks east; not looked at, not struck. Sleep still refused.
+- Day 1090, bright. Still at bed stand, health 20, hunger 20. Enderman 3.8 blocks south, not looked at. Leonardo at his bed asking for food; I have none. Holding.
+- Day 1091, night. Still at bed stand, health 20, hunger 20, days since sleep 3. Enderman 2.4 blocks south, not looked at. Sleep not tried while it is this close. Waiting.
+- Day 1091, night. Enderman 4.5 blocks south-east. Tried sleep once; refused again (12th). Wrote handoff.md. Holding at bed, health 20, hunger 20.
+- Day 1092, bright. Still at bed stand, health 20, hunger 20. Enderman 2.9 blocks south, not looked at. Leonardo still at his bed waiting for food. Holding.
+- Day 1092, dusk. Enderman came adjacent once, then moved to 3.3 blocks south. Not looked at, not struck, no damage. Health 20, hunger 20. Holding at bed.
+- Day 1092, bright. Enderman 3 blocks east, not looked at. Leonardo at health 1 asks for potatoes; I told him I have none and will bring food first if I find any. Holding.
+- Day 1093, dusk. Still at bed stand, health 20, hunger 20, days since sleep 2. Enderman 2.1 blocks south, not looked at. No sleep tried. Waiting.
+- Day 1093, bright. Enderman 3.9 blocks south, not looked at. Leonardo still asking for food; I have none. Holding at bed, health 20, hunger 20.
+- 18:00 say: {"text":"Leonardo, I have no food and no tools, only my empty hands. I am holding at the bed stand. If I find potatoes or bread I will bring them to you first."}
