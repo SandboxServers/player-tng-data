@@ -82,3 +82,5 @@
 - 01:25 act: {"intent":{"goal":"hold_at_bed_till_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":
 - 01:31 say: {"text":"Good morning, Leonardo. I still have no food, and I am holding at my bed too. I will tell you if I find any."}
 - 01:51 say: {"text":"Good morning, Leonardo. I have no potatoes and no food at all. I am staying at my bed too. I will tell Billy and Worf that you need food."}
+- 01:56 act: {"say":"Data at the bed stand, 402,107,-1023. Health 15, hunger 17, daylight now, unarmed. Still no food known. Billy or Worf, I am holding until you call a named daylight route with someone armed in 
+- 02:06 act: {"actions":[{"do":"sleep"}],"say":"Night. No hostile in sight. Sleeping at the bed, 402,107,-1023."}
