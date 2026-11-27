@@ -7,3 +7,4 @@
 - Day 1142 morning: still at the stand, hunger 17, no food, no named call. Asked Billy, Worf, Trini for food or a named armed route. Waiting.
 - 10:37 act: {"say":"Morning. Data at the stand, hunger 17, unarmed. Billy, Worf, Trini: if you have food or an armed daylight route, please name me. I will wait here.","intent":{"goal":"hold_for_named_armed_call"
 - 10:47 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1023}}],"say":"It is night and I am going to rest at the bed. I still have no food."}
+- 10:48 act: {"say":"Good morning. I am still at the stand, unarmed with no food. Is anyone near who can point me to food?","intent":{"goal":"hold_for_named_escort","program":"rest","arguments":{},"wake_on":["dire
