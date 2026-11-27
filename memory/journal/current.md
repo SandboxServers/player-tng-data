@@ -79,3 +79,5 @@
 - 01:06 act: {"actions":[{"do":"withdraw","at":{"x":405,"y":107,"z":-1023},"item":"bread","count":1}]}
 - 01:10 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night. No hostile in sight. I am going to sleep at the bed, 402,107,-1023."}
 - 01:20 say: {"text":"Data here at the bed stand. Health and hunger full, no food yet. I will hold here until Billy or Worf calls a named daylight route."}
+- 01:25 act: {"intent":{"goal":"hold_at_bed_till_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":
+- 01:31 say: {"text":"Good morning, Leonardo. I still have no food, and I am holding at my bed too. I will tell you if I find any."}
