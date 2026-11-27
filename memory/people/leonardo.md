@@ -1,2 +1,3 @@
 # Leonardo
-Neighbour at the white bed row, 416,107,-1023. Keeps asking Trini for potatoes at 423; has an empty pack and no food. Honest and patient, like me. Trust 60. Why: he speaks plainly and thanked me for passing word to Billy and Worf.
+
+Waits at the white bed at 416,107,-1023 with no food and an empty pack. Patient and clear about what he needs. Trust: 60. He is honest, and waits for a named call before walking, as I do. He asks Trini about potatoes at 423; I have no sign yet that she has any.

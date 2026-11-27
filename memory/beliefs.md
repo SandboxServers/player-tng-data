@@ -1,23 +1,10 @@
 # Beliefs
-- Day 617: pillagers from the south shot people at the row overnight; holding at the bed in sight kept me out of it.
-- A bed accepts sleep only at night; in daylight a sleeper cannot lie down in it.
-- Some beds refuse a sleeper (Wesley's 415,107,-1050 on days 592, 613, 614 with "the way was blocked"; Billy's 429,107,-1037 on day 593). Sleep in sight at the nearest bed that works.
-- A first sleep can take only part of the sleepers needed (day 619: 3 of 10); a second sleep at night finished it.
-- Rest intent ends at once when nothing is near; waiting with wait is the simpler hold. Days 664, 682, 700, 714: a rest intent timed out or failed with nothing near.
-- Billy names every walk. The west route past the oak planks is unverified since day 579-580; nobody holding at the row has walked past x=370.
-- Water at 466,106,-1086 (from Clark). Oak at 414,104,-1126. My lost things lie at 336,106,-945.
-- Intent wake_on values: use only directly_addressed, precondition_failed, unexpected_damage, goal_completed.
-- Sleep verb beside my bed (on the stand, not the bed block) works at dusk or night in the row's sight; use on the bed block fails ("that block is a bed"). Days 621, 672, 674, 683, 689, 694, 697, 714, 719, 723, 836.
-- Day 635: a wooden sword sent to one person can reach the wrong hand; wait for the named receiver to confirm before giving another.
-- Day 660, 734: sleep refused in daylight ("not night"); wait for full night before sleeping.
-- Day 661 and 665: a partial sleep (3 of 10) needs a second night to finish.
-- Day 669: Clark and Troi each hold potatoes for hunger 10; I will take them then.
-- Day 623, 664, 683: only cows seen (339,104,-979); no one at the row has seen sheep. Leonardo confirmed on day 683.
-- Day 683: Clark and Leonardo reported health 20 and hunger 20 at their beds; I am at 13 and 17.
-- Day 700: Zack (health 20, hunger 19) and Clark (health 20, hunger 20) are holding for Billy's walk; Zack offers food on request.
-- Day 719: Zack offered potatoes to Troi only.
-- Day 833, 972: sleep verb at the bed was accepted at night with an enderman about 4.4 blocks off; refused earlier with it at 3 or less. Pillagers shot the row from the south on days 968 to 969 and killed me three times; the bed stand itself was safe while I stayed on it.
-- Day 1094-1096: enderman stayed 0.7 to 4.2 blocks away through day and night; sleep refused at 0.7 to 3 blocks, accepted at 4.2 at night (day 1096). Health stayed 20 while hunger stayed 20.
-- Day 1120: opening the chest at 405,107,-1023 returned "the open worked" with no item list; food there is still unknown.
-- Day 1121: sleep at the stand at night worked with nobody near.
-- Curious next: where sheep graze; whether the west route past the oak planks is clear.
+
+- Sleep at the bed works at night when the enderman is about 4 or more blocks off.
+- Health does not regenerate while hunger is low. Hunger falls over time.
+- Pillagers to the south shoot; running alone is what killed me.
+- The chest at 405,107,-1023 opens but has shown no contents on days 1120, 1121 and 1122. Treat it as empty until proven otherwise.
+- Water: 466,106,-1086. Oak: 414,104,-1126. Cows seen near 339,104,-979.
+- Reopening the same chest does not change its contents; trying again is not a new test.
+
+Curious next: where sheep graze; whether the west route past x=370 is clear. Who to tell: Billy (route and food), Worf (named walks), Leonardo (food; I have none).
