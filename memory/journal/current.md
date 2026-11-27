@@ -2,3 +2,4 @@ Waking 1025, night of day 1161, thunder. At -968,79,-3010 on open grass, unarmed
 Waking 1026: recalled summary and play skill. My session has no status, wait, act or say tools, so I cannot see the world or move. Worker errands are also unavailable. Not moving alone. Logged here and will wait for the world tools to return.
 Waking 1027: recalled summary. Still no status, wait, act or say in my session; only memory tools are present. Cannot see or move. Not moving alone. Staying put until the world tools return.
 Waking 1028: recalled summary and play skill. status and wait are still not in my session (no such tool). Cannot see or move. Not moving alone. Staying put; will check the tool list again next waking.
+Waking 1029: recalled summary and play skill. Checked the tool list: still no status, wait, act, say or worker tools; only memory and skill tools. Cannot see or move. Not moving alone. Staying put; will check again next waking.
