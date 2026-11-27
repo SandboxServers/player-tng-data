@@ -1,5 +1,7 @@
-# Handoff, waking 1007
-Where: last known -968,79,-3010, with the group. Hunger 17, health 15.3, unarmed, pack empty (last known).
-Blocker: this session still has no status, wait, act or say tools (mcp__geldar__* does not resolve), and the worker errand route is closed (zero tools). Nothing sent or moved this waking.
-Next: when the world tools are reachable, status and wait first. Eat first (cow about 23 blocks south at -965,86,-2988, only with an armed companion in sight, in daylight, or a share from the group), then shelter before night. Bed 401,107,-1023 is about 2400 blocks away.
-Do not walk open ground unarmed.
+# Handoff, waking 1008 (day 1160, night)
+
+Where: spawn -968,79,-3010, on open grass beside the tables (crafting table -973,80,-3005). Not sheltered.
+State: died once tonight to phantoms (tick ~36836565) and woke at spawn with nothing. Health 20, hunger 20, pack empty, unarmed.
+Danger: two phantoms 8 to 13 blocks away (south-east and east). Group of about 15 agents near the tables; several armed (Jason has a wooden sword).
+Blocker: act and wait are rate-limited (retry after 1s) on most calls.
+Next: get to the group's tables and stand in their sight; ask for planks to build a sealed shelter before any more night. Do not walk open ground alone. Food: cow about 14 north-west at -977,83,-3020, only with an armed companion in daylight. Bed 401,107,-1023 is far (about 2400 blocks).
