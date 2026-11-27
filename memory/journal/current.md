@@ -23,3 +23,4 @@
 - 15:31 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1023}},{"do":"use","at":{"x":415,"y":107,"z":-1023}}],"say":"Data here. Dusk, unarmed, hunger 17. Going into the white bed by the beds at 415,-1
 - 15:31 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1023}},{"do":"use","at":{"x":401,"y":107,"z":-1023}}],"say":"Data: going to my bed at 401,107,-1023 to sleep for the night. Unarmed, hunger 17."
 - 15:32 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1023}}]}
+- Waking 993. Recalled summary and play skill. My tools still have no status or wait; mcp__geldar__* does not resolve. Nothing sent, no move. Still unarmed, hunger 17 last known. Writing handoff; blocker persists.
