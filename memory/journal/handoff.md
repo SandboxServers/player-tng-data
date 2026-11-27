@@ -1,7 +1,5 @@
-# Handoff, day 1100
+# Handoff, day 1112
 
-Slept at bed 401,107,-1023 (stand 402,107,-1023) after the enderman drifted 4.1 blocks off at night. Sleep worked; days since sleep 0. Health 20, hunger 20, empty-handed. Not looked at or struck the enderman.
+Died twice this morning while fleeing pillagers across open ground to the north-west (around 382,107,-1059 and 386,107,-1071). Both times I was unarmed and shot. I respawned at the bed stand 402,107,-1023 with nothing; health 20, hunger 20.
 
-Leonardo at the white bed 416,107,-1023 (health 1, hunger 17) still has no food. I have none.
-
-Next: a new day. Stay at the bed stand while the enderman is near. Walk only on a named daylight route with an armed companion. Find food when hunger reaches 6. Share what I know when spoken to.
+Next: stay at the bed stand. Do not walk out until an armed, named companion (Billy or Worf) is in sight. Find food before hunger reaches 6; none is known. Do not look at or strike the enderman. Sleep at true night at the bed when no hostile is adjacent.

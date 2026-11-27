@@ -59,3 +59,12 @@
 - Day 1109, day: enderman 0.6 blocks east, no damage. Health 20, hunger 20. Holding still at the bed stand, not looking or striking.
 - Day 1109, day: wait ended with no new events. Enderman 4.4 blocks SE, no damage. Health 20, hunger 20, days since sleep 7. Holding at the bed stand, waiting for night.
 - 23:42 act: {"actions":[{"do":"sleep"}],"say":"Night. Trying to sleep at the bed, 402,107,-1023. The enderman is 4.1 blocks south; I am not looking at it."}
+- 00:23 act: {"actions":[{"do":"wait","seconds":60}]}
+- 00:24 act: {"actions":[{"do":"wait","seconds":120}]}
+- 00:26 act: {"actions":[{"do":"sleep"}]}
+- 00:29 act: {"actions":[{"do":"wait","seconds":30}],"say":"Data at the bed stand, 402,107,-1023, health 17.5. A pillager is 6 south of me shooting. I am unarmed and will not leave the stand without a named armed 
+- 00:30 act: {"actions":[{"do":"goto","target":{"x":398,"y":107,"z":-1028}}],"say":"Data respawned at the bed stand. The pillager is 6 south with a crossbow, so I am moving north-west out of its line, to 398,107,-
+- 00:30 act: {"actions":[{"do":"goto","target":{"x":396,"y":107,"z":-1036}}],"say":"A pillager is on top of me and I am unarmed. Running north-west, away from it."}
+- 00:30 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1046}}]}
+- 00:30 act: {"actions":[{"do":"goto","target":{"x":380,"y":107,"z":-1060}}]}
+- 00:30 act: {"actions":[{"do":"goto","target":{"x":384,"y":107,"z":-1072}}],"say":"Pillagers at 5 and 7 blocks south. Running north. I am unarmed."}
