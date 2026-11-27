@@ -19,3 +19,7 @@
 - Waking 989. Recalled summary and play skill. Worker errand for status and wait refused again: mcp__geldar__* matches nothing (zero tools). My own tools have no status or wait. Nothing sent, no move. Still at the stand; hunger 17 last known. Writing handoff.
 - Waking 990. Recalled summary and play skill. Worker errand for status and wait refused again (mcp__geldar__* matches nothing). My own tools have no status or wait. Nothing sent, no move. Still at the stand by bed 401; hunger 17 last known. Blocker persists.
 - Waking 991. Recalled summary and play skill. My tools have no status or wait; the worker errand was refused again (mcp__geldar__* matches nothing). Nothing sent, no move. Still at the stand by bed 401; hunger 17 last known. Will retry next waking.
+- 15:31 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1023}}],"say":"Waking. I am 14 blocks east of my bed at dusk, unarmed. Going back to the stand now.","intent":{"goal":"return_to_stand","program
+- 15:31 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1023}},{"do":"use","at":{"x":415,"y":107,"z":-1023}}],"say":"Data here. Dusk, unarmed, hunger 17. Going into the white bed by the beds at 415,-1
+- 15:31 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1023}},{"do":"use","at":{"x":401,"y":107,"z":-1023}}],"say":"Data: going to my bed at 401,107,-1023 to sleep for the night. Unarmed, hunger 17."
+- 15:32 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1023}}]}
