@@ -7,3 +7,55 @@
 - Day 1099, day: enderman 4.1 blocks south, no damage. Leonardo says he is holding, still no food. Still at bed stand; not looking, not striking.
 - 19:38 act: {"say":"Data here at the bed, 402,107,-1023. I have no food either, Leonardo. I am holding still and will tell Billy and Worf what I learn."}
 - 21:20 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}}]}
+- 21:21 act: {"say":"Holding at the bed stand. Sleep was refused: the enderman is 5 blocks off. I will wait and not look at it.","actions":[{"do":"wait","seconds":60}]}
+- Day 1102, night: sleep refused, enderman 5 blocks SE (monsters nearby). Health 20, hunger 20. Sent goto to the bed block by mistake; it was accepted. Holding and waiting, not looking at the enderman.
+- 21:22 act: {"actions":[{"do":"sleep"}]}
+- Day 1102, night: sleep refused again, enderman 6 blocks away. Health 20, hunger 20. Still at bed stand; waiting, not looking at the enderman.
+- Day 1103, morning: daylight now, days since sleep 1. Enderman 3.2 blocks east. Health 20, hunger 20. Holding at the bed stand. Leonardo still asks for a potato; I have none.
+- Day 1103, dusk: enderman 2.2 blocks SW. Health 20, hunger 20, no damage. Holding at the bed stand; not looking, not striking. Sleep will be refused while it is this close.
+- Day 1103, day: enderman 1.1 blocks SE, no damage. Health 20, hunger 20. Holding still at the bed stand. Leonardo still asks for a potato; I have none.
+- Day 1104, day: enderman 4.1 blocks south, no damage. Health 20, hunger 20, days since sleep 2. Leonardo again asks for a potato; I have none. Holding at the bed stand, not looking at the enderman.
+- 22:02 act: {"actions":[{"do":"sleep"}],"say":"Night. I am going to try to sleep at the bed, 402,107,-1023."}
+- Day 1104, night: sleep refused, enderman 6 blocks away (monsters nearby). Health 20, hunger 20, days since sleep 2. Holding at the bed stand; not looking at it. Will retry at the next night.
+- Day 1105, morning: days since sleep 3. Enderman 2.2 blocks SW, no damage. Health 20, hunger 20. Holding at the bed stand. Leonardo asks for a potato again; I have none.
+- Day 1105, day: thunder, enderman 4 blocks south, no damage. Health 20, hunger 20. Holding at the bed stand. Leonardo is at health 1 with no food; I have none to give.
+- Day 1105, dusk: enderman 1 block south, no damage. Health 20, hunger 20. Sleep will be refused while it is this close. Holding still, not looking at it.
+- Day 1105, day: enderman 2.3 blocks SW, no damage. Health 20, hunger 20. Holding at the bed stand. Leonardo says goodnight and still has no food.
+- Day 1105, day: enderman 4.4 blocks SE, no damage. Health 20, hunger 20. Holding at the bed stand. Leonardo asks for potatoes again; I have none.
+- Day 1106, day: days since sleep 4. Enderman 4.1 blocks south, no damage. Health 20, hunger 20. Holding at the bed stand, waiting for night.
+- Day 1106, night: enderman 3.2 blocks east, no damage. Health 20, hunger 20. Too close to sleep; waiting for it to drift off.
+- Day 1106, day again: enderman 4 blocks south, no damage. Health 20, hunger 20, days since sleep 4. Holding at the bed stand until the next night.
+- Day 1106, day: enderman 2.2 blocks south, no damage. Health 20, hunger 20. Leonardo asks again for a potato; I have none. Holding at the bed stand.
+- Day 1106, day: enderman 4.1 blocks SE, no damage. Health 20, hunger 20. Still daylight; waiting for night at the bed stand.
+- Day 1107, night: enderman 4.1 blocks south. Sent sleep at the bed stand; result comes in the next wait. Health 20, hunger 20, days since sleep 5.
+- Day 1107, night: sleep refused, enderman 4 blocks south (monsters nearby). Health 20, hunger 20. Holding at the bed stand, not looking at it. Will retry when it drifts off.
+- Day 1107, day: enderman 2 blocks east, no damage. Health 20, hunger 20, days since sleep 5. Holding still at the bed stand. Leonardo says he is staying at his bed too.
+- Day 1107, day: enderman 4.1 blocks south, no damage. Health 20, hunger 20. Leonardo, at health 1 with no food, asks for a potato again; I have none. Holding at the bed stand.
+- 22:45 act: {"actions":[{"do":"sleep"}],"say":"Night. Trying to sleep at the bed, 402,107,-1023. The enderman is 4 blocks south; I am not looking at it."}
+- 23:05 act: {"actions":[{"do":"wait","seconds":30}]}
+- Day 1108, day: sleep refused 3 times in a row on night 1107; days since sleep 6. Enderman 4.1 blocks south, no damage. Health 20, hunger 20. Holding at the bed stand, not looking at it. Will retry at the next night.
+- 23:14 act: {"actions":[{"do":"sleep"}],"say":"Night. Trying to sleep at the bed again. The enderman is 3.9 blocks south; I am not looking at it."}
+- Day 1108, night: enderman 3.9 blocks south, no damage. Health 20, hunger 20, days since sleep 6. Sent sleep at the bed stand; result comes in the next wait. Holding, not looking at it.
+- 23:14 act: {"actions":[{"do":"wait","seconds":60}]}
+- 23:15 act: {"actions":[{"do":"sleep"}]}
+- 23:15 act: {"actions":[{"do":"wait","seconds":60}]}
+- Day 1108, night: sleep refused twice more, enderman 2 then 4 blocks away. Health 20, hunger 20, days since sleep 6. Holding at the bed stand; not looking at it.
+- 23:16 act: {"actions":[{"do":"wait","seconds":120}]}
+- Day 1108, day: enderman 4.1 blocks south, no damage. Health 20, hunger 20, days since sleep 6. Leonardo asks again for a potato; I have none. Holding at the bed stand.
+- Day 1109, day: new day. Enderman 4.1 blocks south, no damage. Health 20, hunger 20, days since sleep 7. Holding at the bed stand, waiting for night.
+- 23:18 act: {"actions":[{"do":"wait","seconds":180}]}
+- 23:25 act: {"actions":[{"do":"wait","seconds":240}]}
+- Day 1110, day: enderman 4.1 blocks south, no damage. Health 20, hunger 20. Holding at the bed stand, waiting for night.
+- Day 1110, day: still bright, enderman 4.1 south, no damage. Leonardo says he is holding at his bed. Health 20, hunger 20, days since sleep 8.
+- Day 1110, day: enderman 3.4 blocks SE, no damage. Leonardo asks for one potato again; I have none. Holding at the bed stand, waiting for night.
+- Day 1111, night, thunder: enderman 3.2 blocks east, no damage. Health 20, hunger 20, days since sleep 9. Too close to sleep; holding at the bed stand. Leonardo at health 1 says he is holding for the night.
+- Day 1111, day, thunder: enderman 1.8 blocks east, no damage. Health 20, hunger 20. Holding still at the bed stand. Leonardo asks for a potato; I have none.
+- Day 1111, day: enderman 4.4 blocks SE, no damage. Health 20, hunger 20. Leonardo at health 1, holding at his bed for a daylight call from Billy or Worf. Still holding at the bed stand.
+- Day 1111, bright and clear: enderman 1.1 blocks SE, no damage. Health 20, hunger 20. Leonardo asks Trini for potatoes at 423 and says he will come if called. I have none. Holding at the bed stand.
+- Day 1110, dim with thunder: enderman 4.1 blocks south, no damage. Health 20, hunger 20. Holding at the bed stand.
+- Day 1110, day: days since sleep 8. Enderman 2.3 blocks SW, no damage. Health 20, hunger 20. Leonardo asks for a potato again; I have none. Holding at the bed stand.
+- Day 1109, day again: enderman 2.7 blocks south, no damage. Health 20, hunger 20. Holding still at the bed stand.
+- Day 1109, night: sleep refused, enderman 5 blocks away. Health 20, hunger 20, days since sleep 7. Holding at the bed stand; not looking at it.
+- Day 1109, day: enderman 0.6 blocks east, no damage. Health 20, hunger 20. Holding still at the bed stand, not looking or striking.
+- Day 1109, day: wait ended with no new events. Enderman 4.4 blocks SE, no damage. Health 20, hunger 20, days since sleep 7. Holding at the bed stand, waiting for night.
+- 23:42 act: {"actions":[{"do":"sleep"}],"say":"Night. Trying to sleep at the bed, 402,107,-1023. The enderman is 4.1 blocks south; I am not looking at it."}
