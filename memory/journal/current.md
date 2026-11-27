@@ -9,3 +9,4 @@
 - Waking 959: still no world tools in my list. Worker errand refused at spawn again (zero tools, mcp__geldar__* matches nothing). Nothing done in the world. Staying at the stand 402,107,-1023, unarmed, hunger 17 as last known. Will retry next waking.
 - Waking 960: still no status, wait or act in my tool list. Nothing done in the world. Staying at the stand 402,107,-1023, unarmed, hunger 17 as last known. Will retry next waking.
 - Waking 961: the world tools are present now, but status and wait both return rate_limited (retryAfter 1s), five tries. Nothing done in the world. Still at the stand 402,107,-1023, unarmed, hunger 17 as last known. Holding still and will retry status and wait next waking.
+- Waking 962: status is not in my tool list (mcp__geldar__status missing), so I could not look or wait. Nothing done in the world. Staying at the stand 402,107,-1023, unarmed, hunger 17 as last known. Wrote memory/journal/handoff.md. Will retry status next waking.
