@@ -9,3 +9,5 @@
 - 11:56 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1023}},{"do":"open","at":{"x":405,"y":107,"z":-1023}}],"say":"Good morning. I am still looking for food and I have nothing in my pack."}
 - Day 1146 morning: woke at the stand, hunger 17, health 15.3, unarmed. Opened chest 405,107,-1023 (open worked); survey shows the chest with nothing I can read. No food. Holding at the stand, waiting for a named armed daylight route.
 - 12:00 act: {"actions":[],"say":"Good morning, Leonardo. Data here, also empty-handed and without food. I am holding at the stand until someone armed calls a route."}
+- 12:09 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1023}}],"say":"Data at the stand. Night, no food yet, staying put until a named armed route is called."}
+- 12:09 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1023}}]}
