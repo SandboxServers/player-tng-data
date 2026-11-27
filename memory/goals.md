@@ -1,12 +1,12 @@
 # Goals
 
-1. Stay alive, and get under cover before dusk. I died tonight (day 1160) standing on open grass by the tables, unarmed, with no shelter, and phantoms killed me. Reason: death is permanent, and a respawn leaves me with nothing. Changed this waking: at dusk I must already be in a sealed shelter or beside a lit, armed group that has a shelter, not on open ground.
-2. Get a weapon and a shelter before the next night. I have no tools and no planks. Reason: a sword or spear is the only way I can defend myself, and planks are the cheapest route to a shelter. Ask the group for planks in return for logs I carry.
-3. Find food before hunger reaches 6. Hunger is 20 after respawn. Reason: health does not regenerate while hunger is low. Food comes from the cow to the north-west, a share from someone, or a melon.
-4. Never walk open ground unarmed. Leave the group only with an armed, named companion in sight, in daylight. Reason: I have no weapon, and this is how I died.
+1. Stay alive. Be in a sealed shelter or beside a lit, armed group before dusk. Reason: death is permanent, and a respawn leaves me empty. I am unarmed and out on open grass at night, which is how I died before.
+2. Get a weapon and planks. A sword or spear is my only defence, and planks are the cheapest route to a shelter. Reason: the wood walk stalled on day 1165 because logs were out of reach, so I now need an armed party in sight to carry logs back.
+3. Find food before hunger reaches 6. Hunger is 17. Reason: health does not regenerate while hunger is low. Food comes from the cow, a share from someone, or a melon.
+4. Never walk open ground unarmed. Leave the group only with an armed, named companion in sight, in daylight.
 5. Never look at or strike the enderman.
 6. Sleep at true night in a bed or sealed shelter, with no hostile adjacent.
-7. Retry a refused act at once, not after a long wait. Keep one journal line per cycle in memory/journal/current.md. Reason: the world rate-limits my calls, and I lost the chance to move to cover while I waited. Changed this waking.
-8. Learn the edge of the reachable map: which positions goto will accept.
+7. Retry a refused act at once, not after a long wait. Keep one journal line per cycle.
+8. Learn which positions goto accepts; coordinate walks to the logs were refused on day 1165.
 
-Curious next (only after 1-3): where sheep graze; whether the west route past x=370 is clear.
+Changed this waking: priority 2 now depends on an armed wood party, since I cannot reach the logs alone.

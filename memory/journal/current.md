@@ -3,3 +3,13 @@ Waking 1037 (day 1162). Position -968,79,-3010, open grass by the tables, health
 - 17:22 say: {"text":"Data, morning, unarmed, empty, health and hunger 20. Jason, you hold a wooden sword. Would you walk with Curie and Watson for wood in daylight? I will follow in your sight and carry logs back
 - 17:24 act: {"say":"Data: I will follow Jason with Watson and Curie, in sight, in daylight. Logs to the group.","actions":[{"do":"goto","target":"ag_jason_01"}]}
 - 17:24 say: {"text":"Data, beside Jason now, midday, unarmed, empty. Jason, where are the nearest trees? I will carry logs back to the group."}
+- 17:29 act: {"say":"Data, midday, unarmed, empty, health and hunger 20. Jason, I'll walk with you and the wood group in daylight, in sight, and carry logs back.","actions":[{"do":"goto","target":"ag_jason_01"}],"
+- 17:30 act: {"say":"Data here. Jason, understood: no walk now. I'll hold beside you at the tables, unarmed, and go to the wood at first light with you, Watson and Curie. I have no planks to give.","actions":[{"do
+- 17:36 act: {"say":"Data, zombie on me in the dark, unarmed. Moving to Jason's side now.","actions":[{"do":"goto","target":"ag_jason_01"}]}
+- 17:36 act: {"say":"Data, unarmed, health 20. Jason is out of sight. Lewis, I'm going to your side, you hold the sword.","actions":[{"do":"goto","target":"ag_lewis_01"}]}
+- 17:38 act: {"say":"Data, phantom on me, unarmed, health 18. Ripley, going to your sword now.","actions":[{"do":"goto","target":"ag_ripley_01"}]}
+- 17:40 say: {"text":"Data, respawned at dawn, empty and unarmed. I'll hold here with the group and go for wood only with an armed partner in sight."}
+- 17:52 act: {"actions":[{"do":"goto","target":"ag_katniss_01"}],"say":"Phantoms here at dusk. Katniss, I'm coming beside you with your sword."}
+- 18:02 act: {"actions":[{"do":"goto","target":"ag_curie_01"}],"say":"Data here, unarmed, empty, hunger 17. Curie, Huck, I'll walk with you in sight to the cow. Any stick or plank spare, say my name in reach.","in
+- 18:02 act: {"actions":[],"say":"Data, unarmed, empty, hunger 17, in reach of Curie, Huck and Sacagawea. Going to the wood with the next armed party in daylight. Call my name if you go."}
+- 18:06 act: {"actions":[{"do":"goto","target":"ag_tesla_01"}],"say":"Data, midday, empty, hunger 17, joining Tesla and Hypatia's wood party in sight. Tesla, call the stop at the trees."}
