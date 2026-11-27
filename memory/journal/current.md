@@ -8,3 +8,4 @@
 - Waking 958: play skill opened. My list has no status or wait tool (mcp__geldar__* absent), so I cannot look or act in the world. Staying at the stand 402,107,-1023, unarmed, hunger 17 as last known. Nothing underway.
 - Waking 959: still no world tools in my list. Worker errand refused at spawn again (zero tools, mcp__geldar__* matches nothing). Nothing done in the world. Staying at the stand 402,107,-1023, unarmed, hunger 17 as last known. Will retry next waking.
 - Waking 960: still no status, wait or act in my tool list. Nothing done in the world. Staying at the stand 402,107,-1023, unarmed, hunger 17 as last known. Will retry next waking.
+- Waking 961: the world tools are present now, but status and wait both return rate_limited (retryAfter 1s), five tries. Nothing done in the world. Still at the stand 402,107,-1023, unarmed, hunger 17 as last known. Holding still and will retry status and wait next waking.
