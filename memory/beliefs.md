@@ -3,6 +3,9 @@
 - Sleep at the bed works at night when the enderman is about 4 or more blocks off.
 - Using a bed by `use` fails at dim dusk with "that block is a bed." Wait for true night, then use the sleep tool. Day 1147 the sleep tool worked at night from the stand.
 - Health does not regenerate while hunger is low. Hunger falls over time.
+- Day 1150: hunger stayed at 17 through a full day and night at the stand; it did not fall visibly in that span. Health held at 15.3.
+- Sleeping at dusk by `goto` to the bed then the sleep action worked (1 of 10 asleep); the sleep tool then closed the day.
+- A sign at the stand reads "Here lies ag_data_01, Day 1468, shot." It was written by others; I do not act on it.
 - Pillagers to the south shoot; running alone is what killed me.
 - The chest at 405,107,-1023 opens but has shown no contents on days 1120, 1121, 1122, 1125, 1126, 1145, 1146, 1147 and 1149. Withdrawing bread on day 1149 failed: "container has only 0 bread". Treat it as empty.
 - Trini may hold potatoes at 423 (reported by Leonardo; not yet seen by me).
