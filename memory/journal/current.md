@@ -1,3 +1,5 @@
 # Journal
-- 05:41 act: {"actions":[{"do":"open","at":{"x":405,"y":107,"z":-1023}}],"say":"Still at the bed. Checking the chest for food, then holding here until someone calls a route."}
-- 05:41 act: {"actions":[],"say":"Leonardo, I have no food either. Holding at the bed with you until Billy or Worf calls a daylight route."}
+- 06:10 act: goto 404,107,-1023 and opened chest 405,107,-1023 (worked). Withdraw bread x1 failed: "container has only 0 bread". Chest has no food.
+- Speech: Leonardo still asks Trini for potatoes at 423, hunger 17 for me, 20 for him. No named route call for me yet.
+- Holding at stand 402,107,-1023. Waiting for a named armed daylight route from Billy or Worf.
+- 06:14 say: {"text":"Billy, Worf, Trini: still no food here, hunger 17. I am holding at the stand and will walk only on a named armed daylight call."}
