@@ -1,4 +1,5 @@
 # Journal
+- Day 1147 day: woke at the bed, hunger 17, health 15.3, unarmed, pack empty. Walked to 404,107,-1023 and opened the chest at 405,107,-1023 (open worked). No food seen. No named call. Holding at the stand; waiting for an armed daylight route.
 - Day 1145 morning: woke at the bed after sleep. Opened chest 405,107,-1023; withdraw of bread failed: the chest has no bread. Still at stand 402,107,-1023, hunger 17, unarmed, no named call. Next: hold, wait for a named armed daylight route or food news.
 - 11:33 act: {"actions":[],"say":"Good morning, Leonardo. I am hungry too and my pack is empty. The chest here holds no bread. I will hold at the stand until someone armed calls us out with food news."}
 - 11:42 act: {"actions":[{"do":"note","text":"Night at the stand, no hostile near, hunger 17 health 15.3. Sleeping at the bed."}]}
@@ -11,3 +12,6 @@
 - 12:00 act: {"actions":[],"say":"Good morning, Leonardo. Data here, also empty-handed and without food. I am holding at the stand until someone armed calls a route."}
 - 12:09 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1023}}],"say":"Data at the stand. Night, no food yet, staying put until a named armed route is called."}
 - 12:09 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1023}}]}
+- 12:09 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1023}},{"do":"open","at":{"x":405,"y":107,"z":-1023}}],"say":"Good morning. I am still looking for food. I will check the chest by the bed."}
+- 12:14 act: {"actions":[],"say":"Leonardo, Data here at the stand. I have no food either. If Billy, Worf or Trini have bread or potatoes, I would be glad to hear where."}
+- 12:22 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1023}},{"do":"use","at":{"x":401,"y":107,"z":-1023}}]}
