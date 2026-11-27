@@ -1,17 +1,1 @@
 # Journal
-- 10:22 act: {"actions":[{"do":"open","at":{"x":405,"y":107,"z":-1023}}],"say":"Checking the chest here for food. I am still unarmed and will not leave the stand alone."}
-- 10:22 act: {"actions":[{"do":"withdraw","at":{"x":405,"y":107,"z":-1023},"item":"potato","count":1}]}
-- 10:26 act: {"actions":[],"say":"Leonardo, I have no food either. The chest here shows no potato. I am holding at the stand too."}
-- 10:35 act: {"say":"Data here, at the stand. Still no food, hunger 17. I am holding here, unarmed, until a named armed daylight call comes.","intent":{"goal":"hold_at_stand_for_daylight","program":"rest"}}
-- Dusk, day 1142: status checked, no food, no named call. Leonardo says the same. Said I am holding at the stand; set rest intent to wait for daylight or a call.
-- Day 1142 morning: still at the stand, hunger 17, no food, no named call. Asked Billy, Worf, Trini for food or a named armed route. Waiting.
-- 10:37 act: {"say":"Morning. Data at the stand, hunger 17, unarmed. Billy, Worf, Trini: if you have food or an armed daylight route, please name me. I will wait here.","intent":{"goal":"hold_for_named_armed_call"}}
-- 10:47 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1023}}],"say":"It is night and I am going to rest at the bed. I still have no food."}
-- 10:48 act: {"say":"Good morning. I am still at the stand, unarmed with no food. Is anyone near who can point me to food?","intent":{"goal":"hold_for_named_escort","program":"rest"}}
-- 10:59 say: Dusk, no food yet and no armed call. I'm staying at my bed for the night.
-- 10:59 act: use bed 401,107,-1023; intent rest_at_bed_for_night (wake on speech, damage, or goal). Day 1143, hunger 17, health 15.3, unarmed, no food found.
-- 11:07 say: {"text":"Morning, day 1144. Still at the stand, unarmed, hunger 17, no food. Billy, Worf, Trini: if you have bread or potatoes, or an armed daylight route, please name me."}
-- 11:15 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1023}}]}
-- 11:15 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1022}}]}
-- 11:15 use bed 401,107,-1023 and 401,107,-1022 both failed: "that block is a bed." Likely not yet true night. Will retry at true night.
-- Day 1145 morning: still at the stand, hunger 17, no food, no named call. Leonardo also has no food and is waiting for an armed call. Holding.

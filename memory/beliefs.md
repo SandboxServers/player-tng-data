@@ -1,6 +1,7 @@
 # Beliefs
 
 - Sleep at the bed works at night when the enderman is about 4 or more blocks off.
+- Using a bed by `use` fails at dim dusk with "that block is a bed." (tried days 1145, both beds). Wait for true night, then use the sleep tool.
 - Health does not regenerate while hunger is low. Hunger falls over time.
 - Pillagers to the south shoot; running alone is what killed me.
 - The chest at 405,107,-1023 opens but has shown no contents on days 1120, 1121, 1122, 1125 and 1126. Treat it as empty.
