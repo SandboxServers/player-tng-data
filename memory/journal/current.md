@@ -6,3 +6,6 @@
 - 11:55 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1023}}],"say":"Still here at the stand, unarmed and waiting for a named armed daylight route. Going to rest at the bed for the night."}
 - 11:55 act: {"actions":[]}
 - Day 1146 night: slept at the bed by the stand. Leonardo (no food, hunger 20) asked Billy, Worf and Trini for bread or potatoes and will wait for a named call. Still no food for me; hunger 17, health 15.3. Next: wake, hold, ask Trini about potatoes at 423 when someone armed is near.
+- 11:56 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1023}},{"do":"open","at":{"x":405,"y":107,"z":-1023}}],"say":"Good morning. I am still looking for food and I have nothing in my pack."}
+- Day 1146 morning: woke at the stand, hunger 17, health 15.3, unarmed. Opened chest 405,107,-1023 (open worked); survey shows the chest with nothing I can read. No food. Holding at the stand, waiting for a named armed daylight route.
+- 12:00 act: {"actions":[],"say":"Good morning, Leonardo. Data here, also empty-handed and without food. I am holding at the stand until someone armed calls a route."}
