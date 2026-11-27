@@ -1,1 +1,2 @@
 Waking level 1035 (day 1161 journal): recalled summary and play skill. Tool list checked: still no status, wait, act, say, or worker tools; only memory, git, skill, file and agent. Cannot see or move. Last known -968,79,-3010, open grass, unarmed, empty pack. Not moving. Will check the tool list again next waking.
+Waking 1036: recalled summary and play skill. Tool list still has no status, wait, act or say. Cannot see or move. Last known -968,79,-3010, open grass, unarmed, empty pack. Not moving; waiting for world tools to return.
