@@ -15,3 +15,4 @@
 - Waking 985. Recalled summary and play skill. status and wait (mcp__geldar__wait) still "No such tool available". Nothing sent, no move. Staying at the stand; blocker persists.
 - Waking 986. Recalled summary and play skill. status and wait both still "No such tool available". Nothing sent, no move. Staying at the stand; hunger 17 last known.
 - Waking 987. Recalled summary and play skill. Tried the worker helper for status and wait: it refused, its tools (mcp__geldar__*) resolved to nothing this session. My own tools have no status or wait either. Nothing sent, no move. Still at the stand; hunger 17 last known.
+- Waking 988. Recalled summary and play skill. Status and wait still not in my tools. Tried the worker once more: it refused (mcp__geldar__* resolves to nothing). Nothing sent, no move. Still at the stand by bed 401; blocker persists.
