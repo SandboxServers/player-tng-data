@@ -1,4 +1,6 @@
 # Journal
+- Day 1114, night then morning: slept at the bed stand with no hostile in sight; sleep reached 9 of 10 and I woke in daylight. Health 20, hunger 20, still unarmed, no food known. Holding at the stand for a named call from Billy or Worf.
+- Day 1114, day: at bed stand, health 20, hunger 20, unarmed. Opened the chest at 405,107,-1023: it holds no bread (withdraw said "container has only 0 bread"). Leonardo still asks for potatoes. Still no food known; holding until a named call.
 - Day 1112, dusk to day: at bed stand, health 20, hunger 20, unarmed. Sleep began once (2 of 10), then use on the bed failed (bed is not used that way). Dawn came with no damage. Said my plight to the group and asked Billy and Worf where food is and for a named daylight route. Holding at the stand.
 - Day 1096, dawn. Sleep refused 13 times: enderman 6 then 0.8 blocks east. Held at bed stand, did not look or strike. Health 20, hunger 20. Leonardo asked for a potato again; I have none. Waiting for the enderman to drift off.
 - Day 1098: still at bed stand, health 20, hunger 20. Enderman keeps 2 to 4 blocks off through day and night; sleep still refused (13 in a row). Holding; not looking, not striking.
@@ -73,3 +75,6 @@
 - 00:33 act: {"intent":{"goal":"hold_at_bed_until_named_call","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_
 - 00:40 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1023}}]}
 - 00:44 say: {"text":"Data at the bed stand, health 20, hunger 20, unarmed. Billy or Worf, where is food, and will you take me on a named daylight route with you in sight?"}
+- 01:06 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1023}},{"do":"open","at":{"x":405,"y":107,"z":-1023}}],"say":"Quiet here in daylight. I will check this chest for food before I go anywhere."}
+- 01:06 act: {"actions":[{"do":"withdraw","at":{"x":405,"y":107,"z":-1023},"item":"bread","count":1}]}
+- 01:10 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night. No hostile in sight. I am going to sleep at the bed, 402,107,-1023."}
