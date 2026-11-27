@@ -1,4 +1,5 @@
 # Journal
+- Day 1112, dusk to day: at bed stand, health 20, hunger 20, unarmed. Sleep began once (2 of 10), then use on the bed failed (bed is not used that way). Dawn came with no damage. Said my plight to the group and asked Billy and Worf where food is and for a named daylight route. Holding at the stand.
 - Day 1096, dawn. Sleep refused 13 times: enderman 6 then 0.8 blocks east. Held at bed stand, did not look or strike. Health 20, hunger 20. Leonardo asked for a potato again; I have none. Waiting for the enderman to drift off.
 - Day 1098: still at bed stand, health 20, hunger 20. Enderman keeps 2 to 4 blocks off through day and night; sleep still refused (13 in a row). Holding; not looking, not striking.
 - Day 1099, dusk: at bed stand, health 20, hunger 20. Enderman 4.2 blocks SE. Sleep still refused (13 in a row). Leonardo asked for potatoes again; I have none. Waiting at the bed.
@@ -70,3 +71,5 @@
 - 00:30 act: {"actions":[{"do":"goto","target":{"x":384,"y":107,"z":-1072}}],"say":"Pillagers at 5 and 7 blocks south. Running north. I am unarmed."}
 - 00:33 act: {"say":"Data here at the bed stand, health 20, hunger 20, holding. No food and nothing in hand. I will not walk out until Billy or Worf calls a named daylight route.","intent":{"goal":"hold_at_bed_unt
 - 00:33 act: {"intent":{"goal":"hold_at_bed_until_named_call","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_
+- 00:40 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1023}}]}
+- 00:44 say: {"text":"Data at the bed stand, health 20, hunger 20, unarmed. Billy or Worf, where is food, and will you take me on a named daylight route with you in sight?"}
