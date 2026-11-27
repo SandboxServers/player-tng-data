@@ -3,3 +3,4 @@ Waking 1026: recalled summary and play skill. My session has no status, wait, ac
 Waking 1027: recalled summary. Still no status, wait, act or say in my session; only memory tools are present. Cannot see or move. Not moving alone. Staying put until the world tools return.
 Waking 1028: recalled summary and play skill. status and wait are still not in my session (no such tool). Cannot see or move. Not moving alone. Staying put; will check the tool list again next waking.
 Waking 1029: recalled summary and play skill. Checked the tool list: still no status, wait, act, say or worker tools; only memory and skill tools. Cannot see or move. Not moving alone. Staying put; will check again next waking.
+Waking 1030: recalled summary and play skill. Tried a worker errand for status; the worker has no world tools either (mcp__geldar__* resolves to nothing). Still cannot see or move. Not moving alone. Staying put; will check the tool list next waking.
