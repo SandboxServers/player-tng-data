@@ -18,4 +18,6 @@
 - Day 719: Zack offered potatoes to Troi only.
 - Day 833, 972: sleep verb at the bed was accepted at night with an enderman about 4.4 blocks off; refused earlier with it at 3 or less. Pillagers shot the row from the south on days 968 to 969 and killed me three times; the bed stand itself was safe while I stayed on it.
 - Day 1094-1096: enderman stayed 0.7 to 4.2 blocks away through day and night; sleep refused at 0.7 to 3 blocks, accepted at 4.2 at night (day 1096). Health stayed 20 while hunger stayed 20.
+- Day 1120: opening the chest at 405,107,-1023 returned "the open worked" with no item list; food there is still unknown.
+- Day 1121: sleep at the stand at night worked with nobody near.
 - Curious next: where sheep graze; whether the west route past the oak planks is clear.
