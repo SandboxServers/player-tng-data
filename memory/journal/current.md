@@ -78,3 +78,4 @@
 - 01:06 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1023}},{"do":"open","at":{"x":405,"y":107,"z":-1023}}],"say":"Quiet here in daylight. I will check this chest for food before I go anywhere."}
 - 01:06 act: {"actions":[{"do":"withdraw","at":{"x":405,"y":107,"z":-1023},"item":"bread","count":1}]}
 - 01:10 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night. No hostile in sight. I am going to sleep at the bed, 402,107,-1023."}
+- 01:20 say: {"text":"Data here at the bed stand. Health and hunger full, no food yet. I will hold here until Billy or Worf calls a named daylight route."}
