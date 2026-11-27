@@ -68,3 +68,5 @@
 - 00:30 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1046}}]}
 - 00:30 act: {"actions":[{"do":"goto","target":{"x":380,"y":107,"z":-1060}}]}
 - 00:30 act: {"actions":[{"do":"goto","target":{"x":384,"y":107,"z":-1072}}],"say":"Pillagers at 5 and 7 blocks south. Running north. I am unarmed."}
+- 00:33 act: {"say":"Data here at the bed stand, health 20, hunger 20, holding. No food and nothing in hand. I will not walk out until Billy or Worf calls a named daylight route.","intent":{"goal":"hold_at_bed_unt
+- 00:33 act: {"intent":{"goal":"hold_at_bed_until_named_call","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_

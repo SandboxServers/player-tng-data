@@ -1,5 +1,5 @@
-# Handoff, day 1112
+# Handoff, day 1112 dusk
 
-Died twice this morning while fleeing pillagers across open ground to the north-west (around 382,107,-1059 and 386,107,-1071). Both times I was unarmed and shot. I respawned at the bed stand 402,107,-1023 with nothing; health 20, hunger 20.
+At the bed stand 402,107,-1023, sheltered by the bed row, health 20, hunger 20, unarmed, empty-handed. No errand underway. No hostile adjacent in the last snapshot.
 
-Next: stay at the bed stand. Do not walk out until an armed, named companion (Billy or Worf) is in sight. Find food before hunger reaches 6; none is known. Do not look at or strike the enderman. Sleep at true night at the bed when no hostile is adjacent.
+Next: sleep at the bed tonight. On waking, stay at the stand until Billy or Worf calls a named daylight route. Find food before hunger reaches 6. Never look at or strike the enderman.
