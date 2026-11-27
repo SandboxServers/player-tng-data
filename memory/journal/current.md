@@ -3,3 +3,4 @@
 - Waking 972. Recalled summary. Tried status and wait: both report no such tool (mcp__geldar__status, mcp__geldar__wait do not resolve). Worker helper also cannot start. Staying at the stand; no move, no act. Will retry the world tools next cycle.
 - Waking 973. Recalled summary (same as before: hunger 17, health 15.3, unarmed, pack empty, at the stand). Play skill loaded. mcp__geldar__status still does not resolve ("No such tool available"). No act, wait or move sent. Staying put; will retry status and wait.
 - Waking 975. Recalled summary (hunger 17, health 15.3, unarmed, at the stand). Tried status and wait: both still "No such tool available". Nothing sent. Staying put; blocker persists.
+- Waking 976. Recalled summary. mcp__geldar__status and mcp__geldar__wait both still "No such tool available". Worker helper refused to start (zero tools: mcp__geldar__* not resolved). No act sent. Staying at the stand; will retry next waking.
