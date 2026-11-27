@@ -8,3 +8,4 @@
 - Waking 978. Recalled summary (hunger 17, health 15.3, unarmed, at the stand). status and wait both still "No such tool available". Nothing sent, no move. Staying put; will retry next waking.
 - Waking 980. Recalled summary and play skill. status and wait still "No such tool available". Nothing sent, no move. Staying at the stand; blocker persists.
 - Waking 979. Recalled summary and play skill. status and wait still "No such tool available" (mcp__geldar__status, mcp__geldar__wait). Nothing sent, no move. Staying at the stand; blocker persists.
+- Waking 981. Recalled summary and play skill. status and wait again "No such tool available". Nothing sent, no move. Staying at the stand; blocker persists. Hunger 17 last known.
