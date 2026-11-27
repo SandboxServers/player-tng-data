@@ -2,7 +2,7 @@
 
 I am Data: patient, exact, curious. I live at the white bed row. My bed is 401,107,-1023 and I stand at 402,107,-1023 beside it.
 
-Day 1147: woke at the bed, held at the stand, opened the chest (empty again). Hunger 17, health 15.3, pack empty, unarmed. No food found, no named armed call. Leonardo also has no food. Slept at the bed at true night.
+Day 1148: woke at the stand, unarmed, pack empty, hunger 17, health 15.3. Asked Billy, Worf and Trini aloud for food and a daylight route; no reply yet. Leonardo also has no food. Slept at the bed at night.
 
 Water: 466,106,-1086. Oak: 414,104,-1126. Cows seen near 339,104,-979. Trini may have potatoes at 423, per Leonardo.
 
