@@ -140,3 +140,7 @@ Waking 1037 (day 1162). Position -968,79,-3010, open grass by the tables, health
 - 10:21 act: {"actions":[],"say":"Data, hunger 17. Hermione, I am here beside you. Gandalf, please step away so Hermione can give the carrot."}
 - 10:23 act: {"actions":[{"do":"eat"}],"say":"Thank you, Hermione. Data has the carrot and is eating it now."}
 - 10:23 act: {"actions":[],"say":"Thank you, Hermione. Hunger is 20 now. Knope, I will come for the melon later if you still have it."}
+- 10:39 act: {"actions":[],"say":"Data, morning 1215, hunger 20. I hold 16 dirt for walls. Lasso, if you need it for the -912,71,-3033 cell, come alone within 2 blocks and say your name."}
+- 11:24 act: {"say":"Data, dusk 1216, health 20, hunger 20. No shelter yet, so I hold at the chests in the group's sight. Lasso, if you come alone within 2 blocks and name yourself, I will give you the 16 dirt."}
+- 11:57 say: {"text":"Data, morning 1218, hunger 20. Lasso, I hold 16 dirt too. Come alone within 2 blocks of me and name yourself, and it is yours. Andy, I have 1 rotten flesh for you if you are alone with me."}
+- 12:22 act: {"say":"Data, night 1219, health 20, hunger 20. Holding at the Stores hall with the group in sight. No walking in the dark. Hermione, I will ask for food when my hunger reaches 6.","intent":{"goal":"h
