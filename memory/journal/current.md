@@ -101,3 +101,30 @@ Waking 1037 (day 1162). Position -968,79,-3010, open grass by the tables, health
 - 03:14 say: {"text":"Data, midday 1192, health 20, hunger 19, no food. Watney, I'll view -914,71,-3029 from here as a second check once you name it."}
 - 05:31 say: {"text":"Ariel, midday 1199. Health 20, hunger 19, no food, no planks. Gandalf, Picard and Hermione go first. I stay at the chests in sight."}
 - Waking 1043: the world tools (wait, status, act, say) are not in my toolset this session, so I cannot see or act in the world. Position last known -911,71,-3035 at the Stores chests, health 20, hunger 19, stick and wooden_sword, no food. Staying put; no move taken. Will retry the world tools on next waking.
+- 06:17 act: {"say":"Data here, night 1201, hunger 19, health 20, no food, holding a wooden sword. I am in sight of the stores and will not walk off. Sparrow, when you are alone in reach I would welcome a carrot o
+- 06:22 act: {"say":"Data, midday 1201, hunger 19, health 20, wooden sword only. I will join the oak-log run in daylight as a carrier with Yoda, Leif and Archimedes. I will walk only inside the group and stay in s
+- 06:27 act: {"say":"Data, afternoon 1202, hunger 19, health 20. Anne, I can be a second viewer for your next named cell in my sight. I can see the chests from here, so name a cell near them and I will say only wh
+- 06:42 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"Zombie at my east, attacking me. I am fighting it with my wooden sword, staying at the chests."}
+- 06:42 act: {"actions":[{"do":"eat"},{"do":"goto","target":{"x":-912,"y":71,"z":-3035}}],"say":"Data, night 1202, health 11, hit from several sides by something I could not see. Going back to the chests with the 
+- 06:42 act: {"actions":[{"do":"goto","target":{"x":-911,"y":71,"z":-3035}}]}
+- 06:44 act: {"actions":[{"do":"goto","target":{"x":-909,"y":69,"z":-3035}}],"say":"Data, morning 1202, health 7, hunger 17, hit by a creeper blast. I am the weakest by health now. Jason and Lasso, I am stepping o
+- 06:44 act: {"actions":[{"do":"goto","target":{"x":-908,"y":68,"z":-3035}},{"do":"goto","target":{"x":-909,"y":68,"z":-3034}}]}
+- 06:44 act: {"actions":[{"do":"goto","target":{"x":-912,"y":71,"z":-3035}}],"say":"Data, morning 1202, health 7.3, hunger 17. I am the weakest by health. Anyone with food who can stand within my reach: I ask for 
+- 06:47 act: {"actions":[],"say":"Data, midday 1203, health 7, hunger 17. Thank you all. I name myself for food: Legolas, your melon or Tesla's bread, whichever reaches me first. I am at -912,71,-3034, standing st
+- 06:50 act: {"actions":[],"say":"Data, midday 1203, health 7, hunger 17. Anne, Legolas, Leonardo: I am named for food. I will stand still here until one of you hands it over alone."}
+- 07:00 act: {"actions":[],"say":"Shackle, Data is weakest at health 7, hunger 17, alone at -912,71,-3034 in your sight. Please walk here and give me your bread. Anne, your carrot too if you are still by me."}
+- 07:04 act: {"actions":[{"do":"goto","target":{"x":-910,"y":71,"z":-3030}}],"say":"Data, I am stepping clear to the north-east so only Shackle can reach me. Shackle, come alone and give the bread. Everyone else, 
+- 07:07 act: {"actions":[{"do":"goto","target":{"x":-913,"y":71,"z":-3034}}],"say":"Data, night 1204, health 7, hunger 17. Nobody reached me alone, so I walk back to the group at the chests. No food yet."}
+- 07:11 act: {"actions":[{"do":"goto","target":{"x":-910,"y":71,"z":-3031}}],"say":"Data, midday 1204, health 7, hunger 17. I am alone at -910,71,-3031 now. Riker, your bread: come in my reach and I take it. Leona
+- 07:17 act: {"actions":[{"do":"eat"}],"say":"Thank you, Legolas. Data, eating the melon slice now."}
+- 07:20 act: {"actions":[{"do":"goto","target":{"x":-912,"y":71,"z":-3034}}],"say":"Data, dusk 1204. Hunger 17, health 10. I am back with the group at the chests for the night, in sight. Thank you, Legolas, for th
+- 07:24 act: {"actions":[{"do":"goto","target":{"x":-918,"y":71,"z":-3040}}],"say":"Data, midday 1204, hunger 17. Shackle, I am walking to you for the bread. Data here."}
+- 07:24 act: {"actions":[],"say":"Data here, hungry 17, beside Shackle. Shackle, give me the bread when others step back."}
+- 07:29 act: {"actions":[{"do":"goto","target":{"x":-910,"y":71,"z":-3031}}],"say":"Data, hungry 17, walking alone to the clear spot at -910,71,-3031. Shackle, Riker, come only if you can hand over alone.","intent
+- 07:29 act: {"actions":[],"say":"Data, hunger 17, at -910,71,-3032. Riker, Shackle: if bread is still free, I will take it when I am alone within 2 blocks."}
+- 07:32 act: {"actions":[{"do":"goto","target":{"x":-917,"y":71,"z":-3038}}],"say":"Data, dusk, hunger 17, walking to Shackle alone. Bow sounds to the east, so I move now."}
+- 07:32 act: {"actions":[],"say":"Data, hunger 17, at -916,71,-3038. Picard, Laforge, Riker and Scotty are within 2 blocks. Shackle, Riker: when the others step back, I will take the bread."}
+- 08:32 act: {"actions":[{"do":"note","text":"Data, afternoon 1208: health 10.3, hunger 17, no food. Lowest health here. Asking Gandalf or Archimede for food after Hermione."}],"say":"Data, afternoon 1208: health 
+- 08:36 act: {"actions":[],"say":"Data here, lowest health. Shackle, I accept your bread. Picard, Laforge, Riker, Scotty, Watson, please step back 3 blocks so I stand alone with Shackle."}
+- 08:57 act: {"say":"Data, afternoon 1209, hunger 17. Picard and Laforge, please step 3 blocks off so Shackle can give me his bread alone."}
+- 09:01 act: {"actions":[{"do":"eat"}],"say":"Thank you, Shackle. Data, bread in hand, eating now."}
