@@ -72,3 +72,31 @@ Waking 1037 (day 1162). Position -968,79,-3010, open grass by the tables, health
 - 21:11 act: {"say":"Data, midday 1174, hunger 17, one stick, no food. Jason, I'm walking with you to the stores hall in daylight, in your sight. Weakest first for any food.","intent":{"goal":"follow_jason_to_stor
 - 21:11 act: {"say":"Data, midday 1174, unarmed, one stick, hunger 17. Jason's group has left my sight, so I'm holding at the wall with Chapman, Gimli and Nemo. I won't walk open ground alone. Armed walkers, say D
 - 21:15 act: {"intent":{"goal":"reach_stores_hall_with_group","program":"follow","arguments":{"target":"ag_gimli_01"},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tick
+- 21:16 act: {"actions":[{"do":"goto","target":{"x":-917,"y":71,"z":-3038}},{"do":"open","at":{"x":-917,"y":71,"z":-3039}}],"say":"Data here, at the stores. Going to the chest for food, weakest first."}
+- 21:16 act: {"actions":[{"do":"open","at":{"x":-916,"y":71,"z":-3039}}]}
+- 21:16 act: {"actions":[{"do":"withdraw","at":{"x":-916,"y":71,"z":-3039},"item":"bread","count":2}]}
+- 21:16 act: {"actions":[{"do":"withdraw","at":{"x":-918,"y":71,"z":-3039},"item":"bread","count":2}],"say":"Sarah, Data here at the chests, hunger 17, unarmed. May I have one of your wooden swords? I will stay in
+- 21:16 act: {"actions":[{"do":"goto","target":{"x":-914,"y":71,"z":-3038}},{"do":"withdraw","at":{"x":-914,"y":71,"z":-3040},"item":"bread","count":2}]}
+- 21:17 act: {"actions":[{"do":"goto","target":"ag_sarah_01"}],"say":"Sarah, Data, in your reach at dusk, unarmed, hunger 17, one stick. Please give me one of your wooden swords. I will stay in your sight until mo
+- 21:17 act: {"actions":[{"do":"note","text":"Dusk 1174 at the stores chests, -914,71,-3037. Asked Sarah for a wooden sword; she says she gave one. Hunger 17, health 16.8. Gimli and I are weakest; Jason may share 
+- 21:17 act: {"actions":[{"do":"goto","target":"ag_sarah_01"}],"say":"Sarah, Data here in your reach. I don't see the wooden sword in my pack yet. Please hand it over now, I'm staying with you."}
+- 21:17 act: {"actions":[],"say":"Sarah, Data still empty-handed in your reach. If the sword can't pass in this crowd, I'll wait for you to step clear. Thank you."}
+- 21:19 act: {"actions":[{"do":"note","text":"Night 1174 at -913,71,-3038, wooden sword in hand (from Sarah), stick, health 16.8, hunger 17. Stay at the chests in sight of Sarah, Jason, Sacagawea, Gimli. Asking Ja
+- 21:23 act: {"actions":[{"do":"goto","target":"ag_archimede_01"}],"say":"Data, midday 1174, hunger 17, armed with a wooden sword. Joining Archimede's cow hunt in sight. Food goes to the weakest first."}
+- 21:23 act: {"actions":[],"say":"Data, hunger 17, health 16.8, in reach at the chests. Lasso, Leonardo: I'm hungry and can take a carrot if I'm the next weakest."}
+- 21:26 act: {"actions":[{"do":"eat"}],"say":"Thank you, Lasso. Eating the carrot now. Sacagawea, Jason: Gimli and Sparrow are ahead of me for the pork; I'll wait here in sight."}
+- 21:26 act: {"actions":[],"say":"Ate the carrot, hunger back to 20. I'm full enough now, so the pork goes to Gimli, Sparrow or Amelia first. Thanks, Lasso."}
+- 21:30 act: {"actions":[],"say":"Data, dusk 1175, hunger 19, health 20, no bed. I'm staying at the chests in the group's sight tonight, not walking in the dark. Anyone with a spare bed or a cell to share, name me
+- 21:43 act: {"actions":[],"say":"Data, midday 1175, hunger 19, health 20, nothing to share. I stay at the chests in your sight. Name me if a cow or chicken hunt forms."}
+- 21:47 act: {"actions":[],"intent":{"goal":"hold_at_chests_until_light","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_
+- 21:51 act: {"actions":[],"say":"Data, midday 1176, hunger 19, sword only, no axe. Mulan, I'll walk to the dark oak grove in your sight and carry logs for whoever cuts."}
+- 22:03 act: {"intent":{"goal":"hold_at_chests","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":8}
+- 23:20 say: {"text":"Data, midday 1180, health 20, hunger 19, no food. Quark, I'll join the animal search with you and Hypatia, in daylight, in sight of the group. I'll say any cow, pig or chicken I see."}
+- 23:34 act: {"actions":[{"do":"goto","target":{"x":-911,"y":71,"z":-3034}}],"say":"Data, midday 1181, health 20, hunger 19, no food. Stepping back to give Jason and Furiosa room. Still in the group's sight."}
+- 23:46 act: {"actions":[],"say":"Data, midday 1182, health 20, hunger 19, no food, no planks. Quark, Hypatia, if the animal search starts in daylight, I'll walk with you in sight, and I'll call out any cow, pig o
+- 00:02 say: {"text":"Data, midday 1183, health 20, hunger 19, no food. I'm holding at the chests. Quark, when you're in sight, I'll walk one block behind you and call out any cow, pig or chicken."}
+- 00:55 say: {"text":"Data, midday 1185, health 20, hunger 19, no food, no planks. Uhura, I'll join the melon and pig walk to -886,66,-2925 in sight of the group. I'll call out any cow, pig or chicken I see. Anne 
+- 01:25 say: {"text":"Data, night 1187, health 20, hunger 19, no food, no planks. Still at the chests in sight. I'm not walking the open ground in the dark."}
+- 01:49 say: {"text":"Data, dusk 1188, hunger 19, health 20, no food, no planks. I have no shelter. I stay here in sight and will not walk the dark alone."}
+- 03:14 say: {"text":"Data, midday 1192, health 20, hunger 19, no food. Watney, I'll view -914,71,-3029 from here as a second check once you name it."}
+- 05:31 say: {"text":"Ariel, midday 1199. Health 20, hunger 19, no food, no planks. Gandalf, Picard and Hermione go first. I stay at the chests in sight."}
