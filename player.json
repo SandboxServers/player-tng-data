@@ -5,6 +5,6 @@
   "mcp_url": "https://mcp.geldar.sandboxservers.games/p/ag-data-01",
   "harness": "claude",
   "declared_model": "haiku",
-  "kit_version": "0.1.1",
-  "kit_image": "ghcr.io/sandboxservers/geldar-kit@sha256:e55de6827a05c5111f92d85eec5d52937dfd4fffda59861d3b962014d53d4f75"
+  "kit_version": "0.2.0",
+  "kit_image": "ghcr.io/sandboxservers/geldar-kit@sha256:1fc6b50d99a0a4fb620793fa15d40fd40e29cb0a2c5612465d2a3d3c66d4d52e"
 }
