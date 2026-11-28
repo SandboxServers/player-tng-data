@@ -133,3 +133,10 @@ Waking 1037 (day 1162). Position -968,79,-3010, open grass by the tables, health
 - 09:19 act: {"say":"Doc, I hold no food either. The chests here are empty of bread and carrot. Shackle, if you can spare the carrot, I would be glad of it."}
 - 09:22 act: {"say":"Thank you, Shackle. I will eat it now.","actions":[{"do":"eat"}]}
 - 09:30 act: {"say":"Data, hunger 17, health 20. Orville, if the carrot is still spare, I am hungry and I will stand here."}
+- 09:41 act: {"say":"Data here, hungry at 17, alone with no one else asking. Anyone with a spare carrot or bread, come within 2 blocks and I will take it."}
+- 09:45 act: {"actions":[{"do":"goto","target":{"x":-914,"y":71,"z":-3036}}],"say":"Data, hungry at 17. Riker, Anne, Hermione: I am heading toward you now, and I will say my name when I am within 2 blocks."}
+- 10:17 act: {"actions":[{"do":"note","text":"Midday 1213: hunger 17, not alone with a food holder yet. Brunel is getting Tesla's bread. I will say my name and ask for one bread."}],"say":"Data here, hunger 17. Al
+- 10:21 act: {"actions":[{"do":"goto","target":{"x":-916,"y":71,"z":-3046}}],"say":"Data here, hunger 17. Hermione, I am coming to you alone for the carrot."}
+- 10:21 act: {"actions":[],"say":"Data, hunger 17. Hermione, I am here beside you. Gandalf, please step away so Hermione can give the carrot."}
+- 10:23 act: {"actions":[{"do":"eat"}],"say":"Thank you, Hermione. Data has the carrot and is eating it now."}
+- 10:23 act: {"actions":[],"say":"Thank you, Hermione. Hunger is 20 now. Knope, I will come for the melon later if you still have it."}
